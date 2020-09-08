@@ -18,6 +18,10 @@ The crime boss' birthday party is where Mickey is set up to fail.  The boss, out
 Jim Jones was introduced to us in a photograph as the heir to a Ninja Master. That Master's colleagues are in peril and seeking his son for any advice or powers he may have inherited. Jim, however, is "down on his luck" himself, as he's fired from several jobs for not wanting to compromise his morals to soothe fragile egos. After leaving one such job, he spies Mickey near his home making tea near someone washing a car. Moments later, he runs into Mickey escaping thugs in the basement, but refuses to give up his location despite their abuse.
 
 Mickey soon joins Jim's new business of washing cars, observed from afar by the Ninja Master's colleague's pupil<sup>[2](#2)</sup> Gordon.
+All is not perfect, however, as a rival carwash gang calls the authorities in to shut them down for lack of license.
+Bubbles and Zoos only temporarily ease the stress of responsibility as the two worlds finally meet and Gordon pleads with Jim to help.
+
+
 
 
 ### Sources
