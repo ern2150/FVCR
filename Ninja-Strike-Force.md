@@ -58,7 +58,7 @@ Mickey's health is so poor that carrying home this present, on a bicycle, causes
 
 Jim is so busy writing his unhelpful message to Gordon and accusing people of buying him stereos to notice this.
 Instead Mickey's old friend the balloon man has to tell him, and beats him to the hospital by multiple hours.
-Jim then has the gall Mickey f****ng stupid?!
+Jim then has the gall to call Mickey f****ng stupid?!
 You're the stupid one, Jim!
 
 Mickey shuffles off this mortal coil, sending one more message via balloon-man's help to his parents / heaven with a map to guide him there.
