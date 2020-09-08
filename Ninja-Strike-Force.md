@@ -10,6 +10,6 @@ As I'll explain, this hand came from a stacked deck!
 Mickey Mouse's deck is fed from four main sources.
 First, he's an orphan.
 Second, perhaps because of the poverty and therefore poor healthcare associated with the lack of a familial support structure, Mickey has a chronic illness that causes him to cough uncontrollably at times.
-Third, Mickey is saved / supported by Jim Jones, who himself is connected by fate to a larger problem which distracts him at a crucial point.
+Third, Mickey is saved / supported by Jim Jones, who himself is connected by fate to a larger problem which distracts him from Mickey's care at a crucial point.
 Fourth, a crime boss sets up Mickey to take the fall during a literal game of cards!
 
