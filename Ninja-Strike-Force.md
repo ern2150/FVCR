@@ -56,8 +56,14 @@ Jim, distracted by this, girlfriends, and bicycle races, fails to see Mickey ove
 Mickey is working hard to save up for a present for Jim.  
 Mickey's health is so poor that carrying home this present, on a bicycle, causes him to cough blood and then collapse.
 
+Jim is so busy writing his unhelpful message to Gordon and accusing people of buying him stereos to notice this.
+Instead Mickey's old friend the balloon man has to tell him, and beats him to the hospital by multiple hours.
+Jim then has the gall Mickey f****ng stupid?!
+You're the stupid one, Jim!
 
-
+Mickey shuffles off this mortal coil, sending one more message via balloon-man's help to his parents / heaven with a map to guide him there.
+For once, Jim helps, and writes the directions.
+At least it wasn't Gordon doing so, or Mickey might end up all turned around.
 
 ### Sources
 1. <a name="1" href="http://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?godfreyho(11-09)">Godfrey Ho - A Biography. Mike Haberfelner, November 2009</a>
