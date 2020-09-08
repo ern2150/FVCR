@@ -35,18 +35,22 @@ Despite attempts by Jim to earn money to buy medicine, Mickey remains stubborn a
 
 Gordon calls once again, only this time, simplicity breaks down.  
 Gordon bottom left, looks top right.
-Jim top center, looks bottom left.
+Jim top center, looks bottom left.  
+Same as before.
+
 Gordon stands up top center, facing rear right.
-Gordon turns clockwise, faces front, looks bottom center.
+Gordon turns clockwise, faces front, looks bottom center to talk to Jim.  
+What?  Did Gordon turn right before standing up for no reason?
+
 Jim top off-frame left, looks center.
 Gordon top left, facing rear left.
-Gordon turns counter-clockwise, faces front, looks left.
+Gordon turns counter-clockwise, faces front, looks left to talk to Jim.
+Double What?! Gordon, stand still, you'll break reality!
+
 Gordon exits right.
-Jim top left, facing right, turns clockwise, faces front.
-
-
-
-<sup>[4](#4)</sup>
+Jim top left, facing right, turns clockwise, faces front.  
+I don't even know anymore.  
+They not only broke 180<sup>[4](#4)</sup>, they broke 720!
 
 
 
