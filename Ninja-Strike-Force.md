@@ -53,7 +53,8 @@ I don't even know anymore.
 They not only broke 180<sup>[4](#4)</sup>, they broke 720!
 
 Jim, distracted by this, girlfriends, and bicycle races, fails to see Mickey overextending himself.
-Mickey is working hard to save up for a present for Jim.
+Mickey is working hard to save up for a present for Jim.  
+Mickey's health is so poor that carrying home this present, on a bicycle, causes him to cough blood and then collapse.
 
 
 
