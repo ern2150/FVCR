@@ -65,6 +65,12 @@ Mickey shuffles off this mortal coil, sending one more message via balloon-man's
 For once, Jim helps, and writes the directions.
 At least it wasn't Gordon doing so, or Mickey might end up all turned around.
 
+In conclusion, aren't we all like Mickey sometimes?
+The CIA wants us to think so, and sympathize-- nay, empathize with him.
+So if you see a guy washing windshields sometime, and he wants to do yours, think a little.
+
+What would Mickey Mouse do?
+
 ### Sources
 1. <a name="1" href="http://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?godfreyho(11-09)">Godfrey Ho - A Biography. Mike Haberfelner, November 2009</a>
 
