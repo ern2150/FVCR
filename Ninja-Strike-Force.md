@@ -15,11 +15,7 @@ Fourth, a crime boss sets up Mickey to take the fall during a literal game of ca
 
 The crime boss' birthday party is where Mickey is set up to fail.  The boss, out of generosity, lends Mickey some money, since he's "down on his luck."  Mickey bets this money on a card game but makes sure he doesn't lose it - he wants to be a good steward of the gift he's been given.  He does this by hiding a card in his shoe that later wins him a hand.  His deceit is quickly discovered, and is chased by the boss' thugs to the part of the complex where someone named Jim and his kid brother live.
 
-Jim Jones was introduced to us in a photograph as the heir to a Ninja Master.  
-That Master's colleagues are in peril and seeking his son for any advice or powers he may have inherited.
-Jim, however, is "down on his luck" himself, as he's fired from several jobs for not wanting to compromise his morals to soothe fragile egos.
-After leaving one such job, he spies Mickey near his home making tea near someone washing a car.
-Moments later, he runs into Mickey escaping thugs in the basement, but refuses to give up his location despite their abuse.
+Jim Jones was introduced to us in a photograph as the heir to a Ninja Master. That Master's colleagues are in peril and seeking his son for any advice or powers he may have inherited. Jim, however, is "down on his luck" himself, as he's fired from several jobs for not wanting to compromise his morals to soothe fragile egos. After leaving one such job, he spies Mickey near his home making tea near someone washing a car. Moments later, he runs into Mickey escaping thugs in the basement, but refuses to give up his location despite their abuse.
 
 
 
