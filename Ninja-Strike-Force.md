@@ -33,7 +33,7 @@ Trouble soon follows as the crime boss comes to collect, and even though their n
 During this fight, Mickey is hurt bad enough to bleed from his mouth, foreshadowing later internal injuries.
 Despite attempts by Jim to earn money to buy medicine, Mickey remains stubborn about his condition being beyond help.
 
-Gordon calls once again, only this time, nothing looks simple.  
+Gordon calls once again, only this time, simplicity breaks down.  
 Gordon bottom left, looks top right.
 Jim top center, looks bottom left.
 Gordon stands up top center, facing rear right.
