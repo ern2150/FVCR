@@ -19,12 +19,28 @@ Jim Jones was introduced to us in a photograph as the heir to a Ninja Master. Th
 
 Mickey soon joins Jim's new business of washing cars, observed from afar by the Ninja Master's colleague's pupil<sup>[3](#3)</sup> Gordon.
 All is not perfect, however, as a rival carwash gang calls the authorities in to shut them down for lack of license.
-Bubbles and Zoos only temporarily ease the stress of responsibility as the two worlds finally meet and Gordon pleads with Jim to help, who rebuffs him.
+Bubbles and Zoos only temporarily ease the stress of responsibility as the two worlds finally collide -- Gordon meets Jim.
+
+He pleads with Jim to help, who rebuffs him.
+
 Trouble soon follows as the crime boss comes to collect, and even though their new business is doing alright, it's not enough to prevent more abuse.
 During this fight, Mickey is hurt bad enough to bleed from his mouth, foreshadowing later internal injuries.
 Despite attempts by Jim to earn money to buy medicine, Mickey remains stubborn about his condition being beyond help.
 
-Gordon calls once again.<sup>[4](#4)</sup>
+Gordon calls once again.
+Gordon bottom left, looks top right.
+Jim top center, looks bottom left.
+Gordon stands up top center, facing rear right.
+Gordon turns clockwise, faces front, looks bottom center.
+Jim top off-frame left, looks center.
+Gordon top left, facing rear left.
+Gordon turns counter-clockwise, faces front, looks left.
+Gordon exits right.
+Jim top left, facing right, turns clockwise, faces front.
+
+
+
+<sup>[4](#4)</sup>
 
 
 
