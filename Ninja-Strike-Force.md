@@ -22,6 +22,10 @@ All is not perfect, however, as a rival carwash gang calls the authorities in to
 Bubbles and Zoos only temporarily ease the stress of responsibility as the two worlds finally collide -- Gordon meets Jim.
 
 He pleads with Jim to help, who rebuffs him.
+The placement of their faces in the scene seems normal, but isn't:  
+Gordon left, looking right.  
+Jimmy right (?), looking left (?).  
+
 
 Trouble soon follows as the crime boss comes to collect, and even though their new business is doing alright, it's not enough to prevent more abuse.
 During this fight, Mickey is hurt bad enough to bleed from his mouth, foreshadowing later internal injuries.
