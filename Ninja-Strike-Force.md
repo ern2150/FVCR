@@ -17,9 +17,12 @@ The crime boss' birthday party is where Mickey is set up to fail.  The boss, out
 
 Jim Jones was introduced to us in a photograph as the heir to a Ninja Master. That Master's colleagues are in peril and seeking his son for any advice or powers he may have inherited. Jim, however, is "down on his luck" himself, as he's fired from several jobs for not wanting to compromise his morals to soothe fragile egos. After leaving one such job, he spies Mickey near his home making tea near someone washing a car. Moments later, he runs into Mickey escaping thugs in the basement, but refuses to give up his location despite their abuse.
 
+Mickey soon joins Jim's new business of washing cars, observed from afar by the Ninja Master's colleague's pupil<sup>[2](#2)</sup> Gordon.
 
 
 ### Sources
-<a name="0" href="http://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?godfreyho(11-09)">Godfrey Ho - A Biography. Mike Haberfelner, November 2009</a>
+1. <a name="0" href="http://www.searchmytrash.com/cgi-bin/articlecreditsb.pl?godfreyho(11-09)">Godfrey Ho - A Biography. Mike Haberfelner, November 2009</a>
 
-<a name="1" href="https://www.google.com/amp/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-squeegee-kids-nuisance-need-20181012-story.html%3foutputType=amp">‘Scary’ on both sides of the windshield: Squeegee kid debate divides Baltimore. YVONNE WENGER, THE BALTIMORE SUN.  OCT 16, 2018</a>
+2. <a name="1" href="https://www.google.com/amp/s/www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-squeegee-kids-nuisance-need-20181012-story.html%3foutputType=amp">‘Scary’ on both sides of the windshield: Squeegee kid debate divides Baltimore. YVONNE WENGER, THE BALTIMORE SUN.  OCT 16, 2018</a>
+
+3. <a name="2" href="https://www.youtube.com/watch?v=riqXhieWU3M">Rick Astley - Never Gonna Give You Up.  Youtube.</a>
