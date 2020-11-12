@@ -34,3 +34,9 @@ Non-Numbered (Video Beam, Forced Stereo, etc)
 --------
 * Queen of Spades = Video Beam Volume One
 * Queen of Clubs = Forced Stereo Deluxe
+
+And Don't Forget
+--------
+* The Joker = ?? To Be Determined once Rules are written
+* Cards that don't map to a Mixtape yet = ?? To Be Determined once Rules are written
+
