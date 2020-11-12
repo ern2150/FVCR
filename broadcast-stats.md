@@ -1,7 +1,7 @@
 Sorted by Times seen, then Most recent date, ascending
 -----
 
-| Mixtape number                             | Mixtape title                                | Times seen          | Most recent date  |
+| Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
 | Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2                   | 7/23/2020         |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
@@ -105,3 +105,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 28                                 |  Forget about Luck                           | 4 | 11/10/2020 |
 | Mixtape 44                                 |  Fighting Warriors, Be Alert                 | 4 | 11/10/2020 |
 |                                            |                                              |   |            |
+
+Notes
+------
+* (++)Times seen: Stats are most reliable from June 2020 forward.  There are parts of March and April that are still being researched, and one broadcast in May that is missing notes.  If you have details from those please get in touch.  The good news is that all available mixtapes have aired at least once in the time periods with complete notes.
