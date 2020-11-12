@@ -1,3 +1,15 @@
+What is this?
+--------
+There's more than one way to pick which Mixtapes to run for a particular broadcast, and this is just one weird idea.  
+There are enough Mixtapes for now to map to most of a 52+ card deck.  
+If you shuffle a deck, and deal out four or five cards, chances are most of them would map to a Mixtape using the tables below.  
+
+Why deal out multiple cards, why not just the top one?
+--------
+You could totally pick off the top of the deck until you find something suitable if you're just looking to pick one Mixtape.  
+If you pick multiple, you can then use them to create a poll or vote.  
+And who knows?  Maybe multiple people could do this and play a standard card game to whittle down the list.
+
 Spades (11-20)
 --------
 * Ace = 11 = I'm a Winner
