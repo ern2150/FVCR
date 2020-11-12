@@ -13,7 +13,8 @@ And who knows?  Maybe multiple people could do this and play a standard card gam
 Mappings (rules are after the tables)
 --------
 The mappings below are changeable.  This was just the first crack at keeping things simple.  
-If, for example, I didn't do my research and The Young Ones Lemmy clip isn't in Mixtape 11 or any Mixtape starting with 1, we can adjust ;)
+If, for example, I didn't do my research and The Young Ones Lemmy clip isn't in Mixtape 11 or any Mixtape starting with 1, we can adjust ;)  
+Same deal with a particular suit and its spelling and which run of Mixtapes apply better to that.
 
 Spades (11-20)
 --------
