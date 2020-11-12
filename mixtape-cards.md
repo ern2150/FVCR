@@ -49,8 +49,10 @@ Early Tapes (6-9)
 
 Non-Numbered (Video Beam, Forced Stereo, etc)
 --------
-* Queen of Spades = Video Beam Volume One
-* Queen of Clubs = Forced Stereo Deluxe
+* Queen of Spades = Video Beam (Volume One so far)
+* Queen of Clubs = Forced Stereo (Deluxe so far)
+* Queen of Diamonds = 10 = Everything at Once
+* Queen of Herts = Avi's Media Powerpoint about Naoko
 
 And Don't Forget
 --------
