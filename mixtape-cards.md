@@ -62,4 +62,4 @@ And Don't Forget
 Rules / Questions
 --------
 * In general, if you deal a card that doesn't map to a valid(++) Mixtape, feel free to exclude it or deal another.
-* (++)Valid Mixtapes can kinda mean whatever you want.  Either there's literally no mapping in the tables above, or the Mixtape is retired, or we just watched that one, etc.  Dealing multiple cards at once helps since it's more likely you'll have more than one valid card left over.
+* (++)Valid Mixtapes can kinda mean whatever you want.  Either there's literally no mapping in the tables above, or the Mixtape is retired, or we just watched that one, etc.  Dealing multiple cards at once helps since it's more likely you'll have more than one valid card left over.  You could even move these invalid cards to a separate deck, and then shuffle them back in as they become valid (either it's been long enough or we've reassigned/mapped that card to a different Mixtape).
