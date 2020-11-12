@@ -56,8 +56,8 @@ Non-Numbered (Video Beam, Forced Stereo, etc)
 
 And Don't Forget
 --------
-* The Joker = ?? To Be Determined once Rules are written
-* Cards that don't map to a Mixtape yet = ?? To Be Determined once Rules are written
+* The Joker = ?? feel free to suggest a Rule
+* Cards that don't map to a Mixtape yet = flexible, but see Rules first
 
 Rules / Questions
 --------
