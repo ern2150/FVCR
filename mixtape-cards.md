@@ -10,6 +10,11 @@ You could totally pick off the top of the deck until you find something suitable
 If you pick multiple, you can then use them to create a poll or vote.  
 And who knows?  Maybe multiple people could do this and play a standard card game to whittle down the list.
 
+Mappings (rules are after the tables)
+--------
+The mappings below are changeable.  This was just the first crack at keeping things simple.  
+If, for example, I didn't do my research and The Young Ones Lemmy clip isn't in Mixtape 11 or any Mixtape starting with 1, we can adjust ;)
+
 Spades (11-20)
 --------
 * Ace = 11 = I'm a Winner
@@ -52,3 +57,7 @@ And Don't Forget
 * The Joker = ?? To Be Determined once Rules are written
 * Cards that don't map to a Mixtape yet = ?? To Be Determined once Rules are written
 
+Rules / Questions
+--------
+* In general, if you deal a card that doesn't map to a valid(++) Mixtape, feel free to exclude it or deal another.
+* (++)Valid Mixtapes can kinda mean whatever you want.  Either there's literally no mapping in the tables above, or the Mixtape is retired, or we just watched that one, etc.  Dealing multiple cards at once helps since it's more likely you'll have more than one valid card left over.
