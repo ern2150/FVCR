@@ -30,9 +30,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5                   | 7/26/2020         |
 | Mixtape 21                                 |  Enlightenment Isn't Serious                 | 5                   | 8/2/2020          |
 | Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 5                   | 8/4/2020          |
-| Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 5                   | 8/13/2020         |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5                   | 8/16/2020         |
-| Mixtape 35                                 |  Imagination Creates Reality                 | 5                   | 8/27/2020         |
 | Mixtape 23                                 |  Dangerous and Cold-blooded                  | 5                   | 9/1/2020          |
 | Mixtape 31                                 |  Winning's the Easy Part                     | 5                   | 9/10/2020         |
 | Mixtape 38                                 |  What's Wrong with You?                      | 5                   | 9/17/2020         |
@@ -47,6 +45,8 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 37                                 |  Monster Rage Ball                           | 6                   | 10/11/2020        |
 | Mixtape 30                                 |  Don't Be a Big Shot                         | 6                   | 10/22/2020        |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 6                   | 11/5/2020         |
+| Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6                   | 11/12/2020        |
+| Mixtape 35                                 |  Imagination Creates Reality                 | 6                   | 11/12/2020        |
 | Mixtape 24                                 |  Conspiracy of Ninjas and Vampires           | 7                   | 10/4/2020         |
 | Mixtape 34                                 |  Mind Games                                  | 7                   | 10/27/2020        |
 |                                            |                                              |                     |                   |
@@ -63,10 +63,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5 | 7/26/2020  |
 | Mixtape 21                                 |  Enlightenment Isn't Serious                 | 5 | 8/2/2020   |
 | Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 5 | 8/4/2020   |
-| Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 5 | 8/13/2020  |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5 | 8/16/2020  |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
-| Mixtape 35                                 |  Imagination Creates Reality                 | 5 | 8/27/2020  |
 | Mixtape 40                                 |  Is There No End of It?                      | 4 | 8/30/2020  |
 | Mixtape 23                                 |  Dangerous and Cold-blooded                  | 5 | 9/1/2020   |
 | Mixtape 41                                 |  You Bastards Are from the 30th Century?     | 4 | 9/3/2020   |
@@ -104,6 +102,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 9                                  |  I Know What It Takes To Be Invincible       | 5 | 11/8/2020  |
 | Mixtape 28                                 |  Forget about Luck                           | 4 | 11/10/2020 |
 | Mixtape 44                                 |  Fighting Warriors, Be Alert                 | 4 | 11/10/2020 |
+| Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6 | 11/12/2020 |
+| Mixtape 35                                 |  Imagination Creates Reality                 | 6 | 11/12/2020 |
 |                                            |                                              |   |            |
 
 Notes
