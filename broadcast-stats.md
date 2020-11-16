@@ -3,6 +3,7 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
+| Mixtape 50                                 | The Awesome Power of Destruction You Possess | 1                   | 11/15/2020        |
 | Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2                   | 7/23/2020         |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
@@ -104,6 +105,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 44                                 |  Fighting Warriors, Be Alert                 | 4 | 11/10/2020 |
 | Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6 | 11/12/2020 |
 | Mixtape 35                                 |  Imagination Creates Reality                 | 6 | 11/12/2020 |
+| Mixtape 50                                 | The Awesome Power of Destruction You Possess | 1 | 11/15/2020 |
 |                                            |                                              |   |            |
 
 Notes
