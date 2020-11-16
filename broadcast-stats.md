@@ -15,8 +15,6 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 48                                 |  Same Deal Next Time                         | 3                   | 10/18/2020        |
 | Mixtape 49                                 |  Despise the Dark 2020 Halloween Vol 2       | 3                   | 11/1/2020         |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4                   | 8/20/2020         |
-| Mixtape 40                                 |  Is There No End of It?                      | 4                   | 8/30/2020         |
-| Mixtape 41                                 |  You Bastards Are from the 30th Century?     | 4                   | 9/3/2020          |
 | Mixtape 10                                 |  Everything at Once                          | 4                   | 9/6/2020          |
 | Mixtape 43                                 |  This Will to Kill                           | 4                   | 9/17/2020         |
 |                                            |  VIDEO BEAM VOLUME 1                         | 4                   | 9/20/2020         |
@@ -41,6 +39,8 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 5                   | 10/22/2020        |
 | Mixtape 8                                  |  You're Not a Ninja, You Can't Use the Beans | 5                   | 11/8/2020         |
 | Mixtape 9                                  |  I Know What It Takes To Be Invincible       | 5                   | 11/8/2020         |
+| Mixtape 40                                 |  Is There No End of It?                      | 5                   | 11/15/2020        |
+| Mixtape 41                                 |  You Bastards Are from the 30th Century?     | 5                   | 11/15/2020        |
 | Mixtape 32                                 |  Destroy the Indestructable                  | 6                   | 10/1/2020         |
 | Mixtape 27                                 |  Open the Strange Realm                      | 6                   | 10/4/2020         |
 | Mixtape 37                                 |  Monster Rage Ball                           | 6                   | 10/11/2020        |
@@ -66,9 +66,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 5 | 8/4/2020   |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5 | 8/16/2020  |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
-| Mixtape 40                                 |  Is There No End of It?                      | 4 | 8/30/2020  |
 | Mixtape 23                                 |  Dangerous and Cold-blooded                  | 5 | 9/1/2020   |
-| Mixtape 41                                 |  You Bastards Are from the 30th Century?     | 4 | 9/3/2020   |
 | Mixtape 10                                 |  Everything at Once                          | 4 | 9/6/2020   |
 | Mixtape 31                                 |  Winning's the Easy Part                     | 5 | 9/10/2020  |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3 | 9/15/2020  |
@@ -105,6 +103,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 44                                 |  Fighting Warriors, Be Alert                 | 4 | 11/10/2020 |
 | Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6 | 11/12/2020 |
 | Mixtape 35                                 |  Imagination Creates Reality                 | 6 | 11/12/2020 |
+| Mixtape 40                                 |  Is There No End of It?                      | 5 | 11/15/2020 |
+| Mixtape 41                                 |  You Bastards Are from the 30th Century?     | 5 | 11/15/2020 |
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 1 | 11/15/2020 |
 |                                            |                                              |   |            |
 
