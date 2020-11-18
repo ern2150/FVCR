@@ -108,6 +108,19 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 1 | 11/15/2020 |
 |                                            |                                              |   |            |
 
+"Decades" by Broadcasts per Capita, descending
+-----
+
+| "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
+|----------|-----------------|-----------------------|------------------|
+| 30s | 10 | 5.7 | 0 |
+| 00s | 4 | 5 | 0 |
+| 20s | 10 | 4.8 | 1 |
+| 40s | 10 | 4 | 0 |
+| 10s | 8 | 4 | 4 |
+| 50s | 1 | 1 | 0 |
+
+
 Notes
 ------
 * (++)Times seen: Stats are most reliable from June 2020 forward.  There are parts of March and April that are still being researched, and one broadcast in May that is missing notes.  If you have details from those please get in touch.  The good news is that all available mixtapes have aired at least once in the time periods with complete notes.
