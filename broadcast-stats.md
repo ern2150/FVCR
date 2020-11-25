@@ -29,7 +29,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 5                   | 8/4/2020          |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5                   | 8/16/2020         |
 | Mixtape 23                                 |  Dangerous and Cold-blooded                  | 5                   | 9/1/2020          |
-| Mixtape 31                                 |  Winning's the Easy Part                     | 5                   | 9/10/2020         |
+| Mixtape 31                                 |  Magic Hand [aka Winning's the Easy Part]    | 5                   | 9/10/2020         |
 | Mixtape 36                                 |  Something Missing in Your Head              | 5                   | 10/18/2020        |
 | Mixtape 11                                 |  I'm a Winner                                | 5                   | 10/20/2020        |
 | Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 5                   | 10/22/2020        |
@@ -66,7 +66,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
 | Mixtape 23                                 |  Dangerous and Cold-blooded                  | 5 | 9/1/2020   |
 | Mixtape 10                                 |  Everything at Once                          | 4 | 9/6/2020   |
-| Mixtape 31                                 |  Winning's the Easy Part                     | 5 | 9/10/2020  |
+| Mixtape 31                                 |  Magic Hand [aka Winning's the Easy Part]    | 5 | 9/10/2020  |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3 | 9/15/2020  |
 |                                            |  VIDEO BEAM VOLUME 1                         | 4 | 9/20/2020  |
 | Mixtape 29                                 |  No Wonder You're So Brave                   | 4 | 9/27/2020  |
