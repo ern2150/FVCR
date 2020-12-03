@@ -26,7 +26,6 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 47                                 |  Put Yourself in the Universe                | 4                   | 11/29/2020        |
 | Mixtape 48                                 |  Same Deal Next Time                         | 4                   | 11/29/2020        |
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5                   | 7/26/2020         |
-| Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 5                   | 8/4/2020          |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5                   | 8/16/2020         |
 | Mixtape 36                                 |  Something Missing in Your Head              | 5                   | 10/18/2020        |
 | Mixtape 11                                 |  I'm a Winner                                | 5                   | 10/20/2020        |
@@ -37,7 +36,6 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 41                                 |  You Bastards Are from the 30th Century?     | 5                   | 11/15/2020        |
 | Mixtape 43                                 |  This Will to Kill                           | 5                   | 11/19/2020        |
 | Mixtape 27                                 |  Open the Strange Realm                      | 6                   | 10/4/2020         |
-| Mixtape 37                                 |  Monster Rage Ball                           | 6                   | 10/11/2020        |
 | Mixtape 30                                 |  Don't Be a Big Shot                         | 6                   | 10/22/2020        |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 6                   | 11/5/2020         |
 | Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6                   | 11/12/2020        |
@@ -47,9 +45,11 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 26                                 |  Cannot Stop to Feel                         | 6                   | 11/22/2020        |
 | Mixtape 23                                 |  Dangerous and Cold-blooded                  | 6                   | 11/24/2020        |
 | Mixtape 31                                 |  Magic Hand [aka Winning's the Easy Part]    | 6                   | 11/24/2020        |
+| Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 6                   | 12/1/2020         |
 | Mixtape 24                                 |  Conspiracy of Ninjas and Vampires           | 7                   | 10/4/2020         |
 | Mixtape 34                                 |  Mind Games                                  | 7                   | 10/27/2020        |
 | Mixtape 32                                 |  Destroy the Indestructable                  | 7                   | 11/29/2020        |
+| Mixtape 37                                 |  Monster Rage Ball                           | 7                   | 12/1/2020         |
 |                                            |                                              |                     |                   |
 
 
@@ -61,7 +61,6 @@ Sorted by Last date (Most recent date), ascending
 |                                            |  FORCED STEREO VOLUME 1                      | 2 | 7/19/2020  |
 | Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2 | 7/23/2020  |
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5 | 7/26/2020  |
-| Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 5 | 8/4/2020   |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5 | 8/16/2020  |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
 | Mixtape 10                                 |  Everything at Once                          | 4 | 9/6/2020   |
@@ -71,7 +70,6 @@ Sorted by Last date (Most recent date), ascending
 |                                            |  FORCED STEREO DELUXE                        | 3 | 10/1/2020  |
 | Mixtape 24                                 |  Conspiracy of Ninjas and Vampires           | 7 | 10/4/2020  |
 | Mixtape 27                                 |  Open the Strange Realm                      | 6 | 10/4/2020  |
-| Mixtape 37                                 |  Monster Rage Ball                           | 6 | 10/11/2020 |
 | Mixtape 22                                 |  By Tonight, You'll Be History               | 4 | 10/13/2020 |
 | Mixtape 20                                 |  Cheap Thug in A Dirty Racket                | 3 | 10/15/2020 |
 | Mixtape 36                                 |  Something Missing in Your Head              | 5 | 10/18/2020 |
@@ -106,6 +104,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 32                                 |  Destroy the Indestructable                  | 7 | 11/29/2020 |
 | Mixtape 47                                 |  Put Yourself in the Universe                | 4 | 11/29/2020 |
 | Mixtape 48                                 |  Same Deal Next Time                         | 4 | 11/29/2020 |
+| Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 6 | 12/1/2020  |
+| Mixtape 37                                 |  Monster Rage Ball                           | 7 | 12/1/2020  |
 |                                            |                                              |   |            |
 
 "Decades" by Broadcasts per Capita, descending
@@ -113,12 +113,12 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
 |----------|-----------------|-----------------------|------------------|
-| 30s | 10 | 6 | 0 |
-| 20s | 10 | 5.1 | 0 |
+| 30s | 10 | 6.1 | 0 |
+| 20s | 10 | 5.1 | 1 |
 | 00s | 4 | 5 | 2 |
 | 40s | 10 | 4.3 | 0 |
-| 10s | 8 | 4.125 | 1 |
-| 50s | 1 | 2 | 1 |
+| 10s | 8 | 4.25 | 0 |
+| 50s | 1 | 2 | 2 |
 
 
 Notes
