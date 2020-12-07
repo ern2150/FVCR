@@ -3,13 +3,13 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
+| Mixtape 51                                 |  Money, Power, and Position                  | 1                   | 12/6/2020         |
 | Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2                   | 7/23/2020         |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 2                   | 11/17/2020        |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3                   | 9/15/2020         |
 |                                            |  FORCED STEREO DELUXE                        | 3                   | 10/1/2020         |
-| Mixtape 20                                 |  Cheap Thug in A Dirty Racket                | 3                   | 10/15/2020        |
 | Mixtape 49                                 |  Despise the Dark 2020 Halloween Vol 2       | 3                   | 11/1/2020         |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4                   | 8/20/2020         |
 | Mixtape 10                                 |  Everything at Once                          | 4                   | 9/6/2020          |
@@ -24,6 +24,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 15                                 |  We'll Blow You Up Next                      | 4                   | 11/22/2020        |
 | Mixtape 47                                 |  Put Yourself in the Universe                | 4                   | 11/29/2020        |
 | Mixtape 48                                 |  Same Deal Next Time                         | 4                   | 11/29/2020        |
+| Mixtape 20                                 |  Cheap Thug in A Dirty Racket                | 4                   | 12/6/2020         |
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5                   | 7/26/2020         |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5                   | 8/16/2020         |
 | Mixtape 11                                 |  I'm a Winner                                | 5                   | 10/20/2020        |
@@ -70,7 +71,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 24                                 |  Conspiracy of Ninjas and Vampires           | 7 | 10/4/2020  |
 | Mixtape 27                                 |  Open the Strange Realm                      | 6 | 10/4/2020  |
 | Mixtape 22                                 |  By Tonight, You'll Be History               | 4 | 10/13/2020 |
-| Mixtape 20                                 |  Cheap Thug in A Dirty Racket                | 3 | 10/15/2020 |
 | Mixtape 11                                 |  I'm a Winner                                | 5 | 10/20/2020 |
 | Mixtape 12                                 |  Defend Yourself                             | 4 | 10/20/2020 |
 | Mixtape 30                                 |  Don't Be a Big Shot                         | 6 | 10/22/2020 |
@@ -106,6 +106,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 37                                 |  Monster Rage Ball                           | 7 | 12/1/2020  |
 | Mixtape 29                                 |  No Wonder You're So Brave                   | 5 | 12/3/2020  |
 | Mixtape 36                                 |  Something Missing in Your Head              | 6 | 12/3/2020  |
+| Mixtape 20                                 |  Cheap Thug in A Dirty Racket                | 4 | 12/6/2020  |
+| Mixtape 51                                 |  Money, Power, and Position                  | 1 | 12/6/2020 |
 |                                            |                                              |   |            |
 
 "Decades" by Broadcasts per Capita, descending
@@ -114,11 +116,11 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
 |----------|-----------------|-----------------------|------------------|
 | 30s | 10 | 6.2 | 0 |
-| 20s | 10 | 5.2 | 0 |
+| 20s | 10 | 5.3 | 0 |
 | 00s | 4 | 5 | 3 |
-| 40s | 10 | 4.3 | 0 |
+| 40s | 10 | 4.3 | 1 |
 | 10s | 8 | 4.25 | 0 |
-| 50s | 1 | 2 | 2 |
+| 50s | 2 | 1.5 | 0 |
 
 
 Notes
