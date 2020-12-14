@@ -3,6 +3,7 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
+| Mixtape 52                                 |  Let You Through To Hell                     | 1                   | 12/13/2020        |
 | Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2                   | 7/23/2020         |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
@@ -27,7 +28,6 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5                   | 7/26/2020         |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5                   | 8/16/2020         |
 | Mixtape 11                                 |  I'm a Winner                                | 5                   | 10/20/2020        |
-| Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 5                   | 10/22/2020        |
 | Mixtape 8                                  |  You're Not a Ninja, You Can't Use the Beans | 5                   | 11/8/2020         |
 | Mixtape 9                                  |  I Know What It Takes To Be Invincible       | 5                   | 11/8/2020         |
 | Mixtape 40                                 |  Is There No End of It?                      | 5                   | 11/15/2020        |
@@ -46,6 +46,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 31                                 |  Magic Hand [aka Winning's the Easy Part]    | 6                   | 11/24/2020        |
 | Mixtape 17                                 |  Don't Come to Me with Tales of Failure      | 6                   | 12/1/2020         |
 | Mixtape 36                                 |  Something Missing in Your Head              | 6                   | 12/3/2020         |
+| Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 6                   | 12/13/2020        |
 | Mixtape 24                                 |  Conspiracy of Ninjas and Vampires           | 7                   | 10/4/2020         |
 | Mixtape 34                                 |  Mind Games                                  | 7                   | 10/27/2020        |
 | Mixtape 32                                 |  Destroy the Indestructable                  | 7                   | 11/29/2020        |
@@ -72,7 +73,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 27                                 |  Open the Strange Realm                      | 6 | 10/4/2020  |
 | Mixtape 22                                 |  By Tonight, You'll Be History               | 4 | 10/13/2020 |
 | Mixtape 11                                 |  I'm a Winner                                | 5 | 10/20/2020 |
-| Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 5 | 10/22/2020 |
 | Mixtape 34                                 |  Mind Games                                  | 7 | 10/27/2020 |
 | Mixtape 45                                 |  Cheer of Love                               | 4 | 10/29/2020 |
 |                                            |  2020 Halloween Vol 1                        | 2 | 11/1/2020  |
@@ -108,7 +108,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 30                                 |  Don't Be a Big Shot                         | 7 | 12/8/2020  |
 | Mixtape 51                                 |  Money, Power, and Position                  | 2 | 12/8/2020  |
 | Mixtape 12                                 |  Defend Yourself                             | 5 | 12/10/2020 |
-|                                            |                                              |   |            |
+| Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 6 | 12/13/2020 |
+| Mixtape 52                                 |  Let You Through To Hell                     | 1 | 12/13/2020 |
 
 "Decades" by Broadcasts per Capita, descending
 -----
@@ -116,11 +117,11 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
 |----------|-----------------|-----------------------|------------------|
 | 30s | 10 | 6.3 | 0 |
-| 20s | 10 | 5.3 | 0 |
+| 20s | 10 | 5.3 | 1 |
 | 00s | 4 | 5 | 4 |
+| 40s | 10 | 4.4 | 0 |
 | 10s | 8 | 4.375 | 0 |
-| 40s | 10 | 4.3 | 1 |
-| 50s | 2 | 2 | 0 |
+| 50s | 3 | 1.667 | 0 |
 
 
 Notes
