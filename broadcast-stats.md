@@ -116,12 +116,12 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
 |----------|-----------------|-----------------------|------------------|
-| 30s | 10 | 6.3 | 0 |
+| 30s | 10 | 6.3 | 1 |
 | 20s | 10 | 5.3 | 1 |
 | 00s | 4 | 5 | 4 |
-| 40s | 10 | 4.4 | 0 |
+| 40s | 10 | 4.5 | 0 |
 | 10s | 8 | 4.375 | 0 |
-| 50s | 3 | 1.667 | 0 |
+| 50s | 3 | 2 | 0 |
 
 
 Notes
