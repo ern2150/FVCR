@@ -11,10 +11,8 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 52                                 |  Let You Through To Hell                     | 2                   | 12/15/2020        |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3                   | 9/15/2020         |
 |                                            |  FORCED STEREO DELUXE                        | 3                   | 10/1/2020         |
-| Mixtape 49                                 |  Despise the Dark 2020 Halloween Vol 2       | 3                   | 11/1/2020         |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4                   | 8/20/2020         |
 | Mixtape 10                                 |  Everything at Once                          | 4                   | 9/6/2020          |
-|                                            |  VIDEO BEAM VOLUME 1                         | 4                   | 9/20/2020         |
 | Mixtape 22                                 |  By Tonight, You'll Be History               | 4                   | 10/13/2020        |
 | Mixtape 46                                 |  We Smile Because We're Alive                | 4                   | 11/5/2020         |
 | Mixtape 7                                  |  Damn You, Blue Mask                         | 4                   | 11/8/2020         |
@@ -24,6 +22,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 47                                 |  Put Yourself in the Universe                | 4                   | 11/29/2020        |
 | Mixtape 48                                 |  Same Deal Next Time                         | 4                   | 11/29/2020        |
 | Mixtape 20                                 |  Cheap Thug in A Dirty Racket                | 4                   | 12/6/2020         |
+| Mixtape 49                                 |  Despise the Dark 2020 Halloween Vol 2       | 4                   | 12/17/2020        |
 | Mixtape 25                                 |  Everyone Is a Suspect                       | 5                   | 7/26/2020         |
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 5                   | 8/16/2020         |
 | Mixtape 11                                 |  I'm a Winner                                | 5                   | 10/20/2020        |
@@ -35,6 +34,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 29                                 |  No Wonder You're So Brave                   | 5                   | 12/3/2020         |
 | Mixtape 12                                 |  Defend Yourself                             | 5                   | 12/10/2020        |
 | Mixtape 45                                 |  Cheer of Love                               | 5                   | 12/15/2020        |
+|                                            |  VIDEO BEAM VOLUME 1                         | 5                   | 12/17/2020        |
 | Mixtape 27                                 |  Open the Strange Realm                      | 6                   | 10/4/2020         |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 6                   | 11/5/2020         |
 | Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6                   | 11/12/2020        |
@@ -67,7 +67,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
 | Mixtape 10                                 |  Everything at Once                          | 4 | 9/6/2020   |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3 | 9/15/2020  |
-|                                            |  VIDEO BEAM VOLUME 1                         | 4 | 9/20/2020  |
 |                                            |  FORCED STEREO DELUXE                        | 3 | 10/1/2020  |
 | Mixtape 24                                 |  Conspiracy of Ninjas and Vampires           | 7 | 10/4/2020  |
 | Mixtape 27                                 |  Open the Strange Realm                      | 6 | 10/4/2020  |
@@ -76,7 +75,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 34                                 |  Mind Games                                  | 7 | 10/27/2020 |
 |                                            |  2020 Halloween Vol 1                        | 2 | 11/1/2020  |
 |                                            |  2020 Halloween Vol 3                        | 2 | 11/1/2020  |
-| Mixtape 49                                 |  Despise the Dark 2020 Halloween Vol 2       | 3 | 11/1/2020  |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 6 | 11/5/2020  |
 | Mixtape 46                                 |  We Smile Because We're Alive                | 4 | 11/5/2020  |
 | Mixtape 7                                  |  Damn You, Blue Mask                         | 4 | 11/8/2020  |
@@ -110,6 +108,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 42                                 |  Go and Destroy the Enemy Forever            | 6 | 12/13/2020 |
 | Mixtape 45                                 |  Cheer of Love                               | 5 | 12/15/2020 |
 | Mixtape 52                                 |  Let You Through To Hell                     | 2 | 12/15/2020 |
+|                                            |  VIDEO BEAM VOLUME 1                         | 5 | 12/17/2020 |
+| Mixtape 49                                 |  Despise the Dark 2020 Halloween Vol 2       | 4 | 12/17/2020 |
 
 "Decades" by Broadcasts per Capita, descending
 -----
@@ -118,9 +118,9 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|-----------------------|------------------|
 | 30s | 10 | 6.3 | 1 |
 | 20s | 10 | 5.3 | 1 |
-| 00s | 4 | 5 | 4 |
-| 40s | 10 | 4.5 | 0 |
-| 10s | 8 | 4.375 | 0 |
+| 00s | 4 | 5 | 5 |
+| 40s | 10 | 4.6 | 0 |
+| 10s | 8 | 4.375 | 1 |
 | 50s | 3 | 2 | 0 |
 
 
