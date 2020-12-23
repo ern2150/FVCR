@@ -39,6 +39,7 @@ Herts (41-49)
 * Ace = 41 = You Bastards Are from the 30th Century?!
 * ...
 * 9 = 49 = Despise the Dark
+* 10 = 50 = The Awesome Power of Destruction You Possess
 
 Early Tapes (6-9)
 --------
@@ -54,13 +55,19 @@ Non-Numbered (Video Beam, Forced Stereo, etc)
 * Queen of Diamonds = 10 = Everything at Once
 * Queen of Herts = Avi's Media Powerpoint about Naoko
 
+Recent Tapes (51-?)
+--------
+* King of Spades = 51 = Money, Power, and Position
+* King of Clubs = 52 = Let You Through to Hell
+
 And Don't Forget
 --------
 * The Joker = ?? feel free to suggest a Rule
-* Cards that don't map to a Mixtape yet = flexible, but see Rules first
+* Cards that don't map to a valid Mixtape = flexible, but see Rules first
 
 Rules / Questions
 --------
 * In general, if you deal a card that doesn't map to a valid(++) Mixtape, feel free to exclude it or deal another.
 * (++)Valid Mixtapes can kinda mean whatever you want.  Either there's literally no mapping in the tables above, or the Mixtape is retired, or we just watched that one, etc.  Dealing multiple cards at once helps since it's more likely you'll have more than one valid card left over.  You could even move these invalid cards to a separate deck, and then shuffle them back in as they become valid (either it's been long enough or we've reassigned/mapped that card to a different Mixtape).
 * It's also fine if the deck is re-shuffled each time we need it.  If you have a house where a deck of cards stays exactly the same week to week, you're more organized than I :)
+* What if we run out of cards? Hooray!  More Mixtapes! There are some gaps in the 10s to make room, eventually, if needed, and there are two Jokers, and sometimes tapes get retired.  All else fails we can shift the whole scheme to be more flexible, where two cards get dealt, one to determine "decade" and another to determine position within that decade.  Takes away direct mapping, of course, but still fun.
