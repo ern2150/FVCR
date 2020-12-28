@@ -3,7 +3,7 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
-| RETIRED ~~Mixtape 18~~                                 |  ~~Sorry to Disturb Your Sunday~~                | ~~2~~                   | ~~7/23/2020~~         |
+| Mixtape 53                                 |  The True Form of His Brains                 | 1                   | 12/27/2020        |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 2                   | 11/17/2020        |
@@ -14,7 +14,6 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4                   | 8/20/2020         |
 | Mixtape 10                                 |  Everything at Once                          | 4                   | 9/6/2020          |
 | Mixtape 22                                 |  By Tonight, You'll Be History               | 4                   | 10/13/2020        |
-| Mixtape 46                                 |  We Smile Because We're Alive                | 4                   | 11/5/2020         |
 | Mixtape 7                                  |  Damn You, Blue Mask                         | 4                   | 11/8/2020         |
 | Mixtape 28                                 |  Forget about Luck                           | 4                   | 11/10/2020        |
 | Mixtape 44                                 |  Fighting Warriors, Be Alert                 | 4                   | 11/10/2020        |
@@ -33,6 +32,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 12                                 |  Defend Yourself                             | 5                   | 12/10/2020        |
 | Mixtape 45                                 |  Cheer of Love                               | 5                   | 12/15/2020        |
 |                                            |  VIDEO BEAM VOLUME 1                         | 5                   | 12/17/2020        |
+| Mixtape 46                                 |  We Smile Because We're Alive                | 5                   | 12/27/2020        |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 6                   | 11/5/2020         |
 | Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6                   | 11/12/2020        |
 | Mixtape 35                                 |  Imagination Creates Reality                 | 6                   | 11/12/2020        |
@@ -61,7 +61,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape number                             | Mixtape title                                | x | Last date  |
 |--------------------------------------------|----------------------------------------------|---|------------|
 |                                            |  FORCED STEREO VOLUME 1                      | 2 | 7/19/2020  |
-| RETIRED ~~Mixtape 18~~                                 |  ~~Sorry to Disturb Your Sunday~~                | ~~2~~ | ~~7/23/2020~~  |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
 | Mixtape 10                                 |  Everything at Once                          | 4 | 9/6/2020   |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3 | 9/15/2020  |
@@ -72,7 +71,6 @@ Sorted by Last date (Most recent date), ascending
 |                                            |  2020 Halloween Vol 1                        | 2 | 11/1/2020  |
 |                                            |  2020 Halloween Vol 3                        | 2 | 11/1/2020  |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 6 | 11/5/2020  |
-| Mixtape 46                                 |  We Smile Because We're Alive                | 4 | 11/5/2020  |
 | Mixtape 7                                  |  Damn You, Blue Mask                         | 4 | 11/8/2020  |
 | Mixtape 8                                  |  You're Not a Ninja, You Can't Use the Beans | 5 | 11/8/2020  |
 | Mixtape 9                                  |  I Know What It Takes To Be Invincible       | 5 | 11/8/2020  |
@@ -110,6 +108,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 33                                 |  Why Do You Challenge Us?                    | 6 | 12/20/2020 |
 | Mixtape 27                                 |  Open the Strange Realm                      | 7 | 12/22/2020 |
 | Mixtape 34                                 |  Mind Games                                  | 8 | 12/22/2020 |
+| Mixtape 46                                 |  We Smile Because We're Alive                | 5 | 12/27/2020 |
+| Mixtape 53                                 |  The True Form of His Brains                 | 1 | 12/27/2020 |
 
 "Decades" by Broadcasts per Capita, descending
 -----
@@ -117,11 +117,11 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
 |----------|-----------------|-----------------------|------------------|
 | 30s | 10 | 6.5 | 0 |
-| 20s | 10 | 5.5 | 0 |
-| 00s | 4 | 5 | 5 |
-| 40s | 10 | 4.6 | 0 |
-| 10s | 8 | 4.375 | 1 |
-| 50s | 3 | 2 | 1 |
+| 20s | 10 | 5.5 | 1 |
+| 00s | 4 | 5 | 6 |
+| 10s | 7 | 5 | 2 |
+| 40s | 10 | 4.7 | 0 |
+| 50s | 4 | 1.75 | 0 |
 
 
 Notes
