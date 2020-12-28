@@ -3,7 +3,7 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
-| RETIRED ~~Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2                   | 7/23/2020~~         |
+| RETIRED ~~Mixtape 18~~                                 |  ~~Sorry to Disturb Your Sunday~~                | ~~2~~                   | ~~7/23/2020~~         |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 2                   | 11/17/2020        |
@@ -61,7 +61,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape number                             | Mixtape title                                | x | Last date  |
 |--------------------------------------------|----------------------------------------------|---|------------|
 |                                            |  FORCED STEREO VOLUME 1                      | 2 | 7/19/2020  |
-| RETIRED ~~Mixtape 18                                 |  Sorry to Disturb Your Sunday                | 2 | 7/23/2020~~  |
+| RETIRED ~~Mixtape 18~~                                 |  ~~Sorry to Disturb Your Sunday~~                | ~~2~~ | ~~7/23/2020~~  |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4 | 8/20/2020  |
 | Mixtape 10                                 |  Everything at Once                          | 4 | 9/6/2020   |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3 | 9/15/2020  |
