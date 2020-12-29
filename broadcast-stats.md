@@ -3,6 +3,7 @@ Table of Contents
  - [Mixtapes by Times Seen](#sorted-by-times-seen-then-most-recent-date-ascending)
  - [Mixtapes by Last Seen](#sorted-by-last-date-most-recent-date-ascending)
  - [Mixtape Decades Stats](#decades-by-broadcasts-per-capita-descending)
+ - [Mixtapes with Updates](#mixtapes-with-updates)
  - [Footnotes](#notes)
 
 
@@ -119,6 +120,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 46                                 |  We Smile Because We're Alive                | 5 | 12/27/2020 |
 | Mixtape 53                                 |  The True Form of His Brains                 | 1 | 12/27/2020 |
 
+
 "Decades" by Broadcasts per Capita, descending
 -----
 
@@ -130,6 +132,22 @@ Sorted by Last date (Most recent date), ascending
 | 10s | 7 | 5 | 2 |
 | 40s | 10 | 4.7 | 0 |
 | 50s | 4 | 1.75 | 0 |
+
+
+Mixtapes with Updates
+-----
+Mixtape # | Title | Update | Last Changed
+-- | -- | -- | --
+Mixtape 37 | Monster Rage Ball | updated | 6/25/2020
+Mixtape 10 | Everything at Once | updated | 6/28/2020
+Mixtape 30 | Don't Be a Big Shot | updated | 6/28/2020
+Mixtape 34 | Mind Games | updated | 7/2/2020
+Mixtape 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
+Mixtape 7 | Damn You, Blue Mask | updated | 11/8/2020
+Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | updated | 11/8/2020
+Mixtape 9 | I Know What It Takes To Be Invincible | updated | 11/8/2020
+Mixtape 15 | We'll Blow You Up Next | updated | 11/22/2020
+Mixtape 25 | Everyone Is a Suspect | updated | 12/20/2020
 
 
 Notes
