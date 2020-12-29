@@ -1,3 +1,11 @@
+Table of Contents
+-----
+ - [Mixtapes by Times Seen](#sorted-by-times-seen-then-most-recent-date-ascending)
+ - [Mixtapes by Last Seen](#sorted-by-last-date-most-recent-date-ascending)
+ - [Mixtape Decades Stats](#decades-by-broadcasts-per-capita-descending)
+ - [Footnotes](#notes)
+
+
 Sorted by Times seen, then Most recent date, ascending
 -----
 
