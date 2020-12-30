@@ -12,12 +12,12 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
-| Mixtape 53                                 |  The True Form of His Brains                 | 1                   | 12/27/2020        |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 2                   | 11/17/2020        |
 | Mixtape 51                                 |  Money, Power, and Position                  | 2                   | 12/8/2020         |
 | Mixtape 52                                 |  Let You Through To Hell                     | 2                   | 12/15/2020        |
+| Mixtape 53                                 |  The True Form of His Brains                 | 2                   | 12/29/2020        |
 | Mixtape 14                                 |  And I'll Revenge Their Deaths               | 3                   | 9/15/2020         |
 |                                            |  FORCED STEREO DELUXE                        | 3                   | 10/1/2020         |
 | Mixtape 19                                 |  EZ Movie Intro Vortex                       | 4                   | 8/20/2020         |
@@ -42,7 +42,6 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 45                                 |  Cheer of Love                               | 5                   | 12/15/2020        |
 |                                            |  VIDEO BEAM VOLUME 1                         | 5                   | 12/17/2020        |
 | Mixtape 46                                 |  We Smile Because We're Alive                | 5                   | 12/27/2020        |
-| Mixtape 39                                 |  Kids Became Normal Again                    | 6                   | 11/5/2020         |
 | Mixtape 6                                  |  I Don't Like Love, 'Cause I Love You        | 6                   | 11/12/2020        |
 | Mixtape 35                                 |  Imagination Creates Reality                 | 6                   | 11/12/2020        |
 | Mixtape 38                                 |  What's Wrong with You?                      | 6                   | 11/17/2020        |
@@ -60,6 +59,7 @@ Sorted by Times seen, then Most recent date, ascending
 | Mixtape 32                                 |  Destroy the Indestructable                  | 7                   | 11/29/2020        |
 | Mixtape 37                                 |  Monster Rage Ball                           | 7                   | 12/1/2020         |
 | Mixtape 30                                 |  Don't Be a Big Shot                         | 7                   | 12/8/2020         |
+| Mixtape 39                                 |  Kids Became Normal Again                    | 7                   | 12/29/2020        |
 | Mixtape 34                                 |  Mind Games                                  | 8                   | 12/22/2020        |
 |                                            |                                              |                     |                   |
 
@@ -79,7 +79,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 11                                 |  I'm a Winner                                | 5 | 10/20/2020 |
 |                                            |  2020 Halloween Vol 1                        | 2 | 11/1/2020  |
 |                                            |  2020 Halloween Vol 3                        | 2 | 11/1/2020  |
-| Mixtape 39                                 |  Kids Became Normal Again                    | 6 | 11/5/2020  |
 | Mixtape 7                                  |  Damn You, Blue Mask                         | 4 | 11/8/2020  |
 | Mixtape 8                                  |  You're Not a Ninja, You Can't Use the Beans | 5 | 11/8/2020  |
 | Mixtape 9                                  |  I Know What It Takes To Be Invincible       | 5 | 11/8/2020  |
@@ -118,7 +117,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 27                                 |  Open the Strange Realm                      | 7 | 12/22/2020 |
 | Mixtape 34                                 |  Mind Games                                  | 8 | 12/22/2020 |
 | Mixtape 46                                 |  We Smile Because We're Alive                | 5 | 12/27/2020 |
-| Mixtape 53                                 |  The True Form of His Brains                 | 1 | 12/27/2020 |
+| Mixtape 39                                 |  Kids Became Normal Again                    | 7 | 12/29/2020 |
+| Mixtape 53                                 |  The True Form of His Brains                 | 2 | 12/29/2020 |
 
 
 "Decades" by Broadcasts per Capita, descending
@@ -126,12 +126,12 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Broadcasts per Capita | Weeks Since Seen |
 |----------|-----------------|-----------------------|------------------|
-| 30s | 10 | 6.5 | 0 |
+| 30s | 10 | 6.6 | 0 |
 | 20s | 10 | 5.5 | 1 |
 | 00s | 4 | 5 | 6 |
 | 10s | 7 | 5 | 2 |
 | 40s | 10 | 4.7 | 0 |
-| 50s | 4 | 1.75 | 0 |
+| 50s | 4 | 2 | 0 |
 
 
 Mixtapes with Updates
