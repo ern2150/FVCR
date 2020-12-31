@@ -59,6 +59,7 @@ Recent Tapes (51-?)
 --------
 * King of Spades = 51 = Money, Power, and Position
 * King of Clubs = 52 = Let You Through to Hell
+* 3 of Spades (13 is retired) = 53 = The True Form of His Brains
 
 And Don't Forget
 --------
@@ -68,6 +69,6 @@ And Don't Forget
 Rules / Questions
 --------
 * In general, if you deal a card that doesn't map to a valid(++) Mixtape, feel free to exclude it or deal another.
-* (++)Valid Mixtapes can kinda mean whatever you want.  Either there's literally no mapping in the tables above, or the Mixtape is retired, or we just watched that one, etc.  Dealing multiple cards at once helps since it's more likely you'll have more than one valid card left over.  You could even move these invalid cards to a separate deck, and then shuffle them back in as they become valid (either it's been long enough or we've reassigned/mapped that card to a different Mixtape).
+* (++)Valid Mixtapes can kinda mean whatever you want.  Either there's literally no mapping in the tables above, or the Mixtape is retired, or we just watched that one, etc.  Dealing multiple cards at once helps since it's more likely you'll have more than one valid card left over.  You could even move these invalid cards to a separate deck, and then shuffle them back in as they become valid (either it's been long enough or we've reassigned/mapped that card to a different Mixtape).  "Timely" Mixtapes that didn't get a number (like Halloween or end-of-year best-ofs) are probably considered invalid.
 * It's also fine if the deck is re-shuffled each time we need it.  If you have a house where a deck of cards stays exactly the same week to week, you're more organized than I :)
 * What if we run out of cards? Hooray!  More Mixtapes! There are some gaps in the 10s to make room, eventually, if needed, and there are two Jokers, and sometimes tapes get retired.  All else fails we can shift the whole scheme to be more flexible, where two cards get dealt, one to determine "decade" and another to determine position within that decade.  Takes away direct mapping, of course, but still fun.
