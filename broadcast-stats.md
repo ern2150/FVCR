@@ -12,6 +12,7 @@ Sorted by Times seen, then Most recent date, ascending
 
 | Mixtape number                             | Mixtape title                                | Times seen++        | Most recent date  |
 |--------------------------------------------|----------------------------------------------|---------------------|-------------------|
+|                                            |  End of 2020 VHS Mixtape                     | 1                   | 12/31/2020        |
 |                                            |  2020 Halloween Vol 1                        | 2                   | 11/1/2020         |
 |                                            |  2020 Halloween Vol 3                        | 2                   | 11/1/2020         |
 | Mixtape 50                                 | The Awesome Power of Destruction You Possess | 2                   | 11/17/2020        |
@@ -119,6 +120,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 46                                 |  We Smile Because We're Alive                | 5 | 12/27/2020 |
 | Mixtape 39                                 |  Kids Became Normal Again                    | 7 | 12/29/2020 |
 | Mixtape 53                                 |  The True Form of His Brains                 | 2 | 12/29/2020 |
+|                                            |  End of 2020 VHS Mixtape                     | 1 | 12/31/2020 |
 
 
 "Decades" by Broadcasts per Capita, descending
@@ -128,8 +130,8 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|-----------------------|------------------|
 | 30s | 10 | 6.6 | 0 |
 | 20s | 10 | 5.5 | 1 |
-| 00s | 4 | 5 | 6 |
-| 10s | 7 | 5 | 2 |
+| 00s | 4 | 5 | 7 |
+| 10s | 7 | 5 | 3 |
 | 40s | 10 | 4.7 | 0 |
 | 50s | 4 | 2 | 0 |
 
