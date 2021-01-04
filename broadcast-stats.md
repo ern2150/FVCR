@@ -12,7 +12,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape number | Mixtape title | Last date |
 |--|--|--|
 | Mixtape 19 |  EZ Movie Intro Vortex                       | 8/20/2020  |
-| Mixtape 10 |  Everything at Once                          | 9/6/2020   |
 | Mixtape 14 |  And I'll Revenge Their Deaths               | 9/15/2020  |
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 10/4/2020  |
@@ -60,7 +59,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 46 |  We Smile Because We're Alive                | 12/27/2020 |
 | Mixtape 39 |  Kids Became Normal Again                    | 12/29/2020 |
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
-|            |  End of 2020 VHS Mixtape                     | 12/31/2020 |
+| Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 1/3/2021   |
+|            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,8 +69,8 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 00s | 4 | 7 |
-| 10s | 7 | 3 |
 | 20s | 10 | 1 |
+| 10s | 7 | 0 |
 | 30s | 10 | 0 |
 | 40s | 10 | 0 |
 | 50s | 4 | 0 |
@@ -81,7 +81,6 @@ Mixtapes with Updates
 Mixtape # | Title | Update | Last Changed
 -- | -- | -- | --
 Mixtape 37 | Monster Rage Ball | updated | 6/25/2020
-Mixtape 10 | Everything at Once | updated | 6/28/2020
 Mixtape 30 | Don't Be a Big Shot | updated | 6/28/2020
 Mixtape 34 | Mind Games | updated | 7/2/2020
 Mixtape 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
@@ -89,7 +88,8 @@ Mixtape 7 | Damn You, Blue Mask | updated | 11/8/2020
 Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | updated | 11/8/2020
 Mixtape 9 | I Know What It Takes To Be Invincible | updated | 11/8/2020
 Mixtape 15 | We'll Blow You Up Next | updated | 11/22/2020
-Mixtape 25 | Everyone Is a Suspect | updated | 12/20/2020
+Mixtape 25 | Everyone Is a Suspect | unclucked | 12/20/2020
+Mixtape 10 | End of 2019 | abridged and renamed | 1/3/2021
 
 
 Notes
