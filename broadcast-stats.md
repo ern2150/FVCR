@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 14 |  And I'll Revenge Their Deaths               | 9/15/2020  |
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 10/4/2020  |
-| Mixtape 22 |  By Tonight, You'll Be History               | 10/13/2020 |
 | Mixtape 11 |  I'm a Winner                                | 10/20/2020 |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
@@ -23,7 +22,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 8  |  You're Not a Ninja, You Can't Use the Beans | 11/8/2020  |
 | Mixtape 9  |  I Know What It Takes To Be Invincible       | 11/8/2020  |
 | Mixtape 28 |  Forget about Luck                           | 11/10/2020 |
-| Mixtape 44 |  Fighting Warriors, Be Alert                 | 11/10/2020 |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 35 |  Imagination Creates Reality                 | 11/12/2020 |
 | Mixtape 40 |  Is There No End of It?                      | 11/15/2020 |
@@ -61,6 +59,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 1/3/2021   |
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
+| Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
+| Mixtape 44 |  Fighting Warriors, Be Alert                 | 1/5/2021   |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -68,13 +68,13 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4 | 7 |
-| 20s | 10 | 1 |
-| 40s | 10 | 1 |
-| 10s | 7 | 0 |
-| 30s | 10 | 0 |
-| 50s | 4 | 0 |
-|Other| 5 | 0 |
+| 00s | 4  | 7 |
+| 30s | 10 | 1 |
+| 50s | 4  | 1 |
+| 10s | 7  | 0 |
+| 20s | 10 | 0 |
+| 40s | 10 | 0 |
+|Other| 5  | 0 |
 
 Mixtapes with Updates
 -----
