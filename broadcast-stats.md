@@ -22,7 +22,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 9  |  I Know What It Takes To Be Invincible       | 11/8/2020  |
 | Mixtape 28 |  Forget about Luck                           | 11/10/2020 |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
-| Mixtape 40 |  Is There No End of It?                      | 11/15/2020 |
 | Mixtape 41 |  You Bastards Are from the 30th Century?     | 11/15/2020 |
 | Mixtape 38 |  What's Wrong with You?                      | 11/17/2020 |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 11/17/2020 |
@@ -61,6 +60,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 44 |  Fighting Warriors, Be Alert                 | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
+| Mixtape 40 |  Is There No End of It?                      | 1/10/2021  |
+| Mixtape 54 |  Sounds Like the Devil                       | 1/10/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,12 +70,12 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 00s | 4  | 8 |
-| 50s | 4  | 1 |
-| 10s | 7  | 0 |
+| 10s | 7  | 1 |
+|Other| 5  | 1 |
 | 20s | 10 | 0 |
 | 30s | 10 | 0 |
 | 40s | 10 | 0 |
-|Other| 5  | 0 |
+| 50s | 5  | 0 |
 
 Mixtapes with Updates
 -----
