@@ -23,7 +23,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 28 |  Forget about Luck                           | 11/10/2020 |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 41 |  You Bastards Are from the 30th Century?     | 11/15/2020 |
-| Mixtape 38 |  What's Wrong with You?                      | 11/17/2020 |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 11/17/2020 |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 11/19/2020 |
 | Mixtape 43 |  This Will to Kill                           | 11/19/2020 |
@@ -61,7 +60,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
 | Mixtape 40 |  Is There No End of It?                      | 1/10/2021  |
-| Mixtape 54 |  Sounds Like the Devil                       | 1/10/2021  |
+| Mixtape 38 |  What's Wrong with You?                      | 1/12/2021  |
+| Mixtape 54 |  Sounds Like the Devil                       | 1/12/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,8 +71,8 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 00s | 4  | 8 |
 | 10s | 7  | 1 |
+| 20s | 10 | 1 |
 |Other| 5  | 1 |
-| 20s | 10 | 0 |
 | 30s | 10 | 0 |
 | 40s | 10 | 0 |
 | 50s | 5  | 0 |
