@@ -22,10 +22,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 9  |  I Know What It Takes To Be Invincible       | 11/8/2020  |
 | Mixtape 28 |  Forget about Luck                           | 11/10/2020 |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
-| Mixtape 41 |  You Bastards Are from the 30th Century?     | 11/15/2020 |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 11/17/2020 |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 11/19/2020 |
-| Mixtape 43 |  This Will to Kill                           | 11/19/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 26 |  Cannot Stop to Feel                         | 11/22/2020 |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 11/24/2020 |
@@ -62,6 +60,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 40 |  Is There No End of It?                      | 1/10/2021  |
 | Mixtape 38 |  What's Wrong with You?                      | 1/12/2021  |
 | Mixtape 54 |  Sounds Like the Devil                       | 1/12/2021  |
+| Mixtape 41 |  You Bastards Are from the 30th Century?     | 1/14/2021  |
+| Mixtape 43 |  This Will to Kill                           | 1/14/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,7 +69,7 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 8 |
+| 00s | 4  | 9 |
 | 10s | 7  | 1 |
 | 20s | 10 | 1 |
 |Other| 5  | 1 |
