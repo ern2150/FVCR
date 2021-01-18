@@ -25,10 +25,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 11/17/2020 |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 11/19/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
-| Mixtape 26 |  Cannot Stop to Feel                         | 11/22/2020 |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 11/24/2020 |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 11/24/2020 |
-| Mixtape 32 |  Destroy the Indestructable                  | 11/29/2020 |
 | Mixtape 47 |  Put Yourself in the Universe                | 11/29/2020 |
 | Mixtape 48 |  Same Deal Next Time                         | 11/29/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
@@ -62,6 +60,9 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 54 |  Sounds Like the Devil                       | 1/12/2021  |
 | Mixtape 41 |  You Bastards Are from the 30th Century?     | 1/14/2021  |
 | Mixtape 43 |  This Will to Kill                           | 1/14/2021  |
+| Mixtape 26 |  Cannot Stop to Feel                         | 1/17/2021  |
+| Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
+| Mixtape 55 |  I Had a Heart Once.                         | 1/17/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,9 +71,9 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 00s | 4  | 9 |
-| 10s | 7  | 1 |
-| 20s | 10 | 1 |
-|Other| 5  | 1 |
+| 10s | 7  | 2 |
+|Other| 5  | 2 |
+| 20s | 10 | 0 |
 | 30s | 10 | 0 |
 | 40s | 10 | 0 |
 | 50s | 5  | 0 |
