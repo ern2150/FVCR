@@ -23,7 +23,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 28 |  Forget about Luck                           | 11/10/2020 |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 11/17/2020 |
-| Mixtape 21 |  Enlightenment Isn't Serious                 | 11/19/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 11/24/2020 |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 11/24/2020 |
@@ -62,7 +61,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 43 |  This Will to Kill                           | 1/14/2021  |
 | Mixtape 26 |  Cannot Stop to Feel                         | 1/17/2021  |
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
-| Mixtape 55 |  I Had a Heart Once.                         | 1/17/2021  |
+| Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
+| Mixtape 55 |  I Had a Heart Once                          | 1/19/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
