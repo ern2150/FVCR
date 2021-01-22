@@ -14,7 +14,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 19 |  EZ Movie Intro Vortex                       | 8/20/2020  |
 | Mixtape 14 |  And I'll Revenge Their Deaths               | 9/15/2020  |
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
-| Mixtape 11 |  I'm a Winner                                | 10/20/2020 |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
 | Mixtape 7  |  Damn You, Blue Mask                         | 11/8/2020  |
@@ -26,7 +25,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 11/24/2020 |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 11/24/2020 |
-| Mixtape 47 |  Put Yourself in the Universe                | 11/29/2020 |
 | Mixtape 48 |  Same Deal Next Time                         | 11/29/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
 | Mixtape 37 |  Monster Rage Ball                           | 12/1/2020  |
@@ -63,6 +61,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 55 |  I Had a Heart Once                          | 1/19/2021  |
+| Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
+| Mixtape 47 |  Put Yourself in the Universe                | 1/21/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,9 +70,9 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 9 |
-| 10s | 7  | 2 |
+| 00s | 4  | 10 |
 |Other| 5  | 2 |
+| 10s | 7  | 0 |
 | 20s | 10 | 0 |
 | 30s | 10 | 0 |
 | 40s | 10 | 0 |
