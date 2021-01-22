@@ -60,6 +60,8 @@ Recent Tapes (51-?)
 * King of Spades = 51 = Money, Power, and Position
 * King of Clubs = 52 = Let You Through to Hell
 * 3 of Spades (13 is retired) = 53 = The True Form of His Brains
+* King of Diamonds = 54 = Sounds Like the Devil
+* King of Herts = 55 = I Had a Heart Once
 
 And Don't Forget
 --------
