@@ -34,7 +34,7 @@ Diamonds (31-40)
 * ...
 * 10 = 40 = Is There No End of It?
 
-Herts (41-49)
+Herts (41-50)
 --------
 * Ace = 41 = You Bastards Are from the 30th Century?!
 * ...
