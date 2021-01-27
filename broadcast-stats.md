@@ -23,7 +23,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 11/17/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
-| Mixtape 23 |  Dangerous and Cold-blooded                  | 11/24/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
 | Mixtape 37 |  Monster Rage Ball                           | 12/1/2020  |
 | Mixtape 29 |  No Wonder You're So Brave                   | 12/3/2020  |
@@ -63,7 +62,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 47 |  Put Yourself in the Universe                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 48 |  Same Deal Next Time                         | 1/24/2021  |
-| Mixtape 56 |  Everyone Has to Live, Even Thieves          | 1/24/2021  |
+| Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
+| Mixtape 56 |  Everyone Has to Live, Even Thieves          | 1/26/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
