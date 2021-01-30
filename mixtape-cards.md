@@ -62,6 +62,7 @@ Recent Tapes (51-?)
 * 3 of Spades (13 is retired) = 53 = The True Form of His Brains
 * King of Diamonds = 54 = Sounds Like the Devil
 * King of Herts = 55 = I Had a Heart Once
+* 6 of Spades (16 is retired) = 56 = Everyone Has to Live, Even Thieves
 
 And Don't Forget
 --------
