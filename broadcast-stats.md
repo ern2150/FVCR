@@ -23,7 +23,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
-| Mixtape 29 |  No Wonder You're So Brave                   | 12/3/2020  |
 | Mixtape 36 |  Something Missing in Your Head              | 12/3/2020  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 12/6/2020  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 12/8/2020  |
@@ -64,7 +63,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 37 |  Monster Rage Ball                           | 1/28/2021  |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 1/28/2021  |
 | Mixtape 51 |  Money, Power, and Position                  | 2/2/2021   |
-| Mixtape 57 |  Is There No Justice Anymore?                | 2/2/2021   |
+| Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
+| Mixtape 57 |  Is There No Justice Anymore?                | 2/4/2021   |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,12 +72,12 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 11 |
+| 00s | 4  | 12 |
 |Other| 5  | 4 |
-| 10s | 7  | 1 |
-| 20s | 10 | 1 |
+| 10s | 7  | 2 |
+| 30s | 10 | 1 |
 | 40s | 10 | 1 |
-| 30s | 10 | 0 |
+| 20s | 10 | 0 |
 | 50s | 8  | 0 |
 
 Mixtapes with Updates
