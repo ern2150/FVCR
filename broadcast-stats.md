@@ -27,7 +27,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 12/6/2020  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 12/8/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
-| Mixtape 42 |  Go and Destroy the Enemy Forever            | 12/13/2020 |
 | Mixtape 45 |  Cheer of Love                               | 12/15/2020 |
 | Mixtape 52 |  Let You Through To Hell                     | 12/15/2020 |
 |            |  VIDEO BEAM VOLUME 1                         | 12/17/2020 |
@@ -65,6 +64,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 51 |  Money, Power, and Position                  | 2/2/2021   |
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
 | Mixtape 57 |  Is There No Justice Anymore?                | 2/4/2021   |
+| Mixtape 42 |  Go and Destroy the Enemy Forever            | 2/7/2021   |
+| Mixtape 58 |  Why Do You Help the Evil Person?            | 2/7/2021   |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,10 +74,10 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 00s | 4  | 12 |
-|Other| 5  | 4 |
+|Other| 5  | 5 |
 | 10s | 7  | 2 |
 | 30s | 10 | 1 |
-| 40s | 10 | 1 |
+| 40s | 10 | 0 |
 | 20s | 10 | 0 |
 | 50s | 8  | 0 |
 
