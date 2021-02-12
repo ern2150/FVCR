@@ -23,13 +23,11 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
-| Mixtape 36 |  Something Missing in Your Head              | 12/3/2020  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 12/6/2020  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 12/8/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
 | Mixtape 45 |  Cheer of Love                               | 12/15/2020 |
 |            |  VIDEO BEAM VOLUME 1                         | 12/17/2020 |
-| Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 12/17/2020 |
 | Mixtape 25 |  Everyone Is a Suspect                       | 12/20/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
@@ -66,6 +64,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 42 |  Go and Destroy the Enemy Forever            | 2/7/2021   |
 | Mixtape 52 |  Let You Through To Hell                     | 2/9/2021   |
 | Mixtape 58 |  Why Do You Help the Evil Person?            | 2/9/2021   |
+| Mixtape 36 |  Something Missing in Your Head              | 2/11/2021  |
+| Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 2/11/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,12 +73,12 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 12 (Th) |
+| 00s | 4  | 13 (Th) |
 |Other| 5  | 5 (Su) |
-| 10s | 7  | 2 (Th) |
-| 30s | 10 | 1 (Th) |
+| 10s | 7  | 3 (Th) |
+| 20s | 10 | 1 (Th) |
+| 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
-| 20s | 10 | 0 (Th) |
 | 50s | 9  | 0 (Tu) |
 
 Mixtapes with Updates
