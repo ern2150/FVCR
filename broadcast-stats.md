@@ -24,7 +24,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 12/6/2020  |
-| Mixtape 30 |  Don't Be a Big Shot                         | 12/8/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
 | Mixtape 25 |  Everyone Is a Suspect                       | 12/20/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
@@ -66,7 +65,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 2/11/2021  |
 |            |  VIDEO BEAM VOLUME 1                         | 2/14/2021  |
 | Mixtape 45 |  Cheer of Love                               | 2/14/2021  |
-| Mixtape 59 |  Now the Fun Begins                          | 2/14/2021  |
+| Mixtape 30 |  Don't Be a Big Shot                         | 2/16/2021  |
+| Mixtape 59 |  Now the Fun Begins                          | 2/16/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -80,7 +80,7 @@ Sorted by Last date (Most recent date), ascending
 |Other| 5  | 0 (Su) |
 | 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
-| 50s | 10 | 0 (Su) |
+| 50s | 10 | 0 (Tu) |
 
 Mixtapes with Updates
 -----
