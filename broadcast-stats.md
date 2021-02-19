@@ -19,7 +19,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 7  |  Damn You, Blue Mask                         | 11/8/2020  |
 | Mixtape 8  |  You're Not a Ninja, You Can't Use the Beans | 11/8/2020  |
 | Mixtape 9  |  I Know What It Takes To Be Invincible       | 11/8/2020  |
-| Mixtape 28 |  Forget about Luck                           | 11/10/2020 |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
@@ -28,7 +27,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 25 |  Everyone Is a Suspect                       | 12/20/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
-| Mixtape 34 |  Mind Games                                  | 12/22/2020 |
 | Mixtape 46 |  We Smile Because We're Alive                | 12/27/2020 |
 | Mixtape 39 |  Kids Became Normal Again                    | 12/29/2020 |
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
@@ -67,6 +65,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 45 |  Cheer of Love                               | 2/14/2021  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 2/16/2021  |
 | Mixtape 59 |  Now the Fun Begins                          | 2/16/2021  |
+| Mixtape 28 |  Forget about Luck                           | 2/18/2021  |
+| Mixtape 34 |  Mind Games                                  | 2/18/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,10 +74,10 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 13 (Th) |
-| 10s | 7  | 3 (Th) |
-| 20s | 10 | 1 (Th) |
+| 00s | 4  | 14 (Th) |
+| 10s | 7  | 4 (Th) |
 |Other| 5  | 0 (Su) |
+| 20s | 10 | 0 (Th) |
 | 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
