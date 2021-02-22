@@ -22,12 +22,10 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
-| Mixtape 20 |  Cheap Thug in A Dirty Racket                | 12/6/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
 | Mixtape 25 |  Everyone Is a Suspect                       | 12/20/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
-| Mixtape 46 |  We Smile Because We're Alive                | 12/27/2020 |
 | Mixtape 39 |  Kids Became Normal Again                    | 12/29/2020 |
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 1/3/2021   |
@@ -67,6 +65,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 59 |  Now the Fun Begins                          | 2/16/2021  |
 | Mixtape 28 |  Forget about Luck                           | 2/18/2021  |
 | Mixtape 34 |  Mind Games                                  | 2/18/2021  |
+| Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
+| Mixtape 46 |  We Smile Because We're Alive                | 2/21/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,8 +76,8 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 00s | 4  | 14 (Th) |
 | 10s | 7  | 4 (Th) |
-|Other| 5  | 0 (Su) |
-| 20s | 10 | 0 (Th) |
+|Other| 5  | 1 (Su) |
+| 20s | 10 | 0 (Su) |
 | 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
