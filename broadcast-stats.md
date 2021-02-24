@@ -104,6 +104,7 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
+2/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
 2/23/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 2/23/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 2/23/2021 | Ideon footage / Ideon opening full song
@@ -142,7 +143,6 @@ Latest Date | Video / Audio
 2/7/2021 | ULTRAMAN 80 Opener / (same as video)
 2/4/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 2/4/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-2/2/2021 | Then [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Dr Plektor - Kavo
 2/2/2021 | Emergency Please Stand By Interrupt / (same as video)
 2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
@@ -167,7 +167,6 @@ Latest Date | Video / Audio
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / Pubic Strange
-
 
 
 Notes
