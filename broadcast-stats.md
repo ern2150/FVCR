@@ -27,7 +27,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 25 |  Everyone Is a Suspect                       | 12/20/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
-| Mixtape 39 |  Kids Became Normal Again                    | 12/29/2020 |
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 1/3/2021   |
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
@@ -68,7 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 34 |  Mind Games                                  | 2/18/2021  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
 | Mixtape 46 |  We Smile Because We're Alive                | 2/21/2021  |
-
+| Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
+|            |  Why Are You Playing Heroes?                 | 2/23/2021  |
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,11 +77,11 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 00s | 4  | 14 (Th) |
 | 10s | 7  | 4 (Th) |
-|Other| 5  | 1 (Su) |
+| 50s | 10 | 1 (Tu) |
+|Other| 6  | 0 (Tu) |
 | 20s | 10 | 0 (Su) |
-| 30s | 10 | 0 (Th) |
+| 30s | 10 | 0 (Tu) |
 | 40s | 10 | 0 (Su) |
-| 50s | 10 | 0 (Tu) |
 
 Mixtapes with Updates
 -----
@@ -100,73 +100,10 @@ Mixtape 10 | End of 2019 | abridged and renamed | 1/3/2021
 
 Intros
 ------
+Need to fix naming convention here heheh
 
 Most recent date | Video / Audio
 -- | --
-2/21/2021 20:54:00 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 : Doktor Plekter - Kavo
-2/21/2021 20:48:00 | Fender bender turns into suitcase brawl then boat brawl : Delegation - Darlin (I Think About You)
-2/21/2021 20:42:00 | Martial Arts Weapons : Tangerine Dream - Logo Part One A
-2/21/2021 20:36:00 | ULTRAMAN ZOFFY lsd opener : Hudson People - Trip to Your Mind
-2/21/2021 20:30:00 | Cyber Ninja Opening Battle : Tony McAlpine - Tears of the Sahara
-2/18/2021 20:45:00 | Ninja Condors fight scene that never ends : Vanilla - The People
-2/18/2021 20:42:00 | Mike Abbot Jacket sword v gun : The Soft Boys - I Wanna Destroy You
-2/18/2021 20:39:00 | Fountains Tapan Das  : KNXWLEDGE - stilluhme
-2/18/2021 20:36:00 | Mustard vs Oreo Ninja : Yasuha - Flyday Chinatown
-2/18/2021 20:33:00 | Seattle Freemont Troll Bridge, Archie McPhee, FUN : Mac DeMarco - Young Coconut
-2/18/2021 20:30:00 | Ramesh and Vishnu Warn and Welcome You All : Pierre Porte - The Lazy Game
-2/16/2021 20:48:00 | IFD vs chickens : Xabungle end credits, original audio for shots and end music
-2/16/2021 20:46:00 | Hot Yachts Cold Water : Air Suspension Club - Seaside in the Twilight
-2/16/2021 20:44:00 | Barrel and Snorkel Strats : Heatwave - Lay It on Me
-2/16/2021 20:42:00 | Robowar loves Reb Brown : Michael Sembello - Automatic Man
-2/16/2021 20:40:00 | Dairanger Opener : (same as video)
-2/16/2021 20:38:00 | FMW Opener : (same as video)
-2/16/2021 20:36:00 | AND NOW NINJA Pwrfkrce : Alan Parsons Project - Sirius, original audio, Mammagamma
-2/16/2021 20:34:00 | Yattodetaman Opener : (same as video)
-2/16/2021 20:32:00 | GoLion Opener : (same as video)
-2/16/2021 20:30:00 | Daicon IV : ELO - Album opener, Twilight
-2/14/2021 20:45:00 | Angel Terminators : The First Family - Slow Motion
-2/14/2021 20:40:00 | Green tinted action movie : Delegation - Heartache No. 9
-2/14/2021 20:35:00 | W*ING Danger Zone Freddy v Leatherface Wrestling : Seymour Milton - Manila Skies
-2/14/2021 20:30:00 | Vaporwave Beach : Ahero - Slow Summer
-2/11/2021 20:38:00 | Cynthia Rothrock Umbrella Fight from Yes Madam : The Limit - She's So Divine
-2/11/2021 20:34:00 | Zuntata - Daddy Mulk (live with Shamisen solo) : (same as video)
-2/11/2021 20:30:00 | Kamen Rider Ay-Ay : (same as video)
-2/9/2021 20:39:00 | Gunbuster Intro with prologue : (same as video)
-2/9/2021 20:36:00 | Hop on Losercycle : LINDBERG - RUSH LIFE
-2/9/2021 20:33:00 | UDUNOME : Michiaki Watanabe - Jun no Uta (karaoke)
-2/7/2021 20:42:00 | Thunder of Gigantic Serpent Opener : Azul y Negra - Isadora
-2/7/2021 20:38:00 | Anime Tokyo Explosion Plastic Little : Caribou - Odessa
-2/7/2021 20:34:00 | ULTRAMAN 80 Opener : (same as video)
-2/4/2021 20:38:00 | Kamen Riders and Hanuman vs Silver Bull : The Go Team - Bust Out Brigade
-2/4/2021 20:30:00 | Lethal Panther Grocery Guns : Alvvays - Dreams Tonite
-2/2/2021 20:54:00 | Then [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 : Dr Plektor - Kavo
-2/2/2021 20:46:00 | Emergency Please Stand By Interrupt : (same as video)
-2/2/2021 20:38:00 | Gordon's Hill Meditations : Original Audio, Kate Bush - Running Up That Hill
-2/2/2021 20:34:00 | Character Profiles: Hanuman : The Go Team - Kickstart
-2/2/2021 20:30:00 | Character Profiles: Mary Roberts : Brothers Johnson - Good to You
-1/26/2021 20:43:26 | CELICAXXX Wide Show Time Gang Break : (same as video)
-1/26/2021 20:40:45 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" : Original audio, BIll Conti - Runaway, Dandy Cologne
-1/24/2021 20:53:05 | (no grand fair) : (none)
-1/24/2021 20:45:23 | Saint Seiya Opener : (same as video)
-1/24/2021 20:43:28 | Hot Yachts Cold Water : Jan Akkerman - She's So Divine
-1/24/2021 20:31:55 | Naoko Kawai - Control : (same as video)
-1/24/2021 20:30:00 | (accidental closer tape) : Hey that's not the right tape oops
-1/21/2021 20:51:00 | GRANDO FAIR : (same as video)
-1/21/2021 20:42:00 | Emergency Alert Please Stand by : (Beep)
-1/21/2021 20:39:00 | Yes Madam Umbrella Fight Scene : The Limit - She's So Divine
-1/21/2021 20:36:00 | Fist of the North Star S2 Opening : Tom Cat - Tough Boy
-1/19/2021 20:45:33 | (another interlude "We Filmed Heaven") : (same as video)
-1/19/2021 20:43:20 | (Save the Date Grandu-Fair) : (same as video)
-1/19/2021 20:38:53 | (another interlude where a dude is on a phone) : (same as video)
-1/19/2021 20:32:13 | (French laser toy Claude Debussy) : (same as video)
-1/14/2021 20:43:20 | Action Figure then Red v Black Ninja in Gazebo : Beirut - Elephant Gun
-1/12/2021 20:47:09 | Kabuki Rocks - Niji no Miyako : (same as video)
-1/12/2021 20:36:51 | Kamen Raider Ay-Ay : (same as video)
-1/12/2021 20:30:00 | Daicon III : (same as video)
-1/10/2021 20:41:27 | COJI COJI Opener : (same as video)
-1/10/2021 20:37:38 | Commando Fury Opener : Pubic Strange
-1/7/2021 20:39:26 | Ninja La Conquista Del Mondo credits until ragdoll : Genesis - Domino
-1/7/2021 20:36:17 | Ideon footage : Ideon opening full song
 
 
 Notes
