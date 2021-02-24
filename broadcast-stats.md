@@ -101,7 +101,6 @@ Mixtape 10 | End of 2019 | abridged and renamed | 1/3/2021
 Intros
 ------
 
-
 Latest Date | Video / Audio
 -- | --
 2/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
@@ -153,7 +152,6 @@ Latest Date | Video / Audio
 1/24/2021 | Naoko Kawai - Control / (same as video)
 1/21/2021 | GRANDO FAIR / (same as video)
 1/21/2021 | Emergency Alert Please Stand by / (Beep)
-1/21/2021 | Yes Madam Umbrella Fight Scene / The Limit - She's So Divine
 1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy
 1/19/2021 | (another interlude "We Filmed Heaven") / (same as video)
 1/19/2021 | (Save the Date Grandu-Fair) / (same as video)
