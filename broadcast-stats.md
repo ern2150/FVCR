@@ -148,11 +148,9 @@ Latest Date | Video / Audio
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
 1/26/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
-1/24/2021 | (no grand fair) / (none)
 1/24/2021 | Saint Seiya Opener / (same as video)
 1/24/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 1/24/2021 | Naoko Kawai - Control / (same as video)
-1/24/2021 | (accidental closer tape) / Hey that's not the right tape oops
 1/21/2021 | GRANDO FAIR / (same as video)
 1/21/2021 | Emergency Alert Please Stand by / (Beep)
 1/21/2021 | Yes Madam Umbrella Fight Scene / The Limit - She's So Divine
