@@ -17,9 +17,9 @@ Sorted by Last date (Most recent date), ascending
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
-| Mixtape 7  |  Damn You, Blue Mask                         | 11/8/2020  |
-| Mixtape 8  |  You're Not a Ninja, You Can't Use the Beans | 11/8/2020  |
-| Mixtape 9  |  I Know What It Takes To Be Invincible       | 11/8/2020  |
+| Mixtape 7  |  Damn You, Blue Mask (Retired)               | 11/8/2020  |
+| Mixtape 8  |  Not a Ninja, Can't Use the Beans (Retired)  | 11/8/2020  |
+| Mixtape 9  |  What It Takes To Be Invincible (Retired)    | 11/8/2020  |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
@@ -66,7 +66,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
 | Mixtape 46 |  We Smile Because We're Alive                | 2/21/2021  |
 | Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
-|            |  Why Are You Playing Heroes?                 | 2/23/2021  |
+|            |  Why Are You Playing Heroes? (Megamix 7+8+9) | 2/23/2021  |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
 
