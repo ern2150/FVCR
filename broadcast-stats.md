@@ -103,7 +103,11 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-2/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+2/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+2/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
+2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+2/25/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 2/23/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 2/23/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 2/23/2021 | Ideon footage / Ideon opening full song
@@ -128,8 +132,6 @@ Latest Date | Video / Audio
 2/16/2021 | GoLion Opener / (same as video)
 2/16/2021 | Daicon IV / ELO - Album opener, Twilight
 2/14/2021 | Angel Terminators / The First Family - Slow Motion
-2/14/2021 | Green tinted action movie / Delegation - Heartache No. 9
-2/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 2/14/2021 | Vaporwave Beach / Ahero - Slow Summer
 2/11/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
 2/11/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
@@ -140,8 +142,6 @@ Latest Date | Video / Audio
 2/7/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 2/7/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
 2/7/2021 | ULTRAMAN 80 Opener / (same as video)
-2/4/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-2/4/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 2/2/2021 | Emergency Please Stand By Interrupt / (same as video)
 2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
@@ -163,7 +163,6 @@ Latest Date | Video / Audio
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / Pubic Strange
-
 
 Notes
 ------
