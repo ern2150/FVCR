@@ -24,11 +24,9 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
-| Mixtape 25 |  Everyone Is a Suspect                       | 12/20/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
-| Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 1/3/2021   |
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 44 |  Fighting Warriors, Be Alert                 | 1/5/2021   |
@@ -69,17 +67,19 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 46 |  We Smile Because We're Alive                | 2/21/2021  |
 | Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
 |            |  Why Are You Playing Heroes?                 | 2/23/2021  |
+| Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
+| Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 14 (Th) |
-| 10s | 7  | 4 (Th) |
+| 00s | 4  | 15 (Th) |
 | 50s | 10 | 1 (Tu) |
 |Other| 6  | 0 (Tu) |
-| 20s | 10 | 0 (Su) |
+| 10s | 7  | 0 (Th) |
+| 20s | 10 | 0 (Th) |
 | 30s | 10 | 0 (Tu) |
 | 40s | 10 | 0 (Su) |
 
