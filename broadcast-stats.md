@@ -17,9 +17,6 @@ Sorted by Last date (Most recent date), ascending
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
-| Mixtape 7  |  Damn You, Blue Mask (Retired)               | 11/8/2020  |
-| Mixtape 8  |  Not a Ninja, Can't Use the Beans (Retired)  | 11/8/2020  |
-| Mixtape 9  |  What It Takes To Be Invincible (Retired)    | 11/8/2020  |
 | Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
@@ -29,7 +26,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
-| Mixtape 44 |  Fighting Warriors, Be Alert                 | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
 | Mixtape 40 |  Is There No End of It?                      | 1/10/2021  |
@@ -69,19 +65,22 @@ Sorted by Last date (Most recent date), ascending
 |            |  Why Are You Playing Heroes? (Megamix 7+8+9) | 2/23/2021  |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
+| Mixtape 44 |  Fighting Warriors, Be Alert                 | 2/28/2021  |
+| Mixtape 60 |  Try Your Best to Fight Me                   | 2/28/2021  |
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 4  | 15 (Th) |
+| 00s | 1  | 15 (Th) |
 | 50s | 10 | 1 (Tu) |
 |Other| 6  | 0 (Tu) |
 | 10s | 7  | 0 (Th) |
 | 20s | 10 | 0 (Th) |
 | 30s | 10 | 0 (Tu) |
 | 40s | 10 | 0 (Su) |
+| 60s | 1  | 0 (Su) |
 
 Mixtapes with Updates
 -----
@@ -91,9 +90,9 @@ Mixtape 37 | Monster Rage Ball | updated | 6/25/2020
 Mixtape 30 | Don't Be a Big Shot | updated | 6/28/2020
 Mixtape 34 | Mind Games | updated | 7/2/2020
 Mixtape 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
-Mixtape 7 | Damn You, Blue Mask | updated | 11/8/2020
-Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | updated | 11/8/2020
-Mixtape 9 | I Know What It Takes To Be Invincible | updated | 11/8/2020
+Mixtape 7 | Damn You, Blue Mask | merged | 2/23/2021
+Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged | 2/23/2021
+Mixtape 9 | I Know What It Takes To Be Invincible | merged | 2/23/2021
 Mixtape 15 | We'll Blow You Up Next | updated | 11/22/2020
 Mixtape 25 | Everyone Is a Suspect | unclucked | 12/20/2020
 Mixtape 10 | End of 2019 | abridged and renamed | 1/3/2021
@@ -103,7 +102,12 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-2/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+2/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+2/28/2021 | Angel Terminators / The First Family - Slow Motion
+2/28/2021 | Emergency Alert Please Stand by / (Beep)
+2/28/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+2/28/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
+2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 2/25/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
@@ -131,18 +135,13 @@ Latest Date | Video / Audio
 2/16/2021 | Yattodetaman Opener / (same as video)
 2/16/2021 | GoLion Opener / (same as video)
 2/16/2021 | Daicon IV / ELO - Album opener, Twilight
-2/14/2021 | Angel Terminators / The First Family - Slow Motion
 2/14/2021 | Vaporwave Beach / Ahero - Slow Summer
-2/11/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-2/11/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
-2/11/2021 | Kamen Rider Ay-Ay / (same as video)
 2/9/2021 | Gunbuster Intro with prologue / (same as video)
 2/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 2/7/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 2/7/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
 2/7/2021 | ULTRAMAN 80 Opener / (same as video)
-2/2/2021 | Emergency Please Stand By Interrupt / (same as video)
 2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
@@ -151,7 +150,6 @@ Latest Date | Video / Audio
 1/24/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 1/24/2021 | Naoko Kawai - Control / (same as video)
 1/21/2021 | GRANDO FAIR / (same as video)
-1/21/2021 | Emergency Alert Please Stand by / (Beep)
 1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy
 1/19/2021 | (another interlude "We Filmed Heaven") / (same as video)
 1/19/2021 | (Save the Date Grandu-Fair) / (same as video)
