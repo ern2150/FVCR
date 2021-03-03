@@ -23,7 +23,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
-| Mixtape 53 |  The True Form of His Brains                 | 12/29/2020 |
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
@@ -66,7 +65,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
 | Mixtape 44 |  Fighting Warriors, Be Alert                 | 2/28/2021  |
-| Mixtape 60 |  Try Your Best to Fight Me                   | 2/28/2021  |
+| Mixtape 53 |  The True Form of His Brains                 | 3/2/2021   |
+| Mixtape 60 |  Try Your Best to Fight Me                   | 3/2/2021   |
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -74,13 +74,13 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 00s | 1  | 15 (Th) |
-| 50s | 10 | 1 (Tu) |
-|Other| 6  | 0 (Tu) |
+| 30s | 10 | 1 (Tu) |
+|Other| 6  | 1 (Tu) |
+| 50s | 10 | 0 (Tu) |
 | 10s | 7  | 0 (Th) |
 | 20s | 10 | 0 (Th) |
-| 30s | 10 | 0 (Tu) |
 | 40s | 10 | 0 (Su) |
-| 60s | 1  | 0 (Su) |
+| 60s | 1  | 0 (Tu) |
 
 Mixtapes with Updates
 -----
@@ -102,7 +102,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-2/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/2/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/2/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+3/2/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
+3/2/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+3/2/2021 | FMW Opener / (same as video)
+3/2/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
+3/2/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+3/2/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+3/2/2021 | ULTRAMAN 80 Opener / (same as video)
+3/2/2021 | Yattodetaman Opener / (same as video)
+3/2/2021 | Vaporwave Beach / Ahero - Slow Summer
 2/28/2021 | Angel Terminators / The First Family - Slow Motion
 2/28/2021 | Emergency Alert Please Stand by / (Beep)
 2/28/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
@@ -119,7 +129,6 @@ Latest Date | Video / Audio
 2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 2/21/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
 2/21/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
-2/18/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 2/18/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 2/18/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 2/18/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
@@ -128,26 +137,18 @@ Latest Date | Video / Audio
 2/16/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 2/16/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 2/16/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-2/16/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 2/16/2021 | Dairanger Opener / (same as video)
-2/16/2021 | FMW Opener / (same as video)
 2/16/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
-2/16/2021 | Yattodetaman Opener / (same as video)
 2/16/2021 | GoLion Opener / (same as video)
 2/16/2021 | Daicon IV / ELO - Album opener, Twilight
-2/14/2021 | Vaporwave Beach / Ahero - Slow Summer
 2/9/2021 | Gunbuster Intro with prologue / (same as video)
 2/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-2/7/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-2/7/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-2/7/2021 | ULTRAMAN 80 Opener / (same as video)
 2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
 1/26/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
 1/24/2021 | Saint Seiya Opener / (same as video)
-1/24/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 1/24/2021 | Naoko Kawai - Control / (same as video)
 1/21/2021 | GRANDO FAIR / (same as video)
 1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy
