@@ -17,7 +17,7 @@ Sorted by Last date (Most recent date), ascending
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
-| Mixtape 6  |  I Don't Like Love, 'Cause I Love You        | 11/12/2020 |
+| Mixtape 6  | Don't Like Love, 'Cause I Love You (retired) | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
@@ -27,7 +27,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
-| Mixtape 54 |  Sounds Like the Devil                       | 1/12/2021  |
 | Mixtape 41 |  You Bastards Are from the 30th Century?     | 1/14/2021  |
 | Mixtape 43 |  This Will to Kill                           | 1/14/2021  |
 | Mixtape 26 |  Cannot Stop to Feel                         | 1/17/2021  |
@@ -67,6 +66,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 60 |  Try Your Best to Fight Me                   | 3/2/2021   |
 | Mixtape 40 |  Is There No End of It?                      | 3/4/2021   |
 | Mixtape 38 |  What's Wrong with You?                      | 3/4/2021   |
+| Mixtape 54 |  Sounds Like the Devil                       | 3/9/2021   |
+|            |  Blood, Lust, and Intrigue (Megamix 6+9+10)  | 3/9/2021   |
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,11 +77,11 @@ Sorted by Last date (Most recent date), ascending
 | 00s | 1  | 16 (Th) |
 | 10s | 7  | 1 (Th) |
 | 20s | 10 | 1 (Th) |
-|Other| 6  | 1 (Tu) |
+| 60s | 1  | 1 (Tu) |
+|Other| 7  | 0 (Tu) |
 | 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Th) |
 | 50s | 10 | 0 (Tu) |
-| 60s | 1  | 0 (Tu) |
 
 Mixtapes with Updates
 -----
@@ -90,6 +91,7 @@ Mixtape 37 | Monster Rage Ball | updated | 6/25/2020
 Mixtape 30 | Don't Be a Big Shot | updated | 6/28/2020
 Mixtape 34 | Mind Games | updated | 7/2/2020
 Mixtape 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
+Mixtape 6 | I Don't Like Love, 'Cause I Love You | merged | 3/9/2021
 Mixtape 7 | Damn You, Blue Mask | merged | 2/23/2021
 Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged | 2/23/2021
 Mixtape 9 | I Know What It Takes To Be Invincible | merged | 2/23/2021
@@ -102,7 +104,13 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/4/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/9/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/9/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+3/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+3/9/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
+3/9/2021 | Gunbuster Intro with prologue / (same as video)
+3/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
+3/9/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 3/4/2021 | STREAM TRAILER / Ideon opening full song
 3/4/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 3/4/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
@@ -126,7 +134,6 @@ Latest Date | Video / Audio
 2/28/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
 2/28/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
-2/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 2/25/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
@@ -135,15 +142,12 @@ Latest Date | Video / Audio
 2/23/2021 | Ideon footage / Ideon opening full song
 2/23/2021 | Ninja La Conquista Del Mondo credits until ragdoll / Genesis - Domino
 2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
-2/21/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 2/18/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 2/18/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 2/18/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
 2/18/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 2/18/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 2/16/2021 | Dairanger Opener / (same as video)
-2/9/2021 | Gunbuster Intro with prologue / (same as video)
-2/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
@@ -159,7 +163,6 @@ Latest Date | Video / Audio
 1/19/2021 | (French laser toy Claude Debussy) / (same as video)
 1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun
 1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video)
-1/12/2021 | Kamen Raider Ay-Ay / (same as video)
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / Pubic Strange
