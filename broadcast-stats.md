@@ -17,7 +17,6 @@ Sorted by Last date (Most recent date), ascending
 |            |  FORCED STEREO DELUXE                        | 10/1/2020  |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
-| Mixtape 6  | Don't Like Love, 'Cause I Love You (retired) | 11/12/2020 |
 | Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
 | Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
 | Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
@@ -27,9 +26,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
-| Mixtape 41 |  You Bastards Are from the 30th Century?     | 1/14/2021  |
 | Mixtape 43 |  This Will to Kill                           | 1/14/2021  |
-| Mixtape 26 |  Cannot Stop to Feel                         | 1/17/2021  |
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 55 |  I Had a Heart Once                          | 1/19/2021  |
@@ -68,18 +65,19 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 38 |  What's Wrong with You?                      | 3/4/2021   |
 | Mixtape 54 |  Sounds Like the Devil                       | 3/9/2021   |
 |            |  Blood, Lust, and Intrigue (Megamix 6+9+10)  | 3/9/2021   |
+| Mixtape 26 |  Cannot Stop to Feel                         | 3/11/2021  |
+| Mixtape 41 |  You Bastards Are from the 30th Century?     | 3/11/2021  |
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 00s | 1  | 16 (Th) |
-| 10s | 7  | 1 (Th) |
-| 20s | 10 | 1 (Th) |
+| 10s | 7  | 2 (Th) |
+| 30s | 10 | 1 (Th) |
 | 60s | 1  | 1 (Tu) |
 |Other| 7  | 0 (Tu) |
-| 30s | 10 | 0 (Th) |
+| 20s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Th) |
 | 50s | 10 | 0 (Tu) |
 
@@ -104,10 +102,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/9/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/11/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/11/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+3/11/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+3/11/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
+3/11/2021 | Emergency Alert Please Stand by / (Beep)
+3/11/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+3/11/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
+3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 3/9/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 3/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-3/9/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
 3/9/2021 | Gunbuster Intro with prologue / (same as video)
 3/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
 3/9/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
@@ -119,7 +123,6 @@ Latest Date | Video / Audio
 3/4/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 3/4/2021 | GoLion Opener / (same as video)
 3/4/2021 | Daicon IV / ELO - Album opener, Twilight
-3/2/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 3/2/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 3/2/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 3/2/2021 | FMW Opener / (same as video)
@@ -130,15 +133,11 @@ Latest Date | Video / Audio
 3/2/2021 | Yattodetaman Opener / (same as video)
 3/2/2021 | Vaporwave Beach / Ahero - Slow Summer
 2/28/2021 | Angel Terminators / The First Family - Slow Motion
-2/28/2021 | Emergency Alert Please Stand by / (Beep)
-2/28/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-2/28/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 2/25/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 2/23/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-2/23/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 2/23/2021 | Ideon footage / Ideon opening full song
 2/23/2021 | Ninja La Conquista Del Mondo credits until ragdoll / Genesis - Domino
 2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
