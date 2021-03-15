@@ -26,7 +26,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
-| Mixtape 43 |  This Will to Kill                           | 1/14/2021  |
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 55 |  I Had a Heart Once                          | 1/19/2021  |
@@ -67,6 +66,9 @@ Sorted by Last date (Most recent date), ascending
 |            |  Blood, Lust, and Intrigue (Megamix 6+9+10)  | 3/9/2021   |
 | Mixtape 26 |  Cannot Stop to Feel                         | 3/11/2021  |
 | Mixtape 41 |  You Bastards Are from the 30th Century?     | 3/11/2021  |
+| Mixtape 43 |  This Will to Kill                           | 3/14/2021  |
+| Mixtape 61 |  I Must Make Sure You Fail                   | 3/14/2021  |
+
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -75,11 +77,11 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 10s | 7  | 2 (Th) |
 | 30s | 10 | 1 (Th) |
-| 60s | 1  | 1 (Tu) |
 |Other| 7  | 0 (Tu) |
 | 20s | 10 | 0 (Th) |
-| 40s | 10 | 0 (Th) |
+| 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
+| 60s | 2  | 0 (Su) |
 
 Mixtapes with Updates
 -----
@@ -102,8 +104,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/11/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-3/11/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+3/14/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/14/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+3/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+3/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
+3/14/2021 | Ideon footage / Ideon opening full song
+3/14/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+3/14/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+3/14/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+3/14/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 3/11/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 3/11/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
 3/11/2021 | Emergency Alert Please Stand by / (Beep)
@@ -117,7 +127,6 @@ Latest Date | Video / Audio
 3/9/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 3/4/2021 | STREAM TRAILER / Ideon opening full song
 3/4/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-3/4/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 3/4/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 3/4/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
 3/4/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
@@ -135,17 +144,10 @@ Latest Date | Video / Audio
 2/28/2021 | Angel Terminators / The First Family - Slow Motion
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-2/25/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 2/23/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-2/23/2021 | Ideon footage / Ideon opening full song
-2/23/2021 | Ninja La Conquista Del Mondo credits until ragdoll / Genesis - Domino
 2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 2/18/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
-2/18/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-2/18/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-2/18/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-2/18/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 2/16/2021 | Dairanger Opener / (same as video)
 2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
