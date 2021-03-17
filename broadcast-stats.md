@@ -28,7 +28,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
-| Mixtape 55 |  I Had a Heart Once                          | 1/19/2021  |
 | Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
 | Mixtape 47 |  Put Yourself in the Universe                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
@@ -67,7 +66,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 26 |  Cannot Stop to Feel                         | 3/11/2021  |
 | Mixtape 41 |  You Bastards Are from the 30th Century?     | 3/11/2021  |
 | Mixtape 43 |  This Will to Kill                           | 3/14/2021  |
-| Mixtape 61 |  I Must Make Sure You Fail                   | 3/14/2021  |
+| Mixtape 55 |  I Had a Heart Once                          | 3/16/2021  |
+| Mixtape 61 |  I Must Make Sure You Fail                   | 3/16/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,11 +77,11 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 10s | 7  | 2 (Th) |
 | 30s | 10 | 1 (Th) |
-|Other| 7  | 0 (Tu) |
+|Other| 7  | 1 (Tu) |
 | 20s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
-| 60s | 2  | 0 (Su) |
+| 60s | 2  | 0 (Tu) |
 
 Mixtapes with Updates
 -----
@@ -104,7 +104,11 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/14/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/16/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/16/2021 | Legend of the Fist of the North Star compilation / TOM CAT - TOUGH BOI
+3/16/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+3/16/2021 | Angel Terminators / The First Family - Slow Motion
+3/16/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 3/14/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 3/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 3/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
@@ -120,7 +124,6 @@ Latest Date | Video / Audio
 3/11/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
 3/11/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
-3/9/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 3/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 3/9/2021 | Gunbuster Intro with prologue / (same as video)
 3/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
@@ -141,11 +144,9 @@ Latest Date | Video / Audio
 3/2/2021 | ULTRAMAN 80 Opener / (same as video)
 3/2/2021 | Yattodetaman Opener / (same as video)
 3/2/2021 | Vaporwave Beach / Ahero - Slow Summer
-2/28/2021 | Angel Terminators / The First Family - Slow Motion
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-2/23/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 2/18/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 2/16/2021 | Dairanger Opener / (same as video)
