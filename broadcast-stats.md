@@ -29,7 +29,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
-| Mixtape 47 |  Put Yourself in the Universe                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 48 |  Same Deal Next Time                         | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
@@ -68,6 +67,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 43 |  This Will to Kill                           | 3/14/2021  |
 | Mixtape 55 |  I Had a Heart Once                          | 3/16/2021  |
 | Mixtape 61 |  I Must Make Sure You Fail                   | 3/16/2021  |
+| Mixtape 47 |  Put Yourself in the Universe                | 3/18/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 10s | 7  | 2 (Th) |
-| 30s | 10 | 1 (Th) |
+| 10s | 7  | 3 (Th) |
+| 30s | 10 | 2 (Th) |
+| 20s | 10 | 1 (Th) |
 |Other| 7  | 1 (Tu) |
-| 20s | 10 | 0 (Th) |
-| 40s | 10 | 0 (Su) |
+| 40s | 10 | 0 (Th) |
 | 50s | 10 | 0 (Tu) |
 | 60s | 2  | 0 (Tu) |
 
@@ -104,7 +104,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/16/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/18/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+3/18/2021 | FMW Opener / (same as video)
+3/18/2021 | Saint Seiya Opener / (same as video)
+3/18/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
+3/18/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+3/18/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+3/18/2021 | Ultraman 80 Opener / (same as video)
+3/18/2021 | Yattodetaman Opener / (same as video)
+3/18/2021 | Vaporwave Beach / AHero - Slow Summer
+3/18/2021 | Naoko Kawai - Control / (same as video)
 3/16/2021 | Legend of the Fist of the North Star compilation / TOM CAT - TOUGH BOI
 3/16/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 3/16/2021 | Angel Terminators / The First Family - Slow Motion
@@ -136,14 +146,6 @@ Latest Date | Video / Audio
 3/4/2021 | GoLion Opener / (same as video)
 3/4/2021 | Daicon IV / ELO - Album opener, Twilight
 3/2/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
-3/2/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-3/2/2021 | FMW Opener / (same as video)
-3/2/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
-3/2/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-3/2/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-3/2/2021 | ULTRAMAN 80 Opener / (same as video)
-3/2/2021 | Yattodetaman Opener / (same as video)
-3/2/2021 | Vaporwave Beach / Ahero - Slow Summer
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
@@ -155,8 +157,6 @@ Latest Date | Video / Audio
 2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
 1/26/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
-1/24/2021 | Saint Seiya Opener / (same as video)
-1/24/2021 | Naoko Kawai - Control / (same as video)
 1/21/2021 | GRANDO FAIR / (same as video)
 1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy
 1/19/2021 | (another interlude "We Filmed Heaven") / (same as video)
