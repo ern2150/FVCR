@@ -30,7 +30,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
-| Mixtape 48 |  Same Deal Next Time                         | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
 | Mixtape 56 |  Everyone Has to Live, Even Thieves          | 1/26/2021  |
 | Mixtape 37 |  Monster Rage Ball                           | 1/28/2021  |
@@ -68,6 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 55 |  I Had a Heart Once                          | 3/16/2021  |
 | Mixtape 61 |  I Must Make Sure You Fail                   | 3/16/2021  |
 | Mixtape 47 |  Put Yourself in the Universe                | 3/18/2021  |
+| Mixtape 48 |  Same Deal Next Time                         | 3/21/2021  |
+| Mixtape 62 |  One Lousy Nobody, What Can He Do?           | 3/21/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,9 +80,9 @@ Sorted by Last date (Most recent date), ascending
 | 30s | 10 | 2 (Th) |
 | 20s | 10 | 1 (Th) |
 |Other| 7  | 1 (Tu) |
-| 40s | 10 | 0 (Th) |
+| 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
-| 60s | 2  | 0 (Tu) |
+| 60s | 3  | 0 (Su) |
 
 Mixtapes with Updates
 -----
@@ -104,7 +105,13 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/21/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/21/2021 | Legend of the Fist of the North Star compilation / TOM CAT - TOUGH BOI
+3/21/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+3/21/2021 | Emergency Alert Please Stand by / (Beep)
+3/21/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+3/21/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
+3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 3/18/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 3/18/2021 | FMW Opener / (same as video)
 3/18/2021 | Saint Seiya Opener / (same as video)
@@ -115,7 +122,6 @@ Latest Date | Video / Audio
 3/18/2021 | Yattodetaman Opener / (same as video)
 3/18/2021 | Vaporwave Beach / AHero - Slow Summer
 3/18/2021 | Naoko Kawai - Control / (same as video)
-3/16/2021 | Legend of the Fist of the North Star compilation / TOM CAT - TOUGH BOI
 3/16/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 3/16/2021 | Angel Terminators / The First Family - Slow Motion
 3/16/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
@@ -128,10 +134,7 @@ Latest Date | Video / Audio
 3/14/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
 3/14/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 3/14/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
-3/11/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 3/11/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
-3/11/2021 | Emergency Alert Please Stand by / (Beep)
-3/11/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
 3/11/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 3/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
@@ -153,8 +156,6 @@ Latest Date | Video / Audio
 2/18/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 2/16/2021 | Dairanger Opener / (same as video)
 2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-2/2/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
-2/2/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
 1/26/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
 1/21/2021 | GRANDO FAIR / (same as video)
