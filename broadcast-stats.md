@@ -31,7 +31,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
-| Mixtape 56 |  Everyone Has to Live, Even Thieves          | 1/26/2021  |
 | Mixtape 37 |  Monster Rage Ball                           | 1/28/2021  |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 1/28/2021  |
 | Mixtape 51 |  Money, Power, and Position                  | 2/2/2021   |
@@ -68,7 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 61 |  I Must Make Sure You Fail                   | 3/16/2021  |
 | Mixtape 47 |  Put Yourself in the Universe                | 3/18/2021  |
 | Mixtape 48 |  Same Deal Next Time                         | 3/21/2021  |
-| Mixtape 62 |  One Lousy Nobody, What Can He Do?           | 3/21/2021  |
+| Mixtape 56 |  Everyone Has to Live, Even Thieves          | 3/23/2021  |
+| Mixtape 62 |  One Lousy Nobody, What Can He Do?           | 3/23/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +77,12 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 10s | 7  | 3 (Th) |
+|Other| 7  | 2 (Tu) |
 | 30s | 10 | 2 (Th) |
 | 20s | 10 | 1 (Th) |
-|Other| 7  | 1 (Tu) |
 | 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
-| 60s | 3  | 0 (Su) |
+| 60s | 3  | 0 (Tu) |
 
 Mixtapes with Updates
 -----
@@ -105,7 +105,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/21/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/23/2021 | Green tinted action movie / Delegation - Heartache No. 9
+3/23/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
+3/23/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+3/23/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+3/23/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+3/23/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+3/23/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 3/21/2021 | Legend of the Fist of the North Star compilation / TOM CAT - TOUGH BOI
 3/21/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 3/21/2021 | Emergency Alert Please Stand by / (Beep)
@@ -127,7 +134,6 @@ Latest Date | Video / Audio
 3/16/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 3/14/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 3/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-3/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 3/14/2021 | Ideon footage / Ideon opening full song
 3/14/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
@@ -139,19 +145,13 @@ Latest Date | Video / Audio
 3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 3/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 3/9/2021 | Gunbuster Intro with prologue / (same as video)
-3/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
 3/9/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 3/4/2021 | STREAM TRAILER / Ideon opening full song
-3/4/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-3/4/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-3/4/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-3/4/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 3/4/2021 | GoLion Opener / (same as video)
 3/4/2021 | Daicon IV / ELO - Album opener, Twilight
 3/2/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-2/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 2/18/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 2/16/2021 | Dairanger Opener / (same as video)
@@ -169,6 +169,7 @@ Latest Date | Video / Audio
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / Pubic Strange
+
 
 Notes
 ------
