@@ -25,13 +25,11 @@ Sorted by Last date (Most recent date), ascending
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
-| Mixtape 35 |  Imagination Creates Reality                 | 1/7/2021   |
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
-| Mixtape 50 | The Awesome Power of Destruction You Possess | 1/28/2021  |
 | Mixtape 51 |  Money, Power, and Position                  | 2/2/2021   |
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
 | Mixtape 57 |  Is There No Justice Anymore?                | 2/4/2021   |
@@ -69,6 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 56 |  Everyone Has to Live, Even Thieves          | 3/23/2021  |
 | Mixtape 62 |  One Lousy Nobody, What Can He Do?           | 3/23/2021  |
 | Mixtape 37 |  Monster Rage Ball                           | 3/25/2021  |
+| Mixtape 35 |  Imagination Creates Reality                 | 3/28/2021  |
+| Mixtape 50 | The Awesome Power of Destruction You Possess | 3/28/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,9 +79,9 @@ Sorted by Last date (Most recent date), ascending
 | 10s | 7  | 4 (Th) |
 |Other| 7  | 2 (Tu) |
 | 20s | 10 | 2 (Th) |
-| 30s | 10 | 0 (Th) |
-| 40s | 10 | 0 (Su) |
-| 50s | 10 | 0 (Tu) |
+| 40s | 10 | 1 (Su) |
+| 30s | 10 | 0 (Su) |
+| 50s | 10 | 0 (Su) |
 | 60s | 3  | 0 (Tu) |
 
 Mixtapes with Updates
@@ -105,8 +105,12 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-3/25/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
+3/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/28/2021 | Angel Terminators / The First Family - Slow Motion
+3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
+3/28/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
+3/28/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
+3/28/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 3/25/2021 | Heaven's Hell Trailer / (same as video)
 3/25/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 3/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
@@ -119,7 +123,7 @@ Latest Date | Video / Audio
 3/23/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
 3/23/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 3/23/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-3/21/2021 | Legend of the Fist of the North Star compilation / TOM CAT - TOUGH BOI
+3/21/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 3/21/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 3/21/2021 | Emergency Alert Please Stand by / (Beep)
 3/21/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
@@ -136,7 +140,6 @@ Latest Date | Video / Audio
 3/18/2021 | Vaporwave Beach / AHero - Slow Summer
 3/18/2021 | Naoko Kawai - Control / (same as video)
 3/16/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-3/16/2021 | Angel Terminators / The First Family - Slow Motion
 3/16/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 3/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
@@ -153,9 +156,7 @@ Latest Date | Video / Audio
 3/4/2021 | STREAM TRAILER / Ideon opening full song
 3/4/2021 | GoLion Opener / (same as video)
 3/4/2021 | Daicon IV / ELO - Album opener, Twilight
-3/2/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
-2/23/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 2/16/2021 | Dairanger Opener / (same as video)
 2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
