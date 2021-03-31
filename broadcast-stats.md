@@ -30,9 +30,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
-| Mixtape 51 |  Money, Power, and Position                  | 2/2/2021   |
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
-| Mixtape 57 |  Is There No Justice Anymore?                | 2/4/2021   |
 | Mixtape 42 |  Go and Destroy the Enemy Forever            | 2/7/2021   |
 | Mixtape 52 |  Let You Through To Hell                     | 2/9/2021   |
 | Mixtape 58 |  Why Do You Help the Evil Person?            | 2/9/2021   |
@@ -69,6 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 37 |  Monster Rage Ball                           | 3/25/2021  |
 | Mixtape 35 |  Imagination Creates Reality                 | 3/28/2021  |
 | Mixtape 50 | The Awesome Power of Destruction You Possess | 3/28/2021  |
+| Mixtape 51 |  Money, Power, and Position                  | 3/30/2021  |
+| Mixtape 57 |  Is There No Justice Anymore?                | 3/30/2021  |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +77,12 @@ Sorted by Last date (Most recent date), ascending
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
 | 10s | 7  | 4 (Th) |
-|Other| 7  | 2 (Tu) |
+|Other| 7  | 3 (Tu) |
 | 20s | 10 | 2 (Th) |
 | 40s | 10 | 1 (Su) |
+| 60s | 3  | 1 (Tu) |
 | 30s | 10 | 0 (Su) |
-| 50s | 10 | 0 (Su) |
-| 60s | 3  | 0 (Tu) |
+| 50s | 10 | 0 (Tu) |
 
 Mixtapes with Updates
 -----
@@ -105,7 +105,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-3/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/30/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+3/30/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+3/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+3/30/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+3/30/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
+3/30/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+3/30/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+3/30/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+3/30/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 3/28/2021 | Angel Terminators / The First Family - Slow Motion
 3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 3/28/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
@@ -144,21 +152,14 @@ Latest Date | Video / Audio
 3/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 3/14/2021 | Ideon footage / Ideon opening full song
-3/14/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-3/14/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-3/14/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-3/14/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 3/11/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
-3/11/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
-3/9/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 3/9/2021 | Gunbuster Intro with prologue / (same as video)
 3/4/2021 | STREAM TRAILER / Ideon opening full song
 3/4/2021 | GoLion Opener / (same as video)
 3/4/2021 | Daicon IV / ELO - Album opener, Twilight
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/16/2021 | Dairanger Opener / (same as video)
-2/9/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
 1/26/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
 1/21/2021 | GRANDO FAIR / (same as video)
