@@ -1,8 +1,8 @@
 Table of Contents
 -----
  - [Mixtapes by Last Seen](#sorted-by-last-date-most-recent-date-ascending)
- - [Mixtape Decades Stats](#decades-by-broadcasts-per-capita-descending)
- - [Mixtapes with Updates](#mixtapes-with-updates)
+ - [Mixtape Decades Stats](#decades-by-weeks-since-seen-descending)
+ - [Mixtapes with Updates](#mixtapes-with-updates-by-last-changed)
  - [Intros](#intros)
  - [Footnotes](#notes)
 
