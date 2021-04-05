@@ -16,9 +16,9 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 14 |  And I'll Revenge Their Deaths               | 9/15/2020  |
 |            |  2020 Halloween Vol 1                        | 11/1/2020  |
 |            |  2020 Halloween Vol 3                        | 11/1/2020  |
-| Mixtape 15 |  We'll Blow You Up Next                      | 11/22/2020 |
-| Mixtape 17 |  Don't Come to Me with Tales of Failure      | 12/1/2020  |
-| Mixtape 12 |  Defend Yourself                             | 12/10/2020 |
+| Mixtape 15 |  We'll Blow You Up Next (Retired)            | 11/22/2020 |
+| Mixtape 17 | Don't Come 2 Me w Tales of Failure (Retired) | 12/1/2020  |
+| Mixtape 12 |  Defend Yourself (Retired)                   | 12/10/2020 |
 | Mixtape 33 |  Why Do You Challenge Us?                    | 12/20/2020 |
 | Mixtape 27 |  Open the Strange Realm                      | 12/22/2020 |
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
@@ -26,7 +26,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
 | Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
-| Mixtape 11 |  I'm a Winner                                | 1/21/2021  |
+| Mixtape 11 |  I'm a Winner (Retired)                      | 1/21/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
@@ -69,6 +69,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 57 |  Is There No Justice Anymore?                | 3/30/2021  |
 |            |  FORCED STEREO CHAMPIONSHIP                  | 4/1/2021   |
 | Mixtape 42 |  Go and Destroy the Enemy Forever            | 4/1/2021   |
+|            |I'm Glad to See You're Prepared to Die (15+17)| 4/4/2021   |
+|            |  Danger Straight Ahead (Megamix 11+12)       | 4/4/2021   |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,11 +78,11 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 10s | 7  | 5 (Th) |
+| 10s | 3  | 5 (Th) |
 | 20s | 10 | 3 (Th) |
+| 30s | 10 | 1 (Su) |
 | 60s | 3  | 1 (Tu) |
-|Other| 7  | 0 (Th) |
-| 30s | 10 | 0 (Su) |
+|Other| 7  | 0 (Su) |
 | 40s | 10 | 0 (Th) |
 | 50s | 10 | 0 (Tu) |
 
@@ -100,6 +102,11 @@ Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged | 2/23/2021
 Mixtape 9 | I Know What It Takes To Be Invincible | merged | 2/23/2021
 Mixtape 6 | I Don't Like Love, 'Cause I Love You | merged | 3/9/2021
 |          | FORCED STEREO DELUXE | superseded | 4/1/2021
+Mixtape 15 |  We'll Blow You Up Next | merged | 4/4/2021
+Mixtape 17 | Don't Come 2 Me w Tales of Failure | merged | 4/4/2021
+Mixtape 12 |  Defend Yourself | merged | 4/4/2021
+Mixtape 11 |  I'm a Winner | merged | 4/4/2021
+
           
 Intros
 ------
