@@ -21,13 +21,11 @@ Sorted by Last date (Most recent date), ascending
 |            |  End of 2020 VHS Mixtape                     | 1/3/2021   |
 | Mixtape 22 |  By Tonight, You'll Be History               | 1/5/2021   |
 | Mixtape 24 |  Conspiracy of Ninjas and Vampires           | 1/7/2021   |
-| Mixtape 32 |  Destroy the Indestructable                  | 1/17/2021  |
 | Mixtape 21 |  Enlightenment Isn't Serious                 | 1/19/2021  |
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
 | Mixtape 36 |  Something Missing in Your Head              | 2/11/2021  |
-| Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 2/11/2021  |
 |            |  VIDEO BEAM VOLUME 1                         | 2/14/2021  |
 | Mixtape 45 |  Cheer of Love                               | 2/14/2021  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 2/16/2021  |
@@ -67,6 +65,8 @@ Sorted by Last date (Most recent date), ascending
 |            |  Danger Straight Ahead (Megamix 11+12)       | 4/4/2021   |
 | Mixtape 52 |  Let You Through To Hell                     | 4/6/2021   |
 | Mixtape 58 |  Why Do You Help the Evil Person?            | 4/6/2021   |
+| Mixtape 32 |  Destroy the Indestructable                  | 4/8/2021   |
+| Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 4/8/2021   |
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,11 +74,11 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 10s | 3  | 5 (Th) |
-| 20s | 10 | 3 (Th) |
-| 30s | 10 | 1 (Su) |
+| 10s | 3  | 6 (Th) |
+| 20s | 10 | 4 (Th) |
 | 60s | 3  | 2 (Tu) |
 |Other| 7  | 0 (Su) |
+| 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Th) |
 | 50s | 10 | 0 (Tu) |
 
