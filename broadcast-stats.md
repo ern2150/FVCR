@@ -27,7 +27,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
 | Mixtape 36 |  Something Missing in Your Head              | 2/11/2021  |
 |            |  VIDEO BEAM VOLUME 1                         | 2/14/2021  |
-| Mixtape 45 |  Cheer of Love                               | 2/14/2021  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 2/16/2021  |
 | Mixtape 59 |  Now the Fun Begins                          | 2/16/2021  |
 | Mixtape 28 |  Forget about Luck                           | 2/18/2021  |
@@ -67,6 +66,9 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 58 |  Why Do You Help the Evil Person?            | 4/6/2021   |
 | Mixtape 32 |  Destroy the Indestructable                  | 4/8/2021   |
 | Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 4/8/2021   |
+| Mixtape 45 |  Cheer of Love                               | 4/11/2021  |
+| Mixtape 63 |  This Sword Will Belong to You Forever       | 4/11/2021  |
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,11 +78,11 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 10s | 3  | 6 (Th) |
 | 20s | 10 | 4 (Th) |
-| 60s | 3  | 2 (Tu) |
-|Other| 7  | 0 (Su) |
+|Other| 7  | 1 (Su) |
 | 30s | 10 | 0 (Th) |
-| 40s | 10 | 0 (Th) |
+| 40s | 10 | 0 (Su) |
 | 50s | 10 | 0 (Tu) |
+| 60s | 3  | 0 (Su) |
 
 Mixtapes with Updates (by Last Changed)
 -----
@@ -109,8 +111,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/8/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-4/8/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+4/11/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/11/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+4/11/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+4/11/2021 | FMW Opener / FMW Closer
+4/11/2021 | Saint Seiya Opener / (same as video)
+4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
+4/11/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+4/11/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+4/11/2021 | Ultraman 80 Opener / (same as video)
+4/11/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+4/11/2021 | Anime Previews incl Genocyber / (same as video)
 4/8/2021 | Green tinted action movie / Delegation - Heartache No. 9
 4/8/2021 | That Girls Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
 4/8/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
@@ -134,14 +145,6 @@ Latest Date | Video / Audio
 4/1/2021 | Drifting Women / Rainbo - Integra Type
 4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami
 4/1/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
-4/1/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-4/1/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-4/1/2021 | FMW Opener / FMW Closer
-4/1/2021 | Saint Seiya Opener / (same as video)
-4/1/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
-4/1/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-4/1/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-4/1/2021 | Ultraman 80 Opener / (same as video)
 4/1/2021 | Yattodetaman Opener / (same as video)
 4/1/2021 | Vaporwave Beach / AHero - Slow Summer
 4/1/2021 | Naoko Kawai - Control / (same as video)
@@ -190,7 +193,7 @@ Latest Date | Video / Audio
 1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video)
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
-1/10/2021 | Commando Fury Opener / Pubic Strange
+1/10/2021 | Commando Fury Opener / (same as video)
 
 
 Notes
