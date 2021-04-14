@@ -34,7 +34,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
 | Mixtape 46 |  We Smile Because We're Alive                | 2/21/2021  |
 | Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
-|            |  Why Are You Playing Heroes? (Megamix 7+8+9) | 2/23/2021  |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
 | Mixtape 44 |  Fighting Warriors, Be Alert                 | 2/28/2021  |
@@ -67,7 +66,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 32 |  Destroy the Indestructable                  | 4/8/2021   |
 | Mixtape 49 |  Despise the Dark 2020 Halloween Vol 2       | 4/8/2021   |
 | Mixtape 45 |  Cheer of Love                               | 4/11/2021  |
-| Mixtape 63 |  This Sword Will Belong to You Forever       | 4/11/2021  |
+|            |  Why Are You Playing Heroes? (Megamix 7+8+9) | 4/13/2021  |
+| Mixtape 63 |  This Sword Will Belong to You Forever       | 4/13/2021  |
 
 
 
@@ -78,11 +78,11 @@ Sorted by Last date (Most recent date), ascending
 |----------|-----------------|------------------|
 | 10s | 3  | 6 (Th) |
 | 20s | 10 | 4 (Th) |
-|Other| 7  | 1 (Su) |
+| 50s | 10 | 1 (Tu) |
+|Other| 7  | 0 (Tu) |
 | 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
-| 50s | 10 | 0 (Tu) |
-| 60s | 3  | 0 (Su) |
+| 60s | 4  | 0 (Tu) |
 
 Mixtapes with Updates (by Last Changed)
 -----
@@ -111,7 +111,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/11/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/13/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/13/2021 | Baki end whiteout / (same as video)
+4/13/2021 | HEYYYY JAPAAAAN / (same as video)
+4/13/2021 | Baki fights Big Red Cord Cutter / ?? Some Pete Townshend stuff ??
+4/13/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
+4/13/2021 | Tah Tien credits / (same as video)
+4/13/2021 | Destiny to Order end credits / (same as video)
+4/13/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
+4/13/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+4/13/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+4/13/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+4/13/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 4/11/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 4/11/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 4/11/2021 | FMW Opener / FMW Closer
@@ -151,11 +162,6 @@ Latest Date | Video / Audio
 4/1/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 4/1/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 4/1/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-4/1/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-4/1/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
-4/1/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-4/1/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-4/1/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 4/1/2021 | GoLion Opener / (same as video)
 4/1/2021 | Daicon IV / ELO - Album opener, Twilight
 3/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
