@@ -28,7 +28,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 36 |  Something Missing in Your Head              | 2/11/2021  |
 |            |  VIDEO BEAM VOLUME 1                         | 2/14/2021  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 2/16/2021  |
-| Mixtape 59 |  Now the Fun Begins                          | 2/16/2021  |
 | Mixtape 28 |  Forget about Luck                           | 2/18/2021  |
 | Mixtape 34 |  Mind Games                                  | 2/18/2021  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
@@ -68,6 +67,7 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 45 |  Cheer of Love                               | 4/11/2021  |
 |            |  Why Are You Playing Heroes? (Megamix 7+8+9) | 4/13/2021  |
 | Mixtape 63 |  This Sword Will Belong to You Forever       | 4/13/2021  |
+| Mixtape 59 |  Now the Fun Begins                          | 4/15/2021  |
 
 
 
@@ -76,11 +76,11 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 10s | 3  | 6 (Th) |
-| 20s | 10 | 4 (Th) |
-| 50s | 10 | 1 (Tu) |
+| 10s | 3  | 7 (Th) |
+| 20s | 10 | 5 (Th) |
+| 30s | 10 | 1 (Th) |
+| 50s | 10 | 0 (Th) |
 |Other| 7  | 0 (Tu) |
-| 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
 | 60s | 4  | 0 (Tu) |
 
@@ -111,10 +111,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/13/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-4/13/2021 | Baki end whiteout / (same as video)
-4/13/2021 | HEYYYY JAPAAAAN / (same as video)
-4/13/2021 | Baki fights Big Red Cord Cutter / ?? Some Pete Townshend stuff ??
+4/15/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/15/2021 | Baki end whiteout / (same as video)
+4/15/2021 | HEYYYY JAPAAAAN / (same as video)
+4/15/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
+4/15/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+4/15/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+4/15/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+4/15/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 4/13/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 4/13/2021 | Tah Tien credits / (same as video)
 4/13/2021 | Destiny to Order end credits / (same as video)
@@ -155,13 +159,9 @@ Latest Date | Video / Audio
 4/1/2021 | Zodiac and Jason the Terrible / (same as video)
 4/1/2021 | Drifting Women / Rainbo - Integra Type
 4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami
-4/1/2021 | Moped guy gets chain-dragged downstairs / Moving Units - Between Us and Them
 4/1/2021 | Yattodetaman Opener / (same as video)
 4/1/2021 | Vaporwave Beach / AHero - Slow Summer
 4/1/2021 | Naoko Kawai - Control / (same as video)
-4/1/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-4/1/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-4/1/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 4/1/2021 | GoLion Opener / (same as video)
 4/1/2021 | Daicon IV / ELO - Album opener, Twilight
 3/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
