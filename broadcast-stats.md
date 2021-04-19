@@ -31,7 +31,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 28 |  Forget about Luck                           | 2/18/2021  |
 | Mixtape 34 |  Mind Games                                  | 2/18/2021  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
-| Mixtape 46 |  We Smile Because We're Alive                | 2/21/2021  |
 | Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
 | Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
@@ -68,6 +67,8 @@ Sorted by Last date (Most recent date), ascending
 |            |  Why Are You Playing Heroes? (Megamix 7+8+9) | 4/13/2021  |
 | Mixtape 63 |  This Sword Will Belong to You Forever       | 4/13/2021  |
 | Mixtape 59 |  Now the Fun Begins                          | 4/15/2021  |
+| Mixtape 46 |  We Smile Because We're Alive                | 4/18/2021  |
+| Mixtape 64 |  Hold You Close and Feel Things.             | 4/18/2021  |
 
 
 
@@ -82,7 +83,7 @@ Sorted by Last date (Most recent date), ascending
 | 50s | 10 | 0 (Th) |
 |Other| 7  | 0 (Tu) |
 | 40s | 10 | 0 (Su) |
-| 60s | 4  | 0 (Tu) |
+| 60s | 4  | 0 (Su) |
 
 Mixtapes with Updates (by Last Changed)
 -----
@@ -111,7 +112,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/15/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/18/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
+4/18/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+4/18/2021 | Actual Robowar intro / (same as video)
+4/18/2021 | Emergency Alert Please Stand by / (Beep)
+4/18/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+4/18/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 4/15/2021 | Baki end whiteout / (same as video)
 4/15/2021 | HEYYYY JAPAAAAN / (same as video)
 4/15/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
@@ -138,14 +146,7 @@ Latest Date | Video / Audio
 4/11/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
 4/11/2021 | Anime Previews incl Genocyber / (same as video)
 4/8/2021 | Green tinted action movie / Delegation - Heartache No. 9
-4/8/2021 | That Girls Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
 4/8/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
-4/6/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-4/6/2021 | Actual Robowar intro / (same as video)
-4/6/2021 | Emergency Alert Please Stand by / (Beep)
-4/6/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-4/6/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-4/6/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 4/4/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 4/4/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
 4/4/2021 | Island Rydeen / Senor Coconut - Rydeen
