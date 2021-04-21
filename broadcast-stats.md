@@ -32,7 +32,6 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 34 |  Mind Games                                  | 2/18/2021  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
 | Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
-| Mixtape 10 |  End of 2019 VHS Mixtape (until renamed)     | 2/25/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
 | Mixtape 44 |  Fighting Warriors, Be Alert                 | 2/28/2021  |
 | Mixtape 53 |  The True Form of His Brains                 | 3/2/2021   |
@@ -68,7 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 63 |  This Sword Will Belong to You Forever       | 4/13/2021  |
 | Mixtape 59 |  Now the Fun Begins                          | 4/15/2021  |
 | Mixtape 46 |  We Smile Because We're Alive                | 4/18/2021  |
-| Mixtape 64 |  Hold You Close and Feel Things.             | 4/18/2021  |
+| Mixtape 64 |  Hold You Close and Feel Things              | 4/20/2021  |
+| Mixtape 10 |Get Rich Regardless of the Means (End of 2019)| 4/20/2021  |
 
 
 
@@ -77,13 +77,13 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 10s | 3  | 7 (Th) |
 | 20s | 10 | 5 (Th) |
 | 30s | 10 | 1 (Th) |
-| 50s | 10 | 0 (Th) |
-|Other| 7  | 0 (Tu) |
+|Other| 7  | 1 (Tu) |
+| 10s | 3  | 0 (Tu) |
 | 40s | 10 | 0 (Su) |
-| 60s | 4  | 0 (Su) |
+| 50s | 10 | 0 (Th) |
+| 60s | 4  | 0 (Tu) |
 
 Mixtapes with Updates (by Last Changed)
 -----
@@ -95,7 +95,7 @@ Mixtape 34 | Mind Games | updated | 7/2/2020
 Mixtape 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
 Mixtape 15 | We'll Blow You Up Next | updated | 11/22/2020
 Mixtape 25 | Everyone Is a Suspect | unclucked | 12/20/2020
-Mixtape 10 | End of 2019 | abridged and renamed | 1/3/2021
+Mixtape 10 | Get Rich Regardless of the Means (End of 2019) | abridged and renamed | 1/3/2021
 Mixtape 7 | Damn You, Blue Mask | merged | 2/23/2021
 Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged | 2/23/2021
 Mixtape 9 | I Know What It Takes To Be Invincible | merged | 2/23/2021
@@ -112,7 +112,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/20/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
+4/20/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
+4/20/2021 | Ninja the Protector credits / DANDY COLOGNE
+4/20/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+4/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+4/20/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
+4/20/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+4/20/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+4/20/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+4/20/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 4/18/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
 4/18/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 4/18/2021 | Actual Robowar intro / (same as video)
@@ -165,13 +175,6 @@ Latest Date | Video / Audio
 4/1/2021 | Naoko Kawai - Control / (same as video)
 4/1/2021 | GoLion Opener / (same as video)
 4/1/2021 | Daicon IV / ELO - Album opener, Twilight
-3/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-3/30/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-3/30/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
-3/30/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-3/30/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-3/30/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-3/30/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 3/28/2021 | Angel Terminators / The First Family - Slow Motion
 3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 3/28/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
