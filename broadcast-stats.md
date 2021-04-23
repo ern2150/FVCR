@@ -25,13 +25,11 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 31 |  Magic Hand [aka Winning's the Easy Part]    | 1/24/2021  |
 | Mixtape 23 |  Dangerous and Cold-blooded                  | 1/26/2021  |
 | Mixtape 29 |  No Wonder You're So Brave                   | 2/4/2021   |
-| Mixtape 36 |  Something Missing in Your Head              | 2/11/2021  |
 |            |  VIDEO BEAM VOLUME 1                         | 2/14/2021  |
 | Mixtape 30 |  Don't Be a Big Shot                         | 2/16/2021  |
 | Mixtape 28 |  Forget about Luck                           | 2/18/2021  |
 | Mixtape 34 |  Mind Games                                  | 2/18/2021  |
 | Mixtape 20 |  Cheap Thug in A Dirty Racket                | 2/21/2021  |
-| Mixtape 39 |  Kids Became Normal Again                    | 2/23/2021  |
 | Mixtape 25 |  Everyone Is a Suspect                       | 2/25/2021  |
 | Mixtape 44 |  Fighting Warriors, Be Alert                 | 2/28/2021  |
 | Mixtape 53 |  The True Form of His Brains                 | 3/2/2021   |
@@ -69,6 +67,8 @@ Sorted by Last date (Most recent date), ascending
 | Mixtape 46 |  We Smile Because We're Alive                | 4/18/2021  |
 | Mixtape 64 |  Hold You Close and Feel Things              | 4/20/2021  |
 | Mixtape 10 |Get Rich Regardless of the Means (End of 2019)| 4/20/2021  |
+| Mixtape 36 |  Something Missing in Your Head              | 4/22/2021  |
+| Mixtape 39 |  Kids Became Normal Again                    | 4/22/2021  |
 
 
 
@@ -77,12 +77,12 @@ Sorted by Last date (Most recent date), ascending
 
 | "Decade" | Available Tapes | Weeks Since Seen |
 |----------|-----------------|------------------|
-| 20s | 10 | 5 (Th) |
-| 30s | 10 | 1 (Th) |
+| 20s | 10 | 6 (Th) |
+| 50s | 10 | 1 (Th) |
 |Other| 7  | 1 (Tu) |
 | 10s | 3  | 0 (Tu) |
+| 30s | 10 | 0 (Th) |
 | 40s | 10 | 0 (Su) |
-| 50s | 10 | 0 (Th) |
 | 60s | 4  | 0 (Tu) |
 
 Mixtapes with Updates (by Last Changed)
@@ -112,7 +112,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/20/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/22/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/22/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+4/22/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+4/22/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
+4/22/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+4/22/2021 | Island Rydeen / Senor Coconut - Rydeen
+4/22/2021 | 2yl8r Hong Kong? / (same as video)
+4/22/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
+4/22/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
+4/22/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/20/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 4/20/2021 | Ninja the Protector credits / DANDY COLOGNE
@@ -157,14 +166,6 @@ Latest Date | Video / Audio
 4/11/2021 | Anime Previews incl Genocyber / (same as video)
 4/8/2021 | Green tinted action movie / Delegation - Heartache No. 9
 4/8/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
-4/4/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-4/4/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-4/4/2021 | Island Rydeen / Senor Coconut - Rydeen
-4/4/2021 | 2yl8r Hong Kong? / (same as video)
-4/4/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
-4/4/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
-4/4/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-4/1/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
 4/1/2021 | SoundMarket - Earthshine / (same as video)
 4/1/2021 | Zodiac and Jason the Terrible / (same as video)
