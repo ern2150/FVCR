@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Date
 22 | By Tonight, You'll Be History | 1/5/2021
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021
 21 | Enlightenment Isn't Serious | 1/19/2021
-11 | ~~I'm a Winner~~ (Retired) | 1/21/2021
 31 | Magic Hand | 1/24/2021
 23 | Dangerous and ColdBlooded | 1/26/2021
 29 | No Wonder You're So Brave | 2/4/2021
@@ -80,11 +79,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 40s | 10 | 1 (Su)
 50s | 10 | 1 (Th)
-10s | 2 | 0 (Tu)
+10s | 3 | 0 (Tu)
 60s | 5 | 0 (Tu)
-Other | 7 | 0 (Su)
-30s | 9 | 0 (Th)
+Other | 9 | 0 (Su)
 20s | 10 | 0 (Su)
+30s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -99,15 +98,15 @@ Mixtape 15 | We'll Blow You Up Next | updated | 11/22/2020
 Mixtape 25 | Everyone Is a Suspect | unclucked | 12/20/2020
 Mixtape 10 | Get Rich Regardless of the Means (End of 2019) | abridged and renamed | 1/3/2021
 Mixtape 36 | Something Missing in Your Head | updated | 2/11/2021
-Mixtape 7 | Damn You, Blue Mask | merged | 2/23/2021
-Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged | 2/23/2021
-Mixtape 9 | I Know What It Takes To Be Invincible | merged | 2/23/2021
-Mixtape 6 | I Don't Like Love, 'Cause I Love You | merged | 3/9/2021
-|          | FORCED STEREO DELUXE | superseded | 4/1/2021
-Mixtape 15 |  We'll Blow You Up Next | merged | 4/4/2021
-Mixtape 17 | Don't Come 2 Me w Tales of Failure | merged | 4/4/2021
-Mixtape 12 |  Defend Yourself | merged | 4/4/2021
-Mixtape 11 |  I'm a Winner | merged | 4/4/2021
+Mixtape 7 | Damn You, Blue Mask | merged into "Why Are You Playing Heroes?" | 2/23/2021
+Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged into "Why Are You Playing Heroes?" | 2/23/2021
+Mixtape 9 | I Know What It Takes To Be Invincible | merged into "Why Are You Playing Heroes?" and "Blood, Lust, and Intrigue" | 2/23/2021
+Mixtape 6 | I Don't Like Love, 'Cause I Love You | merged into "Blood, Lust, and Intrigue" | 3/9/2021
+|          | FORCED STEREO DELUXE | superseded by "Forced Stereo Championship" | 4/1/2021
+Mixtape 15 |  We'll Blow You Up Next | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
+Mixtape 17 | Don't Come 2 Me w Tales of Failure | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
+Mixtape 12 |  Defend Yourself | merged into "Danger Straight Ahead" | 4/4/2021
+Mixtape 11 |  I'm a Winner | merged into "Danger Straight Ahead" | 4/4/2021
 Mixtape 27 | Open the Strange Realm | updated | 4/25/2021
 
           
