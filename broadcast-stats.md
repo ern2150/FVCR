@@ -90,24 +90,24 @@ Mixtapes with Updates (by Last Changed)
 -----
 Mixtape # | Title | Update | Last Changed
 -- | -- | -- | --
-Mixtape 37 | Monster Rage Ball | updated | 6/25/2020
-Mixtape 30 | Don't Be a Big Shot | updated | 6/28/2020
-Mixtape 34 | Mind Games | updated | 7/2/2020
-Mixtape 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
-Mixtape 15 | We'll Blow You Up Next | updated | 11/22/2020
-Mixtape 25 | Everyone Is a Suspect | unclucked | 12/20/2020
-Mixtape 10 | Get Rich Regardless of the Means (End of 2019) | abridged and renamed | 1/3/2021
-Mixtape 36 | Something Missing in Your Head | updated | 2/11/2021
-Mixtape 7 | Damn You, Blue Mask | merged into "Why Are You Playing Heroes?" | 2/23/2021
-Mixtape 8 | You're Not a Ninja, You Can't Use the Beans | merged into "Why Are You Playing Heroes?" | 2/23/2021
-Mixtape 9 | I Know What It Takes To Be Invincible | merged into "Why Are You Playing Heroes?" and "Blood, Lust, and Intrigue" | 2/23/2021
-Mixtape 6 | I Don't Like Love, 'Cause I Love You | merged into "Blood, Lust, and Intrigue" | 3/9/2021
+37 | Monster Rage Ball | updated | 6/25/2020
+30 | Don't Be a Big Shot | updated | 6/28/2020
+34 | Mind Games | updated | 7/2/2020
+14 | And I'll Revenge Their Deaths | updated | 9/15/2020
+15 | We'll Blow You Up Next | updated | 11/22/2020
+25 | Everyone Is a Suspect | unclucked | 12/20/2020
+10 | Get Rich Regardless of the Means (End of 2019) | abridged and renamed | 1/3/2021
+36 | Something Missing in Your Head | updated | 2/11/2021
+7 | Damn You, Blue Mask | merged into "Why Are You Playing Heroes?" | 2/23/2021
+8 | You're Not a Ninja, You Can't Use the Beans | merged into "Why Are You Playing Heroes?" | 2/23/2021
+9 | I Know What It Takes To Be Invincible | merged into "Why Are You Playing Heroes?" and "Blood, Lust, and Intrigue" | 2/23/2021
+6 | I Don't Like Love, 'Cause I Love You | merged into "Blood, Lust, and Intrigue" | 3/9/2021
 |          | FORCED STEREO DELUXE | superseded by "Forced Stereo Championship" | 4/1/2021
-Mixtape 15 |  We'll Blow You Up Next | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
-Mixtape 17 | Don't Come 2 Me w Tales of Failure | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
-Mixtape 12 |  Defend Yourself | merged into "Danger Straight Ahead" | 4/4/2021
-Mixtape 11 |  I'm a Winner | merged into "Danger Straight Ahead" | 4/4/2021
-Mixtape 27 | Open the Strange Realm | updated | 4/25/2021
+15 |  We'll Blow You Up Next | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
+17 | Don't Come 2 Me w Tales of Failure | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
+12 |  Defend Yourself | merged into "Danger Straight Ahead" | 4/4/2021
+11 |  I'm a Winner | merged into "Danger Straight Ahead" | 4/4/2021
+27 | Open the Strange Realm | updated | 4/25/2021
 
           
 Intros
