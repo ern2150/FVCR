@@ -30,8 +30,6 @@ Mixtape # | Mixtape Title | Last Date
 34 | Mind Games | 2/18/2021
 20 | Cheap Thug in a Dirty Racket | 2/21/2021
 25 | Everyone Is A Suspect | 2/25/2021
-53 | The True Form of His Brains | 3/2/2021
-40 | Is There No End of It? | 3/4/2021
 38 | What's Wrong with You? | 3/4/2021
 54 | Sounds Like the Devil | 3/9/2021
 26 | Cannot Stop to Feel | 3/11/2021
@@ -69,7 +67,8 @@ Mixtape # | Mixtape Title | Last Date
   | Blood, Lust, and Intrigue | 4/25/2021
 44 | Fighting Warriors Be Alert | 4/27/2021
 60 | Try Your Best to Fight Me | 4/27/2021
-
+40 | Is There No End of It? | 4/29/2021
+53 | The True Form of His Brains | 4/29/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,12 +77,12 @@ Mixtape # | Mixtape Title | Last Date
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 3 | 1 (Tu)
-50s | 10 | 1 (Th)
+30s | 10 | 1 (Th)
 60s | 5 | 0 (Tu)
 Other | 9 | 0 (Su)
 20s | 10 | 0 (Su)
-30s | 10 | 0 (Th)
 40s | 10 | 0 (Tu)
+50s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -115,7 +114,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-4/27/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/29/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+4/29/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+4/29/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+4/29/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+4/29/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
+4/29/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
+4/29/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+4/29/2021 | FMW Opener / FMW Closer
+4/29/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 4/27/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 4/27/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
@@ -164,15 +171,11 @@ Latest Date | Video / Audio
 4/13/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 4/13/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
 4/13/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
-4/11/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-4/11/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-4/11/2021 | FMW Opener / FMW Closer
 4/11/2021 | Saint Seiya Opener / (same as video)
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 4/11/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 4/11/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
 4/11/2021 | Ultraman 80 Opener / (same as video)
-4/8/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
 4/1/2021 | SoundMarket - Earthshine / (same as video)
 4/1/2021 | Zodiac and Jason the Terrible / (same as video)
@@ -185,10 +188,7 @@ Latest Date | Video / Audio
 4/1/2021 | Daicon IV / ELO - Album opener, Twilight
 3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 3/28/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
-3/28/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 3/25/2021 | Heaven's Hell Trailer / (same as video)
-3/25/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-3/25/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 3/14/2021 | Ideon footage / Ideon opening full song
