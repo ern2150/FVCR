@@ -26,10 +26,8 @@ Mixtape # | Mixtape Title | Last Date
   | Video Beam Volume 1 | 2/14/2021
 30 | Don't Be a Big Shot | 2/16/2021
 28 | Forget about Luck | 2/18/2021
-34 | Mind Games | 2/18/2021
 20 | Cheap Thug in a Dirty Racket | 2/21/2021
 25 | Everyone Is A Suspect | 2/25/2021
-54 | Sounds Like the Devil | 3/9/2021
 26 | Cannot Stop to Feel | 3/11/2021
 41 | You Bastards are from the 30th Century? | 3/11/2021
 43 | This Will to Kill | 3/14/2021
@@ -69,7 +67,8 @@ Mixtape # | Mixtape Title | Last Date
 53 | The True Form of His Brains | 4/29/2021
 38 | What's Wrong with You? | 5/2/2021
   | End of 2020 | 5/2/2021
-
+34 | Mind Games | 5/4/2021
+54 | Sounds Like the Devil | 5/4/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,13 +76,13 @@ Mixtape # | Mixtape Title | Last Date
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 3 | 1 (Tu)
+10s | 3 | 2 (Tu)
+60s | 5 | 1 (Tu)
 20s | 10 | 1 (Su)
-60s | 5 | 0 (Tu)
+40s | 10 | 1 (Tu)
 Other | 9 | 0 (Su)
-30s | 10 | 0 (Su)
-40s | 10 | 0 (Tu)
-50s | 10 | 0 (Th)
+30s | 10 | 0 (Tu)
+50s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -115,8 +114,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/2/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-5/2/2021 | Fox Force Four Fiesta Firearm Fun / George Duke - Reach Out
+5/4/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/4/2021 | SHIT FUCK VENOM RANGERS / Com Truise - Memory
+5/4/2021 | Fox Force Four Fiesta Firearm Fun / George Duke - Reach Out
+5/4/2021 | Angel Terminators / The First Family - Slow Motion
+5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+5/4/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+5/4/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+5/4/2021 | Gunbuster Intro with prologue / (same as video)
+5/4/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/2/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 5/2/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 5/2/2021 | Ninja the Protector credits / DANDY COLOGNE
@@ -145,7 +151,6 @@ Latest Date | Video / Audio
 4/27/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
 4/27/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 4/25/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-4/25/2021 | Angel Terminators / The First Family - Slow Motion
 4/25/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
 4/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
 4/25/2021 | Anime Previews incl Genocyber / (same as video)
@@ -158,7 +163,6 @@ Latest Date | Video / Audio
 4/22/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
 4/22/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
-4/20/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 4/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 4/20/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 4/20/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
@@ -169,8 +173,6 @@ Latest Date | Video / Audio
 4/18/2021 | Actual Robowar intro / (same as video)
 4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 4/18/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-4/15/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-4/15/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 4/15/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 4/13/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 4/13/2021 | Tah Tien credits / (same as video)
@@ -185,7 +187,6 @@ Latest Date | Video / Audio
 4/1/2021 | Drifting Women / Rainbo - Integra Type
 4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami
 4/1/2021 | Yattodetaman Opener / (same as video)
-4/1/2021 | Vaporwave Beach / AHero - Slow Summer
 4/1/2021 | Naoko Kawai - Control / (same as video)
 4/1/2021 | GoLion Opener / (same as video)
 3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
@@ -195,7 +196,6 @@ Latest Date | Video / Audio
 3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 3/14/2021 | Ideon footage / Ideon opening full song
 3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
-3/9/2021 | Gunbuster Intro with prologue / (same as video)
 3/4/2021 | STREAM TRAILER / Ideon opening full song
 2/28/2021 | Kamen Rider Ay-Ay / (same as video)
 2/16/2021 | Dairanger Opener / (same as video)
