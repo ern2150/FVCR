@@ -28,7 +28,6 @@ Mixtape # | Mixtape Title | Last Date
 28 | Forget about Luck | 2/18/2021
 20 | Cheap Thug in a Dirty Racket | 2/21/2021
 25 | Everyone Is A Suspect | 2/25/2021
-26 | Cannot Stop to Feel | 3/11/2021
 43 | This Will to Kill | 3/14/2021
 61 | I Must Make Sure You Fail | 3/16/2021
 55 | I Had a Heart Once | 3/16/2021
@@ -69,7 +68,8 @@ Mixtape # | Mixtape Title | Last Date
 34 | Mind Games | 5/4/2021
 54 | Sounds Like the Devil | 5/4/2021
 41 | You Bastards are from the 30th Century? | 5/6/2021
-
+26 | Cannot Stop to Feel | 5/9/2021
+65 | Suffer My Deadly Arts | 5/9/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,9 +77,9 @@ Mixtape # | Mixtape Title | Last Date
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 3 | 2 (Tu)
-60s | 5 | 1 (Tu)
-20s | 10 | 1 (Su)
-Other | 9 | 0 (Su)
+Other | 9 | 1 (Su)
+60s | 6 | 0 (Su)
+20s | 10 | 0 (Su)
 30s | 10 | 0 (Tu)
 40s | 10 | 0 (Th)
 50s | 10 | 0 (Tu)
@@ -114,7 +114,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/6/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/9/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/9/2021 | ZAR and the West Side Boys / Joji - Pretty Boy
+5/9/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+5/9/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+5/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
+5/9/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
+5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
+5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 5/6/2021 | VENOM RANGERS / Com Truise - Memory
 5/6/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 5/6/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
@@ -148,21 +155,17 @@ Latest Date | Video / Audio
 5/2/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
 5/2/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
-4/29/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 4/29/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 4/29/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 4/29/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 4/29/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 4/29/2021 | FMW Opener / FMW Closer
-4/29/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 4/27/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 4/27/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-4/27/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 4/27/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 4/25/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 4/25/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-4/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
 4/25/2021 | Anime Previews incl Genocyber / (same as video)
 4/22/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 4/22/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
@@ -176,7 +179,6 @@ Latest Date | Video / Audio
 4/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 4/20/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 4/20/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
-4/18/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
 4/18/2021 | Actual Robowar intro / (same as video)
 4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 4/15/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
@@ -193,7 +195,6 @@ Latest Date | Video / Audio
 4/1/2021 | Naoko Kawai - Control / (same as video)
 4/1/2021 | GoLion Opener / (same as video)
 3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
-3/28/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 3/25/2021 | Heaven's Hell Trailer / (same as video)
 3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
 3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
