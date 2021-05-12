@@ -29,7 +29,6 @@ Mixtape # | Mixtape Title | Last Date
 20 | Cheap Thug in a Dirty Racket | 2/21/2021
 25 | Everyone Is A Suspect | 2/25/2021
 43 | This Will to Kill | 3/14/2021
-61 | I Must Make Sure You Fail | 3/16/2021
 55 | I Had a Heart Once | 3/16/2021
 47 | Put Yourself in the Universe | 3/18/2021
 48 | Same Deal Next Time | 3/21/2021
@@ -69,20 +68,22 @@ Mixtape # | Mixtape Title | Last Date
 54 | Sounds Like the Devil | 5/4/2021
 41 | You Bastards are from the 30th Century? | 5/6/2021
 26 | Cannot Stop to Feel | 5/9/2021
-65 | Suffer My Deadly Arts | 5/9/2021
+65 | Suffer My Deadly Arts | 5/11/2021
+61 | I Must Make Sure You Fail | 5/11/2021
+
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 3 | 2 (Tu)
+10s | 3 | 3 (Tu)
 Other | 9 | 1 (Su)
-60s | 6 | 0 (Su)
+30s | 10 | 1 (Tu)
+50s | 10 | 1 (Tu)
+60s | 6 | 0 (Tu)
 20s | 10 | 0 (Su)
-30s | 10 | 0 (Tu)
 40s | 10 | 0 (Th)
-50s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -114,7 +115,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/9/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/11/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN
+5/11/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
+5/11/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+5/11/2021 | Island Rydeen / Senor Coconut - Rydeen
+5/11/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
+5/11/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+5/11/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+5/11/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+5/11/2021 | Anime Previews incl Genocyber / (same as video)
 5/9/2021 | ZAR and the West Side Boys / Joji - Pretty Boy
 5/9/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 5/9/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
@@ -161,20 +172,11 @@ Latest Date | Video / Audio
 4/29/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 4/29/2021 | FMW Opener / FMW Closer
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
-4/27/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 4/27/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 4/27/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
-4/25/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 4/25/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-4/25/2021 | Anime Previews incl Genocyber / (same as video)
-4/22/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-4/22/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
-4/22/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-4/22/2021 | Island Rydeen / Senor Coconut - Rydeen
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
 4/22/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
-4/22/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
-4/22/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 4/20/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
