@@ -1,3 +1,8 @@
+Mac bash epoch from custom date format
+```
+date -j -f '%Y-%M-%d %T' "2020-04-02 20:47:09" "+%s"
+```
+
 Log manipulation for relative time
 ```
 sed -n "/starttime/,/endtime/p" filename > snipped-content 
