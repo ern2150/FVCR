@@ -4,6 +4,7 @@ Table of Contents
  - [Mixtape Decades Stats](#decades-by-weeks-since-seen-descending)
  - [Mixtapes with Updates](#mixtapes-with-updates-by-last-changed)
  - [Intros](#intros)
+ - [Outros](#outros)
  - [Footnotes](#notes)
 
 
@@ -29,8 +30,6 @@ Mixtape # | Mixtape Title | Last Date
 20 | Cheap Thug in a Dirty Racket | 2/21/2021
 25 | Everyone Is A Suspect | 2/25/2021
 43 | This Will to Kill | 3/14/2021
-48 | Same Deal Next Time | 3/21/2021
-62 | One Lousy Nobody, What Can He Do | 3/23/2021
 56 | Everyone Has Got to Live, Even Thieves | 3/23/2021
 37 | Monster Rage Ball | 3/25/2021
 35 | Imagination Creates Reality | 3/28/2021
@@ -70,6 +69,8 @@ Mixtape # | Mixtape Title | Last Date
 61 | I Must Make Sure You Fail | 5/11/2021
 47 | Put Yourself in the Universe | 5/13/2021
 55 | I Had a Heart Once | 5/13/2021
+48 | Same Deal Next Time | 5/18/2021
+62 | One Lousy Nobody, What Can He Do | 5/18/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +78,12 @@ Mixtape # | Mixtape Title | Last Date
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 3 | 3 (Tu)
-Other | 9 | 1 (Su)
-30s | 10 | 1 (Tu)
+10s | 3 | 4 (Tu)
+Other | 9 | 2 (Su)
+30s | 10 | 2 (Tu)
+20s | 10 | 1 (Su)
 60s | 6 | 0 (Tu)
-20s | 10 | 0 (Su)
-40s | 10 | 0 (Th)
+40s | 10 | 0 (Tu)
 50s | 10 | 0 (Th)
 
 
@@ -115,7 +116,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/13/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/18/2021 | Fox Force Four Fiesta Firearm Fun / George Duke - Reach Out
+5/18/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+5/18/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
+5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
+5/18/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+5/18/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
+5/18/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+5/18/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+5/18/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 5/13/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13
 5/13/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
@@ -135,7 +145,7 @@ Latest Date | Video / Audio
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
 5/11/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
 5/11/2021 | Island Rydeen / Senor Coconut - Rydeen
-5/11/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
+5/11/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
 5/11/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 5/11/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 5/11/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
@@ -160,17 +170,14 @@ Latest Date | Video / Audio
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
 5/6/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 5/4/2021 | SHIT FUCK / (same as video)
-5/4/2021 | Fox Force Four Fiesta Firearm Fun / George Duke - Reach Out
 5/4/2021 | Angel Terminators / The First Family - Slow Motion
 5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 5/4/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 5/4/2021 | Gunbuster Intro with prologue / (same as video)
 5/4/2021 | Vaporwave Beach / Ahero - Slow Summer
-5/2/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 5/2/2021 | Baki end whiteout / (same as video)
 5/2/2021 | HEYYYY JAPAAAAN / (same as video)
 5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
-5/2/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/2/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 5/2/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
 5/2/2021 | Ultraman 80 Opener / (same as video)
@@ -178,16 +185,10 @@ Latest Date | Video / Audio
 5/2/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
-4/27/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-4/27/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
-4/22/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/18/2021 | Actual Robowar intro / (same as video)
 4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-4/15/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-4/13/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-4/13/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 4/11/2021 | Saint Seiya Opener / (same as video)
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
@@ -219,6 +220,14 @@ Latest Date | Video / Audio
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / (same as video)
+
+
+Outros
+------
+Latest Date | Video / Audio
+-- | --
+5/18/2021 | Track and Field Tigamask / ?? - ??
+5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
 Notes
