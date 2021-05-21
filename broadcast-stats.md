@@ -18,11 +18,11 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Hallowed Out (2020 Halloween Vol 1) | 11/1/2020 | 10/4/2020
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
-22 | By Tonight, You'll Be History | 1/5/2021 | 2/2/2020
+22 | ~~By Tonight, You'll Be History (Retired)~~ | 1/5/2021 | 2/2/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-21 | Enlightenment Isn't Serious | 1/19/2021 | 1/26/2020
+21 | ~~Enlightenment Isn't Serious (Retired)~~ | 1/19/2021 | 1/26/2020
 31 | Magic Hand | 1/24/2021 | 4/12/2020
-23 | Dangerous and ColdBlooded | 1/26/2021 | 2/11/2020
+23 | ~~Dangerous and ColdBlooded (Retired)~~ | 1/26/2021 | 2/11/2020
 29 | No Wonder You're So Brave | 2/4/2021 | 3/22/2020
 &nbsp; | Video Beam Volume 1 | 2/14/2021 | 3/29/2020
 30 | Don't Be a Big Shot | 2/16/2021 | 4/5/2020
@@ -80,12 +80,12 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 3 | 4 (Tu)
-Other | 9 | 2 (Su)
 30s | 10 | 2 (Tu)
 20s | 10 | 1 (Su)
 60s | 6 | 0 (Tu)
 40s | 10 | 0 (Tu)
 50s | 10 | 0 (Th)
+Other | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -110,6 +110,9 @@ Mixtape # | Title | Update | Last Changed
 12 |  Defend Yourself | merged into "Danger Straight Ahead" | 4/4/2021
 11 |  I'm a Winner | merged into "Danger Straight Ahead" | 4/4/2021
 27 | Open the Strange Realm | updated | 4/25/2021
+21 | Enlightenment Isn't Serious | merged into "It's Your Turn to Die" | 5/20/2021
+22 | By Tonight, You'll Be History | merged into "It's Your Turn to Die" | 5/20/2021
+23 | Dangerous and ColdBlooded | merged into "It's Your Turn to Die" | 5/20/2021
 
           
 Intros
