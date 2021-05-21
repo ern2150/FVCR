@@ -11,66 +11,67 @@ Table of Contents
 Sorted by Last date (Most recent date), ascending
 -----
 
-Mixtape # | Mixtape Title | Last Date
--- | -- | --
-19 | EZ Movie Intro Vortex | 8/20/2020
-14 | And I'll Revenge Their Deaths | 9/15/2020
-  | 2020 Halloween Vol 1 | 11/1/2020
-  | 2020 Halloween Vol 3 | 11/1/2020
-33 | Why Do You Challenge Us? | 12/20/2020
-22 | By Tonight, You'll Be History | 1/5/2021
-24 | A Conspiracy of Ninjas and Vampires | 1/7/2021
-21 | Enlightenment Isn't Serious | 1/19/2021
-31 | Magic Hand | 1/24/2021
-23 | Dangerous and ColdBlooded | 1/26/2021
-29 | No Wonder You're So Brave | 2/4/2021
-  | Video Beam Volume 1 | 2/14/2021
-30 | Don't Be a Big Shot | 2/16/2021
-28 | Forget about Luck | 2/18/2021
-20 | Cheap Thug in a Dirty Racket | 2/21/2021
-25 | Everyone Is A Suspect | 2/25/2021
-43 | This Will to Kill | 3/14/2021
-56 | Everyone Has Got to Live, Even Thieves | 3/23/2021
-37 | Monster Rage Ball | 3/25/2021
-35 | Imagination Creates Reality | 3/28/2021
-50 | The Awesome Power of Destruction You Possess | 3/28/2021
-51 | Money, Power, and Position | 3/30/2021
-57 | Is There No Justice Anymore? | 3/30/2021
-  | Forced Stereo Championship | 4/1/2021
-42 | Go and Destroy the Enemy Forever | 4/1/2021
-  | I'm Glad to See You're Prepared to Die | 4/4/2021
-  | Danger Straight Ahead | 4/4/2021
-52 | Let You Through to Hell | 4/6/2021
-58 | Why Do You Help the Evil Person? | 4/6/2021
-32 | Destroy the Indestructible | 4/8/2021
-49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021
-45 | Cheer of Love | 4/11/2021
-63 | This Sword Will Belong to You Forever | 4/13/2021
-  | Why Are You Playing Heroes? | 4/13/2021
-59 | Now the Fun Begins | 4/15/2021
-46 | We Smile Because We Are Alive | 4/18/2021
-64 | Hold You Close and Feel Things | 4/20/2021
-10 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021
-36 | Something Missing in Your Head | 4/22/2021
-39 | The Kids Became Normal Again | 4/22/2021
-27 | Open the Strange Realm | 4/25/2021
-  | Blood, Lust, and Intrigue | 4/25/2021
-44 | Fighting Warriors Be Alert | 4/27/2021
-60 | Try Your Best to Fight Me | 4/27/2021
-40 | Is There No End of It? | 4/29/2021
-53 | The True Form of His Brains | 4/29/2021
-38 | What's Wrong with You? | 5/2/2021
-  | End of 2020 | 5/2/2021
-34 | Mind Games | 5/4/2021
-54 | Sounds Like the Devil | 5/4/2021
-41 | You Bastards are from the 30th Century? | 5/6/2021
-26 | Cannot Stop to Feel | 5/9/2021
-65 | Suffer My Deadly Arts | 5/11/2021
-61 | I Must Make Sure You Fail | 5/11/2021
-47 | Put Yourself in the Universe | 5/13/2021
-55 | I Had a Heart Once | 5/13/2021
-48 | Same Deal Next Time | 5/18/2021
-62 | One Lousy Nobody, What Can He Do | 5/18/2021
+Mixtape # | Mixtape Title | Last Date | Original Debut
+-- | -- | -- | --
+19 | EZ Movie Intro Vortex | 8/20/2020 | 1/14/2020
+14 | And I'll Revenge Their Deaths | 9/15/2020 | 12/8/2019
+&nbsp; | Hallowed Out (2020 Halloween Vol 1) | 11/1/2020 | 10/4/2020
+&nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
+33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
+22 | By Tonight, You'll Be History | 1/5/2021 | 2/2/2020
+24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
+21 | Enlightenment Isn't Serious | 1/19/2021 | 1/26/2020
+31 | Magic Hand | 1/24/2021 | 4/12/2020
+23 | Dangerous and ColdBlooded | 1/26/2021 | 2/11/2020
+29 | No Wonder You're So Brave | 2/4/2021 | 3/22/2020
+&nbsp; | Video Beam Volume 1 | 2/14/2021 | 3/29/2020
+30 | Don't Be a Big Shot | 2/16/2021 | 4/5/2020
+28 | Forget about Luck | 2/18/2021 | 3/15/2020
+20 | Cheap Thug in a Dirty Racket | 2/21/2021 | 1/19/2020
+25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
+43 | This Will to Kill | 3/14/2021 | 7/23/2020
+37 | Monster Rage Ball | 3/25/2021 | 5/31/2020
+35 | Imagination Creates Reality | 3/28/2021 | 5/17/2020
+50 | The Awesome Power of Destruction You Possess | 3/28/2021 | 11/15/2020
+51 | Money, Power, and Position | 3/30/2021 | 12/6/2020
+57 | Is There No Justice Anymore? | 3/30/2021 | 2/2/2021
+&nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
+42 | Go and Destroy the Enemy Forever | 4/1/2021 | 7/9/2020
+&nbsp; | I'm Glad to See You're Prepared to Die | 4/4/2021 | 4/4/2021
+&nbsp; | Danger Straight Ahead | 4/4/2021 | 4/4/2021
+52 | Let You Through to Hell | 4/6/2021 | 12/13/2020
+58 | Why Do You Help the Evil Person? | 4/6/2021 | 2/7/2021
+32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
+49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
+45 | Cheer of Love | 4/11/2021 | 8/9/2020
+63 | This Sword Will Belong to You Forever | 4/13/2021 | 4/11/2021
+&nbsp; | Why Are You Playing Heroes? | 4/13/2021 | 2/23/2021
+59 | Now the Fun Begins | 4/15/2021 | 2/14/2021
+46 | We Smile Because We Are Alive | 4/18/2021 | 8/20/2020
+64 | Hold You Close and Feel Things | 4/20/2021 | 4/18/2021
+10 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
+36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
+39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
+27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
+&nbsp; | Blood, Lust, and Intrigue | 4/25/2021 | 3/9/2021
+44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
+60 | Try Your Best to Fight Me | 4/27/2021 | 2/28/2021
+40 | Is There No End of It? | 4/29/2021 | 6/23/2020
+53 | The True Form of His Brains | 4/29/2021 | 12/27/2020
+38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
+&nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
+34 | Mind Games | 5/4/2021 | 5/10/2020
+54 | Sounds Like the Devil | 5/4/2021 | 1/10/2021
+41 | You Bastards are from the 30th Century? | 5/6/2021 | 6/30/2020
+26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
+65 | Suffer My Deadly Arts | 5/11/2021 | 5/9/2021
+61 | I Must Make Sure You Fail | 5/11/2021 | 3/14/2021
+47 | Put Yourself in the Universe | 5/13/2021 | 9/13/2020
+55 | I Had a Heart Once | 5/13/2021 | 1/17/2021
+48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
+62 | One Lousy Nobody, What Can He Do | 5/18/2021 | 3/21/2021
+&nbsp; | It's Your Turn to Die | 5/20/2021 | 5/20/2021
+56 | Everyone Has Got to Live, Even Thieves | 5/20/2021 | 1/24/2021
 
 
 "Decades" by Weeks Since Seen, descending
