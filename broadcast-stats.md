@@ -120,14 +120,24 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/20/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/20/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / ??
+5/20/2021 | Funinja Explosions / ??
+5/20/2021 | Ninja the Protector credits / DANDY COLOGNE
+5/20/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
+5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+5/20/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+5/20/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+5/20/2021 | VENOM RANGERS / Com Truise - Memory
+5/20/2021 | ULTRAMAN 80 Opener / (same as video)
+5/20/2021 | Ultraman ZOFFY lsd opener / Hudson People - Trip to Your Mind
+5/20/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 5/18/2021 | Fox Force Four Fiesta Firearm Fun / George Duke - Reach Out
 5/18/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 5/18/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
 5/18/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 5/18/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-5/18/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/18/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 5/18/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 5/13/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
@@ -139,7 +149,6 @@ Latest Date | Video / Audio
 5/13/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 5/13/2021 | FMW Opener / FMW Closer
 5/13/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-5/13/2021 | Ninja the Protector credits / DANDY COLOGNE
 5/13/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 5/13/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 5/13/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
@@ -161,7 +170,6 @@ Latest Date | Video / Audio
 5/9/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
 5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
-5/6/2021 | VENOM RANGERS / Com Truise - Memory
 5/6/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 5/6/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
 5/6/2021 | Knight of Justice Death Call / (same as video)
@@ -181,12 +189,6 @@ Latest Date | Video / Audio
 5/4/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/2/2021 | Baki end whiteout / (same as video)
 5/2/2021 | HEYYYY JAPAAAAN / (same as video)
-5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
-5/2/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-5/2/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-5/2/2021 | Ultraman 80 Opener / (same as video)
-5/2/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-5/2/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
@@ -230,7 +232,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-5/18/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+5/20/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
