@@ -18,11 +18,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Hallowed Out (2020 Halloween Vol 1) | 11/1/2020 | 10/4/2020
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
-22 | ~~By Tonight, You'll Be History (Retired)~~ | 1/5/2021 | 2/2/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-21 | ~~Enlightenment Isn't Serious (Retired)~~ | 1/19/2021 | 1/26/2020
 31 | Magic Hand | 1/24/2021 | 4/12/2020
-23 | ~~Dangerous and ColdBlooded (Retired)~~ | 1/26/2021 | 2/11/2020
 29 | No Wonder You're So Brave | 2/4/2021 | 3/22/2020
 &nbsp; | Video Beam Volume 1 | 2/14/2021 | 3/29/2020
 30 | Don't Be a Big Shot | 2/16/2021 | 4/5/2020
@@ -32,7 +29,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 37 | Monster Rage Ball | 3/25/2021 | 5/31/2020
 35 | Imagination Creates Reality | 3/28/2021 | 5/17/2020
-50 | The Awesome Power of Destruction You Possess | 3/28/2021 | 11/15/2020
 51 | Money, Power, and Position | 3/30/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 3/30/2021 | 2/2/2021
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
@@ -72,7 +68,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 62 | One Lousy Nobody, What Can He Do | 5/18/2021 | 3/21/2021
 &nbsp; | It's Your Turn to Die | 5/20/2021 | 5/20/2021
 56 | Everyone Has Got to Live, Even Thieves | 5/20/2021 | 1/24/2021
-
+50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
+66 | Do You Really Have the Confidence? | 5/23/2021 | 5/23/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -81,8 +78,8 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 3 | 4 (Tu)
 30s | 10 | 2 (Tu)
-20s | 10 | 1 (Su)
-60s | 6 | 0 (Tu)
+20s | 10 | 2 (Su)
+60s | 7 | 0 (Su)
 40s | 10 | 0 (Tu)
 50s | 10 | 0 (Th)
 Other | 10 | 0 (Th)
@@ -120,11 +117,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/20/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-5/20/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / ??
-5/20/2021 | Funinja Explosions / ??
+5/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
+5/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+5/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+5/23/2021 | Knight of Justice Death Call / (same as video)
+5/23/2021 | Jerry Harris - Bachelor Life / (same as video)
+5/23/2021 | Emergency Alert Please Stand by / (Beep)
+5/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+5/23/2021 | SHIT FUCK / (same as video)
+5/23/2021 | Angel Terminators / The First Family - Slow Motion
+5/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+5/23/2021 | FUNinja Explosions / ??
 5/20/2021 | Ninja the Protector credits / DANDY COLOGNE
-5/20/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
+5/20/2021 | Baki end whiteout / (same as video)
+5/20/2021 | HEYYYY JAPAAAAN / (same as video)
+5/20/2021 | Baki fights Big Red Cord Cutter, HEY JAPAN, Baki Keep on Winning / Roger Daltrey - Escape Part Two, original audio
 5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/20/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 5/20/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
@@ -167,28 +175,18 @@ Latest Date | Video / Audio
 5/9/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 5/9/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 5/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
-5/9/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Singed Sealed Delivered
 5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
-5/6/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-5/6/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-5/6/2021 | Knight of Justice Death Call / (same as video)
-5/6/2021 | Jerry Harris - Bachelor Life / (same as video)
-5/6/2021 | Emergency Alert Please Stand by / (Beep)
-5/6/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
 5/6/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 5/6/2021 | Tah Tien credits / (same as video)
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
 5/6/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-5/4/2021 | SHIT FUCK / (same as video)
-5/4/2021 | Angel Terminators / The First Family - Slow Motion
 5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 5/4/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 5/4/2021 | Gunbuster Intro with prologue / (same as video)
 5/4/2021 | Vaporwave Beach / Ahero - Slow Summer
-5/2/2021 | Baki end whiteout / (same as video)
-5/2/2021 | HEYYYY JAPAAAAN / (same as video)
+5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
@@ -232,7 +230,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-5/20/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+5/23/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
