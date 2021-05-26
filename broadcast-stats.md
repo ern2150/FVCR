@@ -28,7 +28,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 37 | Monster Rage Ball | 3/25/2021 | 5/31/2020
-35 | Imagination Creates Reality | 3/28/2021 | 5/17/2020
 51 | Money, Power, and Position | 3/30/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 3/30/2021 | 2/2/2021
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
@@ -69,18 +68,19 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | It's Your Turn to Die | 5/20/2021 | 5/20/2021
 56 | Everyone Has Got to Live, Even Thieves | 5/20/2021 | 1/24/2021
 50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
-66 | Do You Really Have the Confidence? | 5/23/2021 | 5/23/2021
+66 | Do You Really Have the Confidence? | 5/25/2021 | 5/23/2021
+35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 3 | 4 (Tu)
-30s | 10 | 2 (Tu)
+10s | 3 | 5 (Tu)
 20s | 10 | 2 (Su)
-60s | 7 | 0 (Su)
-40s | 10 | 0 (Tu)
+40s | 10 | 1 (Tu)
+60s | 7 | 0 (Tu)
+30s | 10 | 0 (Tu)
 50s | 10 | 0 (Th)
 Other | 10 | 0 (Th)
 
@@ -117,7 +117,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/25/2021 | Zar and the West Side Boys / Joji - Pretty Boy
+5/25/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+5/25/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+5/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
+5/25/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+5/25/2021 | Gunbuster Intro with prologue / (same as video)
+5/25/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 5/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 5/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
@@ -171,10 +178,6 @@ Latest Date | Video / Audio
 5/11/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 5/11/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 5/11/2021 | Anime Previews incl Genocyber / (same as video)
-5/9/2021 | ZAR and the West Side Boys / Joji - Pretty Boy
-5/9/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-5/9/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-5/9/2021 | Green tinted action movie / Delegation - Heartache No. 9
 5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 5/6/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
@@ -183,9 +186,6 @@ Latest Date | Video / Audio
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
 5/6/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-5/4/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
-5/4/2021 | Gunbuster Intro with prologue / (same as video)
-5/4/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
 4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
@@ -230,7 +230,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-5/23/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+5/25/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
