@@ -28,8 +28,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 37 | Monster Rage Ball | 3/25/2021 | 5/31/2020
-51 | Money, Power, and Position | 3/30/2021 | 12/6/2020
-57 | Is There No Justice Anymore? | 3/30/2021 | 2/2/2021
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 42 | Go and Destroy the Enemy Forever | 4/1/2021 | 7/9/2020
 &nbsp; | I'm Glad to See You're Prepared to Die | 4/4/2021 | 4/4/2021
@@ -70,6 +68,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
 66 | Do You Really Have the Confidence? | 5/25/2021 | 5/23/2021
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
+51 | Money, Power, and Position | 5/27/2021 | 12/6/2020
+57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -79,10 +79,10 @@ Decade | Available Tapes | Weeks since seen
 10s | 3 | 5 (Tu)
 20s | 10 | 2 (Su)
 40s | 10 | 1 (Tu)
+Other | 10 | 1 (Th)
 60s | 7 | 0 (Tu)
 30s | 10 | 0 (Tu)
 50s | 10 | 0 (Th)
-Other | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -117,7 +117,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/27/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/27/2021 | Fashion Show Massacre at the Mini-Louvre / ??
+5/27/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
+5/27/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
+5/27/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+5/27/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+5/27/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 5/25/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/25/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 5/25/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
@@ -172,11 +179,6 @@ Latest Date | Video / Audio
 5/11/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
 5/11/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-5/11/2021 | Island Rydeen / Senor Coconut - Rydeen
-5/11/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
-5/11/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-5/11/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-5/11/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 5/11/2021 | Anime Previews incl Genocyber / (same as video)
 5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
@@ -184,7 +186,6 @@ Latest Date | Video / Audio
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 5/6/2021 | Tah Tien credits / (same as video)
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
-5/6/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
@@ -230,7 +231,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-5/25/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+5/27/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
