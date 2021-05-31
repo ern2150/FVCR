@@ -30,8 +30,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 37 | Monster Rage Ball | 3/25/2021 | 5/31/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 42 | Go and Destroy the Enemy Forever | 4/1/2021 | 7/9/2020
-&nbsp; | I'm Glad to See You're Prepared to Die | 4/4/2021 | 4/4/2021
-&nbsp; | Danger Straight Ahead | 4/4/2021 | 4/4/2021
 52 | Let You Through to Hell | 4/6/2021 | 12/13/2020
 58 | Why Do You Help the Evil Person? | 4/6/2021 | 2/7/2021
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
@@ -70,6 +68,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
 51 | Money, Power, and Position | 5/27/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
+&nbsp; | I'm Glad to See You're Prepared to Die | 5/30/2021 | 4/4/2021
+&nbsp; | Danger Straight Ahead | 5/30/2021 | 4/4/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,12 +77,12 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 3 | 5 (Tu)
-20s | 10 | 2 (Su)
+20s | 10 | 3 (Su)
 40s | 10 | 1 (Tu)
-Other | 10 | 1 (Th)
 60s | 7 | 0 (Tu)
 30s | 10 | 0 (Tu)
 50s | 10 | 0 (Th)
+Other | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -117,8 +117,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-5/27/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-5/27/2021 | Fashion Show Massacre at the Mini-Louvre / ??
+5/30/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+5/30/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+5/30/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+5/30/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+5/30/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+5/30/2021 | FMW Opener / FMW Closer
+5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
+5/30/2021 | Ninja the Protector credits / DANDY COLOGNE
+5/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+5/30/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+5/30/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+5/30/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 5/27/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
@@ -143,7 +153,6 @@ Latest Date | Video / Audio
 5/23/2021 | Angel Terminators / The First Family - Slow Motion
 5/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 5/23/2021 | FUNinja Explosions / ??
-5/20/2021 | Ninja the Protector credits / DANDY COLOGNE
 5/20/2021 | Baki end whiteout / (same as video)
 5/20/2021 | HEYYYY JAPAAAAN / (same as video)
 5/20/2021 | Baki fights Big Red Cord Cutter, HEY JAPAN, Baki Keep on Winning / Roger Daltrey - Escape Part Two, original audio
@@ -168,17 +177,8 @@ Latest Date | Video / Audio
 5/13/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 5/13/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
-5/13/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-5/13/2021 | FMW Opener / FMW Closer
-5/13/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-5/13/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-5/13/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-5/13/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-5/13/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN
-5/11/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
-5/11/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
 5/11/2021 | Anime Previews incl Genocyber / (same as video)
 5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
@@ -231,7 +231,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-5/27/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+5/30/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
