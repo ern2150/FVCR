@@ -35,7 +35,7 @@ Diamonds (31-40)
 * ...
 * 10 = 40 = Is There No End of It?
 
-Herts (41-49)
+Herts (41-50)
 --------
 * Ace = 41 = You Bastards Are from the 30th Century?!
 * ...
@@ -61,6 +61,9 @@ Recent Tapes (51-?)
 * King of Spades = 51 = Money, Power, and Position
 * King of Clubs = 52 = Let You Through to Hell
 * 3 of Spades (13 is retired) = 53 = The True Form of His Brains
+* King of Diamonds = 54 = Sounds Like the Devil
+* King of Herts = 55 = I Had a Heart Once
+* 6 of Spades (16 is retired) = 56 = Everyone Has to Live, Even Thieves
 
 And Don't Forget
 --------
