@@ -116,6 +116,13 @@ Output #0, null, to 'pipe:':
 frame=343557 fps=593 q=-0.0 Lsize=N/A time=03:10:51.90 bitrate=N/A speed=19.8x    
 video:179831kB audio:1500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
 ```
+```
+ffmpeg -i ../20210521/1622163701.023641.51r57r.480p.mp4 -i 102420.1620781065-002.mkv -filter_complex signature=detectmode=full:nb_inputs=2 -f null -
+.
+.
+.
+[Parsed_signature_0 @ 0x7fde71e3a280] matching of video 0 at 6907.867333 and 1 at 7.467000, 2770 frames matching
+```
 
 #### mystery signature 
 `0x7f829660c980`
