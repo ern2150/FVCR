@@ -116,3 +116,6 @@ Output #0, null, to 'pipe:':
 frame=343557 fps=593 q=-0.0 Lsize=N/A time=03:10:51.90 bitrate=N/A speed=19.8x    
 video:179831kB audio:1500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
 ```
+
+#### mystery signature 
+`0x7f829660c980`
