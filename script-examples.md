@@ -195,3 +195,9 @@ ffmpeg -i ../20210521/1622424588.023231.IGTSYPTDrDSAr.480p.mp4 -i 66690.16224245
 .
 [Parsed_signature_0 @ 0x7fc2e0e01240] matching of video 0 at 5363.000333 and 1 at 0.301000, 60 frames matching
 ```
+
+### NAOKO
+```
+ffmpeg -i ../20210521/1622424588.023231.IGTSYPTDrDSAr.480p.mp4 -i 223290-223379.1621560636.NAOKO.mkv -filter_complex signature=detectmode=full:nb_inputs=2 -f null -
+[Parsed_signature_0 @ 0x7fa45fe05ec0] matching of video 0 at 3855.467333 and 1 at 1.634000, 60 frames matching
+```
