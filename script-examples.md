@@ -36,9 +36,14 @@ It's by no means perfect -- streamlink won't touch "protected" videos (which usu
 Files and duplicates and uniq ness
 ----------------------------------
 ```
+better matching
 grep "\t" *.fingerprint.csv | tr ':' '\t' | awk '{print $4 " " index($1,"16183") "_"
 $1}' | sort -r | uniq | awk '{print $2 " " $1}' | uniq -f1 -c | awk '$1>1 && index($2,"1_")>0 {cmd="find . -name "$3"* |
  wc -l";cmd | getline x;close(cmd);print $3 "_" substr($2,3) " count:" x;}' | awk '$3==0 {print $1}'
+ 
+old way with filename subst and script building 
+	grep "\t" *.fingerprint.csv | tr ':' ' ' | awk -v fpfx="$vfile" '{print $2 " " $3 " " index($1,fpfx) "_" $1 " " $4}' | sort -r -k4 -k3 | uniq -c -f2 | tr ':' ' ' | uniq -c -f4 | sort -rh | tr -s ' ' | grep "^[[:space:]]2.*1_" | awk '{print "ffmpeg -ss " $3/30 " -i " substr($5,3,index($5,".fingerprint")-3) " -to " $4/30-$3/30 " -n -vcodec copy -acodec copy " $6 "_" substr($5,3,index($5,".fingerprint")-3) }' > $vfile.ffmpeg.sh 
+
 ```
 
 
