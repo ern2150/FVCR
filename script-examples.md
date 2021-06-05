@@ -33,6 +33,12 @@ From this output I can further filter for "No playable streams found" to find th
 
 It's by no means perfect -- streamlink won't touch "protected" videos (which usually means there's NSFW content and you need to be signed into a streaming service before you can tell if it has any actual video), and it can't process archive.org top-level urls.
 
+Files and duplicates and uniq ness
+----------------------------------
+```
+grep "\t" *.fingerprint.csv | tr ':' '\t' | awk '{print $4 " " index($1,"16117") "_" $1}' | sort -r | uniq | awk '{print $2 " " $1}' | uniq -f1 -c | awk '$1==2 & index($2,"1_")>0'
+```
+
 
 Video match
 -----------
