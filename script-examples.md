@@ -36,7 +36,9 @@ It's by no means perfect -- streamlink won't touch "protected" videos (which usu
 Files and duplicates and uniq ness
 ----------------------------------
 ```
-grep "\t" *.fingerprint.csv | tr ':' '\t' | awk '{print $4 " " index($1,"16117") "_" $1}' | sort -r | uniq | awk '{print $2 " " $1}' | uniq -f1 -c | awk '$1==2 & index($2,"1_")>0'
+grep "\t" *.fingerprint.csv | tr ':' '\t' | awk '{print $4 " " index($1,"16183") "_"
+$1}' | sort -r | uniq | awk '{print $2 " " $1}' | uniq -f1 -c | awk '$1>1 && index($2,"1_")>0 {cmd="find . -name "$3"* |
+ wc -l";cmd | getline x;close(cmd);print $3 "_" substr($2,3) " count:" x;}' | awk '$3==0 {print $1}'
 ```
 
 
