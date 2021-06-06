@@ -45,28 +45,29 @@ grep "\t" *.fingerprint.csv
 # flag the current file as special by prepending something that will sort it to the top/bottom
 # do this by seeing if this line has that filename in it - if it does the prefix will be nonzero
 # variable substitution from bash to awk is ... awkward
-# only keep the 4th column, the hash, and the first column, the flagged filename, and swap their order
-| awk -v fpfx="$vfile" '{print $4 " " index($1,fpfx) "_" $1}' 
-# sort in reverse order, so sort by hash from fffff down to 00000 and then per hash, flagged filename from 1_9999 to 1_0000 to 0_9999 to 0_0000
-| sort -r 
-# group by matches of hash then flagged filename, so we only have one copy of each match
-| uniq 
+# put the flagged filename last
+| awk -v fpfx="$vfile" '{print $2 " " $3 " " $4 " " index($1,fpfx) "_" $1}' 
+# sort in reverse order, starting with the hash column from fffff down to 00000 and then per hash, flagged filename from 1_9999 to 1_0000 to 0_9999 to 0_0000
+| sort -r -k3
+# group by matches of hash then flagged filename, ignoring the first two columns, so we only have one copy of each match
+| uniq -f2
 # swap the order again so it's easier to ignore the filename and focus on the hash for uniq ness
-| awk '{print $2 " " $1}' 
-# group by matches of hash and count the number of files in which it was matched
-| uniq -f1 -c 
+| awk '{print $1 " " $2 " " $4 " " $3}' 
+# group by matches of hash, ignoring the first three columns, and count the number of files in which it was matched
+| uniq -f3 -c 
 # filter the groups so we only see hashes that match more than one file, and make sure we only grab matches that include our flagged file
-| awk '$1>1 && index($2,"1_")>0 
+| awk '$1>1 && index($4,"1_")>0 
 #  have we already generated clips for this hash somewhere in this directory hierarchy?
 #  figure this out by searching for files named after the hash in this and all subdirectories
- {cmd="find . -name "$3"* | wc -l";cmd | getline x;close(cmd);
+ {cmd="find . -name "$5"* | wc -l";cmd | getline x;close(cmd);
 #  form a new clip filename that includes the hash, our (now un-flagged) filename, and separately print how many clips already exist for the hash
- print $3 "_" substr($2,3) " count:" x;}' 
-# filter out clips that already exist and just get the new clip filename
-| awk '$3==0 {print $1}'
- 
-old way with filename subst and script building 
-	grep "\t" *.fingerprint.csv | tr ':' ' ' | awk -v fpfx="$vfile" '{print $2 " " $3 " " index($1,fpfx) "_" $1 " " $4}' | sort -r -k4 -k3 | uniq -c -f2 | tr ':' ' ' | uniq -c -f4 | sort -rh | tr -s ' ' | grep "^[[:space:]]2.*1_" | awk '{print "ffmpeg -ss " $3/30 " -i " substr($5,3,index($5,".fingerprint")-3) " -to " $4/30-$3/30 " -n -vcodec copy -acodec copy " $6 "_" substr($5,3,index($5,".fingerprint")-3) }' > $vfile.ffmpeg.sh 
+ print $5 "_" substr($4,3,index($4,".fingerprint")-3) " " $2 " " $3 " count:" x;}' 
+# filter out clips that already exist
+| awk '$5==0 
+#  construct clip-generation line, chopping up filename as needed
+ {print "ffmpeg -ss " $2/30 " -i " substr($1,index($1,"_")+1) " -to " $3/30-$2/30 " -n -vcodec copy -acodec copy " $1 }'
+# dump it to script
+> $vfile.ffmpeg.sh 
 
 ```
 
