@@ -33,82 +33,6 @@ From this output I can further filter for "No playable streams found" to find th
 
 It's by no means perfect -- streamlink won't touch "protected" videos (which usually means there's NSFW content and you need to be signed into a streaming service before you can tell if it has any actual video), and it can't process archive.org top-level urls.
 
-Files and duplicates and uniq ness
-----------------------------------
-```
-#better matching
-#get all lines of all fingerprint csv files, prepending each line with <filename>:
-grep "\t" *.fingerprint.csv 
-#via pipe, for each line:
-# convert trailing colon to tab to match rest of line
-| tr ':' '\t' 
-# flag the current file as special by prepending something that will sort it to the top/bottom
-# do this by seeing if this line has that filename in it - if it does the prefix will be nonzero
-# variable substitution from bash to awk is ... awkward
-# put the flagged filename last
-| awk -v fpfx="$vfile" '{print $2 " " $3 " " $4 " " index($1,fpfx) "_" $1}' 
-# sort in reverse order, starting with the hash column from fffff down to 00000 and then per hash, flagged filename from 1_9999 to 1_0000 to 0_9999 to 0_0000
-| sort -r -k3
-# group by matches of hash then flagged filename, ignoring the first two columns, so we only have one copy of each match
-| uniq -f2
-# swap the order again so it's easier to ignore the filename and focus on the hash for uniq ness
-| awk '{print $1 " " $2 " " $4 " " $3}' 
-# group by matches of hash, ignoring the first three columns, and count the number of files in which it was matched
-| uniq -f3 -c 
-# filter the groups so we only see hashes that match more than one file, and make sure we only grab matches that include our flagged file
-| awk '$1>1 && index($4,"1_")>0 
-#  have we already generated clips for this hash somewhere in this directory hierarchy?
-#  figure this out by searching for files named after the hash in this and all subdirectories
- {cmd="find . -name "$5"* | wc -l";cmd | getline x;close(cmd);
-#  form a new clip filename that includes the hash, our (now un-flagged) filename, and separately print how many clips already exist for the hash
- print $5 "_" substr($4,3,index($4,".fingerprint")-3) " " $2 " " $3 " count:" x;}' 
-# filter out clips that already exist
-| awk '$5==0 
-#  construct clip-generation line, chopping up filename as needed
- {print "ffmpeg -ss " $2/30 " -i " substr($1,index($1,"_")+1) " -to " $3/30-$2/30 " -n -vcodec copy -acodec copy " $1 }'
-# dump it to script
-> $vfile.ffmpeg.sh 
-
-```
-
-### match using `join`
-```
-# the join command looks at two sets of data, and given a column will merge them together on that column
-# if there is more than one match from the left set to the right set it will repeat the left for each right match
-# in order to do so it needs the join column to be sorted the same direction in both sets
-# join on column 4 of...
-join -j4 \
-# the "left" set represented by the following commands...
-<(
-#  get all lines of these files that match the "left" pattern and make sure the matching filename is included on each line
- grep -H "\t" 1622*.fingerprint.csv \
-#  trade colons for tabs to match the rest of the data 
- | tr ':' '\t' \
-#  sort by column 4
- | sort -k4 \
-# close "left" set
-) 
-# begin the "right" set from these commands...
-<(
-#  get all lines for "right" pattern including filename, trade colons for tabs, sort by column 4, close "right" set
- grep -H "\t" 1623*.fingerprint.csv \
- | tr ':' '\t' \
- | sort -k4 \
- ) \
-# the above gives us those two sets joined, currently sorted by the hash,
-#  which _was_ column 4 but now is column 1,
-#  followed by the "left" set's first matched filename (column 2), its start frame (3), and its end frame (4),
-#  then the "right" set's first matched filename (column 5), its start frame (6), and its end frame (7).
-# if we want to manually look at the clips that are supposed to be the same (matching signature),
-# it would be best to scan through a specific video from start to finish, occasionally swapping to one of the videos it matches to verify
-# let's sort by the "right" data set's filename (column 5) and its earliest start time (column 6), 
-#  using the "-h" flag to indicate sorting strings that look like numbers as numbers, and strings that look like strings as strings
-| sort -h -k5 -k6 \
-# and let's reprint the line, this time translating the frame start times into seconds (dividing by 30 frames/sec),
-#  and calculating the duration of the matches by subtracting the time of the end frame from the time of its start frame
-| awk '{print $1 " " $2 " " $3/30 " " $4/30-$3/30 " " $5 " " $6/30 " " $7/30-$6/30}'
-# this gives us a sum of seconds for each -- if the video player you use doesn't support that you can translate further into hh:mm:ss
-```
 
 Video match
 -----------
@@ -296,3 +220,81 @@ ffmpeg -i ../20210521/1621990489.023648.66r35r.480p.mp4 -i 173520-173609.1622163
 ```
 md5: c6b1cdb84c0ae620676fc106615370f1
 ```
+
+Files and duplicates and uniq ness
+----------------------------------
+```
+#better matching
+#get all lines of all fingerprint csv files, prepending each line with <filename>:
+grep "\t" *.fingerprint.csv 
+#via pipe, for each line:
+# convert trailing colon to tab to match rest of line
+| tr ':' '\t' 
+# flag the current file as special by prepending something that will sort it to the top/bottom
+# do this by seeing if this line has that filename in it - if it does the prefix will be nonzero
+# variable substitution from bash to awk is ... awkward
+# put the flagged filename last
+| awk -v fpfx="$vfile" '{print $2 " " $3 " " $4 " " index($1,fpfx) "_" $1}' 
+# sort in reverse order, starting with the hash column from fffff down to 00000 and then per hash, flagged filename from 1_9999 to 1_0000 to 0_9999 to 0_0000
+| sort -r -k3
+# group by matches of hash then flagged filename, ignoring the first two columns, so we only have one copy of each match
+| uniq -f2
+# swap the order again so it's easier to ignore the filename and focus on the hash for uniq ness
+| awk '{print $1 " " $2 " " $4 " " $3}' 
+# group by matches of hash, ignoring the first three columns, and count the number of files in which it was matched
+| uniq -f3 -c 
+# filter the groups so we only see hashes that match more than one file, and make sure we only grab matches that include our flagged file
+| awk '$1>1 && index($4,"1_")>0 
+#  have we already generated clips for this hash somewhere in this directory hierarchy?
+#  figure this out by searching for files named after the hash in this and all subdirectories
+ {cmd="find . -name "$5"* | wc -l";cmd | getline x;close(cmd);
+#  form a new clip filename that includes the hash, our (now un-flagged) filename, and separately print how many clips already exist for the hash
+ print $5 "_" substr($4,3,index($4,".fingerprint")-3) " " $2 " " $3 " count:" x;}' 
+# filter out clips that already exist
+| awk '$5==0 
+#  construct clip-generation line, chopping up filename as needed
+ {print "ffmpeg -ss " $2/30 " -i " substr($1,index($1,"_")+1) " -to " $3/30-$2/30 " -n -vcodec copy -acodec copy " $1 }'
+# dump it to script
+> $vfile.ffmpeg.sh 
+
+```
+
+### match using `join`
+```
+# the join command looks at two sets of data, and given a column will merge them together on that column
+# if there is more than one match from the left set to the right set it will repeat the left for each right match
+# in order to do so it needs the join column to be sorted the same direction in both sets
+# join on column 4 of...
+join -j4 \
+# the "left" set represented by the following commands...
+<(
+#  get all lines of these files that match the "left" pattern and make sure the matching filename is included on each line
+ grep -H "\t" 1622*.fingerprint.csv \
+#  trade colons for tabs to match the rest of the data 
+ | tr ':' '\t' \
+#  sort by column 4
+ | sort -k4 \
+# close "left" set
+) 
+# begin the "right" set from these commands...
+<(
+#  get all lines for "right" pattern including filename, trade colons for tabs, sort by column 4, close "right" set
+ grep -H "\t" 1623*.fingerprint.csv \
+ | tr ':' '\t' \
+ | sort -k4 \
+ ) \
+# the above gives us those two sets joined, currently sorted by the hash,
+#  which _was_ column 4 but now is column 1,
+#  followed by the "left" set's first matched filename (column 2), its start frame (3), and its end frame (4),
+#  then the "right" set's first matched filename (column 5), its start frame (6), and its end frame (7).
+# if we want to manually look at the clips that are supposed to be the same (matching signature),
+# it would be best to scan through a specific video from start to finish, occasionally swapping to one of the videos it matches to verify
+# let's sort by the "right" data set's filename (column 5) and its earliest start time (column 6), 
+#  using the "-h" flag to indicate sorting strings that look like numbers as numbers, and strings that look like strings as strings
+| sort -h -k5 -k6 \
+# and let's reprint the line, this time translating the frame start times into seconds (dividing by 30 frames/sec),
+#  and calculating the duration of the matches by subtracting the time of the end frame from the time of its start frame
+| awk '{print $1 " " $2 " " $3/30 " " $4/30-$3/30 " " $5 " " $6/30 " " $7/30-$6/30}'
+# this gives us a sum of seconds for each -- if the video player you use doesn't support that you can translate further into hh:mm:ss
+```
+
