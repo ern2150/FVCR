@@ -26,7 +26,8 @@ if [ ! -e "$FINGERPRINT_CSV" ]; then
  ls -l $FINGERPRINT_TXT
 
  echo "compressing flat signature to spreadsheet"
- cat $FINGERPRINT_TXT | awk -F':' '{cmd="echo "$1" | md5";cmd | getline x;close(cmd);print $1 "\t" $2 "\t" x;}' > $FINGERPRINT_CSV
+ #ya gotta use the parts that are the signature to md5 not the start frame lol
+ cat $FINGERPRINT_TXT | awk -F':' '{cmd="echo "$3$4$5$6$7" | md5";cmd | getline x;close(cmd);print $1 "\t" $2 "\t" x;}' > $FINGERPRINT_CSV
 fi
 
 echo "compressed signature spreadsheet:"
