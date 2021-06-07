@@ -276,13 +276,12 @@ join -j4 \
  | sort -k4 \
 # close "left" set
 ) 
-# begin the "right" set from these commands...
+# get all lines for "right" pattern including filename, trade colons for tabs, sort by column 4, close "right" set
 <(
-#  get all lines for "right" pattern including filename, trade colons for tabs, sort by column 4, close "right" set
  grep -H "\t" 1623*.fingerprint.csv \
  | tr ':' '\t' \
  | sort -k4 \
- ) \
+) \
 # the above gives us those two sets joined, currently sorted by the hash,
 #  which _was_ column 4 but now is column 1,
 #  followed by the "left" set's first matched filename (column 2), its start frame (3), and its end frame (4),
