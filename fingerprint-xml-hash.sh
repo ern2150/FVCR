@@ -13,6 +13,8 @@ if [ ! -e "$FINGERPRINT_CSV" ]; then
   if [ ! -e "$FINGERPRINT_XML" ]; then
 	echo "obtaining XML signature by segment for video file"
 	ffmpeg -i $vfile -vf signature=format=xml:filename="$FINGERPRINT_XML" -map 0:v -f null -
+	#or, if you want to eventually match this against something that isn't on-stream, crop out the maxell frame:
+	#"...crop=ih/3*4:ih,signature..."
   fi
 
   echo "XML signature for video file:"
