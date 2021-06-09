@@ -19,19 +19,15 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-31 | Magic Hand (retired) | 1/24/2021 | 4/12/2020
 29 | No Wonder You're So Brave | 2/4/2021 | 3/22/2020
-&nbsp; | Video Beam Volume 1 (retired) | 2/14/2021 | 3/29/2020
 30 | Don't Be a Big Shot | 2/16/2021 | 4/5/2020
 28 | Forget about Luck | 2/18/2021 | 3/15/2020
 20 | Cheap Thug in a Dirty Racket | 2/21/2021 | 1/19/2020
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
-37 | Monster Rage Ball | 3/25/2021 | 5/31/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 42 | Go and Destroy the Enemy Forever | 4/1/2021 | 7/9/2020
 52 | Let You Through to Hell | 4/6/2021 | 12/13/2020
-58 | Why Do You Help the Evil Person? | 4/6/2021 | 2/7/2021
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
@@ -71,18 +67,20 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Danger Straight Ahead | 5/30/2021 | 4/4/2021
 63 | This Sword Will Belong to You Forever | 6/6/2021 | 4/11/2021
 &nbsp; | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
+58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
+37 | Monster Rage Ball | 3/25/2021 | 6/8/2020
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 3 | 6 (Tu)
+10s | 3 | 7 (Tu)
+40s | 10 | 6 (Tu)
 20s | 7 | 5 (Su)
-40s | 10 | 5 (Tu)
-30s | 10 | 1 (Tu)
-50s | 10 | 1 (Th)
 60s | 7 | 0 (Su)
+30s | 9 | 0 (Tu)
+50s | 10 | 0 (Tu)
 Other | 10 | 0 (Su)
 
 
@@ -120,7 +118,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/6/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/8/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/8/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+6/8/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+6/8/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+6/8/2021 | Knight of Justice Death Call / (same as video)
+6/8/2021 | Jerry Harris - Bachelor Life / (same as video)
+6/8/2021 | Emergency Alert Please Stand by / (Beep)
+6/8/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+6/8/2021 | SHIT FUCK / (same as video)
+6/8/2021 | Angel Terminators / The First Family - Slow Motion
+6/8/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+6/8/2021 | FUNinja Explosions / ??
 6/6/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
 6/6/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 6/6/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
@@ -128,7 +137,6 @@ Latest Date | Video / Audio
 6/6/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
 6/6/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 6/6/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
-5/30/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 5/30/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 5/30/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
 5/30/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
@@ -153,16 +161,6 @@ Latest Date | Video / Audio
 5/25/2021 | Gunbuster Intro with prologue / (same as video)
 5/25/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
-5/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-5/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-5/23/2021 | Knight of Justice Death Call / (same as video)
-5/23/2021 | Jerry Harris - Bachelor Life / (same as video)
-5/23/2021 | Emergency Alert Please Stand by / (Beep)
-5/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-5/23/2021 | SHIT FUCK / (same as video)
-5/23/2021 | Angel Terminators / The First Family - Slow Motion
-5/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-5/23/2021 | FUNinja Explosions / ??
 5/20/2021 | Baki end whiteout / (same as video)
 5/20/2021 | HEYYYY JAPAAAAN / (same as video)
 5/20/2021 | Baki fights Big Red Cord Cutter, HEY JAPAN, Baki Keep on Winning / Roger Daltrey - Escape Part Two, original audio
@@ -234,7 +232,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/6/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/8/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
