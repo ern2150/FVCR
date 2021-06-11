@@ -27,7 +27,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 42 | Go and Destroy the Enemy Forever | 4/1/2021 | 7/9/2020
-52 | Let You Through to Hell | 4/6/2021 | 12/13/2020
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
@@ -69,6 +68,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
 58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
 37 | Monster Rage Ball | 3/25/2021 | 6/8/2020
+52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -80,7 +80,7 @@ Decade | Available Tapes | Weeks since seen
 20s | 7 | 5 (Su)
 60s | 7 | 0 (Su)
 30s | 9 | 0 (Tu)
-50s | 10 | 0 (Tu)
+50s | 10 | 0 (Th)
 Other | 10 | 0 (Su)
 
 
@@ -118,7 +118,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/8/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/10/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
+6/10/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+6/10/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+6/10/2021 | Green tinted action movie / Delegation - Heartache No. 9
+6/10/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+6/10/2021 | Gunbuster Intro with prologue / (same as video)
+6/10/2021 | Vaporwave Beach / Ahero - Slow Summer
 6/8/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 6/8/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 6/8/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
@@ -153,13 +160,6 @@ Latest Date | Video / Audio
 5/27/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 5/27/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 5/27/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-5/25/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-5/25/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-5/25/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-5/25/2021 | Green tinted action movie / Delegation - Heartache No. 9
-5/25/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
-5/25/2021 | Gunbuster Intro with prologue / (same as video)
-5/25/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 5/20/2021 | Baki end whiteout / (same as video)
 5/20/2021 | HEYYYY JAPAAAAN / (same as video)
@@ -232,7 +232,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/8/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/10/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
