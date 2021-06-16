@@ -67,7 +67,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 63 | This Sword Will Belong to You Forever | 6/6/2021 | 4/11/2021
 &nbsp; | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
 58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
-37 | Monster Rage Ball | 3/25/2021 | 6/8/2020
+37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
 52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
 
 "Decades" by Weeks Since Seen, descending
