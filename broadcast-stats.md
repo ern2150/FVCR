@@ -19,9 +19,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-29 | No Wonder You're So Brave | 2/4/2021 | 3/22/2020
-30 | Don't Be a Big Shot | 2/16/2021 | 4/5/2020
-28 | Forget about Luck | 2/18/2021 | 3/15/2020
+29 | No Wonder You're So Brave (Retired) | 2/4/2021 | 3/22/2020
+30 | Don't Be a Big Shot (Retired) | 2/16/2021 | 4/5/2020
+28 | Forget about Luck (Retired) | 2/18/2021 | 3/15/2020
 20 | Cheap Thug in a Dirty Racket | 2/21/2021 | 1/19/2020
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
@@ -30,15 +30,14 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
-&nbsp; | Why Are You Playing Heroes? | 4/13/2021 | 2/23/2021
-59 | Now the Fun Begins | 4/15/2021 | 2/14/2021
+MM2 | Why Are You Playing Heroes? | 4/13/2021 | 2/23/2021
 46 | We Smile Because We Are Alive | 4/18/2021 | 8/20/2020
 64 | Hold You Close and Feel Things | 4/20/2021 | 4/18/2021
-10 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
+MM1 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
-&nbsp; | Blood, Lust, and Intrigue | 4/25/2021 | 3/9/2021
+MM3 | Blood, Lust, and Intrigue | 4/25/2021 | 3/9/2021
 44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
 60 | Try Your Best to Fight Me | 4/27/2021 | 2/28/2021
 40 | Is There No End of It? | 4/29/2021 | 6/23/2020
@@ -55,33 +54,37 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 55 | I Had a Heart Once | 5/13/2021 | 1/17/2021
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 62 | One Lousy Nobody, What Can He Do | 5/18/2021 | 3/21/2021
-&nbsp; | It's Your Turn to Die | 5/20/2021 | 5/20/2021
+MM6 | It's Your Turn to Die | 5/20/2021 | 5/20/2021
 56 | Everyone Has Got to Live, Even Thieves | 5/20/2021 | 1/24/2021
 50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
 66 | Do You Really Have the Confidence? | 5/25/2021 | 5/23/2021
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
 51 | Money, Power, and Position | 5/27/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
-&nbsp; | I'm Glad to See You're Prepared to Die | 5/30/2021 | 4/4/2021
-&nbsp; | Danger Straight Ahead | 5/30/2021 | 4/4/2021
+MM4 | I'm Glad to See You're Prepared to Die | 5/30/2021 | 4/4/2021
+MM5 | Danger Straight Ahead | 5/30/2021 | 4/4/2021
 63 | This Sword Will Belong to You Forever | 6/6/2021 | 4/11/2021
-&nbsp; | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
+MM7 | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
 58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
 37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
 52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
+MM8 | The Sword of Catastrophe | 6/15/2021 | 6/15/2021
+59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
+
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 3 | 7 (Tu)
-40s | 10 | 6 (Tu)
-20s | 7 | 5 (Su)
-60s | 7 | 0 (Su)
-30s | 9 | 0 (Tu)
-50s | 10 | 0 (Th)
-Other | 10 | 0 (Su)
+10s | 2 | 8 (Tu)
+40s | 10 | 7 (Tu)
+20s | 4 | 6 (Su)
+Other | 4 | 6 (Su)
+60s | 7 | 1 (Su)
+30s | 9 | 1 (Tu)
+50s | 10 | 0 (Tu)
+MM0s | 8 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -94,31 +97,41 @@ Mixtape # | Title | Update | Last Changed
 14 | And I'll Revenge Their Deaths | updated | 9/15/2020
 15 | We'll Blow You Up Next | updated | 11/22/2020
 25 | Everyone Is a Suspect | unclucked | 12/20/2020
-10 | Get Rich Regardless of the Means (End of 2019) | abridged and renamed | 1/3/2021
+10 | Get Rich Regardless of the Means (End of 2019) | abridged and renamed/coded as MM1 | 1/3/2021
 36 | Something Missing in Your Head | updated | 2/11/2021
-7 | Damn You, Blue Mask | merged into "Why Are You Playing Heroes?" | 2/23/2021
-8 | You're Not a Ninja, You Can't Use the Beans | merged into "Why Are You Playing Heroes?" | 2/23/2021
-9 | I Know What It Takes To Be Invincible | merged into "Why Are You Playing Heroes?" and "Blood, Lust, and Intrigue" | 2/23/2021
-6 | I Don't Like Love, 'Cause I Love You | merged into "Blood, Lust, and Intrigue" | 3/9/2021
+7 | Damn You, Blue Mask | merged into MM2 "Why Are You Playing Heroes?" | 2/23/2021
+8 | You're Not a Ninja, You Can't Use the Beans | merged into MM2 "Why Are You Playing Heroes?" | 2/23/2021
+9 | I Know What It Takes To Be Invincible | merged into MM2 "Why Are You Playing Heroes?" and MM3 "Blood, Lust, and Intrigue" | 2/23/2021
+6 | I Don't Like Love, 'Cause I Love You | merged into MM3 "Blood, Lust, and Intrigue" | 3/9/2021
 |          | FORCED STEREO DELUXE | superseded by "Forced Stereo Championship" | 4/1/2021
-15 |  We'll Blow You Up Next | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
-17 | Don't Come 2 Me w Tales of Failure | merged into "I'm Glad to See You're Prepared to Die" | 4/4/2021
-12 |  Defend Yourself | merged into "Danger Straight Ahead" | 4/4/2021
-11 |  I'm a Winner | merged into "Danger Straight Ahead" | 4/4/2021
+15 |  We'll Blow You Up Next | merged into MM4 "I'm Glad to See You're Prepared to Die" | 4/4/2021
+17 | Don't Come 2 Me w Tales of Failure | merged into MM4 "I'm Glad to See You're Prepared to Die" | 4/4/2021
+12 |  Defend Yourself | merged into MM5 "Danger Straight Ahead" | 4/4/2021
+11 |  I'm a Winner | merged into MM5 "Danger Straight Ahead" | 4/4/2021
 27 | Open the Strange Realm | updated | 4/25/2021
-21 | Enlightenment Isn't Serious | merged into "It's Your Turn to Die" | 5/20/2021
-22 | By Tonight, You'll Be History | merged into "It's Your Turn to Die" | 5/20/2021
-23 | Dangerous and ColdBlooded | merged into "It's Your Turn to Die" | 5/20/2021
-31 | Magic Hand | merged into "I'd Like to See You Try and Hurt Me" | 6/6/2021
-&nbsp; | Video Beam Volume 1 | merged into "I'd Like to See You Try and Hurt Me"| 6/6/2021
-
+21 | Enlightenment Isn't Serious | merged into MM6 "It's Your Turn to Die" | 5/20/2021
+22 | By Tonight, You'll Be History | merged into MM6 "It's Your Turn to Die" | 5/20/2021
+23 | Dangerous and ColdBlooded | merged into MM6 "It's Your Turn to Die" | 5/20/2021
+31 | Magic Hand | merged into MM7 "I'd Like to See You Try and Hurt Me" | 6/6/2021
+&nbsp; | Video Beam Volume 1 | merged into MM7 "I'd Like to See You Try and Hurt Me"| 6/6/2021
+28 | Forget about Luck | merged into MM8 "The Sword of Catastrophe" | 6/15/2021 
+29 | No Wonder You're So Brave | merged into MM8 "The Sword of Catastrophe" | 6/15/2021
+30 | Don't Be a Big Shot | merged into MM8 "The Sword of Catastrophe" | 6/15/2021
           
 Intros
 ------
 
 Latest Date | Video / Audio
 -- | --
-6/10/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/15/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
+6/15/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+6/15/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+6/15/2021 | VENOM RANGERS / Com Truise - Memory
+6/15/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+6/15/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+6/15/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+6/15/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 6/10/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 6/10/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
@@ -165,15 +178,8 @@ Latest Date | Video / Audio
 5/20/2021 | HEYYYY JAPAAAAN / (same as video)
 5/20/2021 | Baki fights Big Red Cord Cutter, HEY JAPAN, Baki Keep on Winning / Roger Daltrey - Escape Part Two, original audio
 5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
-5/20/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-5/20/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-5/20/2021 | VENOM RANGERS / Com Truise - Memory
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
-5/20/2021 | Ultraman ZOFFY lsd opener / Hudson People - Trip to Your Mind
-5/20/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
-5/18/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-5/18/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 5/18/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 5/18/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13
@@ -190,7 +196,6 @@ Latest Date | Video / Audio
 5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
-4/27/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/18/2021 | Actual Robowar intro / (same as video)
@@ -232,7 +237,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/10/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/15/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
