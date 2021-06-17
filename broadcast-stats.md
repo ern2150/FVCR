@@ -176,7 +176,7 @@ Latest Date | Video / Audio
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 5/20/2021 | Baki end whiteout / (same as video)
 5/20/2021 | HEYYYY JAPAAAAN / (same as video)
-5/20/2021 | Baki fights Big Red Cord Cutter, HEY JAPAN, Baki Keep on Winning / Roger Daltrey - Escape Part Two, original audio
+5/20/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
@@ -194,7 +194,6 @@ Latest Date | Video / Audio
 5/6/2021 | Tah Tien credits / (same as video)
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
 5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-5/2/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
