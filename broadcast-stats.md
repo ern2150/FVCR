@@ -200,7 +200,6 @@ Latest Date | Video / Audio
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/18/2021 | Actual Robowar intro / (same as video)
 4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-4/15/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 4/11/2021 | Saint Seiya Opener / (same as video)
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
@@ -232,7 +231,6 @@ Latest Date | Video / Audio
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / (same as video)
-
 
 
 Outros
