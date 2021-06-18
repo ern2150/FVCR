@@ -26,11 +26,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
-42 | Go and Destroy the Enemy Forever | 4/1/2021 | 7/9/2020
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
-MM2 | Why Are You Playing Heroes? | 4/13/2021 | 2/23/2021
 46 | We Smile Because We Are Alive | 4/18/2021 | 8/20/2020
 64 | Hold You Close and Feel Things | 4/20/2021 | 4/18/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
@@ -70,6 +68,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
 52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
 MM8 | The Sword of Catastrophe | 6/15/2021 | 6/15/2021
 59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
+MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
+42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,13 +78,13 @@ MM8 | The Sword of Catastrophe | 6/15/2021 | 6/15/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 8 (Tu)
-40s | 10 | 7 (Tu)
 20s | 4 | 6 (Su)
 Other | 4 | 6 (Su)
 60s | 7 | 1 (Su)
 30s | 9 | 1 (Tu)
+40s | 10 | 0 (Th)
 50s | 10 | 0 (Tu)
-MM0s | 8 | 0 (Tu)
+MM0s | 8 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -123,7 +123,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/15/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/17/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/17/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
+6/17/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+6/17/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+6/17/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
+6/17/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+6/17/2021 | Ninja the Protector credits / DANDY COLOGNE
+6/17/2021 | Baki end whiteout / (same as video)
+6/17/2021 | HEYYYY JAPAAAAN / (same as video)
+6/17/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
+6/17/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/15/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 6/15/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
@@ -162,21 +172,13 @@ Latest Date | Video / Audio
 5/30/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 5/30/2021 | FMW Opener / FMW Closer
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-5/30/2021 | Ninja the Protector credits / DANDY COLOGNE
 5/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 5/30/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 5/30/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 5/30/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
-5/27/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
-5/27/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-5/27/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-5/27/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
-5/20/2021 | Baki end whiteout / (same as video)
-5/20/2021 | HEYYYY JAPAAAAN / (same as video)
-5/20/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
@@ -193,12 +195,12 @@ Latest Date | Video / Audio
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 5/6/2021 | Tah Tien credits / (same as video)
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
-5/4/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/18/2021 | Actual Robowar intro / (same as video)
 4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+4/15/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two
 4/11/2021 | Saint Seiya Opener / (same as video)
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
@@ -232,11 +234,12 @@ Latest Date | Video / Audio
 1/10/2021 | Commando Fury Opener / (same as video)
 
 
+
 Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/15/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/17/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
