@@ -30,7 +30,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
 46 | We Smile Because We Are Alive | 4/18/2021 | 8/20/2020
-64 | Hold You Close and Feel Things | 4/20/2021 | 4/18/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
@@ -70,6 +69,8 @@ MM8 | The Sword of Catastrophe | 6/15/2021 | 6/15/2021
 59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
 MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
+64 | Hold You Close and Feel Things | 6/20/2021 | 4/18/2021
+~~68~~67 | Together We Will Smash Them | 6/20/2021 | 6/20/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,13 +79,13 @@ MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 8 (Tu)
-20s | 4 | 6 (Su)
-Other | 4 | 6 (Su)
-60s | 7 | 1 (Su)
+20s | 4 | 7 (Su)
+Other | 4 | 7 (Su)
 30s | 9 | 1 (Tu)
+MM0s | 8 | 0 (Th)
+60s | ~~9~~8 | 0 (Su)
 40s | 10 | 0 (Th)
 50s | 10 | 0 (Tu)
-MM0s | 8 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -123,13 +124,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/17/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/20/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/20/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+6/20/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+6/20/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+6/20/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+6/20/2021 | FMW Opener / FMW Closer
+6/20/2021 | Ninja the Protector credits / DANDY COLOGNE
+6/20/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+6/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+6/20/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+6/20/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 6/17/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 6/17/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 6/17/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 6/17/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 6/17/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-6/17/2021 | Ninja the Protector credits / DANDY COLOGNE
 6/17/2021 | Baki end whiteout / (same as video)
 6/17/2021 | HEYYYY JAPAAAAN / (same as video)
 6/17/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
@@ -149,7 +159,6 @@ Latest Date | Video / Audio
 6/10/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 6/10/2021 | Gunbuster Intro with prologue / (same as video)
 6/10/2021 | Vaporwave Beach / Ahero - Slow Summer
-6/8/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 6/8/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 6/8/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
 6/8/2021 | Knight of Justice Death Call / (same as video)
@@ -167,15 +176,7 @@ Latest Date | Video / Audio
 6/6/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
 6/6/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 6/6/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
-5/30/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-5/30/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-5/30/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-5/30/2021 | FMW Opener / FMW Closer
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-5/30/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-5/30/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-5/30/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-5/30/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
@@ -237,7 +238,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/17/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/20/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
