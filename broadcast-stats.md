@@ -19,9 +19,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-29 | No Wonder You're So Brave (Retired) | 2/4/2021 | 3/22/2020
-30 | Don't Be a Big Shot (Retired) | 2/16/2021 | 4/5/2020
-28 | Forget about Luck (Retired) | 2/18/2021 | 3/15/2020
 20 | Cheap Thug in a Dirty Racket | 2/21/2021 | 1/19/2020
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
@@ -29,7 +26,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
-46 | We Smile Because We Are Alive | 4/18/2021 | 8/20/2020
 MM1 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
@@ -70,7 +66,8 @@ MM8 | The Sword of Catastrophe | 6/15/2021 | 6/15/2021
 MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
 64 | Hold You Close and Feel Things | 6/20/2021 | 4/18/2021
-~~68~~67 | Together We Will Smash Them | 6/20/2021 | 6/20/2021
+67 | Together We Will Smash Them | 6/22/2021 | 6/20/2021
+46 | We Smile Because We Are Alive | 6/22/2021 | 8/20/2020
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,14 +75,14 @@ MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 8 (Tu)
+10s | 2 | 9 (Tu)
 20s | 4 | 7 (Su)
 Other | 4 | 7 (Su)
-30s | 9 | 1 (Tu)
+30s | 9 | 2 (Tu)
+50s | 10 | 1 (Tu)
 MM0s | 8 | 0 (Th)
-60s | ~~9~~8 | 0 (Su)
-40s | 10 | 0 (Th)
-50s | 10 | 0 (Tu)
+60s | 8 | 0 (Su)
+40s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -124,7 +121,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/20/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/22/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/22/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+6/22/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+6/22/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+6/22/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+6/22/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+6/22/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+6/22/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+6/22/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 6/20/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 6/20/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 6/20/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -169,16 +174,9 @@ Latest Date | Video / Audio
 6/8/2021 | Angel Terminators / The First Family - Slow Motion
 6/8/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 6/8/2021 | FUNinja Explosions / ??
-6/6/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-6/6/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-6/6/2021 | Gordon's Hill Meditations / Original Audio, Kate Bush - Running Up That Hill
-6/6/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-6/6/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-6/6/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-6/6/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
-5/27/2021 | Zoofunkel / Simon &amp; Garfunkel - At the Zoo
+5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
 5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
@@ -238,7 +236,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/20/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/22/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
