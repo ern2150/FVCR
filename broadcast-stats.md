@@ -26,11 +26,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
-MM1 | Get Rich Regardless of the Means (End of 2019) | 4/20/2021 | 11/14/2019
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
-MM3 | Blood, Lust, and Intrigue | 4/25/2021 | 3/9/2021
 44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
 60 | Try Your Best to Fight Me | 4/27/2021 | 2/28/2021
 40 | Is There No End of It? | 4/29/2021 | 6/23/2020
@@ -68,6 +66,8 @@ MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 64 | Hold You Close and Feel Things | 6/20/2021 | 4/18/2021
 67 | Together We Will Smash Them | 6/22/2021 | 6/20/2021
 46 | We Smile Because We Are Alive | 6/22/2021 | 8/20/2020
+MM1 | Get Rich Regardless of the Means (End of 2019) | 6/24/2021 | 11/14/2019
+MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -121,8 +121,19 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/22/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-6/22/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+6/24/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/24/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+6/24/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+6/24/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+6/24/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+6/24/2021 | Knight of Justice Death Call / (same as video)
+6/24/2021 | Jerry Harris - Bachelor Life / (same as video)
+6/24/2021 | Emergency Alert Please Stand by / (Beep)
+6/24/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+6/24/2021 | SHIT FUCK / (same as video)
+6/24/2021 | Angel Terminators / The First Family - Slow Motion
+6/24/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+6/24/2021 | FUNinja Explosions / ??
 6/22/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
 6/22/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 6/22/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
@@ -158,22 +169,11 @@ Latest Date | Video / Audio
 6/15/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 6/15/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-6/10/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 6/10/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 6/10/2021 | Green tinted action movie / Delegation - Heartache No. 9
 6/10/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 6/10/2021 | Gunbuster Intro with prologue / (same as video)
 6/10/2021 | Vaporwave Beach / Ahero - Slow Summer
-6/8/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-6/8/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-6/8/2021 | Knight of Justice Death Call / (same as video)
-6/8/2021 | Jerry Harris - Bachelor Life / (same as video)
-6/8/2021 | Emergency Alert Please Stand by / (Beep)
-6/8/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-6/8/2021 | SHIT FUCK / (same as video)
-6/8/2021 | Angel Terminators / The First Family - Slow Motion
-6/8/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-6/8/2021 | FUNinja Explosions / ??
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
@@ -236,7 +236,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/22/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/24/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
