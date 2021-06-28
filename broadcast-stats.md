@@ -30,7 +30,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
 44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
-60 | Try Your Best to Fight Me | 4/27/2021 | 2/28/2021
 40 | Is There No End of It? | 4/29/2021 | 6/23/2020
 53 | The True Form of His Brains | 4/29/2021 | 12/27/2020
 38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
@@ -68,7 +67,8 @@ MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 46 | We Smile Because We Are Alive | 6/22/2021 | 8/20/2020
 MM1 | Get Rich Regardless of the Means (End of 2019) | 6/24/2021 | 11/14/2019
 MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
-
+60 | Try Your Best to Fight Me | 6/27/2021 | 2/28/2021
+68 | Endless Chain of Duels and Killings | 6/27/2021 | 6/27/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,12 +76,12 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 9 (Tu)
-20s | 4 | 7 (Su)
-Other | 4 | 7 (Su)
+20s | 4 | 8 (Su)
+Other | 4 | 8 (Su)
 30s | 9 | 2 (Tu)
 50s | 10 | 1 (Tu)
 MM0s | 8 | 0 (Th)
-60s | 8 | 0 (Su)
+60s | 9 | 0 (Su)
 40s | 10 | 0 (Tu)
 
 
