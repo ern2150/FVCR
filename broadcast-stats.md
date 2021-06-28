@@ -121,7 +121,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/24/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/27/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/27/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+6/27/2021 | Green tinted action movie / Delegation - Heartache No. 9
+6/27/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+6/27/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+6/27/2021 | VENOM RANGERS / Com Truise - Memory
+6/27/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+6/27/2021 | Gunbuster Intro with prologue / (same as video)
+6/27/2021 | Vaporwave Beach / Ahero - Slow Summer
 6/24/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 6/24/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
 6/24/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
@@ -161,19 +169,11 @@ Latest Date | Video / Audio
 6/17/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
 6/17/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
-6/15/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-6/15/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-6/15/2021 | VENOM RANGERS / Com Truise - Memory
 6/15/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
 6/15/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 6/15/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 6/15/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-6/10/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-6/10/2021 | Green tinted action movie / Delegation - Heartache No. 9
-6/10/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
-6/10/2021 | Gunbuster Intro with prologue / (same as video)
-6/10/2021 | Vaporwave Beach / Ahero - Slow Summer
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
@@ -236,7 +236,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/24/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/27/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
