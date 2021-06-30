@@ -24,7 +24,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
-49 | Despise the Dark 2020 Halloween vol 2 | 4/8/2021 | 10/11/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
@@ -68,20 +67,21 @@ MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 6/24/2021 | 11/14/2019
 MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 60 | Try Your Best to Fight Me | 6/27/2021 | 2/28/2021
-68 | Endless Chain of Duels and Killings | 6/27/2021 | 6/27/2021
+68 | Endless Chain of Duels and Killings | 6/29/2021 | 6/27/2021
+49 | Despise the Dark 2020 Halloween vol 2 | 6/29/2021 | 10/11/2020
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 9 (Tu)
+10s | 2 | 10 (Tu)
 20s | 4 | 8 (Su)
 Other | 4 | 8 (Su)
-30s | 9 | 2 (Tu)
-50s | 10 | 1 (Tu)
+30s | 9 | 3 (Tu)
+50s | 10 | 2 (Tu)
 MM0s | 8 | 0 (Th)
-60s | 9 | 0 (Su)
+60s | 9 | 0 (Tu)
 40s | 10 | 0 (Tu)
 
 
