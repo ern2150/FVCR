@@ -121,7 +121,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/27/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/29/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+6/29/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+6/29/2021 | Ninja the Protector credits / DANDY COLOGNE
+6/29/2021 | Baki end whiteout / (same as video)
+6/29/2021 | HEYYYY JAPAAAAN / (same as video)
+6/29/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
+6/29/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+6/29/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+6/29/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+6/29/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+6/29/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 6/27/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 6/27/2021 | Green tinted action movie / Delegation - Heartache No. 9
 6/27/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
@@ -154,7 +164,6 @@ Latest Date | Video / Audio
 6/20/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
 6/20/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 6/20/2021 | FMW Opener / FMW Closer
-6/20/2021 | Ninja the Protector credits / DANDY COLOGNE
 6/20/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 6/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 6/20/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
@@ -163,16 +172,7 @@ Latest Date | Video / Audio
 6/17/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 6/17/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
 6/17/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-6/17/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-6/17/2021 | Baki end whiteout / (same as video)
-6/17/2021 | HEYYYY JAPAAAAN / (same as video)
-6/17/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
-6/17/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
-6/15/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-6/15/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
-6/15/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-6/15/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
@@ -236,7 +236,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/27/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+6/29/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
