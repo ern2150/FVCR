@@ -26,11 +26,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
 45 | Cheer of Love | 4/11/2021 | 8/9/2020
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
-39 | The Kids Became Normal Again | 4/22/2021 | 6/16/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
 44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
 40 | Is There No End of It? | 4/29/2021 | 6/23/2020
-53 | The True Form of His Brains | 4/29/2021 | 12/27/2020
 38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
@@ -69,6 +67,8 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 60 | Try Your Best to Fight Me | 6/27/2021 | 2/28/2021
 68 | Endless Chain of Duels and Killings | 6/29/2021 | 6/27/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 6/29/2021 | 10/11/2020
+39 | The Kids Became Normal Again | 7/1/2021 | 6/16/2020
+53 | The True Form of His Brains | 7/1/2021 | 12/27/2020
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -78,11 +78,11 @@ Decade | Available Tapes | Weeks since seen
 10s | 2 | 10 (Tu)
 20s | 4 | 8 (Su)
 Other | 4 | 8 (Su)
-30s | 9 | 3 (Tu)
-50s | 10 | 2 (Tu)
 MM0s | 8 | 0 (Th)
+30s | 9 | 0 (Th)
 60s | 9 | 0 (Tu)
 40s | 10 | 0 (Tu)
+50s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -121,7 +121,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-6/29/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/1/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/1/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
+7/1/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+7/1/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+7/1/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
+7/1/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
+7/1/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+7/1/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 6/29/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 6/29/2021 | Ninja the Protector credits / DANDY COLOGNE
 6/29/2021 | Baki end whiteout / (same as video)
@@ -168,21 +175,14 @@ Latest Date | Video / Audio
 6/20/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 6/20/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 6/20/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
-6/17/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
-6/17/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-6/17/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-6/17/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/30/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
-5/23/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
-5/18/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-5/18/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13
 5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
 5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN
@@ -236,7 +236,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-6/29/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+7/1/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
