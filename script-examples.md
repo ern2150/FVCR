@@ -221,6 +221,13 @@ ffmpeg -i ../20210521/1621990489.023648.66r35r.480p.mp4 -i 173520-173609.1622163
 md5: c6b1cdb84c0ae620676fc106615370f1
 ```
 
+### SOON ON THIS SCREEN
+```
+5 md5s per frameset:
+16c0f9be3ec555ed7b6ec22595142997   11fc71c914a5395456aa99035425133f        d8df7b881dd6fae80cb3b41c186521d9        6a50f73bf03afb262eccc9773cc89915        4b855ee314cb1ebf44bf943b24fedfaa
+(repeats)
+```
+
 Files and duplicates and uniq ness
 ----------------------------------
 ```
