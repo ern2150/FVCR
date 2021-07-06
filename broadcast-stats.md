@@ -28,7 +28,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
 44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
-40 | Is There No End of It? | 4/29/2021 | 6/23/2020
 38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
@@ -69,6 +68,8 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 6/29/2021 | 10/11/2020
 39 | The Kids Became Normal Again | 7/1/2021 | 6/16/2020
 53 | The True Form of His Brains | 7/1/2021 | 12/27/2020
+40 | Is There No End of It? | 7/4/2021 | 6/23/2020
+69 | SUMMERTIME | 7/4/2021 | 7/4/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -80,9 +81,9 @@ Decade | Available Tapes | Weeks since seen
 Other | 4 | 8 (Su)
 MM0s | 8 | 0 (Th)
 30s | 9 | 0 (Th)
-60s | 9 | 0 (Tu)
-40s | 10 | 0 (Tu)
+40s | 10 | 0 (Su)
 50s | 10 | 0 (Th)
+60s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
