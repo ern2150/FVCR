@@ -122,7 +122,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-7/4/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/6/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/6/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+7/6/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+7/6/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+7/6/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+7/6/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+7/6/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+7/6/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+7/6/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 7/4/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 7/4/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 7/4/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -159,7 +167,6 @@ Latest Date | Video / Audio
 6/27/2021 | Gunbuster Intro with prologue / (same as video)
 6/27/2021 | Vaporwave Beach / Ahero - Slow Summer
 6/24/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-6/24/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
 6/24/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
 6/24/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
 6/24/2021 | Knight of Justice Death Call / (same as video)
@@ -170,13 +177,6 @@ Latest Date | Video / Audio
 6/24/2021 | Angel Terminators / The First Family - Slow Motion
 6/24/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 6/24/2021 | FUNinja Explosions / ??
-6/22/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-6/22/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-6/22/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-6/22/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-6/22/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-6/22/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-6/22/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
