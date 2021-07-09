@@ -24,10 +24,10 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
-45 | Cheer of Love | 4/11/2021 | 8/9/2020
+45 | Cheer of Love (merged) | 4/11/2021 | 8/9/2020
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
-44 | Fighting Warriors Be Alert | 4/27/2021 | 8/2/2020
+44 | Fighting Warriors Be Alert (merged) | 4/27/2021 | 8/2/2020
 38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
@@ -117,6 +117,8 @@ Mixtape # | Title | Update | Last Changed
 28 | Forget about Luck | merged into MM8 "The Sword of Catastrophe" | 6/15/2021 
 29 | No Wonder You're So Brave | merged into MM8 "The Sword of Catastrophe" | 6/15/2021
 30 | Don't Be a Big Shot | merged into MM8 "The Sword of Catastrophe" | 6/15/2021
+44 | Fighting Warriors Be Alert | merged into MM9 "Hit Me Like You Mean It" | 7/8/2021
+45 | Cheer of Love | merged into MM9 "Hit Me Like You Mean It" | 7/8/2021
           
 Intros
 ------
