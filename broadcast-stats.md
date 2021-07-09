@@ -123,8 +123,19 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-7/6/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-7/6/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+7/8/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/8/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+7/8/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+7/8/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+7/8/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+7/8/2021 | Knight of Justice Death Call / (same as video)
+7/8/2021 | Jerry Harris - Bachelor Life / (same as video)
+7/8/2021 | Emergency Alert Please Stand by / (Beep)
+7/8/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+7/8/2021 | SHIT FUCK / (same as video)
+7/8/2021 | Angel Terminators / The First Family - Slow Motion
+7/8/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+7/8/2021 | FUNinja Explosions / ??
 7/6/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
 7/6/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 7/6/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
@@ -167,17 +178,6 @@ Latest Date | Video / Audio
 6/27/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 6/27/2021 | Gunbuster Intro with prologue / (same as video)
 6/27/2021 | Vaporwave Beach / Ahero - Slow Summer
-6/24/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-6/24/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-6/24/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-6/24/2021 | Knight of Justice Death Call / (same as video)
-6/24/2021 | Jerry Harris - Bachelor Life / (same as video)
-6/24/2021 | Emergency Alert Please Stand by / (Beep)
-6/24/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-6/24/2021 | SHIT FUCK / (same as video)
-6/24/2021 | Angel Terminators / The First Family - Slow Motion
-6/24/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-6/24/2021 | FUNinja Explosions / ??
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
