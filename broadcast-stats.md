@@ -31,7 +31,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
-41 | You Bastards are from the 30th Century? | 5/6/2021 | 6/30/2020
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
 65 | Suffer My Deadly Arts | 5/11/2021 | 5/9/2021
 61 | I Must Make Sure You Fail | 5/11/2021 | 3/14/2021
@@ -70,7 +69,8 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 40 | Is There No End of It? | 7/4/2021 | 6/23/2020
 69 | SUMMERTIME | 7/6/2021 | 7/4/2021
 54 | Sounds Like the Devil | 7/6/2021 | 1/10/2021
-
+41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
+MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -80,9 +80,9 @@ Decade | Available Tapes | Weeks since seen
 10s | 2 | 11 (Tu)
 20s | 4 | 8 (Su)
 Other | 4 | 8 (Su)
-MM0s | 8 | 0 (Th)
-30s | 9 | 0 (Th)
-40s | 10 | 0 (Su)
+30s | 9 | 1 (Th)
+MM0s | 9 | 0 (Th)
+40s | 10 | 0 (Th)
 50s | 10 | 0 (Tu)
 60s | 10 | 0 (Tu)
 
