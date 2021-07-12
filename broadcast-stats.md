@@ -24,10 +24,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 43 | This Will to Kill | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 32 | Destroy the Indestructible | 4/8/2021 | 4/26/2020
-45 | Cheer of Love (merged) | 4/11/2021 | 8/9/2020
 36 | Something Missing in Your Head | 4/22/2021 | 5/26/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
-44 | Fighting Warriors Be Alert (merged) | 4/27/2021 | 8/2/2020
 38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
@@ -35,7 +33,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 65 | Suffer My Deadly Arts | 5/11/2021 | 5/9/2021
 61 | I Must Make Sure You Fail | 5/11/2021 | 3/14/2021
 47 | Put Yourself in the Universe | 5/13/2021 | 9/13/2020
-55 | I Had a Heart Once | 5/13/2021 | 1/17/2021
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 62 | One Lousy Nobody, What Can He Do | 5/18/2021 | 3/21/2021
 MM6 | It's Your Turn to Die | 5/20/2021 | 5/20/2021
@@ -71,6 +68,8 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 54 | Sounds Like the Devil | 7/6/2021 | 1/10/2021
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
+55 | I Had a Heart Once | 5/13/2021 | 1/17/2021
+70 | Take the Fight to the Enemy | 7/11/2021 | 7/11/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -78,12 +77,13 @@ MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 11 (Tu)
-20s | 4 | 8 (Su)
-Other | 4 | 8 (Su)
+20s | 4 | 9 (Su)
+Other | 4 | 9 (Su)
 30s | 9 | 1 (Th)
+70s | 1 | 0 (Su)
+40s | 8 | 0 (Th)
 MM0s | 9 | 0 (Th)
-40s | 10 | 0 (Th)
-50s | 10 | 0 (Tu)
+50s | 10 | 0 (Su)
 60s | 10 | 0 (Tu)
 
 
