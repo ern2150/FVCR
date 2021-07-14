@@ -31,7 +31,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 34 | Mind Games | 5/4/2021 | 5/10/2020
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
 65 | Suffer My Deadly Arts | 5/11/2021 | 5/9/2021
-61 | I Must Make Sure You Fail | 5/11/2021 | 3/14/2021
 47 | Put Yourself in the Universe | 5/13/2021 | 9/13/2020
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 62 | One Lousy Nobody, What Can He Do | 5/18/2021 | 3/21/2021
@@ -69,7 +68,9 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
 55 | I Had a Heart Once | 5/13/2021 | 1/17/2021
-70 | Take the Fight to the Enemy | 7/11/2021 | 7/11/2021
+70 | Take the Fight to the Enemy | 7/13/2021 | 7/11/2021
+61 | I Must Make Sure You Fail | 7/13/2021 | 3/14/2021
+
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -80,7 +81,7 @@ Decade | Available Tapes | Weeks since seen
 20s | 4 | 9 (Su)
 Other | 4 | 9 (Su)
 30s | 9 | 1 (Th)
-70s | 1 | 0 (Su)
+70s | 1 | 0 (Tu)
 40s | 8 | 0 (Th)
 MM0s | 9 | 0 (Th)
 50s | 10 | 0 (Su)
