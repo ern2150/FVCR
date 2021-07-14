@@ -77,7 +77,7 @@ MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 11 (Tu)
+10s | 2 | 12 (Tu)
 20s | 4 | 9 (Su)
 Other | 4 | 9 (Su)
 30s | 9 | 1 (Th)
@@ -241,7 +241,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-7/11/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+7/13/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
