@@ -60,7 +60,7 @@ MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 54 | Sounds Like the Devil | 7/6/2021 | 1/10/2021
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
-55 | I Had a Heart Once | 5/13/2021 | 1/17/2021
+55 | I Had a Heart Once | 7/11/2021 | 1/17/2021
 70 | Take the Fight to the Enemy | 7/13/2021 | 7/11/2021
 61 | I Must Make Sure You Fail | 7/13/2021 | 3/14/2021
 62 | One Lousy Nobody, What Can He Do | 7/15/2021 | 3/21/2021
