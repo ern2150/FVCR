@@ -130,7 +130,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-7/15/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/18/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/18/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+7/18/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+7/18/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+7/18/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+7/18/2021 | FMW Opener / FMW Closer
+7/18/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
+7/18/2021 | Ninja the Protector credits / DANDY COLOGNE
+7/18/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+7/18/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+7/18/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+7/18/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 7/15/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 7/15/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 7/15/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
@@ -139,7 +150,6 @@ Latest Date | Video / Audio
 7/15/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 7/15/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 7/13/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-7/13/2021 | Ninja the Protector credits / DANDY COLOGNE
 7/13/2021 | Baki end whiteout / (same as video)
 7/13/2021 | HEYYYY JAPAAAAN / (same as video)
 7/13/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
@@ -175,16 +185,6 @@ Latest Date | Video / Audio
 7/6/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
 7/6/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 7/6/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
-7/4/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
-7/4/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-7/4/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-7/4/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-7/4/2021 | FMW Opener / FMW Closer
-7/4/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-7/4/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-7/4/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-7/4/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-7/4/2021 | Ramesh and Vishnu Warn and Welcome You All / Pierre Porte - The Lazy Game
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
