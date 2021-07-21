@@ -27,12 +27,10 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
-65 | Suffer My Deadly Arts | 5/11/2021 | 5/9/2021
 47 | Put Yourself in the Universe | 5/13/2021 | 9/13/2020
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 56 | Everyone Has Got to Live, Even Thieves | 5/20/2021 | 1/24/2021
 50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
-66 | Do You Really Have the Confidence? | 5/25/2021 | 5/23/2021
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
 51 | Money, Power, and Position | 5/27/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
@@ -68,21 +66,23 @@ MM10 | The Splatter and Gore Department | 7/15/2021 | 7/15/2021
 MM4 | I'm Glad to See You're Prepared to Die | 7/18/2021 | 4/4/2021
 MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 MM6 | It's Your Turn to Die | 7/18/2021 | 5/20/2021
+65 | Suffer My Deadly Arts | 7/20/2021 | 5/9/2021
+66 | Do You Really Have the Confidence? | 7/20/2021 | 5/23/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 12 (Tu)
+10s | 2 | 13 (Tu)
 20s | 4 | 10 (Su)
 Other | 4 | 10 (Su)
 30s | 7 | 2 (Th)
 40s | 7 | 1 (Th)
 50s | 10 | 1 (Su)
-70s | 1 | 0 (Tu)
+70s | 1 | 1 (Tu)
 MM0s | 10 | 0 (Su)
-60s | 10 | 0 (Th)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
