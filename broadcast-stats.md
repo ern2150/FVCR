@@ -128,6 +128,7 @@ Intros
 Latest Date | Video / Audio
 -- | --
 7/22/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/22/2021 | Summertime Stinger | (Love Theme from Omega Cop)
 7/22/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
 7/22/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 7/22/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
