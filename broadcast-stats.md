@@ -35,11 +35,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 51 | Money, Power, and Position | 5/27/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
 63 | This Sword Will Belong to You Forever | 6/6/2021 | 4/11/2021
-MM7 | I'd Like to See You Try and Hurt Me | 6/6/2021 | 6/6/2021
 58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
 37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
 52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
-MM8 | The Sword of Catastrophe | 6/15/2021 | 6/15/2021
 59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
 MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
@@ -68,6 +66,8 @@ MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 MM6 | It's Your Turn to Die | 7/18/2021 | 5/20/2021
 65 | Suffer My Deadly Arts | 7/20/2021 | 5/9/2021
 66 | Do You Really Have the Confidence? | 7/20/2021 | 5/23/2021
+MM7 | I'd Like to See You Try and Hurt Me | 7/22/2021 | 6/6/2021
+MM8 | The Sword of Catastrophe | 7/22/2021 | 6/15/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,11 +77,11 @@ Decade | Available Tapes | Weeks since seen
 10s | 2 | 13 (Tu)
 20s | 4 | 10 (Su)
 Other | 4 | 10 (Su)
-30s | 7 | 2 (Th)
-40s | 7 | 1 (Th)
+30s | 7 | 3 (Th)
+40s | 7 | 2 (Th)
 50s | 10 | 1 (Su)
 70s | 1 | 1 (Tu)
-MM0s | 10 | 0 (Su)
+MM0s | 10 | 0 (Th)
 60s | 10 | 0 (Tu)
 
 
@@ -128,7 +128,7 @@ Intros
 Latest Date | Video / Audio
 -- | --
 7/22/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-7/22/2021 | Summertime Stinger | (Love Theme from Omega Cop)
+7/22/2021 | Summertime Seaside Skullcrusher | (Love Theme from Omega Cop)
 7/22/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
 7/22/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
 7/22/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
