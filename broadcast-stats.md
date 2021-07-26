@@ -127,7 +127,15 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-7/22/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/25/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+7/25/2021 | Green tinted action movie (Wake Up to Die) / Delegation - Heartache No. 9
+7/25/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+7/25/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+7/25/2021 | VENOM RANGERS / Com Truise - Memory
+7/25/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+7/25/2021 | Gunbuster Intro with prologue / (same as video)
+7/25/2021 | Vaporwave Beach / Ahero - Slow Summer
 7/22/2021 | Summertime Seaside Skullcrusher | (Love Theme from Omega Cop)
 7/22/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
 7/22/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
@@ -176,14 +184,6 @@ Latest Date | Video / Audio
 7/13/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 7/13/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 7/13/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-7/11/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-7/11/2021 | Green tinted action movie / Delegation - Heartache No. 9
-7/11/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-7/11/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-7/11/2021 | VENOM RANGERS / Com Truise - Memory
-7/11/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
-7/11/2021 | Gunbuster Intro with prologue / (same as video)
-7/11/2021 | Vaporwave Beach / Ahero - Slow Summer
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
