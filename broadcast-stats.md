@@ -19,18 +19,17 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-20 | Cheap Thug in a Dirty Racket | 2/21/2021 | 1/19/2020
+20 | Cheap Thug in a Dirty Racket (Retired) | 2/21/2021 | 1/19/2020
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
-38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
+38 | What's Wrong with You? (retired) | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
-34 | Mind Games | 5/4/2021 | 5/10/2020
+34 | Mind Games (retired) | 5/4/2021 | 5/10/2020
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
-51 | Money, Power, and Position | 5/27/2021 | 12/6/2020
 57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
 63 | This Sword Will Belong to You Forever | 6/6/2021 | 4/11/2021
 58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
@@ -68,22 +67,23 @@ MM7 | I'd Like to See You Try and Hurt Me | 7/22/2021 | 6/6/2021
 MM8 | The Sword of Catastrophe | 7/22/2021 | 6/15/2021
 47 | Put Yourself in the Universe | 7/25/2021 | 9/13/2020
 56 | Everyone Has Got to Live, Even Thieves | 7/25/2021 | 1/24/2021
-
+51 | Money, Power, and Position | 7/27/2021 | 12/6/2020
+MM11 | I Can Stand the Pain | 7/27/2021 | 7/27/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 13 (Tu)
+10s | 2 | 14 (Tu)
 20s | 4 | 11 (Su)
 Other | 4 | 11 (Su)
 30s | 7 | 3 (Th)
-70s | 1 | 1 (Tu)
+70s | 1 | 2 (Tu)
+60s | 10 | 1 (Tu)
 40s | 7 | 0 (Su)
-50s | 10 | 0 (Su)
-MM0s | 10 | 0 (Th)
-60s | 10 | 0 (Tu)
+50s | 10 | 0 (Tu)
+MM0s | 11 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -121,6 +121,9 @@ Mixtape # | Title | Update | Last Changed
 36 | Something Missing in Your Head | merged into MM10 "The Splatter and Gore Department" | 7/15/2021
 32 | Destroy the Indestructable | merged into MM10 "The Splatter and Gore Department" | 7/15/2021
 43 | This Will to Kill | merged into MM10 "The Splatter and Gore Department" | 7/15/2021
+20 | Cheap Thug in a Dirty Racket | merged into MM11 "I Can Stand the Pain" | 7/27/2021
+34 | Mind Games | merged into MM11 "I Can Stand the Pain" | 7/27/2021
+38 | What's Wrong with You? | merged into MM11 "I Can Stand the Pain" | 7/27/2021
           
           
 Intros
