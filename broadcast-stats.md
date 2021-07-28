@@ -128,7 +128,19 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-7/25/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/27/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+7/27/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+7/27/2021 | Ninja the Protector credits / DANDY COLOGNE
+7/27/2021 | Baki end whiteout / (same as video)
+7/27/2021 | HEYYYY JAPAAAAN / (same as video)
+7/27/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
+7/27/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+7/27/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+7/27/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
+7/27/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+7/27/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+7/27/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+7/27/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 7/25/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 7/25/2021 | Green tinted action movie (Wake Up to Die) / Delegation - Heartache No. 9
 7/25/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
@@ -164,7 +176,6 @@ Latest Date | Video / Audio
 7/18/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 7/18/2021 | FMW Opener / FMW Closer
 7/18/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-7/18/2021 | Ninja the Protector credits / DANDY COLOGNE
 7/18/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 7/18/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 7/18/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
@@ -176,20 +187,11 @@ Latest Date | Video / Audio
 7/15/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 7/15/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 7/15/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-7/13/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-7/13/2021 | Baki end whiteout / (same as video)
-7/13/2021 | HEYYYY JAPAAAAN / (same as video)
-7/13/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-7/13/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-7/13/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
-7/13/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-7/13/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
-5/20/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13
@@ -207,7 +209,6 @@ Latest Date | Video / Audio
 4/22/2021 | 2yl8r Hong Kong? / (same as video)
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
 4/18/2021 | Actual Robowar intro / (same as video)
-4/18/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 4/11/2021 | Saint Seiya Opener / (same as video)
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
@@ -221,7 +222,6 @@ Latest Date | Video / Audio
 3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
 3/25/2021 | Heaven's Hell Trailer / (same as video)
 3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
-3/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 3/14/2021 | Ideon footage / Ideon opening full song
 3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
 3/4/2021 | STREAM TRAILER / Ideon closing full song
