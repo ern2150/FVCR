@@ -29,7 +29,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
-57 | Is There No Justice Anymore? | 5/27/2021 | 2/2/2021
 63 | This Sword Will Belong to You Forever | 6/6/2021 | 4/11/2021
 58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
 37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
@@ -69,7 +68,8 @@ MM8 | The Sword of Catastrophe | 7/22/2021 | 6/15/2021
 51 | Money, Power, and Position | 7/27/2021 | 12/6/2020
 MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 50 | The Awesome Powers of Destruction You Possess | 5/23/2021 | 11/15/2020
-
+57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
+71 | I Don't Belong Here | 8/1/2021 | 8/1/2021
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,15 +77,15 @@ MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 14 (Tu)
-20s | 4 | 11 (Su)
-Other | 4 | 11 (Su)
+20s | 4 | 12 (Su)
+Other | 4 | 12 (Su)
 30s | 7 | 4 (Th)
-70s | 1 | 2 (Tu)
+40s | 7 | 1 (Su)
 MM00s | 9 | 1 (Th)
 60s | 10 | 1 (Tu)
 MM10s | 2 | 0 (Th)
-40s | 7 | 0 (Su)
-50s | 10 | 0 (Th)
+70s | 2 | 0 (Su)
+50s | 10 | 0 (Su)
 
 Mixtapes with Updates (by Last Changed)
 -----
