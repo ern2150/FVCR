@@ -27,9 +27,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games | 5/4/2021 | 5/10/2020
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
-48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
-58 | Why Do You Help the Evil Person? | 6/8/2021 | 2/7/2021
 37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
 52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
 59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
@@ -70,6 +68,10 @@ MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 71 | I Don't Belong Here | 8/3/2021 | 8/1/2021
 63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
+58 | Why Do You Help the Evil Person? | 8/5/2021 | 2/7/2021
+48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
+
+
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -79,12 +81,12 @@ Decade | Available Tapes | Weeks since seen
 10s | 2 | 15 (Tu)
 20s | 4 | 12 (Su)
 Other | 4 | 12 (Su)
-30s | 7 | 4 (Th)
-40s | 7 | 1 (Su)
-MM00s | 9 | 1 (Th)
-MM10s | 2 | 0 (Th)
+30s | 7 | 5 (Th)
+MM00s | 9 | 2 (Th)
+MM10s | 2 | 1 (Th)
 70s | 2 | 0 (Tu)
-50s | 10 | 0 (Su)
+40s | 7 | 0 (Th)
+50s | 10 | 0 (Th)
 60s | 10 | 0 (Tu)
 
 Mixtapes with Updates (by Last Changed)
@@ -125,14 +127,27 @@ Mixtape # | Title | Update | Last Changed
 20 | Cheap Thug in a Dirty Racket | merged into MM11 "I Can Stand the Pain" | 7/27/2021
 34 | Mind Games | merged into MM11 "I Can Stand the Pain" | 7/27/2021
 38 | What's Wrong with You? | merged into MM11 "I Can Stand the Pain" | 7/27/2021
-          
+48 | Same Deal Next Time | updated | 8/5/2021          
           
 Intros
 ------
 
 Latest Date | Video / Audio
 -- | --
-8/3/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+8/5/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+8/5/2021 | Summertime Seaside Skullcrusher | (Love Theme from Omega Cop)
+8/5/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+8/5/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+8/5/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+8/5/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+8/5/2021 | Knight of Justice Death Call / (same as video)
+8/5/2021 | Jerry Harris - Bachelor Life / (same as video)
+8/5/2021 | Emergency Alert Please Stand by / (Beep)
+8/5/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+8/5/2021 | SHIT FUCK / (same as video)
+8/5/2021 | Angel Terminators / The First Family - Slow Motion
+8/5/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+8/5/2021 | FUNinja Explosions / ??
 8/3/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
 8/3/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
 8/3/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
@@ -178,19 +193,6 @@ Latest Date | Video / Audio
 7/25/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 7/25/2021 | Gunbuster Intro with prologue / (same as video)
 7/25/2021 | Vaporwave Beach / Ahero - Slow Summer
-7/22/2021 | Summertime Seaside Skullcrusher | (Love Theme from Omega Cop)
-7/22/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-7/22/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
-7/22/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-7/22/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-7/22/2021 | Knight of Justice Death Call / (same as video)
-7/22/2021 | Jerry Harris - Bachelor Life / (same as video)
-7/22/2021 | Emergency Alert Please Stand by / (Beep)
-7/22/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-7/22/2021 | SHIT FUCK / (same as video)
-7/22/2021 | Angel Terminators / The First Family - Slow Motion
-7/22/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-7/22/2021 | FUNinja Explosions / ??
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
@@ -249,7 +251,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-8/3/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+8/5/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
