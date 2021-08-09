@@ -29,9 +29,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
 37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
-52 | Let You Through to Hell | 6/10/2021 | 12/13/2020
 59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
-MM2 | Why Are You Playing Heroes? | 6/17/2021 | 2/23/2021
 42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
 64 | Hold You Close and Feel Things | 6/20/2021 | 4/18/2021
 67 | Together We Will Smash Them | 6/22/2021 | 6/20/2021
@@ -70,6 +68,8 @@ MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
 58 | Why Do You Help the Evil Person? | 8/5/2021 | 2/7/2021
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
+52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
+MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
 
 
 
@@ -79,14 +79,14 @@ MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 15 (Tu)
-20s | 4 | 12 (Su)
-Other | 4 | 12 (Su)
+20s | 4 | 13 (Su)
+Other | 4 | 13 (Su)
 30s | 7 | 5 (Th)
-MM00s | 9 | 2 (Th)
 MM10s | 2 | 1 (Th)
 70s | 2 | 0 (Tu)
 40s | 7 | 0 (Th)
-50s | 10 | 0 (Th)
+MM00s | 9 | 0 (Su)
+50s | 10 | 0 (Su)
 60s | 10 | 0 (Tu)
 
 Mixtapes with Updates (by Last Changed)
