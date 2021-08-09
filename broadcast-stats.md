@@ -19,13 +19,18 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
-20 | Cheap Thug in a Dirty Racket | 2/21/2021 | 1/19/2020
+20 | Cheap Thug in a Dirty Racket (see MM11) | 2/21/2021 | 1/19/2020
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
+43 | This Will to Kill (see MM10) | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
+32 | Destroy the Indestructible (see MM10) | 4/8/2021 | 4/26/2020
+45 | Cheer of Love (see MM9) | 4/11/2021 | 8/9/2020
+36 | Something Missing in Your Head (see MM10) | 4/22/2021 | 5/26/2020
 27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
-38 | What's Wrong with You? | 5/2/2021 | 6/7/2020
+44 | Fighting Warriors Be Alert (see MM9) | 4/27/2021 | 8/2/2020
+38 | What's Wrong with You? (see MM11) | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
-34 | Mind Games | 5/4/2021 | 5/10/2020
+34 | Mind Games (see MM11) | 5/4/2021 | 5/10/2020
 26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
 35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
 37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
@@ -81,11 +86,11 @@ Decade | Available Tapes | Weeks since seen
 10s | 2 | 15 (Tu)
 20s | 4 | 13 (Su)
 Other | 4 | 13 (Su)
-30s | 7 | 5 (Th)
+30s | 9 | 5 (Th)
 MM10s | 2 | 1 (Th)
 70s | 2 | 0 (Tu)
-40s | 7 | 0 (Th)
 MM00s | 9 | 0 (Su)
+40s | 10 | 0 (Th)
 50s | 10 | 0 (Su)
 60s | 10 | 0 (Tu)
 
