@@ -31,10 +31,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 38 | What's Wrong with You? (see MM11) | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
 34 | Mind Games (see MM11) | 5/4/2021 | 5/10/2020
-26 | Cannot Stop to Feel | 5/9/2021 | 3/3/2020
-35 | Imagination Creates Reality | 5/25/2021 | 5/17/2020
-37 | Monster Rage Ball | 6/8/2021 | 3/25/2020 
-59 | Now the Fun Begins | 6/15/2021 | 2/14/2021
+26 | Cannot Stop to Feel (see MM12) | 5/9/2021 | 3/3/2020
+35 | Imagination Creates Reality (see MM12) | 5/25/2021 | 5/17/2020
+37 | Monster Rage Ball (see MM12) | 6/8/2021 | 3/25/2020 
 42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
 64 | Hold You Close and Feel Things | 6/20/2021 | 4/18/2021
 67 | Together We Will Smash Them | 6/22/2021 | 6/20/2021
@@ -75,7 +74,8 @@ MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 48 | Same Deal Next Time | 5/18/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
-
+59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
+MM12 | Evil Is Never Invincible | 8/10/2021 | 8/10/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -83,16 +83,16 @@ MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 15 (Tu)
+10s | 2 | 16 (Tu)
 20s | 4 | 13 (Su)
 Other | 4 | 13 (Su)
 30s | 9 | 5 (Th)
-MM10s | 2 | 1 (Th)
-70s | 2 | 0 (Tu)
+70s | 2 | 1 (Tu)
+60s | 10 | 1 (Tu)
+MM10s | 3 | 0 (Tu)
 MM00s | 9 | 0 (Su)
 40s | 10 | 0 (Th)
-50s | 10 | 0 (Su)
-60s | 10 | 0 (Tu)
+50s | 10 | 0 (Tu)
 
 Mixtapes with Updates (by Last Changed)
 -----
@@ -133,7 +133,12 @@ Mixtape # | Title | Update | Last Changed
 34 | Mind Games | merged into MM11 "I Can Stand the Pain" | 7/27/2021
 38 | What's Wrong with You? | merged into MM11 "I Can Stand the Pain" | 7/27/2021
 48 | Same Deal Next Time | updated | 8/5/2021          
-          
+26 | Cannot Stop to Feel | merged into MM12 "Evil Is Never Invincible" | 8/10/2021
+35 | Imagination Creates Reality | merged into MM12 "Evil Is Never Invincible" | 8/10/2021
+37 | Monster Rage Ball | merged into MM12 "Evil Is Never Invincible" | 8/10/2021
+
+
+
 Intros
 ------
 
