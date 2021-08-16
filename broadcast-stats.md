@@ -35,12 +35,10 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 35 | Imagination Creates Reality (see MM12) | 5/25/2021 | 5/17/2020
 37 | Monster Rage Ball (see MM12) | 6/8/2021 | 3/25/2020 
 42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
-67 | Together We Will Smash Them | 6/22/2021 | 6/20/2021
 46 | We Smile Because We Are Alive | 6/22/2021 | 8/20/2020
 MM1 | Get Rich Regardless of the Means (End of 2019) | 6/24/2021 | 11/14/2019
 MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 60 | Try Your Best to Fight Me | 6/27/2021 | 2/28/2021
-68 | Endless Chain of Duels and Killings | 6/29/2021 | 6/27/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 6/29/2021 | 10/11/2020
 39 | The Kids Became Normal Again | 7/1/2021 | 6/16/2020
 53 | The True Form of His Brains | 7/1/2021 | 12/27/2020
@@ -76,6 +74,8 @@ MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
 MM12 | Evil Is Never Invincible | 8/12/2021 | 8/10/2021
 64 | Hold You Close and Feel Things | 8/12/2021 | 4/18/2021
+67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
+68 | Endless Chain of Duels and Killings | 8/15/2021 | 6/27/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -84,15 +84,15 @@ MM12 | Evil Is Never Invincible | 8/12/2021 | 8/10/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 16 (Tu)
-20s | 4 | 13 (Su)
-Other | 4 | 13 (Su)
+20s | 4 | 14 (Su)
+Other | 4 | 14 (Su)
 30s | 9 | 6 (Th)
 70s | 2 | 1 (Tu)
 40s | 10 | 1 (Th)
+MM00s | 9 | 1 (Su)
 MM10s | 3 | 0 (Th)
-MM00s | 9 | 0 (Su)
 50s | 10 | 0 (Tu)
-60s | 10 | 0 (Th)
+60s | 10 | 0 (Su)
 
 Mixtapes with Updates (by Last Changed)
 -----
