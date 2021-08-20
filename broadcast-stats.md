@@ -263,7 +263,7 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-8/15/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+8/19/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
 
 
