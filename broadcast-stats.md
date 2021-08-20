@@ -39,9 +39,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 MM1 | Get Rich Regardless of the Means (End of 2019) | 6/24/2021 | 11/14/2019
 MM3 | Blood, Lust, and Intrigue | 6/24/2021 | 3/9/2021
 60 | Try Your Best to Fight Me | 6/27/2021 | 2/28/2021
-49 | Despise the Dark 2020 Halloween vol 2 | 6/29/2021 | 10/11/2020
 39 | The Kids Became Normal Again | 7/1/2021 | 6/16/2020
-53 | The True Form of His Brains | 7/1/2021 | 12/27/2020
 40 | Is There No End of It? | 7/4/2021 | 6/23/2020
 69 | SUMMERTIME | 7/6/2021 | 7/4/2021
 54 | Sounds Like the Devil | 7/6/2021 | 1/10/2021
@@ -76,6 +74,8 @@ MM12 | Evil Is Never Invincible | 8/12/2021 | 8/10/2021
 64 | Hold You Close and Feel Things | 8/12/2021 | 4/18/2021
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 68 | Endless Chain of Duels and Killings | 8/15/2021 | 6/27/2021
+49 | Despise the Dark 2020 Halloween vol 2 | 8/19/2021 | 10/11/2020
+53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 
 
 "Decades" by Weeks Since Seen, descending
@@ -83,15 +83,15 @@ MM12 | Evil Is Never Invincible | 8/12/2021 | 8/10/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 16 (Tu)
+10s | 2 | 17 (Tu)
 20s | 4 | 14 (Su)
 Other | 4 | 14 (Su)
-30s | 9 | 6 (Th)
-70s | 2 | 1 (Tu)
-40s | 10 | 1 (Th)
+30s | 9 | 7 (Th)
+70s | 2 | 2 (Tu)
+MM10s | 3 | 1 (Th)
 MM00s | 9 | 1 (Su)
-MM10s | 3 | 0 (Th)
-50s | 10 | 0 (Tu)
+40s | 10 | 0 (Th)
+50s | 10 | 0 (Th)
 60s | 10 | 0 (Su)
 
 Mixtapes with Updates (by Last Changed)
