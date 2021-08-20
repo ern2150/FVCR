@@ -144,7 +144,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-8/15/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+8/19/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+8/19/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective
+8/19/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
+8/19/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+8/19/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+8/19/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+8/19/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+8/19/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+8/19/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+8/19/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 8/15/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 8/15/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 8/15/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -196,14 +205,6 @@ Latest Date | Video / Audio
 8/5/2021 | Angel Terminators / The First Family - Slow Motion
 8/5/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 8/5/2021 | FUNinja Explosions / ??
-8/3/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
-8/3/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-8/3/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-8/3/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-8/3/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-8/3/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-8/3/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-8/3/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
