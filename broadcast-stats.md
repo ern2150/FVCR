@@ -14,7 +14,7 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Date | Original Debut
 -- | -- | -- | --
 19 | [EZ Movie Intro Vortex](https://github.com/ern2150/FVCR/wiki/Mixtape-19:-Easy-Movie-Intro-Vortex) | 8/20/2020 | 1/14/2020
-14 | And I'll Revenge Their Deaths | 9/15/2020 | 12/8/2019
+14 | [And I'll Revenge Their Deaths](https://github.com/ern2150/FVCR/wiki/Mixtape-14:-...and-I'll-Revenge-Their-Deaths) | 9/15/2020 | 12/8/2019
 &nbsp; | Hallowed Out (2020 Halloween Vol 1) | 11/1/2020 | 10/4/2020
 &nbsp; | Evil Is Excuseable (2020 Halloween Vol 3) | 11/1/2020 | 10/27/2020
 33 | Why Do You Challenge Us? | 12/20/2020 | 5/3/2020
