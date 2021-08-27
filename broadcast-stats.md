@@ -42,7 +42,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 6/24/2021 | 11/14/2019
 69 | SUMMERTIME | 7/6/2021 | 7/4/2021
 54 | Sounds Like the Devil | 7/6/2021 | 1/10/2021
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
-MM9 | Hit Me Like You Mean It | 7/8/2021 | 7/8/2021
 55 | I Had a Heart Once | 7/11/2021 | 1/17/2021
 70 | Take the Fight to the Enemy | 7/13/2021 | 7/11/2021
 61 | I Must Make Sure You Fail | 7/13/2021 | 3/14/2021
@@ -77,6 +76,7 @@ MM12 | Evil Is Never Invincible | 8/12/2021 | 8/10/2021
 MM3 | Blood, Lust, and Intrigue | 8/22/2021 | 3/9/2021
 MM13 | Keep on Winning | 8/24/2021 | 8/22/2021
 60 | Try Your Best to Fight Me | 8/24/2021 | 2/28/2021
+MM9 | Hit Me Like You Mean It | 8/26/2021 | 7/8/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -84,16 +84,16 @@ MM13 | Keep on Winning | 8/24/2021 | 8/22/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 17 (Tu)
+10s | 2 | 18 (Tu)
 20s | 4 | 15 (Su)
 Other | 4 | 15 (Su)
-30s | 9 | 7 (Th)
-70s | 2 | 2 (Tu)
-60s | 10 | 1 (Su)
+30s | 9 | 8 (Th)
+70s | 2 | 3 (Tu)
+40s | 10 | 1 (Th)
+50s | 10 | 1 (Th)
 MM10s | 4 | 0 (Su)
-MM00s | 9 | 0 (Su)
-40s | 10 | 0 (Th)
-50s | 10 | 0 (Th)
+MM00s | 9 | 0 (Th)
+60s | 10 | 0 (Tu)
 
 Mixtapes with Updates (by Last Changed)
 -----
