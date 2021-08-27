@@ -139,7 +139,7 @@ Mixtape # | Title | Update | Last Changed
 37 | Monster Rage Ball | merged into MM12 "Evil Is Never Invincible" | 8/10/2021
 39 | The Kids Became Normal Again | merged into MM13 "Keep on Winning" | 8/22/2021
 40 | Is There No End of It? | merged into MM13 "Keep on Winning" | 8/22/2021
-
+MM3 | Blood, Lust, and Intrigue | updated | 8/22/2021
 
 
 Intros
