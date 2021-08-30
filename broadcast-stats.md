@@ -288,6 +288,16 @@ Latest Date | Video / Audio
 3/25/2021 | VHS The Thundering Ninja (titled on-screen as such instead of Conquista)
 3/25/2021 | VHS Ninja Hunt
 3/25/2021 | VHS Orochi (english dub)
+3/18/2021 | VHS Ninja the Protector (Sho Kosugi TWE version)
+3/18/2021 | VHS Bruce Le vs Ninja
+3/18/2021 | VHS Ninja Champion (Front Row Entertainment)
+3/18/2021 | VHS Street Fighters Part II (Please adjust tracking)
+3/18/2021 | VHS Super Gang
+3/18/2021 | VHS Black Ninja
+3/18/2021 | VHS Clash of the Ninja
+3/18/2021 | VHS Catman in Boxer's Blow
+3/18/2021 | VHS Cyber Ninja (promo copy)
+3/18/2021 | VHS Blazing Ninja
 
 
 Outros
