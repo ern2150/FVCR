@@ -270,6 +270,8 @@ Latest Date | Video / Audio
 8/26/2021 | VHS Havoc 1 (breaks Toshiba temporarily)
 8/26/2021 | VHS Shibashi
 8/26/2021 | VHS Little Heroes
+6/10/2021 | DVD Ninjatune Zen TV
+6/10/2021 | VHS Dragon Strike (Dungeons & Dragons live action/CGI)
 
 
 Outros
