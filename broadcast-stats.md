@@ -298,6 +298,11 @@ Latest Date | Video / Audio
 3/18/2021 | VHS Catman in Boxer's Blow
 3/18/2021 | VHS Cyber Ninja (promo copy)
 3/18/2021 | VHS Blazing Ninja
+3/4/2021  | VHS Battle Arena Toshinden
+3/4/2021  | VHS Three Faces of Foley
+3/4/2021  | VHS Bubblegum Crisis
+3/4/2021  | VHS Streets of Fire
+3/4/2021  | VHS Kids in the Hall Brain Candy
 
 
 Outros
