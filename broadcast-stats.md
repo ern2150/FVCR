@@ -312,6 +312,11 @@ Latest Date | Video / Audio
 2/2/2021  | VHS Super Dragon's Dynamo (Finest in Children's Entertainment)
 1/28/2021 | VHS VR Troopers Virtual V-6
 1/28/2021 | VHS Superhuman Samurai Cyber Squad A 'Skorn' in Their Side
+1/21/2021 | VHS Ultraverse Firearm
+1/21/2021 | VHS Tiger Claw / Martial Law 2 Undercover (promo copy)
+1/21/2021 | VHS Space Warriors Battle for Earth Station S/1
+1/21/2021 | VHS Bloodfight
+1/21/2021 | VHS Greatest Fights of Martial Arts
 
 
 
