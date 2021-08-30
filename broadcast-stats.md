@@ -274,6 +274,12 @@ Latest Date | Video / Audio
 6/10/2021 | VHS Dragon Strike (Dungeons & Dragons live action/CGI)
 5/6/2021  | VHS Super Dragon's Dynamo
 5/4/2021  | VHS Hardware Wars Special Edition
+4/15/2021 | VHS Thunder Ninja Kids Wonderful Mission
+4/15/2021 | VHS Secret Master
+4/15/2021 | VHS Ninja Operation: Licensed to Terminate
+4/15/2021 | VHS Dino Riders Vol 1
+4/15/2021 | VHS Little Heroes
+4/15/2021 | VHS A.P.E.X.
 
 Outros
 ------
