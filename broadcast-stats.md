@@ -4,6 +4,7 @@ Table of Contents
  - [Mixtape Decades Stats](#decades-by-weeks-since-seen-descending)
  - [Mixtapes with Updates](#mixtapes-with-updates-by-last-changed)
  - [Intros](#intros)
+ - [Bonus Clips](#bonus-clips)
  - [Outros](#outros)
  - [Footnotes](#notes)
 
@@ -261,6 +262,14 @@ Latest Date | Video / Audio
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / (same as video)
+
+Bonus Clips
+-----------
+Latest Date | Video / Audio
+-- | --
+8/26/2021 | VHS Havoc 1 (breaks Toshiba temporarily)
+8/26/2021 | VHS Shibashi
+8/26/2021 | VHS Little Heroes
 
 
 Outros
