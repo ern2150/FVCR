@@ -273,7 +273,7 @@ Latest Date | Video / Audio
 6/10/2021 | DVD Ninjatune Zen TV
 6/10/2021 | VHS Dragon Strike (Dungeons & Dragons live action/CGI)
 5/6/2021  | VHS Super Dragon's Dynamo
-5/4/2021  | VHS Hardware Wars Special Edition
+5/4/2021  | VHS Hardware Wars Special Edition (full)
 4/15/2021 | VHS Thunder Ninja Kids Wonderful Mission
 4/15/2021 | VHS Secret Master
 4/15/2021 | VHS Ninja Operation: Licensed to Terminate
@@ -303,6 +303,10 @@ Latest Date | Video / Audio
 3/4/2021  | VHS Bubblegum Crisis
 3/4/2021  | VHS Streets of Fire
 3/4/2021  | VHS Kids in the Hall Brain Candy
+2/18/2021 | VHS Hardware Wars Special Edition (clip)
+2/18/2021 | VHS Bambi Meets Godzilla & Other Weird Cartoons
+2/18/2021 | VHS Thunder Ninja Kids: The Hunt for the Devil Boxer
+2/18/2021 | VHS Thunder Ninja Kids in the Golden Adventure (titled on trailer as Thunder Kids~ Golden Adventure)
 
 
 Outros
