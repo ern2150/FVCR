@@ -280,6 +280,15 @@ Latest Date | Video / Audio
 4/15/2021 | VHS Dino Riders Vol 1
 4/15/2021 | VHS Little Heroes
 4/15/2021 | VHS A.P.E.X.
+3/25/2021 | VHS WMAC Masters Meet the Masters
+3/25/2021 | VHS Wing Chun
+3/25/2021 | VHS Ninja of the Magnificence
+3/25/2021 | VHS Ninja Empire
+3/25/2021 | VHS Wu Tang v Ninja
+3/25/2021 | VHS The Thundering Ninja (titled on-screen as such instead of Conquista)
+3/25/2021 | VHS Ninja Hunt
+3/25/2021 | VHS Orochi (english dub)
+
 
 Outros
 ------
