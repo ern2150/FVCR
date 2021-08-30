@@ -273,6 +273,7 @@ Latest Date | Video / Audio
 6/10/2021 | DVD Ninjatune Zen TV
 6/10/2021 | VHS Dragon Strike (Dungeons & Dragons live action/CGI)
 5/6/2021  | VHS Super Dragon's Dynamo
+5/4/2021  | VHS Hardware Wars Special Edition
 
 Outros
 ------
