@@ -309,7 +309,7 @@ Latest Date | Video / Audio
 2/18/2021 | VHS Thunder Ninja Kids in the Golden Adventure (titled on trailer as Thunder Kids~ Golden Adventure)
 2/11/2021 | DVD Kaiju Big Battel Terebi Sento
 2/7/2021  | VHS Buckaroo Bonzai
-
+2/2/2021  | VHS Super Dragon's Dynamo (Finest in Children's Entertainment)
 
 
 Outros
