@@ -4,6 +4,7 @@ Table of Contents
  - [Mixtape Decades Stats](#decades-by-weeks-since-seen-descending)
  - [Mixtapes with Updates](#mixtapes-with-updates-by-last-changed)
  - [Intros](#intros)
+ - [VHS Covers](#vhs-covers)
  - [Bonus Clips](#bonus-clips)
  - [Outros](#outros)
  - [Footnotes](#notes)
@@ -265,6 +266,9 @@ Latest Date | Video / Audio
 1/10/2021 | COJI COJI Opener / (same as video)
 1/10/2021 | Commando Fury Opener / (same as video)
 
+VHS Covers
+----------
+...see [here](https://github.com/ern2150/FVCR/issues/15) for now...
 
 Bonus Clips
 -----------
