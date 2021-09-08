@@ -152,7 +152,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-9/2/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/7/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/7/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
+9/7/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
+9/7/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+9/7/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective
+9/7/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+9/7/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+9/7/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+9/7/2021 | Knight of Justice Death Call / (same as video)
+9/7/2021 | Jerry Harris - Bachelor Life / (same as video)
+9/7/2021 | Emergency Alert Please Stand by / (Beep)
+9/7/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+9/7/2021 | SHIT FUCK / (same as video)
+9/7/2021 | Angel Terminators / The First Family - Slow Motion
+9/7/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+9/7/2021 | FUNinja Explosions / ??
 9/2/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
 9/2/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
 9/2/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
@@ -192,7 +207,6 @@ Latest Date | Video / Audio
 8/26/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 8/26/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 8/24/2021 | Motorbike v Car v Barrels | Dabeull - Special to Me
-8/24/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
 8/24/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 8/24/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 8/24/2021 | Green tinted action movie (Wake Up to Die) / Delegation - Heartache No. 9
@@ -201,20 +215,6 @@ Latest Date | Video / Audio
 8/24/2021 | VENOM RANGERS / Com Truise - Memory
 8/24/2021 | Gunbuster Intro with prologue / (same as video)
 8/24/2021 | Vaporwave Beach / Ahero - Slow Summer
-8/22/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
-8/22/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-8/22/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective
-8/22/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
-8/22/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-8/22/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-8/22/2021 | Knight of Justice Death Call / (same as video)
-8/22/2021 | Jerry Harris - Bachelor Life / (same as video)
-8/22/2021 | Emergency Alert Please Stand by / (Beep)
-8/22/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-8/22/2021 | SHIT FUCK / (same as video)
-8/22/2021 | Angel Terminators / The First Family - Slow Motion
-8/22/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-8/22/2021 | FUNinja Explosions / ??
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
