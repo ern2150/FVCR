@@ -42,7 +42,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 40 | Is There No End of It? (see MM13) | 7/4/2021 | 6/23/2020
 69 | SUMMERTIME | 7/6/2021 | 7/4/2021
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
-61 | I Must Make Sure You Fail | 7/13/2021 | 3/14/2021
 MM4 | I'm Glad to See You're Prepared to Die | 7/18/2021 | 4/4/2021
 MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 MM6 | It's Your Turn to Die | 7/18/2021 | 5/20/2021
@@ -79,6 +78,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 8/31/2021 | 11/14/2019
 55 | I Had a Heart Once | 8/31/2021 | 1/17/2021
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
 70 | Take the Fight to the Enemy | 9/2/2021 | 7/11/2021
+61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
+72 | Who Is the Champion Now? | 9/7/2021 | 9/7/2021
 
 
 
@@ -87,16 +88,16 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 8/31/2021 | 11/14/2019
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 19 (Tu)
-20s | 4 | 16 (Su)
-Other | 4 | 16 (Su)
+10s | 2 | 20 (Tu)
+20s | 4 | 17 (Su)
+Other | 4 | 17 (Su)
 30s | 9 | 9 (Th)
 40s | 10 | 2 (Th)
-70s | 2 | 0 (Th)
-MM10s | 4 | 0 (Su)
+MM10s | 4 | 1 (Su)
+50s | 10 | 1 (Tu)
+70s | 3 | 0 (Tu)
 MM00s | 9 | 0 (Tu)
-50s | 10 | 0 (Tu)
-60s | 10 | 0 (Th)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
