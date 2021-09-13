@@ -153,7 +153,19 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-9/9/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/12/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/12/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+9/12/2021 | Ninja the Protector credits / DANDY COLOGNE
+9/12/2021 | Baki end whiteout / (same as video)
+9/12/2021 | HEYYYY JAPAAAAN / (same as video)
+9/12/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
+9/12/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+9/12/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+9/12/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
+9/12/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+9/12/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+9/12/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+9/12/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 9/9/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
 9/9/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
 9/9/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
@@ -193,7 +205,6 @@ Latest Date | Video / Audio
 8/31/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 8/31/2021 | FMW Opener / FMW Closer
 8/31/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-8/31/2021 | Ninja the Protector credits / DANDY COLOGNE
 8/31/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 8/31/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 8/31/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
@@ -205,17 +216,6 @@ Latest Date | Video / Audio
 8/29/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 8/29/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 8/29/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-8/26/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-8/26/2021 | Baki end whiteout / (same as video)
-8/26/2021 | HEYYYY JAPAAAAN / (same as video)
-8/26/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
-8/26/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-8/26/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
-8/26/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
-8/26/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-8/26/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
-8/26/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-8/26/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
