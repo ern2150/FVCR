@@ -40,7 +40,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 46 | We Smile Because We Are Alive | 6/22/2021 | 8/20/2020
 39 | The Kids Became Normal Again (see MM13) | 7/1/2021 | 6/16/2020
 40 | Is There No End of It? (see MM13) | 7/4/2021 | 6/23/2020
-69 | SUMMERTIME | 7/6/2021 | 7/4/2021
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 MM4 | I'm Glad to See You're Prepared to Die | 7/18/2021 | 4/4/2021
 MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
@@ -51,7 +50,6 @@ MM8 | The Sword of Catastrophe | 7/22/2021 | 6/15/2021
 47 | Put Yourself in the Universe | 7/25/2021 | 9/13/2020
 56 | Everyone Has Got to Live, Even Thieves | 7/25/2021 | 1/24/2021
 51 | Money, Power, and Position | 7/27/2021 | 12/6/2020
-MM11 | I Can Stand the Pain | 7/29/2021 | 7/27/2021
 50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 71 | I Don't Belong Here | 8/3/2021 | 8/1/2021
@@ -80,6 +78,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 8/31/2021 | 11/14/2019
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
 72 | Who Is the Champion Now? | 9/9/2021 | 9/7/2021
 MM6 | It's Your Turn to Die | 9/9/2021 | 5/20/2021
+MM11 | I Can Stand the Pain | 9/12/2021 | 7/27/2021
+69 | SUMMERTIME | 9/12/2021 | 7/4/2021
 
 
 
@@ -89,15 +89,15 @@ MM6 | It's Your Turn to Die | 9/9/2021 | 5/20/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 20 (Tu)
-20s | 4 | 17 (Su)
-Other | 4 | 17 (Su)
+20s | 4 | 18 (Su)
+Other | 4 | 18 (Su)
 30s | 9 | 10 (Th)
-40s | 10 | 10 (Th)
-MM10s | 4 | 1 (Su)
+40s | 10 | 3 (Th)
 50s | 10 | 1 (Tu)
 70s | 3 | 0 (Th)
+MM10s | 4 | 0 (Su)
 MM00s | 9 | 0 (Th)
-60s | 10 | 0 (Tu)
+60s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
