@@ -44,8 +44,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 MM4 | I'm Glad to See You're Prepared to Die | 7/18/2021 | 4/4/2021
 MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 65 | Suffer My Deadly Arts | 7/20/2021 | 5/9/2021
-66 | Do You Really Have the Confidence? | 7/20/2021 | 5/23/2021
-MM7 | I'd Like to See You Try and Hurt Me | 7/22/2021 | 6/6/2021
 MM8 | The Sword of Catastrophe | 7/22/2021 | 6/15/2021
 47 | Put Yourself in the Universe | 7/25/2021 | 9/13/2020
 56 | Everyone Has Got to Live, Even Thieves | 7/25/2021 | 1/24/2021
@@ -80,6 +78,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 8/31/2021 | 11/14/2019
 MM6 | It's Your Turn to Die | 9/9/2021 | 5/20/2021
 MM11 | I Can Stand the Pain | 9/12/2021 | 7/27/2021
 69 | SUMMERTIME | 9/12/2021 | 7/4/2021
+MM7 | I'd Like to See You Try and Hurt Me | 9/14/2021 | 6/6/2021
+66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
 
 
 
@@ -88,16 +88,16 @@ MM11 | I Can Stand the Pain | 9/12/2021 | 7/27/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 20 (Tu)
+10s | 2 | 21 (Tu)
 20s | 4 | 18 (Su)
 Other | 4 | 18 (Su)
 30s | 9 | 10 (Th)
 40s | 10 | 3 (Th)
-50s | 10 | 1 (Tu)
+50s | 10 | 2 (Tu)
 70s | 3 | 0 (Th)
 MM10s | 4 | 0 (Su)
-MM00s | 9 | 0 (Th)
-60s | 10 | 0 (Su)
+MM00s | 9 | 0 (Tu)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
