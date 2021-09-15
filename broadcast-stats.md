@@ -153,7 +153,14 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-9/12/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/14/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/14/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
+9/14/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+9/14/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+9/14/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
+9/14/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
+9/14/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+9/14/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 9/12/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 9/12/2021 | Ninja the Protector credits / DANDY COLOGNE
 9/12/2021 | Baki end whiteout / (same as video)
@@ -209,13 +216,6 @@ Latest Date | Video / Audio
 8/31/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 8/31/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 8/31/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
-8/29/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
-8/29/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-8/29/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-8/29/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-8/29/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
-8/29/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-8/29/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
