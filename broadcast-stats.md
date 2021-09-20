@@ -153,7 +153,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-9/14/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/19/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/19/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
+9/19/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
+9/19/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+9/19/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+9/19/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+9/19/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+9/19/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+9/19/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+9/19/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 9/14/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 9/14/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 9/14/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
@@ -197,15 +206,6 @@ Latest Date | Video / Audio
 9/7/2021 | Angel Terminators / The First Family - Slow Motion
 9/7/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 9/7/2021 | FUNinja Explosions / ??
-9/2/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
-9/2/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
-9/2/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-9/2/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-9/2/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-9/2/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-9/2/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-9/2/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-9/2/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 8/31/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 8/31/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 8/31/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
