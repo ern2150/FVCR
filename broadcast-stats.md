@@ -46,7 +46,6 @@ MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 65 | Suffer My Deadly Arts | 7/20/2021 | 5/9/2021
 47 | Put Yourself in the Universe | 7/25/2021 | 9/13/2020
 56 | Everyone Has Got to Live, Even Thieves | 7/25/2021 | 1/24/2021
-51 | Money, Power, and Position | 7/27/2021 | 12/6/2020
 50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
@@ -80,6 +79,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 9/14/2021 | 6/6/2021
 66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
 MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 71 | I Don't Belong Here | 9/19/2021 | 8/1/2021
+51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
+73 | The Whirlpool of Battle | 9/21/2021 | 9/21/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -92,9 +93,9 @@ Decade | Available Tapes | Weeks since seen
 Other | 4 | 19 (Su)
 30s | 9 | 11 (Th)
 40s | 10 | 4 (Th)
-50s | 10 | 2 (Tu)
 MM10s | 4 | 1 (Su)
-70s | 3 | 0 (Su)
+50s | 10 | 0 (Tu)
+70s | 4 | 0 (Tu)
 MM00s | 9 | 0 (Su)
 60s | 10 | 0 (Tu)
 
