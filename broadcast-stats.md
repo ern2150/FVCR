@@ -153,7 +153,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-9/21/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+9/23/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
+9/23/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
+9/23/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+9/23/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
+9/23/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+9/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+9/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+9/23/2021 | Knight of Justice Death Call / (same as video)
+9/23/2021 | Jerry Harris - Bachelor Life / (same as video)
+9/23/2021 | Emergency Alert Please Stand by / (Beep)
+9/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+9/23/2021 | SHIT FUCK / (same as video)
+9/23/2021 | Angel Terminators / The First Family - Slow Motion
+9/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+9/23/2021 | FUNinja Explosions / ??
 9/21/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 9/21/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 9/21/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -201,21 +216,6 @@ Latest Date | Video / Audio
 9/9/2021 | VENOM RANGERS / Com Truise - Memory
 9/9/2021 | Gunbuster Intro with prologue / (same as video)
 9/9/2021 | Vaporwave Beach / Ahero - Slow Summer
-9/7/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
-9/7/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
-9/7/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-9/7/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective
-9/7/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
-9/7/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-9/7/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-9/7/2021 | Knight of Justice Death Call / (same as video)
-9/7/2021 | Jerry Harris - Bachelor Life / (same as video)
-9/7/2021 | Emergency Alert Please Stand by / (Beep)
-9/7/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-9/7/2021 | SHIT FUCK / (same as video)
-9/7/2021 | Angel Terminators / The First Family - Slow Motion
-9/7/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-9/7/2021 | FUNinja Explosions / ??
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
