@@ -20,7 +20,15 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | [Hallowed Out (2020 Halloween Vol 1)](https://github.com/ern2150/FVCR/wiki/Halloween:-2020-Volume-1---Hallowed-Out) | 11/1/2020 | 10/4/2020
 &nbsp; | [Evil Is Excusable (2020 Halloween Vol 3)](https://github.com/ern2150/FVCR/wiki/Halloween:-2020-Volume-3---Evil-Is-Excusable) | 11/1/2020 | 10/27/2020
 33 | [Why Do You Challenge Us?](https://github.com/ern2150/FVCR/wiki/Mixtape-33:-Why-Do-You-Challenge-Us%3F) | 12/20/2020 | 5/3/2020
+22 | By Tonight, You'll Be History (See MM6) | 1/5/2021 | 2/2/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
+21 | Enlightenment Isn't Serious (See MM6) | 1/19/2021 | 1/26/2020
+31 | Magic Hand (See MM7) | 1/24/2021 | 4/12/2020
+23 | Dangerous and ColdBlooded (See MM6) | 1/26/2021 | 2/11/2020
+29 | No Wonder You're So Brave (See MM8) | 2/4/2021 | 3/22/2020
+&nbsp; | Video Beam Volume 1 (See MM7) | 2/14/2021 | 3/29/2020
+30 | Don't Be a Big Shot (See MM8) | 2/16/2021 | 4/5/2020
+28 | Forget about Luck (See MM8) | 2/18/2021 | 3/15/2020
 20 | Cheap Thug in a Dirty Racket (see MM11) | 2/21/2021 | 1/19/2020
 25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
 43 | This Will to Kill (see MM10) | 3/14/2021 | 7/23/2020
