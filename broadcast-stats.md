@@ -43,13 +43,12 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 MM4 | I'm Glad to See You're Prepared to Die | 7/18/2021 | 4/4/2021
 MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
-65 | Suffer My Deadly Arts | 7/20/2021 | 5/9/2021
-47 | Put Yourself in the Universe | 7/25/2021 | 9/13/2020
+47 | Put Yourself in the Universe (see MM14) | 7/25/2021 | 9/13/2020
 50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
 58 | Why Do You Help the Evil Person? | 8/5/2021 | 2/7/2021
-48 | Same Deal Next Time | 8/5/2021 | 9/20/2020
+48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
@@ -81,6 +80,8 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
 73 | The Whirlpool of Battle | 9/23/2021 | 9/21/2021
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
+65 | Suffer My Deadly Arts | 9/26/2021 | 5/9/2021
+MM14 | Fights the Evils with Great Power | 9/26/2021 | 9/26/2021
 
 
 
@@ -90,15 +91,15 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | 21 (Tu)
-20s | 4 | 19 (Su)
-Other | 4 | 19 (Su)
+20s | 4 | 20 (Su)
+Other | 4 | 20 (Su)
 30s | 9 | 12 (Th)
 40s | 10 | 5 (Th)
-MM10s | 4 | 1 (Su)
+MM00s | 9 | 1 (Su)
 70s | 4 | 0 (Th)
-MM00s | 9 | 0 (Su)
+MM10s | 5 | 0 (Su)
 50s | 10 | 0 (Th)
-60s | 10 | 0 (Tu)
+60s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -147,6 +148,8 @@ Mixtape # | Title | Update | Last Changed
 40 | Is There No End of It? | merged into MM13 "Keep on Winning" | 8/22/2021
 MM3 | Blood, Lust, and Intrigue | updated | 8/22/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
+47 | Put Yourself in the Universe | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
+48 | Same Deal Next Time | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
 
 
 Intros
@@ -279,6 +282,7 @@ Bonus Clips
 -----------
 Latest Date | Video / Audio
 -- | --
+9
 8/26/2021 | VHS Havoc 1 (breaks Toshiba temporarily)
 8/26/2021 | VHS Shibashi
 8/26/2021 | VHS Little Heroes
