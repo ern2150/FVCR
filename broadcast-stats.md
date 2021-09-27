@@ -19,10 +19,14 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 14 | [And I'll Revenge Their Deaths](https://github.com/ern2150/FVCR/wiki/Mixtape-14:-...and-I'll-Revenge-Their-Deaths) | 9/15/2020 | 12/8/2019
 &nbsp; | [Hallowed Out (2020 Halloween Vol 1)](https://github.com/ern2150/FVCR/wiki/Halloween:-2020-Volume-1---Hallowed-Out) | 11/1/2020 | 10/4/2020
 &nbsp; | [Evil Is Excusable (2020 Halloween Vol 3)](https://github.com/ern2150/FVCR/wiki/Halloween:-2020-Volume-3---Evil-Is-Excusable) | 11/1/2020 | 10/27/2020
+15 | We'll Blow You Up Next (See MM4) | 11/22/2020 | 12/15/2019
 33 | [Why Do You Challenge Us?](https://github.com/ern2150/FVCR/wiki/Mixtape-33:-Why-Do-You-Challenge-Us%3F) | 12/20/2020 | 5/3/2020
+17 | Don't Come 2 Me w Tales of Failure (See MM4) | 12/1/2020  | 12/29/2019
+12 | Defend Yourself (See MM5) | 12/10/2020 | 11/24/2019
 22 | By Tonight, You'll Be History (See MM6) | 1/5/2021 | 2/2/2020
 24 | A Conspiracy of Ninjas and Vampires | 1/7/2021 | 2/16/2020
 21 | Enlightenment Isn't Serious (See MM6) | 1/19/2021 | 1/26/2020
+11 | I'm a Winner (See MM5) | 1/21/2021  | 11/19/2019
 31 | Magic Hand (See MM7) | 1/24/2021 | 4/12/2020
 23 | Dangerous and ColdBlooded (See MM6) | 1/26/2021 | 2/11/2020
 29 | No Wonder You're So Brave (See MM8) | 2/4/2021 | 3/22/2020
