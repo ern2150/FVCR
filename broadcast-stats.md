@@ -222,7 +222,7 @@ Latest Date | Video / Audio
 9/12/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 9/12/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-6/15/2021 | Wicker Thunderdome from Kickboxer's Fury into CHAMP / Eddie Johns - More Spell on You
+6/15/2021 | Wicker Thunderdome from Kickboxer's Fury (Death Cage 1988) into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
