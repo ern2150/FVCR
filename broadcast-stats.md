@@ -63,7 +63,6 @@ MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
-58 | Why Do You Help the Evil Person? | 8/5/2021 | 2/7/2021
 48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
@@ -97,7 +96,8 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 73 | The Whirlpool of Battle | 9/23/2021 | 9/21/2021
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
 65 | Suffer My Deadly Arts | 9/26/2021 | 5/9/2021
-MM14 | Fights the Evils with Great Power | 9/26/2021 | 9/26/2021
+MM14 | Fights the Evils with Great Power | 9/28/2021 | 9/26/2021
+58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 
 
 
@@ -106,15 +106,15 @@ MM14 | Fights the Evils with Great Power | 9/26/2021 | 9/26/2021
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-10s | 2 | 21 (Tu)
+10s | 2 | > 6 mo
 20s | 4 | 20 (Su)
 Other | 4 | 20 (Su)
 30s | 9 | 12 (Th)
 40s | 10 | 5 (Th)
 MM00s | 9 | 1 (Su)
 70s | 4 | 0 (Th)
-MM10s | 5 | 0 (Su)
-50s | 10 | 0 (Th)
+MM10s | 5 | 0 (Tu)
+50s | 10 | 0 (Tu)
 60s | 10 | 0 (Su)
 
 
