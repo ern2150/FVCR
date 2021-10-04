@@ -173,7 +173,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-9/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/3/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/3/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
+10/3/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
+10/3/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+10/3/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+10/3/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+10/3/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+10/3/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+10/3/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+10/3/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
+10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
 9/28/2021 | Baki end whiteout / (same as video)
 9/28/2021 | HEYYYY JAPAAAAN / (same as video)
@@ -219,15 +229,6 @@ Latest Date | Video / Audio
 9/21/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 9/21/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 9/21/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
-9/19/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
-9/19/2021 | Sitar Suit Seaside Scramble / J Dilla - Coming Back
-9/19/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-9/19/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-9/19/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-9/19/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-9/19/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-9/19/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-9/19/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 9/14/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 9/14/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 9/14/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
