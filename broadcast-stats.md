@@ -38,7 +38,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 30 | Don't Be a Big Shot (See MM8) | 2/16/2021 | 4/5/2020
 28 | Forget about Luck (See MM8) | 2/18/2021 | 3/15/2020
 20 | Cheap Thug in a Dirty Racket (see MM11) | 2/21/2021 | 1/19/2020
-25 | Everyone Is A Suspect | 2/25/2021 | 2/23/2020
+25 | [Everyone Is a Suspect](https://github.com/ern2150/FVCR/wiki/Mixtape-25:-Everyone-Is-a-Suspect) | 2/25/2021 | 2/23/2020
 43 | This Will to Kill (see MM10) | 3/14/2021 | 7/23/2020
 &nbsp; | Forced Stereo Championship | 4/1/2021 | 4/1/2020
 32 | Destroy the Indestructible (see MM10) | 4/8/2021 | 4/26/2020
