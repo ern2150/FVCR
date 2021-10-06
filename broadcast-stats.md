@@ -67,7 +67,6 @@ MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
-MM12 | Evil Is Never Invincible | 8/12/2021 | 8/10/2021
 64 | Hold You Close and Feel Things | 8/12/2021 | 4/18/2021
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 68 | Endless Chain of Duels and Killings | 8/15/2021 | 6/27/2021
@@ -98,7 +97,8 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 MM14 | Fights the Evils with Great Power | 9/28/2021 | 9/26/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
-&nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/3/2021 | 10/3/2021
+&nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/5/2021 | 10/3/2021
+MM12 | Evil Is Never Invincible | 10/5/2021 | 8/10/2021
 
 
 
@@ -112,11 +112,11 @@ Decade | Available Tapes | Weeks since seen
 30s | 9 | 12 (Th)
 40s | 10 | 5 (Th)
 MM00s | 9 | 2 (Su)
+50s | 10 | 1 (Tu)
 60s | 10 | 1 (Su)
 70s | 4 | 0 (Th)
 MM10s | 5 | 0 (Tu)
-Other | 5 | 0 (Su)
-50s | 10 | 0 (Tu)
+Other | 5 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
