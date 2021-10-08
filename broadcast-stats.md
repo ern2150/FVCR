@@ -65,7 +65,6 @@ MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
 48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
-MM2 | Why Are You Playing Heroes? | 8/8/2021 | 2/23/2021
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
 64 | Hold You Close and Feel Things | 8/12/2021 | 4/18/2021
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
@@ -99,6 +98,7 @@ MM14 | Fights the Evils with Great Power | 9/28/2021 | 9/26/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/5/2021 | 10/3/2021
 MM12 | Evil Is Never Invincible | 10/5/2021 | 8/10/2021
+MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 
 
 
