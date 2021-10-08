@@ -301,6 +301,7 @@ Bonus Clips
 -----------
 Latest Date | Video / Audio
 -- | --
+10/7/2021 | VHS Ghostly Thrillers
 8/26/2021 | VHS Havoc 1 (breaks Toshiba temporarily)
 8/26/2021 | VHS Shibashi
 8/26/2021 | VHS Little Heroes
