@@ -174,7 +174,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/5/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/7/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/7/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+10/7/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+10/7/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+10/7/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+10/7/2021 | FMW Opener / FMW Closer
+10/7/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
+10/7/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
+10/7/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+10/7/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+10/7/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+10/7/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 10/5/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 10/5/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 10/5/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
@@ -199,7 +210,6 @@ Latest Date | Video / Audio
 9/28/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
 9/28/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-9/28/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
 9/28/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 9/28/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 9/28/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
@@ -227,16 +237,6 @@ Latest Date | Video / Audio
 9/23/2021 | Angel Terminators / The First Family - Slow Motion
 9/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 9/23/2021 | FUNinja Explosions / ??
-9/21/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
-9/21/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-9/21/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-9/21/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-9/21/2021 | FMW Opener / FMW Closer
-9/21/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-9/21/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-9/21/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-9/21/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-9/21/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 9/12/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 9/12/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 9/12/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
