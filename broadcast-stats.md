@@ -175,7 +175,17 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/10/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/12/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/12/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
+10/12/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
+10/12/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
+10/12/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+10/12/2021 | Green tinted action movie (Wake Up to Die) / Delegation - Heartache No. 9
+10/12/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+10/12/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+10/12/2021 | VENOM RANGERS / Com Truise - Memory
+10/12/2021 | Gunbuster Intro with prologue / (same as video)
+10/12/2021 | Vaporwave Beach / Ahero - Slow Summer
 10/10/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
 10/10/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
 10/10/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
@@ -219,7 +229,6 @@ Latest Date | Video / Audio
 10/3/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 10/3/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-9/28/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
 9/28/2021 | Baki end whiteout / (same as video)
 9/28/2021 | HEYYYY JAPAAAAN / (same as video)
 9/28/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
@@ -229,15 +238,6 @@ Latest Date | Video / Audio
 9/28/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 9/28/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 9/28/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-9/26/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
-9/26/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
-9/26/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-9/26/2021 | Green tinted action movie (Wake Up to Die) / Delegation - Heartache No. 9
-9/26/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-9/26/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-9/26/2021 | VENOM RANGERS / Com Truise - Memory
-9/26/2021 | Gunbuster Intro with prologue / (same as video)
-9/26/2021 | Vaporwave Beach / Ahero - Slow Summer
 9/12/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 9/12/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 9/12/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
