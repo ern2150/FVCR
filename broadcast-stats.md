@@ -62,7 +62,6 @@ MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 47 | Put Yourself in the Universe (see MM14) | 7/25/2021 | 9/13/2020
 50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
-63 | This Sword Will Belong to You Forever | 8/3/2021 | 4/11/2021
 48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
@@ -99,7 +98,8 @@ MM14 | Fights the Evils with Great Power | 9/28/2021 | 9/26/2021
 MM12 | Evil Is Never Invincible | 10/5/2021 | 8/10/2021
 MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 64 | Hold You Close and Feel Things | 10/10/2021 | 4/18/2021
-74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/10/2021 | 10/10/2021
+74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/12/2021 | 10/10/2021
+63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 
 
 
@@ -112,12 +112,12 @@ Decade | Available Tapes | Weeks since seen
 20s | 4 | > 6 mo
 30s | 9 | 12 (Th)
 40s | 10 | 5 (Th)
-50s | 10 | 1 (Tu)
-70s | 5 | 0 (Su)
-MM10s | 5 | 0 (Tu)
-Other | 5 | 0 (Tu)
+50s | 10 | 2 (Tu)
+MM10s | 5 | 1 (Tu)
+Other | 5 | 1 (Tu)
+70s | 5 | 0 (Tu)
 MM00s | 9 | 0 (Th)
-60s | 10 | 0 (Su)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
