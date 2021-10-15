@@ -175,7 +175,19 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/12/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/14/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/14/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+10/14/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
+10/14/2021 | Baki end whiteout / (same as video)
+10/14/2021 | HEYYYY JAPAAAAN / (same as video)
+10/14/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
+10/14/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
+10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
+10/14/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+10/14/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+10/14/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 10/12/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
 10/12/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
 10/12/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
@@ -207,7 +219,6 @@ Latest Date | Video / Audio
 10/7/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
 10/7/2021 | FMW Opener / FMW Closer
 10/7/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-10/7/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
 10/7/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 10/7/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 10/7/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
@@ -229,18 +240,7 @@ Latest Date | Video / Audio
 10/3/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 10/3/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-9/28/2021 | Baki end whiteout / (same as video)
-9/28/2021 | HEYYYY JAPAAAAN / (same as video)
-9/28/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
-9/28/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
-9/28/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-9/28/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-9/28/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-9/28/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-9/12/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
-9/12/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
-9/12/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Kickboxer's Fury (Death Cage 1988) into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
