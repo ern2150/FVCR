@@ -57,8 +57,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 39 | The Kids Became Normal Again (see MM13) | 7/1/2021 | 6/16/2020
 40 | Is There No End of It? (see MM13) | 7/4/2021 | 6/23/2020
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
-MM4 | I'm Glad to See You're Prepared to Die | 7/18/2021 | 4/4/2021
-MM5 | Danger Straight Ahead | 7/18/2021 | 4/4/2021
 47 | Put Yourself in the Universe (see MM14) | 7/25/2021 | 9/13/2020
 50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
@@ -100,6 +98,8 @@ MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 64 | Hold You Close and Feel Things | 10/10/2021 | 4/18/2021
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/12/2021 | 10/10/2021
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
+MM5 | Danger Straight Ahead | 10/14/2021 | 4/4/2021
+MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
 
 
 
@@ -110,8 +110,8 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | > 6 mo
 20s | 4 | > 6 mo
-30s | 9 | 12 (Th)
-40s | 10 | 5 (Th)
+30s | 9 | 13 (Th)
+40s | 10 | 6 (Th)
 50s | 10 | 2 (Tu)
 MM10s | 5 | 1 (Tu)
 Other | 5 | 1 (Tu)
