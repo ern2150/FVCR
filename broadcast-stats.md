@@ -175,7 +175,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/14/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/17/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/17/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
+10/17/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
+10/17/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+10/17/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+10/17/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+10/17/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+10/17/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+10/17/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+10/17/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/14/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 10/14/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
 10/14/2021 | Baki end whiteout / (same as video)
@@ -230,15 +239,6 @@ Latest Date | Video / Audio
 10/5/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 10/5/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 10/5/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-10/3/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
-10/3/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
-10/3/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-10/3/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-10/3/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-10/3/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-10/3/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-10/3/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-10/3/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
