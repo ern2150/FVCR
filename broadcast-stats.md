@@ -64,7 +64,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
-68 | Endless Chain of Duels and Killings | 8/15/2021 | 6/27/2021
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 MM3 | Blood, Lust, and Intrigue | 8/22/2021 | 3/9/2021
 MM13 | Keep on Winning | 8/24/2021 | 8/22/2021
@@ -100,7 +99,8 @@ MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 MM5 | Danger Straight Ahead | 10/14/2021 | 4/4/2021
 MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
-
+68 | Endless Chain of Duels and Killings | 10/17/2021 | 6/27/2021
+&nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/17/2021 | 10/17/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -114,10 +114,10 @@ Decade | Available Tapes | Weeks since seen
 40s | 10 | 6 (Th)
 50s | 10 | 2 (Tu)
 MM10s | 5 | 1 (Tu)
-Other | 5 | 1 (Tu)
 70s | 5 | 0 (Tu)
+Other | 6 | 0 (Su)
 MM00s | 9 | 0 (Th)
-60s | 10 | 0 (Tu)
+60s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
