@@ -66,7 +66,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 MM3 | Blood, Lust, and Intrigue | 8/22/2021 | 3/9/2021
-MM13 | Keep on Winning | 8/24/2021 | 8/22/2021
 60 | Try Your Best to Fight Me | 8/24/2021 | 2/28/2021
 MM9 | Hit Me Like You Mean It | 8/26/2021 | 7/8/2021
 54 | Sounds Like the Devil | 8/29/2021 | 1/10/2021
@@ -100,7 +99,9 @@ MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 MM5 | Danger Straight Ahead | 10/14/2021 | 4/4/2021
 MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
 68 | Endless Chain of Duels and Killings | 10/17/2021 | 6/27/2021
-&nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/17/2021 | 10/17/2021
+&nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/19/2021 | 10/17/2021
+MM13 | Keep on Winning | 10/19/2021 | 8/22/2021
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -112,10 +113,10 @@ Decade | Available Tapes | Weeks since seen
 20s | 4 | > 6 mo
 30s | 9 | 13 (Th)
 40s | 10 | 6 (Th)
-50s | 10 | 2 (Tu)
-MM10s | 5 | 1 (Tu)
-70s | 5 | 0 (Tu)
-Other | 6 | 0 (Su)
+50s | 10 | 3 (Tu)
+70s | 5 | 1 (Tu)
+MM10s | 5 | 0 (Tu)
+Other | 6 | 0 (Tu)
 MM00s | 9 | 0 (Th)
 60s | 10 | 0 (Su)
 
