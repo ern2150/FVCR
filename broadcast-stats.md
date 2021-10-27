@@ -44,7 +44,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 32 | Destroy the Indestructible (see MM10) | 4/8/2021 | 4/26/2020
 45 | Cheer of Love (see MM9) | 4/11/2021 | 8/9/2020
 36 | Something Missing in Your Head (see MM10) | 4/22/2021 | 5/26/2020
-27 | Open the Strange Realm | 4/25/2021 | 3/8/2020
+27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 4/25/2021 | 3/8/2020
 44 | Fighting Warriors Be Alert (see MM9) | 4/27/2021 | 8/2/2020
 38 | What's Wrong with You? (see MM11) | 5/2/2021 | 6/7/2020
 &nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
