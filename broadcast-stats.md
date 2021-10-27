@@ -176,7 +176,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/19/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/26/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/26/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
+10/26/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
+10/26/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+10/26/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
+10/26/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
+10/26/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+10/26/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+10/26/2021 | Knight of Justice Death Call / (same as video)
+10/26/2021 | Jerry Harris - Bachelor Life / (same as video)
+10/26/2021 | Emergency Alert Please Stand by / (Beep)
+10/26/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+10/26/2021 | SHIT FUCK / (same as video)
+10/26/2021 | Angel Terminators / The First Family - Slow Motion
+10/26/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+10/26/2021 | FUNinja Explosions / ??
 10/19/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 10/19/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 10/19/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
@@ -215,21 +230,6 @@ Latest Date | Video / Audio
 10/12/2021 | VENOM RANGERS / Com Truise - Memory
 10/12/2021 | Gunbuster Intro with prologue / (same as video)
 10/12/2021 | Vaporwave Beach / Ahero - Slow Summer
-10/10/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
-10/10/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
-10/10/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-10/10/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
-10/10/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
-10/10/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-10/10/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-10/10/2021 | Knight of Justice Death Call / (same as video)
-10/10/2021 | Jerry Harris - Bachelor Life / (same as video)
-10/10/2021 | Emergency Alert Please Stand by / (Beep)
-10/10/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-10/10/2021 | SHIT FUCK / (same as video)
-10/10/2021 | Angel Terminators / The First Family - Slow Motion
-10/10/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-10/10/2021 | FUNinja Explosions / ??
 10/7/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 10/7/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 10/7/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
