@@ -66,8 +66,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 60 | Try Your Best to Fight Me | 8/24/2021 | 2/28/2021
-54 | Sounds Like the Devil | 8/29/2021 | 1/10/2021
-MM10 | The Splatter and Gore Department | 8/29/2021 | 7/15/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 8/31/2021 | 11/14/2019
 55 | I Had a Heart Once | 8/31/2021 | 1/17/2021
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
@@ -101,6 +99,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
 MM13 | Keep on Winning | 10/19/2021 | 8/22/2021
 MM3 | Blood, Lust, and Intrigue | 10/26/2021 | 3/9/2021
 MM9 | Hit Me Like You Mean It | 10/26/2021 | 7/8/2021
+54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
+MM10 | The Splatter and Gore Department | 10/28/2021 | 7/15/2021
 
 
 
@@ -111,14 +111,14 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | > 6 mo
 20s | 4 | > 6 mo
-30s | 9 | 14 (Th)
-40s | 10 | 7 (Th)
-50s | 10 | 4 (Tu)
+30s | 9 | 15 (Th)
+40s | 10 | 8 (Th)
 70s | 5 | 2 (Tu)
-MM10s | 5 | 1 (Tu)
 Other | 6 | 1 (Tu)
 60s | 10 | 1 (Su)
+MM10s | 5 | 0 (Th)
 MM00s | 9 | 0 (Tu)
+50s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
