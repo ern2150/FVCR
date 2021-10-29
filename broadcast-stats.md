@@ -176,7 +176,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/26/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/28/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+10/28/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+10/28/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+10/28/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+10/28/2021 | FMW Opener / FMW Closer
+10/28/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
+10/28/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
+10/28/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+10/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+10/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+10/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 10/26/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
 10/26/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
 10/26/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
@@ -209,7 +220,6 @@ Latest Date | Video / Audio
 10/17/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 10/17/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/14/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-10/14/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
 10/14/2021 | Baki end whiteout / (same as video)
 10/14/2021 | HEYYYY JAPAAAAN / (same as video)
 10/14/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
@@ -230,16 +240,6 @@ Latest Date | Video / Audio
 10/12/2021 | VENOM RANGERS / Com Truise - Memory
 10/12/2021 | Gunbuster Intro with prologue / (same as video)
 10/12/2021 | Vaporwave Beach / Ahero - Slow Summer
-10/7/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
-10/7/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-10/7/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-10/7/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-10/7/2021 | FMW Opener / FMW Closer
-10/7/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-10/7/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-10/7/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-10/7/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-10/7/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
