@@ -17,8 +17,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 -- | -- | -- | --
 19 | [EZ Movie Intro Vortex](https://github.com/ern2150/FVCR/wiki/Mixtape-19:-Easy-Movie-Intro-Vortex) | 8/20/2020 | 1/14/2020
 14 | [And I'll Revenge Their Deaths](https://github.com/ern2150/FVCR/wiki/Mixtape-14:-...and-I'll-Revenge-Their-Deaths) | 9/15/2020 | 12/8/2019
-&nbsp; | [Hallowed Out (2020 Halloween Vol 1)](https://github.com/ern2150/FVCR/wiki/Halloween:-2020-Volume-1---Hallowed-Out) | 11/1/2020 | 10/4/2020
-&nbsp; | [Evil Is Excusable (2020 Halloween Vol 3)](https://github.com/ern2150/FVCR/wiki/Halloween:-2020-Volume-3---Evil-Is-Excusable) | 11/1/2020 | 10/27/2020
 7 | Damn You, Blue Mask (See MM2) | 11/8/2020 | 11/3/2019
 8 | You're Not a Ninja, You Can't Use the Beans (See MM2) | 11/8/2020 | 11/7/2019
 9 | I Know What It Takes To Be Invincible (See MM2 and MM3) | 11/8/2020 | 11/10/2019
