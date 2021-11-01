@@ -176,7 +176,24 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-10/28/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/31/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+10/31/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
+10/31/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
+10/31/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
+10/31/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them
+10/31/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video)
+10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video)
+10/31/2021 | Green tinted action movie (Mission Hunter) / Delegation - Heartache No. 9
+10/31/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video)
+10/31/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+10/31/2021 | THE PHONE ZOMBIES 1900490DEAD / (same as video)
+10/31/2021 | VENOM RANGERS / Com Truise - Memory
+10/31/2021 | Gunbuster Intro with prologue / (same as video)
+10/31/2021 | Vaporwave Beach / Ahero - Slow Summer
+10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video)
+10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 10/28/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 10/28/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 10/28/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -210,7 +227,6 @@ Latest Date | Video / Audio
 10/19/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 10/19/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 10/19/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-10/17/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
 10/17/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 10/17/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
 10/17/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
@@ -230,16 +246,6 @@ Latest Date | Video / Audio
 10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 10/14/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 10/14/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-10/12/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
-10/12/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
-10/12/2021 | Moped guy gets chain-dragged downstairs (Kickfighter) / Moving Units - Between Us and Them
-10/12/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-10/12/2021 | Green tinted action movie (Mission Hunter) / Delegation - Heartache No. 9
-10/12/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-10/12/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-10/12/2021 | VENOM RANGERS / Com Truise - Memory
-10/12/2021 | Gunbuster Intro with prologue / (same as video)
-10/12/2021 | Vaporwave Beach / Ahero - Slow Summer
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
 7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
@@ -256,7 +262,6 @@ Latest Date | Video / Audio
 5/11/2021 | Anime Previews incl Genocyber / (same as video)
 5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
-5/6/2021 | Zuntata - Daddy Mulk (live with Shamisen solo) / (same as video)
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 5/6/2021 | Tah Tien credits / (same as video)
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
