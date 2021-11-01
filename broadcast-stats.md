@@ -86,21 +86,21 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 MM14 | Fights the Evils with Great Power | 9/28/2021 | 9/26/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
-&nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/5/2021 | 10/3/2021
 MM12 | Evil Is Never Invincible | 10/5/2021 | 8/10/2021
 MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 64 | Hold You Close and Feel Things | 10/10/2021 | 4/18/2021
-74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/12/2021 | 10/10/2021
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 MM5 | Danger Straight Ahead | 10/14/2021 | 4/4/2021
 MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
 68 | Endless Chain of Duels and Killings | 10/17/2021 | 6/27/2021
-&nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/19/2021 | 10/17/2021
 MM13 | Keep on Winning | 10/19/2021 | 8/22/2021
 MM3 | Blood, Lust, and Intrigue | 10/26/2021 | 3/9/2021
 MM9 | Hit Me Like You Mean It | 10/26/2021 | 7/8/2021
 54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
 MM10 | The Splatter and Gore Department | 10/28/2021 | 7/15/2021
+&nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
+74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/31/2021 | 10/10/2021
+&nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
 
 
 
@@ -113,10 +113,10 @@ Decade | Available Tapes | Weeks since seen
 20s | 4 | > 6 mo
 30s | 9 | 15 (Th)
 40s | 10 | 8 (Th)
-70s | 5 | 2 (Tu)
-Other | 6 | 1 (Tu)
-60s | 10 | 1 (Su)
+60s | 10 | 2 (Su)
 MM10s | 5 | 0 (Th)
+70s | 5 | 0 (Su)
+Other | 6 | 0 (Su)
 MM00s | 9 | 0 (Tu)
 50s | 10 | 0 (Th)
 
@@ -169,6 +169,7 @@ MM3 | Blood, Lust, and Intrigue | updated | 8/22/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 47 | Put Yourself in the Universe | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
 48 | Same Deal Next Time | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
+
 
 
 Intros
