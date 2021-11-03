@@ -54,8 +54,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
-60 | Try Your Best to Fight Me | 8/24/2021 | 2/28/2021
-MM1 | Get Rich Regardless of the Means (End of 2019) | 8/31/2021 | 11/14/2019
 55 | I Had a Heart Once | 8/31/2021 | 1/17/2021
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
 70 | Take the Fight to the Enemy | 9/2/2021 | 7/11/2021
@@ -90,6 +88,8 @@ MM10 | The Splatter and Gore Department | 10/28/2021 | 7/15/2021
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/31/2021 | 10/10/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
+60 | Try Your Best to Fight Me | 11/02/2021 | 2/28/2021
+MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
 
 
 
@@ -102,12 +102,12 @@ Decade | Available Tapes | Weeks since seen
 20s | 4 | > 6 mo
 30s | 9 | 15 (Th)
 40s | 10 | 8 (Th)
-60s | 10 | 2 (Su)
 MM10s | 5 | 0 (Th)
 70s | 5 | 0 (Su)
 Other | 6 | 0 (Su)
 MM00s | 9 | 0 (Tu)
 50s | 10 | 0 (Th)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
