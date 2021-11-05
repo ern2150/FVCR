@@ -160,6 +160,7 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
+11/04/2021 | See [here](https://github.com/ern2150/FVCR/issues/19) for now...
 11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
 11/02/2021 | Studded headband crossbow lady vs G etc / Bob James - Shamboozie
 11/02/2021 | Baki end whiteout / (same as video)
