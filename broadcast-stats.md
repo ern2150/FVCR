@@ -160,9 +160,23 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/04/2021 | See [here](https://github.com/ern2150/FVCR/issues/19) for now...
+11/04/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
+11/04/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie
+11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
+11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
+11/04/2021 | Island Rydeen / Senor Coconut - Rydeen
+11/04/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+11/04/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
+11/04/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video)
+11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video)
+11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+11/04/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+11/04/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+11/04/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+11/04/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-11/02/2021 | Studded headband crossbow lady vs G etc / Bob James - Shamboozie
 11/02/2021 | Baki end whiteout / (same as video)
 11/02/2021 | HEYYYY JAPAAAAN / (same as video)
 11/02/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
@@ -221,23 +235,13 @@ Latest Date | Video / Audio
 10/19/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 10/19/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 10/19/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-10/17/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
-10/17/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-10/17/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-10/17/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-10/17/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-10/17/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-10/17/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-10/17/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
-7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
 6/15/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
