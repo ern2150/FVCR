@@ -55,7 +55,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
-70 | Take the Fight to the Enemy | 9/2/2021 | 7/11/2021
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
 MM6 | It's Your Turn to Die | 9/9/2021 | 5/20/2021
 MM11 | I Can Stand the Pain | 9/12/2021 | 7/27/2021
@@ -90,7 +89,8 @@ MM10 | The Splatter and Gore Department | 10/28/2021 | 7/15/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
 55 | I Had a Heart Once | 11/04/2021 | 1/17/2021
 72 | Who Is the Champion Now? | 11/04/2021 | 9/7/2021
-
+70 | Take the Fight to the Enemy | 11/07/2021 | 7/11/2021
+75 | Never Show Emotion | 11/07/2021 | 11/07/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -103,8 +103,8 @@ Decade | Available Tapes | Weeks since seen
 30s | 9 | 16 (Th)
 40s | 10 | 9 (Th)
 MM10s | 5 | 1 (Th)
-70s | 5 | 0 (Th)
-Other | 6 | 0 (Su)
+Other | 6 | 1 (Su)
+70s | 6 | 0 (Su)
 MM00s | 9 | 0 (Tu)
 50s | 10 | 0 (Th)
 60s | 10 | 0 (Tu)
@@ -228,7 +228,6 @@ Latest Date | Video / Audio
 10/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 10/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 10/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
-
 10/19/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 10/19/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 10/19/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
