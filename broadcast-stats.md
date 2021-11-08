@@ -160,7 +160,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/04/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/07/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/07/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
+11/07/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
+11/07/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+11/07/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
+11/07/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio
+11/07/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+11/07/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+11/07/2021 | Knight of Justice Death Call / (same as video)
+11/07/2021 | Jerry Harris - Bachelor Life / (same as video)
+11/07/2021 | Emergency Alert Please Stand by / (Beep)
+11/07/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+11/07/2021 | SHIT FUCK / (same as video)
+11/07/2021 | Angel Terminators / The First Family - Slow Motion
+11/07/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+11/07/2021 | FUNinja Explosions / ??
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
 11/04/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
@@ -213,21 +228,7 @@ Latest Date | Video / Audio
 10/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 10/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 10/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
-10/26/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
-10/26/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
-10/26/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-10/26/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
-10/26/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
-10/26/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-10/26/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-10/26/2021 | Knight of Justice Death Call / (same as video)
-10/26/2021 | Jerry Harris - Bachelor Life / (same as video)
-10/26/2021 | Emergency Alert Please Stand by / (Beep)
-10/26/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-10/26/2021 | SHIT FUCK / (same as video)
-10/26/2021 | Angel Terminators / The First Family - Slow Motion
-10/26/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-10/26/2021 | FUNinja Explosions / ??
+
 10/19/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 10/19/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
 10/19/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
