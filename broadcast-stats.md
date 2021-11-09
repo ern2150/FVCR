@@ -36,7 +36,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 4/25/2021 | 3/8/2020
 44 | Fighting Warriors Be Alert (see MM9) | 4/27/2021 | 8/2/2020
 38 | What's Wrong with You? (see MM11) | 5/2/2021 | 6/7/2020
-&nbsp; | End of 2020 | 5/2/2021 | 12/31/2020
+&nbsp; | [End of 2020](https://github.com/ern2150/FVCR/wiki/New-Year:-2020-Endings) | 5/2/2021 | 12/31/2020
 34 | Mind Games (see MM11) | 5/4/2021 | 5/10/2020
 26 | Cannot Stop to Feel (see MM12) | 5/9/2021 | 3/3/2020
 35 | Imagination Creates Reality (see MM12) | 5/25/2021 | 5/17/2020
