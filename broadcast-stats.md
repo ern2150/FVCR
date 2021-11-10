@@ -153,7 +153,8 @@ MM3 | Blood, Lust, and Intrigue | updated | 8/22/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 47 | Put Yourself in the Universe | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
 48 | Same Deal Next Time | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
-
+&nbsp; | Hallowed Out (2020 Halloween Vol 1) | superseded by "Evil Is Excusable 2021 Halloween Vol 1" | 10/3/2021
+&nbsp; | Evil Is Excusable (2020 Halloween Vol 3) | superseded by "Devil Mountain 2021 Halloween Vol 3" | 10/17/2021
 
 
 Intros
