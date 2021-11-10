@@ -160,7 +160,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/07/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/09/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/09/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
+11/09/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
+11/09/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+11/09/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+11/09/2021 | Commando Fury Opener / (same as video)
+11/09/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
+11/09/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
+11/09/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+11/09/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 11/07/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
 11/07/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
 11/07/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
@@ -228,19 +237,11 @@ Latest Date | Video / Audio
 10/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 10/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 10/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
-10/19/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
-10/19/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-10/19/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-10/19/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-10/19/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
-10/19/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-10/19/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
-6/15/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
 5/20/2021 | ULTRAMAN 80 Opener / (same as video)
@@ -288,7 +289,7 @@ Latest Date | Video / Audio
 1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video)
 1/12/2021 | Daicon III / (same as video)
 1/10/2021 | COJI COJI Opener / (same as video)
-1/10/2021 | Commando Fury Opener / (same as video)
+
 
 VHS Covers
 ----------
