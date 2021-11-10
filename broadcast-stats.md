@@ -57,7 +57,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
 MM6 | It's Your Turn to Die | 9/9/2021 | 5/20/2021
-MM11 | I Can Stand the Pain | 9/12/2021 | 7/27/2021
 69 | SUMMERTIME | 9/12/2021 | 7/4/2021
 MM7 | I'd Like to See You Try and Hurt Me | 9/14/2021 | 6/6/2021
 66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
@@ -90,7 +89,9 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
 55 | I Had a Heart Once | 11/04/2021 | 1/17/2021
 72 | Who Is the Champion Now? | 11/04/2021 | 9/7/2021
 70 | Take the Fight to the Enemy | 11/07/2021 | 7/11/2021
-75 | Never Show Emotion | 11/07/2021 | 11/07/2021
+75 | Never Show Emotion | 11/09/2021 | 11/07/2021
+MM11 | I Can Stand the Pain | 11/09/2021 | 7/27/2021
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -102,12 +103,12 @@ Decade | Available Tapes | Weeks since seen
 20s | 4 | > 6 mo
 30s | 9 | 16 (Th)
 40s | 10 | 9 (Th)
-MM10s | 5 | 1 (Th)
 Other | 6 | 1 (Su)
-70s | 6 | 0 (Su)
-MM00s | 9 | 0 (Tu)
+MM00s | 9 | 1 (Tu)
+60s | 10 | 1 (Tu)
+MM10s | 5 | 0 (Tu)
+70s | 6 | 0 (Tu)
 50s | 10 | 0 (Th)
-60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
