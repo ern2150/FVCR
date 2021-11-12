@@ -47,12 +47,10 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 40 | Is There No End of It? (see MM13) | 7/4/2021 | 6/23/2020
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 47 | Put Yourself in the Universe (see MM14) | 7/25/2021 | 9/13/2020
-50 | The Awesome Powers of Destruction You Possess | 7/29/2021 | 11/15/2020
 57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
-67 | Together We Will Smash Them | 8/15/2021 | 6/20/2021
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
@@ -91,6 +89,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
 70 | Take the Fight to the Enemy | 11/07/2021 | 7/11/2021
 75 | Never Show Emotion | 11/09/2021 | 11/07/2021
 MM11 | I Can Stand the Pain | 11/09/2021 | 7/27/2021
+50 | The Awesome Powers of Destruction You Possess | 11/11/2021 | 11/15/2020
+67 | Together We Will Smash Them | 11/11/2021 | 6/20/2021
 
 
 
@@ -101,14 +101,14 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | > 6 mo
 20s | 4 | > 6 mo
-30s | 9 | 16 (Th)
-40s | 10 | 9 (Th)
+30s | 9 | 17 (Th)
+40s | 10 | 10 (Th)
 Other | 6 | 1 (Su)
 MM00s | 9 | 1 (Tu)
-60s | 10 | 1 (Tu)
 MM10s | 5 | 0 (Tu)
 70s | 6 | 0 (Tu)
 50s | 10 | 0 (Th)
+60s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
