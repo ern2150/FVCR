@@ -162,7 +162,19 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/09/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/11/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/11/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
+11/11/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
+11/11/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
+11/11/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
+11/11/2021 | FMW Opener / FMW Closer
+11/11/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
+11/11/2021 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video)
+11/11/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
+11/11/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
+11/11/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
+11/11/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
+11/11/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 11/09/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
 11/09/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
 11/09/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
@@ -208,7 +220,6 @@ Latest Date | Video / Audio
 11/02/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
 11/02/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
 11/02/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-11/02/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
 11/02/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 11/02/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 11/02/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
@@ -229,16 +240,6 @@ Latest Date | Video / Audio
 10/31/2021 | Vaporwave Beach / Ahero - Slow Summer
 10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video)
 10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-10/28/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
-10/28/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-10/28/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-10/28/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-10/28/2021 | FMW Opener / FMW Closer
-10/28/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-10/28/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-10/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-10/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-10/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
 10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
 10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
