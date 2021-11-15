@@ -162,7 +162,20 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/11/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/14/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+11/14/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love
+11/14/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
+11/14/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
+11/14/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
+11/14/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
+11/14/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them
+11/14/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+11/14/2021 | Green tinted action movie (Mission Hunter) / Delegation - Heartache No. 9
+11/14/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+11/14/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+11/14/2021 | VENOM RANGERS / Com Truise - Memory
+11/14/2021 | Gunbuster Intro with prologue / (same as video)
+11/14/2021 | Vaporwave Beach / Ahero - Slow Summer
 11/11/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 11/11/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 11/11/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -223,21 +236,10 @@ Latest Date | Video / Audio
 11/02/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 11/02/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 11/02/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-10/31/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
-10/31/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
-10/31/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
-10/31/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them
-10/31/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
 10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video)
 10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video)
-10/31/2021 | Green tinted action movie (Mission Hunter) / Delegation - Heartache No. 9
-10/31/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
 10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video)
-10/31/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
 10/31/2021 | THE PHONE ZOMBIES 1900490DEAD / (same as video)
-10/31/2021 | VENOM RANGERS / Com Truise - Memory
-10/31/2021 | Gunbuster Intro with prologue / (same as video)
-10/31/2021 | Vaporwave Beach / Ahero - Slow Summer
 10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video)
 10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
