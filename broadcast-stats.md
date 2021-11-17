@@ -54,10 +54,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
-69 | SUMMERTIME | 9/12/2021 | 7/4/2021
 66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
 MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
-71 | I Don't Belong Here | 9/19/2021 | 8/1/2021
 51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
 73 | The Whirlpool of Battle | 9/23/2021 | 9/21/2021
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
@@ -91,6 +89,8 @@ MM11 | I Can Stand the Pain | 11/09/2021 | 7/27/2021
 67 | Together We Will Smash Them | 11/11/2021 | 6/20/2021
 MM6 | It's Your Turn to Die | 11/14/2021 | 5/20/2021
 MM7 | I'd Like to See You Try and Hurt Me | 11/14/2021 | 6/6/2021
+69 | SUMMERTIME | 11/16/2021 | 7/4/2021
+71 | I Don't Belong Here | 11/16/2021 | 8/1/2021
 
 
 
@@ -104,11 +104,11 @@ Decade | Available Tapes | Weeks since seen
 30s | 1 | 17 (Th)
 40s | 3 | 10 (Th)
 Other | 6 | 2 (Su)
-MM10s | 5 | 0 (Tu)
+MM10s | 5 | 1 (Tu)
 70s | 6 | 0 (Tu)
 MM00s | 9 | 0 (Su)
 50s | 10 | 0 (Th)
-60s | 10 | 0 (Th)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
