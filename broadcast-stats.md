@@ -162,7 +162,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/16/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+11/21/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+11/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
+11/21/2021 | Island Rydeen / Senor Coconut - Rydeen
+11/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+11/21/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+11/21/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio
+11/21/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video)
+11/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video)
+11/21/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+11/21/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+11/21/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+11/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 11/16/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love
 11/16/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love
 11/16/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
@@ -224,20 +235,10 @@ Latest Date | Video / Audio
 11/07/2021 | Angel Terminators / The First Family - Slow Motion
 11/07/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 11/07/2021 | FUNinja Explosions / ??
-11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
-11/04/2021 | Island Rydeen / Senor Coconut - Rydeen
-11/04/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-11/04/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-11/04/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video)
-11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video)
 11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-11/04/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-11/04/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-11/04/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-11/04/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video)
 10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video)
 10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video)
