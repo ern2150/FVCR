@@ -162,7 +162,22 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/21/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+11/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+11/23/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
+11/23/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
+11/23/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
+11/23/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
+11/23/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio
+11/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
+11/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
+11/23/2021 | Knight of Justice Death Call / (same as video)
+11/23/2021 | Jerry Harris - Bachelor Life / (same as video)
+11/23/2021 | Emergency Alert Please Stand by / (Beep)
+11/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
+11/23/2021 | SHIT FUCK / (same as video)
+11/23/2021 | Angel Terminators / The First Family - Slow Motion
+11/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
+11/23/2021 | FUNinja Explosions / ??
 11/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
 11/21/2021 | Island Rydeen / Senor Coconut - Rydeen
 11/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
@@ -220,21 +235,6 @@ Latest Date | Video / Audio
 11/09/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
 11/09/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
 11/09/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-11/07/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
-11/07/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
-11/07/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-11/07/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
-11/07/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio
-11/07/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme
-11/07/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-11/07/2021 | Knight of Justice Death Call / (same as video)
-11/07/2021 | Jerry Harris - Bachelor Life / (same as video)
-11/07/2021 | Emergency Alert Please Stand by / (Beep)
-11/07/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-11/07/2021 | SHIT FUCK / (same as video)
-11/07/2021 | Angel Terminators / The First Family - Slow Motion
-11/07/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-11/07/2021 | FUNinja Explosions / ??
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
