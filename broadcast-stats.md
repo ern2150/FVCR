@@ -59,7 +59,6 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
 65 | Suffer My Deadly Arts | 9/26/2021 | 5/9/2021
-MM14 | Fights the Evils with Great Power | 9/28/2021 | 9/26/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 MM12 | Evil Is Never Invincible | 10/5/2021 | 8/10/2021
@@ -91,7 +90,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 11/14/2021 | 6/6/2021
 69 | SUMMERTIME | 11/16/2021 | 7/4/2021
 71 | I Don't Belong Here | 11/16/2021 | 8/1/2021
 73 | The Whirlpool of Battle | 11/21/2021 | 9/21/2021
-76 | If I See Him, I'll Kill Him | 11/21/2021 | 11/21/2021
+76 | If I See Him, I'll Kill Him | 11/23/2021 | 11/21/2021
+MM14 | Fights the Evils with Great Power | 11/23/2021 | 9/26/2021
 
 
 "Decades" by Weeks Since Seen, descending
@@ -104,11 +104,11 @@ Decade | Available Tapes | Weeks since seen
 30s | 1 | 18 (Th)
 40s | 3 | 11 (Th)
 Other | 6 | 3 (Su)
-MM10s | 5 | 1 (Tu)
 MM00s | 9 | 1 (Su)
 50s | 10 | 1 (Th)
-70s | 7 | 0 (Su)
-60s | 10 | 0 (Tu)
+60s | 10 | 1 (Tu)
+MM10s | 5 | 0 (Tu)
+70s | 7 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
