@@ -47,11 +47,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 40 | Is There No End of It? (see MM13) | 7/4/2021 | 6/23/2020
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 47 | Put Yourself in the Universe (see MM14) | 7/25/2021 | 9/13/2020
-57 | Is There No Justice Anymore? | 8/1/2021 | 2/2/2021
 48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
 52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
-53 | The True Form of His Brains | 8/19/2021 | 12/27/2020
 62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
 66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
@@ -92,6 +90,9 @@ MM7 | I'd Like to See You Try and Hurt Me | 11/14/2021 | 6/6/2021
 73 | The Whirlpool of Battle | 11/21/2021 | 9/21/2021
 76 | If I See Him, I'll Kill Him | 11/23/2021 | 11/21/2021
 MM14 | Fights the Evils with Great Power | 11/23/2021 | 9/26/2021
+53 | The True Form of His Brains | 11/25/2021 | 12/27/2020
+57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -307,6 +308,7 @@ Bonus Clips
 -----------
 Latest Date | Video / Audio
 -- | --
+11/25/2021 | Wii FCE Ultra GX Karaoke Game Sweet Pea, Maskman 
 10/7/2021 | VHS Ghostly Thrillers
 8/26/2021 | VHS Havoc 1 (breaks Toshiba temporarily)
 8/26/2021 | VHS Shibashi
