@@ -162,7 +162,7 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/23/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+11/23/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
 11/23/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
 11/23/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
 11/23/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
@@ -203,7 +203,6 @@ Latest Date | Video / Audio
 11/16/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 11/16/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 11/16/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-11/14/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
 11/14/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
 11/14/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
 11/14/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
@@ -239,6 +238,7 @@ Latest Date | Video / Audio
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
 11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
+11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
 10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video)
 10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video)
 10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video)
