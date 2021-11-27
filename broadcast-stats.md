@@ -41,7 +41,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 26 | Cannot Stop to Feel (see MM12) | 5/9/2021 | 3/3/2020
 35 | Imagination Creates Reality (see MM12) | 5/25/2021 | 5/17/2020
 37 | Monster Rage Ball (see MM12) | 6/8/2021 | 3/25/2020 
-42 | Go and Destroy the Enemy Forever | 6/17/2021 | 7/9/2020
+42 | [Go and Destroy the Enemy Forever](https://github.com/ern2150/FVCR/wiki/Mixtape-42:-Go-and-Destroy-the-Enemy-Forever) | 6/17/2021 | 7/9/2020
 46 | We Smile Because We Are Alive | 6/22/2021 | 8/20/2020
 39 | The Kids Became Normal Again (see MM13) | 7/1/2021 | 6/16/2020
 40 | Is There No End of It? (see MM13) | 7/4/2021 | 6/23/2020
