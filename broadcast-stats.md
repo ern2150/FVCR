@@ -102,14 +102,14 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | > 6 mo
 20s | 3 | > 6 mo
-30s | 1 | 18 (Th)
-40s | 3 | 11 (Th)
+30s | 1 | 19 (Th)
+40s | 3 | 12 (Th)
 Other | 6 | 3 (Su)
 MM00s | 9 | 1 (Su)
-50s | 10 | 1 (Th)
 60s | 10 | 1 (Tu)
 MM10s | 5 | 0 (Tu)
 70s | 7 | 0 (Tu)
+50s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
