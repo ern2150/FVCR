@@ -56,7 +56,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
-65 | Suffer My Deadly Arts | 9/26/2021 | 5/9/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
@@ -92,7 +91,8 @@ MM14 | Fights the Evils with Great Power | 11/23/2021 | 9/26/2021
 53 | The True Form of His Brains | 11/25/2021 | 12/27/2020
 57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
 MM12 | Evil Is Never Invincible | 11/28/2021 | 8/10/2021
-77 | Ninja City | 11/28/2021 | 11/28/2021
+77 | Ninja City | 11/30/2021 | 11/28/2021
+65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
 
 
 
@@ -107,10 +107,10 @@ Decade | Available Tapes | Weeks since seen
 40s | 3 | 12 (Th)
 Other | 6 | 4 (Su)
 MM00s | 9 | 2 (Su)
-60s | 10 | 1 (Tu)
 MM10s | 5 | 0 (Su)
-70s | 8 | 0 (Su)
+70s | 8 | 0 (Tu)
 50s | 10 | 0 (Th)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
