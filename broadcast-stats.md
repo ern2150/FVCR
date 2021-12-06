@@ -164,9 +164,21 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-11/30/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/05/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/05/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love
+12/05/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
+12/05/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie
+12/05/2021 | Baki end whiteout / (same as video)
+12/05/2021 | HEYYYY JAPAAAAN / (same as video)
+12/05/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
+12/05/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
+12/05/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
+12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
+12/05/2021 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin'
+12/05/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
+12/05/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
+12/05/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 11/30/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love
-11/30/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
 11/30/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
 11/30/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
 11/30/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
@@ -226,18 +238,6 @@ Latest Date | Video / Audio
 11/21/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
 11/21/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 11/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
-11/16/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love
-11/16/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie
-11/16/2021 | Baki end whiteout / (same as video)
-11/16/2021 | HEYYYY JAPAAAAN / (same as video)
-11/16/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
-11/16/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-11/16/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-11/16/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
-11/16/2021 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin'
-11/16/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-11/16/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-11/16/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
