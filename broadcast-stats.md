@@ -48,9 +48,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 41 | You Bastards are from the 30th Century? | 7/8/2021 | 6/30/2020
 47 | Put Yourself in the Universe (see MM14) | 7/25/2021 | 9/13/2020
 48 | Same Deal Next Time (see MM14) | 8/5/2021 | 9/20/2020
-52 | Let You Through to Hell | 8/8/2021 | 12/13/2020
-59 | Now the Fun Begins | 8/10/2021 | 2/14/2021
-62 | One Lousy Nobody, What Can He Do | 9/2/2021 | 3/21/2021
+52 | Let You Through to Hell (see MM15) | 8/8/2021 | 12/13/2020
+59 | Now the Fun Begins (see MM15) | 8/10/2021 | 2/14/2021
+62 | One Lousy Nobody, What Can He Do (see MM15) | 9/2/2021 | 3/21/2021
 61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
 66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
 MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
@@ -59,7 +59,6 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
-64 | Hold You Close and Feel Things | 10/10/2021 | 4/18/2021
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 MM5 | Danger Straight Ahead | 10/14/2021 | 4/4/2021
 MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
@@ -93,6 +92,8 @@ MM14 | Fights the Evils with Great Power | 11/23/2021 | 9/26/2021
 MM12 | Evil Is Never Invincible | 11/28/2021 | 8/10/2021
 77 | Ninja City | 11/30/2021 | 11/28/2021
 65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
+64 | Hold You Close and Feel Things | 12/05/2021 | 4/18/2021
+MM15 | Don't Be Afraid of Me | 12/05/2021 | 12/05/2021
 
 
 
@@ -103,14 +104,14 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | > 6 mo
 20s | 3 | > 6 mo
-30s | 1 | 19 (Th)
-40s | 3 | 12 (Th)
-Other | 6 | 4 (Su)
-MM00s | 9 | 2 (Su)
+30s | 1 | 20 (Th)
+40s | 3 | 13 (Th)
+Other | 6 | 5 (Su)
+MM00s | 9 | 3 (Su)
+50s | 10 | 1 (Th)
 MM10s | 5 | 0 (Su)
 70s | 8 | 0 (Tu)
-50s | 10 | 0 (Th)
-60s | 10 | 0 (Tu)
+60s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -157,6 +158,9 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 48 | Same Deal Next Time | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
 &nbsp; | Hallowed Out (2020 Halloween Vol 1) | superseded by "Evil Is Excusable 2021 Halloween Vol 1" | 10/3/2021
 &nbsp; | Evil Is Excusable (2020 Halloween Vol 3) | superseded by "Devil Mountain 2021 Halloween Vol 3" | 10/17/2021
+52 | Let You Through to Hell | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
+59 | Now the Fun Begins | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
+62 | One Lousy Nobody, What Can He Do | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
 
 
 Intros
