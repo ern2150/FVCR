@@ -168,7 +168,18 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-12/05/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/07/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/07/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
+12/07/2021 | Island Rydeen / Senor Coconut - Rydeen
+12/07/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
+12/07/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
+12/07/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio
+12/07/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video)
+12/07/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video)
+12/07/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
+12/07/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
+12/07/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
+12/07/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 12/05/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love
 12/05/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
 12/05/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie
@@ -202,7 +213,6 @@ Latest Date | Video / Audio
 11/28/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
 11/28/2021 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video)
 11/28/2021 | Wheres Da Schtuff / Original Audio
-11/28/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio
 11/28/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
 11/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
 11/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
@@ -232,16 +242,6 @@ Latest Date | Video / Audio
 11/23/2021 | Angel Terminators / The First Family - Slow Motion
 11/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
 11/23/2021 | FUNinja Explosions / ??
-11/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video)
-11/21/2021 | Island Rydeen / Senor Coconut - Rydeen
-11/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-11/21/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-11/21/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video)
-11/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video)
-11/21/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-11/21/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-11/21/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-11/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
