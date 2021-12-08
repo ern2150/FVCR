@@ -58,7 +58,6 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
-MM2 | Why Are You Playing Heroes? | 10/7/2021 | 2/23/2021
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 MM5 | Danger Straight Ahead | 10/14/2021 | 4/4/2021
 MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
@@ -93,7 +92,8 @@ MM12 | Evil Is Never Invincible | 11/28/2021 | 8/10/2021
 77 | Ninja City | 11/30/2021 | 11/28/2021
 65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
 64 | Hold You Close and Feel Things | 12/05/2021 | 4/18/2021
-MM15 | Don't Be Afraid of Me | 12/05/2021 | 12/05/2021
+MM15 | Don't Be Afraid of Me | 12/07/2021 | 12/05/2021
+MM2 | Why Are You Playing Heroes? | 12/07/2021 | 2/23/2021
 
 
 
@@ -107,10 +107,10 @@ Decade | Available Tapes | Weeks since seen
 30s | 1 | 20 (Th)
 40s | 3 | 13 (Th)
 Other | 6 | 5 (Su)
-MM00s | 9 | 3 (Su)
+70s | 8 | 1 (Tu)
 50s | 10 | 1 (Th)
-MM10s | 5 | 0 (Su)
-70s | 8 | 0 (Tu)
+MM00s | 9 | 0 (Tu)
+MM10s | 5 | 0 (Tu)
 60s | 10 | 0 (Su)
 
 
