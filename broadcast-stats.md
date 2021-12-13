@@ -59,8 +59,6 @@ MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
-MM4 | I'm Glad to See You're Prepared to Die | 10/14/2021 | 4/4/2021
-MM13 | Keep on Winning | 10/19/2021 | 8/22/2021
 MM3 | Blood, Lust, and Intrigue | 10/26/2021 | 3/9/2021
 MM9 | Hit Me Like You Mean It | 10/26/2021 | 7/8/2021
 54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
@@ -94,6 +92,8 @@ MM15 | Don't Be Afraid of Me | 12/07/2021 | 12/05/2021
 MM2 | Why Are You Playing Heroes? | 12/07/2021 | 2/23/2021
 MM5 | Danger Straight Ahead | 12/09/2021 | 4/4/2021
 68 | Endless Chain of Duels and Killings | 12/09/2021 | 6/27/2021
+MM4 | I'm Glad to See You're Prepared to Die | 12/12/2021 | 4/4/2021
+MM13 | Keep on Winning | 12/12/2021 | 8/22/2021
 
 
 
@@ -106,11 +106,11 @@ Decade | Available Tapes | Weeks since seen
 20s | 3 | > 6 mo
 30s | 1 | 21 (Th)
 40s | 3 | 14 (Th)
-Other | 6 | 5 (Su)
+Other | 6 | 6 (Su)
 50s | 10 | 2 (Th)
 70s | 8 | 1 (Tu)
-MM10s | 5 | 0 (Tu)
-MM00s | 9 | 0 (Th)
+MM10s | 6 | 0 (Su)
+MM00s | 9 | 0 (Su)
 60s | 10 | 0 (Th)
 
 
