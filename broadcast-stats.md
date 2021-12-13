@@ -168,7 +168,16 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-12/09/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/12/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/12/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
+12/12/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
+12/12/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
+12/12/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
+12/12/2021 | Commando Fury Opener / (same as video)
+12/12/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
+12/12/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
+12/12/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
+12/12/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 12/09/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
 12/09/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
@@ -233,15 +242,6 @@ Latest Date | Video / Audio
 11/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
 11/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
 11/28/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
-11/25/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
-11/25/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
-11/25/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-11/25/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-11/25/2021 | Commando Fury Opener / (same as video)
-11/25/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-11/25/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
-11/25/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-11/25/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
