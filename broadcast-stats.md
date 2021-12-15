@@ -51,9 +51,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 52 | Let You Through to Hell (see MM15) | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins (see MM15) | 8/10/2021 | 2/14/2021
 62 | One Lousy Nobody, What Can He Do (see MM15) | 9/2/2021 | 3/21/2021
-61 | I Must Make Sure You Fail | 9/7/2021 | 3/14/2021
 66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
-MM8 | The Sword of Catastrophe | 9/19/2021 | 6/15/2021
 51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
@@ -94,6 +92,8 @@ MM5 | Danger Straight Ahead | 12/09/2021 | 4/4/2021
 68 | Endless Chain of Duels and Killings | 12/09/2021 | 6/27/2021
 MM4 | I'm Glad to See You're Prepared to Die | 12/12/2021 | 4/4/2021
 MM13 | Keep on Winning | 12/12/2021 | 8/22/2021
+61 | I Must Make Sure You Fail | 12/14/2021 | 3/14/2021
+MM8 | The Sword of Catastrophe | 12/14/2021 | 6/15/2021
 
 
 
@@ -108,10 +108,10 @@ Decade | Available Tapes | Weeks since seen
 40s | 3 | 14 (Th)
 Other | 6 | 6 (Su)
 50s | 10 | 2 (Th)
-70s | 8 | 1 (Tu)
+70s | 8 | 2 (Tu)
 MM10s | 6 | 0 (Su)
-MM00s | 9 | 0 (Su)
-60s | 10 | 0 (Th)
+MM00s | 9 | 0 (Tu)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
