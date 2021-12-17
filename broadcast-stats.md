@@ -58,11 +58,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 MM3 | Blood, Lust, and Intrigue | 10/26/2021 | 3/9/2021
-MM9 | Hit Me Like You Mean It | 10/26/2021 | 7/8/2021
 54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
 MM10 | The Splatter and Gore Department | 10/28/2021 | 7/15/2021
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
-74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 10/31/2021 | 10/10/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
 60 | Try Your Best to Fight Me | 11/02/2021 | 2/28/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
@@ -94,6 +92,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 12/12/2021 | 4/4/2021
 MM13 | Keep on Winning | 12/12/2021 | 8/22/2021
 61 | I Must Make Sure You Fail | 12/14/2021 | 3/14/2021
 MM8 | The Sword of Catastrophe | 12/14/2021 | 6/15/2021
+MM9 | Hit Me Like You Mean It | 12/16/2021 | 7/8/2021
+74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021
 
 
 
@@ -104,13 +104,13 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 10s | 2 | > 6 mo
 20s | 3 | > 6 mo
-30s | 1 | 21 (Th)
-40s | 3 | 14 (Th)
+30s | 1 | > 6 mo
+40s | 3 | 15 (Th)
 Other | 6 | 6 (Su)
-50s | 10 | 2 (Th)
-70s | 8 | 2 (Tu)
+50s | 10 | 3 (Th)
+70s | 8 | 0 (Th)
 MM10s | 6 | 0 (Su)
-MM00s | 9 | 0 (Tu)
+MM00s | 9 | 0 (Th)
 60s | 10 | 0 (Tu)
 
 
