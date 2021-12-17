@@ -168,7 +168,21 @@ Intros
 
 Latest Date | Video / Audio
 -- | --
-12/14/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/16/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
+12/16/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love
+12/16/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
+12/16/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
+12/16/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here
+12/16/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
+12/16/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them
+12/16/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
+12/16/2021 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9
+12/16/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
+12/16/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
+12/16/2021 | VENOM RANGERS / Com Truise - Memory
+12/16/2021 | Gunbuster Intro with prologue / (same as video)
+12/16/2021 | Vaporwave Beach / Ahero - Slow Summer
+12/16/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/14/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
 12/14/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
 12/14/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
@@ -218,7 +232,6 @@ Latest Date | Video / Audio
 12/07/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 12/07/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 12/05/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love
-12/05/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season
 12/05/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie
 12/05/2021 | Baki end whiteout / (same as video)
 12/05/2021 | HEYYYY JAPAAAAN / (same as video)
@@ -230,18 +243,6 @@ Latest Date | Video / Audio
 12/05/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
 12/05/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
 12/05/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-11/30/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love
-11/30/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
-11/30/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
-11/30/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
-11/30/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them
-11/30/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-11/30/2021 | Green tinted action movie (Mission Hunter) / Delegation - Heartache No. 9
-11/30/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-11/30/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-11/30/2021 | VENOM RANGERS / Com Truise - Memory
-11/30/2021 | Gunbuster Intro with prologue / (same as video)
-11/30/2021 | Vaporwave Beach / Ahero - Slow Summer
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
 11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
