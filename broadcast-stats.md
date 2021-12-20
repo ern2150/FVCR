@@ -56,10 +56,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
 58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
-63 | This Sword Will Belong to You Forever | 10/12/2021 | 4/11/2021
 MM3 | Blood, Lust, and Intrigue | 10/26/2021 | 3/9/2021
 54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
-MM10 | The Splatter and Gore Department | 10/28/2021 | 7/15/2021
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
 60 | Try Your Best to Fight Me | 11/02/2021 | 2/28/2021
@@ -94,6 +92,8 @@ MM13 | Keep on Winning | 12/12/2021 | 8/22/2021
 MM8 | The Sword of Catastrophe | 12/14/2021 | 6/15/2021
 MM9 | Hit Me Like You Mean It | 12/16/2021 | 7/8/2021
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021
+63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021
+MM10 | The Splatter and Gore Department | 12/19/2021 | 7/15/2021
 
 
 
@@ -106,12 +106,12 @@ Decade | Available Tapes | Weeks since seen
 20s | 3 | > 6 mo
 30s | 1 | > 6 mo
 40s | 3 | 15 (Th)
-Other | 6 | 6 (Su)
+Other | 6 | 7 (Su)
 50s | 10 | 3 (Th)
 70s | 8 | 0 (Th)
 MM10s | 6 | 0 (Su)
 MM00s | 9 | 0 (Th)
-60s | 10 | 0 (Tu)
+60s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed)
