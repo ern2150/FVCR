@@ -244,11 +244,11 @@ Latest Date | Video / Audio | Debut++
 12/07/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
 12/07/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
-11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video)
-11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
-11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
+11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
+11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
+11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill | 11/5/2020
+11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her | 3/9/2021
+11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo | 7/23/2020
 10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video) | 10/31/2021
 10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video) | 10/31/2021
 10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video) | 10/6/2020
@@ -307,7 +307,7 @@ Latest Date | Video / Audio | Debut++
 1/12/2021 | Daicon III / (same as video) | 12/22/2020
 1/10/2021 | COJI COJI Opener / (same as video) | 12/6/2020
 
-++ outside of a mixtape, as a stream opener
+++ outside of a mixtape or bonus clip, as a stream opener
 
 VHS Covers
 ----------
