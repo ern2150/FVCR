@@ -261,25 +261,25 @@ Latest Date | Video / Audio | Debut++
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
-5/20/2021 | ULTRAMAN 80 Opener / (same as video)
-5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
-5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13
-5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
-5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN
-5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
-5/11/2021 | Anime Previews incl Genocyber / (same as video)
-5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
-5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
-5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
-5/6/2021 | Tah Tien credits / (same as video)
-5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
-5/2/2021 | Daicon IV / ELO - Album opener, Twilight
-4/22/2021 | 2yl8r Hong Kong? / (same as video)
-4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
-4/18/2021 | Actual Robowar intro / (same as video)
-4/11/2021 | Saint Seiya Opener / (same as video)
-4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
+5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo | 4/1/2020
+5/20/2021 | ULTRAMAN 80 Opener / (same as video) | 5/7/2020
+5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
+5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara | 7/14/2020
+5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN | 5/11/2021
+5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video) | 4/1/2021
+5/11/2021 | Anime Previews incl Genocyber / (same as video) | 4/11/2021
+5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls | 3/28/2021
+5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You | 8/13/2020
+5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental | 4/13/2021
+5/6/2021 | Tah Tien credits / (same as video) | 4/13/2021
+5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me | 4/13/2021
+5/2/2021 | Daicon IV / ELO - Album opener, Twilight | 9/13/2020
+4/22/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
+4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas | 4/20/2021
+4/18/2021 | Actual Robowar intro / (same as video) | 4/6/2021
+4/11/2021 | Saint Seiya Opener / (same as video) | 12/29/2020
+4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine | 12/29/2020
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
 4/1/2021 | SoundMarket - Earthshine / (same as video) | 4/1/2021
 4/1/2021 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
