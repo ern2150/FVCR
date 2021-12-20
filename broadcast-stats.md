@@ -29,7 +29,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 20 | Cheap Thug in a Dirty Racket (see MM11) | 2/21/2021 | 1/19/2020
 25 | [Everyone Is a Suspect](https://github.com/ern2150/FVCR/wiki/Mixtape-25:-Everyone-Is-a-Suspect) | 2/25/2021 | 2/23/2020
 43 | This Will to Kill (see MM10) | 3/14/2021 | 7/23/2020
-&nbsp; | [Forced Stereo Championship](https://github.com/ern2150/FVCR/wiki/Forced-Stereo:-Championship-Edition) | 4/1/2021 | 4/1/2020
+&nbsp; | [Forced Stereo Championship](https://github.com/ern2150/FVCR/wiki/Forced-Stereo:-Championship-Edition) | 4/1/2021 | 4/1/2021
 32 | Destroy the Indestructible (see MM10) | 4/8/2021 | 4/26/2020
 45 | Cheer of Love (see MM9) | 4/11/2021 | 8/9/2020
 36 | Something Missing in Your Head (see MM10) | 4/22/2021 | 5/26/2020
@@ -261,7 +261,7 @@ Latest Date | Video / Audio | Debut++
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady | 9/28/2021
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo | 4/1/2020
+5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo | 4/1/2021
 5/20/2021 | ULTRAMAN 80 Opener / (same as video) | 5/7/2020
 5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
