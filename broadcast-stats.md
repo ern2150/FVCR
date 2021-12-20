@@ -166,8 +166,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 Intros
 ------
 
-Latest Date | Video / Audio
--- | --
+Latest Date | Video / Audio | Debut++
+-- | -- | --
 12/19/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo
 12/19/2021 | Tiger robe ninja beach / Toro y Moi - Still Sound
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love
@@ -269,7 +269,7 @@ Latest Date | Video / Audio
 5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
 5/11/2021 | Anime Previews incl Genocyber / (same as video)
-5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
+5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
 5/6/2021 | Tah Tien credits / (same as video)
@@ -280,34 +280,34 @@ Latest Date | Video / Audio
 4/18/2021 | Actual Robowar intro / (same as video)
 4/11/2021 | Saint Seiya Opener / (same as video)
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
-4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
-4/1/2021 | SoundMarket - Earthshine / (same as video)
-4/1/2021 | Zodiac and Jason the Terrible / (same as video)
-4/1/2021 | Drifting Women / Rainbo - Integra Type
-4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami
-4/1/2021 | Yattodetaman Opener / (same as video)
-4/1/2021 | Naoko Kawai - Control / (same as video)
-4/1/2021 | GoLion Opener / (same as video)
-3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
-3/25/2021 | Heaven's Hell Trailer / (same as video)
-3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
-3/14/2021 | Ideon footage / Ideon opening full song
-3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
-3/4/2021 | STREAM TRAILER / Ideon closing full song
-2/28/2021 | Kamen Rider Ay-Ay / (same as video)
-2/16/2021 | Dairanger Opener / (same as video)
-1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
-1/21/2021 | GRANDO FAIR / (same as video)
-1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy
-1/19/2021 | (another interlude "We Filmed Heaven") / (same as video)
-1/19/2021 | (Save the Date Grandu-Fair) / (same as video)
-1/19/2021 | (another interlude where a dude is on a phone) / (same as video)
-1/19/2021 | (French laser toy Claude Debussy) / (same as video)
-1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun
-1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video)
-1/12/2021 | Daicon III / (same as video)
-1/10/2021 | COJI COJI Opener / (same as video)
+4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
+4/1/2021 | SoundMarket - Earthshine / (same as video) | 4/1/2021
+4/1/2021 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
+4/1/2021 | Drifting Women / Rainbo - Integra Type | 11/8/2020
+4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
+4/1/2021 | Yattodetaman Opener / (same as video) | 12/6/2020
+4/1/2021 | Naoko Kawai - Control / (same as video) | 11/19/2020
+4/1/2021 | GoLion Opener / (same as video) | 12/6/2020
+3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM) | 3/2/2021
+3/25/2021 | Heaven's Hell Trailer / (same as video) | 3/25/2021
+3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart | 8/27/2020
+3/14/2021 | Ideon footage / Ideon opening full song | 1/7/2021
+3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A | 2/21/2021
+3/4/2021 | STREAM TRAILER / Ideon closing full song | 3/4/2021
+2/28/2021 | Kamen Rider Ay-Ay / (same as video) | 12/1/2020
+2/16/2021 | Dairanger Opener / (same as video) | 12/6/2020
+1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video) | 1/26/2021
+1/21/2021 | GRANDO FAIR / (same as video) | 1/19/2021
+1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy | 7/23/2020
+1/19/2021 | (another interlude "We Filmed Heaven") / (same as video) | 1/19/2021
+1/19/2021 | (another interlude where a dude is on a phone) / (same as video) | 1/19/2021
+1/19/2021 | (French laser toy Claude Debussy) / (same as video) | 1/19/2021
+1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun | 1/14/2021
+1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video) | 1/12/2021
+1/12/2021 | Daicon III / (same as video) | 12/22/2020
+1/10/2021 | COJI COJI Opener / (same as video) | 12/6/2020
 
+++ outside of a mixtape, as a stream opener
 
 VHS Covers
 ----------
