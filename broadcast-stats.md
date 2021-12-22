@@ -168,8 +168,21 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-12/19/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
-12/19/2021 | Tiger robe ninja beach / Toro y Moi - Still Sound | 12/19/2021
+12/21/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/21/2021 | shoulder-mounted rocket vs building vs cycles / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
+12/21/2021 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
+12/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
+12/21/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+12/21/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+12/21/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
+12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
+12/21/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+12/21/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+12/21/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
+12/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+12/21/2021 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
+12/21/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
 12/19/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 12/19/2021 | Baki end whiteout / (same as video) | 4/13/2021
@@ -178,7 +191,6 @@ Latest Date | Video / Audio | Debut++
 12/19/2021 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 12/19/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 12/19/2021 | Wheres Da Schtuff / Original Audio | 11/28/2021
-12/19/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 12/19/2021 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
 12/19/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 12/19/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -196,7 +208,6 @@ Latest Date | Video / Audio | Debut++
 12/16/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/16/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 12/16/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/16/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/14/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 12/14/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 12/14/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
@@ -233,16 +244,6 @@ Latest Date | Video / Audio | Debut++
 12/09/2021 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 12/09/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 12/09/2021 | FUNinja Explosions / ?? | 5/20/2021
-12/07/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
-12/07/2021 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
-12/07/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
-12/07/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-12/07/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
-12/07/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
-12/07/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-12/07/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-12/07/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
-12/07/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
