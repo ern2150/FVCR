@@ -169,7 +169,7 @@ Intros
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 12/21/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
-12/21/2021 | shoulder-mounted rocket vs building vs cycles / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+12/21/2021 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 12/21/2021 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
 12/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
