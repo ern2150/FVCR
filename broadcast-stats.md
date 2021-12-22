@@ -51,10 +51,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 52 | Let You Through to Hell (see MM15) | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins (see MM15) | 8/10/2021 | 2/14/2021
 62 | One Lousy Nobody, What Can He Do (see MM15) | 9/2/2021 | 3/21/2021
-66 | Do You Really Have the Confidence? | 9/14/2021 | 5/23/2021
-51 | Money, Power, and Position | 9/21/2021 | 12/6/2020
-56 | Everyone Has Got to Live, Even Thieves | 9/23/2021 | 1/24/2021
-58 | Why Do You Help the Evil Person? | 9/28/2021 | 2/7/2021
+51 | Money, Power, and Position (see MM16) | 9/21/2021 | 12/6/2020
+56 | Everyone Has Got to Live, Even Thieves (see MM16) | 9/23/2021 | 1/24/2021
+58 | Why Do You Help the Evil Person? (see MM16) | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 MM3 | Blood, Lust, and Intrigue | 10/26/2021 | 3/9/2021
 54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
@@ -94,6 +93,8 @@ MM9 | Hit Me Like You Mean It | 12/16/2021 | 7/8/2021
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021
 63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021
 MM10 | The Splatter and Gore Department | 12/19/2021 | 7/15/2021
+66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021
+MM16 | Today We Shall Kill Each Other | 12/21/2021 | 12/21/2021
 
 
 
@@ -108,10 +109,10 @@ Decade | Available Tapes | Weeks since seen
 40s | 3 | 15 (Th)
 Other | 6 | 7 (Su)
 50s | 10 | 3 (Th)
+MM10s | 7 | 0 (Tu)
 70s | 8 | 0 (Th)
-MM10s | 6 | 0 (Su)
 MM00s | 9 | 0 (Th)
-60s | 10 | 0 (Su)
+60s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed)
@@ -161,6 +162,9 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 52 | Let You Through to Hell | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
 59 | Now the Fun Begins | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
 62 | One Lousy Nobody, What Can He Do | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
+51 | Money, Power, and Position | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
+56 | Everyone Has Got to Live, Even Thieves | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
+58 | Why Do You Help the Evil Person? | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
 
 
 Intros
