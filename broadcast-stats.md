@@ -172,8 +172,23 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-12/21/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
-12/21/2021 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+12/23/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/23/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+12/23/2021 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+12/23/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+12/23/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
+12/23/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
+12/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+12/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+12/23/2021 | Knight of Justice Death Call / (same as video) | 5/6/2021
+12/23/2021 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+12/23/2021 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+12/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+12/23/2021 | SHIT FUCK / (same as video) | 5/4/2021
+12/23/2021 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+12/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+12/23/2021 | FUNinja Explosions / ?? | 5/20/2021
+12/23/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 12/21/2021 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
 12/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -186,7 +201,6 @@ Latest Date | Video / Audio | Debut++
 12/21/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
 12/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 12/21/2021 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
-12/21/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
 12/19/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 12/19/2021 | Baki end whiteout / (same as video) | 4/13/2021
@@ -233,21 +247,7 @@ Latest Date | Video / Audio | Debut++
 12/12/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 12/12/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 12/12/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-12/09/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
-12/09/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-12/09/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
-12/09/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
-12/09/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-12/09/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-12/09/2021 | Knight of Justice Death Call / (same as video) | 5/6/2021
-12/09/2021 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-12/09/2021 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-12/09/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-12/09/2021 | SHIT FUCK / (same as video) | 5/4/2021
-12/09/2021 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-12/09/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-12/09/2021 | FUNinja Explosions / ?? | 5/20/2021
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
