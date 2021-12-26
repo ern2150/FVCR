@@ -61,7 +61,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 60 | Try Your Best to Fight Me | 11/02/2021 | 2/28/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
 55 | I Had a Heart Once | 11/04/2021 | 1/17/2021
-75 | Never Show Emotion | 11/09/2021 | 11/07/2021
 MM11 | I Can Stand the Pain | 11/09/2021 | 7/27/2021
 50 | The Awesome Powers of Destruction You Possess | 11/11/2021 | 11/15/2020
 67 | Together We Will Smash Them | 11/11/2021 | 6/20/2021
@@ -95,6 +94,7 @@ MM16 | Today We Shall Kill Each Other | 12/23/2021 | 12/21/2021
 MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021
 70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021
 72 | Who Is the Champion Now? | 12/26/2021 | 9/7/2021
+75 | Never Show Emotion | 12/26/2021 | 11/07/2021
 
 
 
@@ -107,10 +107,10 @@ Decade | Available Tapes | Weeks since seen
 20s | 3 | > 6 mo
 30s | 1 | > 6 mo
 40s | 3 | 16 (Th)
-Other | 6 | 7 (Su)
+Other | 6 | 8 (Su)
 50s | 10 | 4 (Th)
-70s | 8 | 1 (Th)
 MM10s | 7 | 0 (Th)
+70s | 8 | 0 (Su)
 MM00s | 9 | 0 (Th)
 60s | 10 | 0 (Tu)
 
