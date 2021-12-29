@@ -172,7 +172,19 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-12/26/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/28/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/28/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+12/28/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
+12/28/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+12/28/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+12/28/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+12/28/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+12/28/2021 | Commando Fury Opener / (same as video) | 12/8/2020
+12/28/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+12/28/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+12/28/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+12/28/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
+12/28/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/26/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 12/26/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 12/26/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
@@ -203,7 +215,6 @@ Latest Date | Video / Audio | Debut++
 12/23/2021 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 12/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 12/23/2021 | FUNinja Explosions / ?? | 5/20/2021
-12/23/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 12/21/2021 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
 12/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -239,15 +250,6 @@ Latest Date | Video / Audio | Debut++
 12/16/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/16/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 12/16/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/12/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-12/12/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-12/12/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-12/12/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-12/12/2021 | Commando Fury Opener / (same as video) | 12/8/2020
-12/12/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-12/12/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-12/12/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-12/12/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
@@ -269,7 +271,6 @@ Latest Date | Video / Audio | Debut++
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo | 4/1/2021
 5/20/2021 | ULTRAMAN 80 Opener / (same as video) | 5/7/2020
-5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
 5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara | 7/14/2020
 5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN | 5/11/2021
@@ -281,7 +282,6 @@ Latest Date | Video / Audio | Debut++
 5/6/2021 | Tah Tien credits / (same as video) | 4/13/2021
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me | 4/13/2021
 5/2/2021 | Daicon IV / ELO - Album opener, Twilight | 9/13/2020
-4/22/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas | 4/20/2021
 4/18/2021 | Actual Robowar intro / (same as video) | 4/6/2021
 4/11/2021 | Saint Seiya Opener / (same as video) | 12/29/2020
