@@ -59,9 +59,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
 60 | Try Your Best to Fight Me | 11/02/2021 | 2/28/2021
-MM1 | Get Rich Regardless of the Means (End of 2019) | 11/02/2021 | 11/14/2019
 50 | The Awesome Powers of Destruction You Possess | 11/11/2021 | 11/15/2020
-67 | Together We Will Smash Them | 11/11/2021 | 6/20/2021
 MM6 | It's Your Turn to Die | 11/14/2021 | 5/20/2021
 MM7 | I'd Like to See You Try and Hurt Me | 11/14/2021 | 6/6/2021
 69 | SUMMERTIME | 11/16/2021 | 7/4/2021
@@ -95,6 +93,8 @@ MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021
 75 | Never Show Emotion | 12/26/2021 | 11/07/2021
 55 | I Had a Heart Once | 12/28/2021 | 1/17/2021
 MM11 | I Can Stand the Pain | 12/28/2021 | 7/27/2021
+MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
+67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021
 
 
 
@@ -106,13 +106,13 @@ Decade | Available Tapes | Weeks since seen
 10s | 2 | > 6 mo
 20s | 3 | > 6 mo
 30s | 1 | > 6 mo
-40s | 3 | 16 (Th)
+40s | 3 | 17 (Th)
 Other | 6 | 8 (Su)
-60s | 10 | 1 (Tu)
 MM10s | 7 | 0 (Tu)
 70s | 8 | 0 (Su)
 MM00s | 9 | 0 (Th)
 50s | 10 | 0 (Tu)
+60s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
