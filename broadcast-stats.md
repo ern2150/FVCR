@@ -172,7 +172,22 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-12/28/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/30/2021 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
+12/30/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/30/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+12/30/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+12/30/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+12/30/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+12/30/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+12/30/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
+12/30/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+12/30/2021 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+12/30/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+12/30/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+12/30/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+12/30/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
+12/30/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+12/30/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/28/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 12/28/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
 12/28/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -184,7 +199,6 @@ Latest Date | Video / Audio | Debut++
 12/28/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 12/28/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 12/28/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-12/28/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/26/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 12/26/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 12/26/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
@@ -237,19 +251,6 @@ Latest Date | Video / Audio | Debut++
 12/19/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 12/19/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 12/19/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-12/16/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-12/16/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-12/16/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-12/16/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-12/16/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-12/16/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-12/16/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-12/16/2021 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-12/16/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-12/16/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-12/16/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-12/16/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
-12/16/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
