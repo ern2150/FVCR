@@ -67,13 +67,13 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
 
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-<50s | ... | 17 (Th)
-Other | 6 | 8 (Su)
+<50s | 1 | 17 (Th)
+Other | 2 | 8 (Su)
 MM10s | 7 | 0 (Tu)
+50s | 5 | 0 (Tu)
 70s | 8 | 0 (Su)
 MM00s | 9 | 0 (Th)
-50s | 10 | 0 (Tu)
-60s | 10 | 0 (Th)
+60s | 9 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed)
