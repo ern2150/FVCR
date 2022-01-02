@@ -1,3 +1,5 @@
+(for things that haven't been seen since 2020, go [here](broadcast-2020.md))
+
 Sorted by Last date (Most recent date), ascending
 -----
 
@@ -38,7 +40,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 52 | Let You Through to Hell (see MM15) | 8/8/2021 | 12/13/2020
 59 | Now the Fun Begins (see MM15) | 8/10/2021 | 2/14/2021
 62 | One Lousy Nobody, What Can He Do (see MM15) | 9/2/2021 | 3/21/2021
-... | ... | ... | ...
+51 | Money, Power, and Position (see MM16) | 9/21/2021 | 12/6/2020
+56 | Everyone Has Got to Live, Even Thieves (see MM16) | 9/23/2021 | 1/24/2021
+58 | Why Do You Help the Evil Person? (see MM16) | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 
 
@@ -99,137 +103,159 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 52 | Let You Through to Hell | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
 59 | Now the Fun Begins | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
 62 | One Lousy Nobody, What Can He Do | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
+51 | Money, Power, and Position | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
+56 | Everyone Has Got to Live, Even Thieves | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
+58 | Why Do You Help the Evil Person? | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
+
 
 Intros
 ------
 
-Latest Date | Video / Audio
--- | --
-11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo
-11/02/2021 | Studded headband crossbow lady vs G etc / Bob James - Shamboozie
-11/02/2021 | Baki end whiteout / (same as video)
-11/02/2021 | HEYYYY JAPAAAAN / (same as video)
-11/02/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio
-11/02/2021 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies
-11/02/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind
-11/02/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio
-11/02/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor
-11/02/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy
-11/02/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music
-10/31/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night
-10/31/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Where Do We Go from Here - Charles Bradley (feat Menahan Street Band)
-10/31/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me
-10/31/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them
-10/31/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU
-10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video)
-10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video)
-10/31/2021 | Green tinted action movie (Mission Hunter) / Delegation - Heartache No. 9
-10/31/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora
-10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video)
-10/31/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa
-10/31/2021 | THE PHONE ZOMBIES 1900490DEAD / (same as video)
-10/31/2021 | VENOM RANGERS / Com Truise - Memory
-10/31/2021 | Gunbuster Intro with prologue / (same as video)
-10/31/2021 | Vaporwave Beach / Ahero - Slow Summer
-10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video)
+Latest Date | Video / Audio | Debut++
+-- | -- | --
+12/30/2021 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
+12/30/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/30/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+12/30/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+12/30/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+12/30/2021 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+12/30/2021 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+12/30/2021 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
+12/30/2021 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+12/30/2021 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+12/30/2021 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+12/30/2021 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+12/30/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+12/30/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
+12/30/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+12/30/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+12/28/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+12/28/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
+12/28/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+12/28/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+12/28/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+12/28/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+12/28/2021 | Commando Fury Opener / (same as video) | 12/8/2020
+12/28/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+12/28/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+12/28/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+12/28/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
+12/26/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+12/26/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+12/26/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
+12/26/2021 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+12/26/2021 | FMW Opener / FMW Closer | 12/6/2020
+12/26/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+12/26/2021 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+12/26/2021 | Wheres Da Schtuff / Original Audio | 11/28/2021
+12/26/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+12/26/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+12/26/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+12/26/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+12/26/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
+12/26/2021 | 𝘽𝙊𝙓𝙄𝙉𝙂 𝘿𝘼𝙔 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙔 12/26 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
+12/23/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+12/23/2021 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+12/23/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+12/23/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
+12/23/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
+12/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+12/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+12/23/2021 | Knight of Justice Death Call / (same as video) | 5/6/2021
+12/23/2021 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+12/23/2021 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+12/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+12/23/2021 | SHIT FUCK / (same as video) | 5/4/2021
+12/23/2021 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+12/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+12/23/2021 | FUNinja Explosions / ?? | 5/20/2021
+12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
+12/21/2021 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
+12/21/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
+12/21/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+12/21/2021 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
+12/21/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
+12/21/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+12/21/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+12/21/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
+12/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+12/21/2021 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
+12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
+12/19/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+12/19/2021 | Baki end whiteout / (same as video) | 4/13/2021
+12/19/2021 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+12/19/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+12/19/2021 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+12/19/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+12/19/2021 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
+12/19/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+12/19/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+12/19/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
+12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
+11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
+11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
+11/04/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill | 11/5/2020
+11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her | 3/9/2021
+11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo | 7/23/2020
+10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video) | 10/31/2021
+10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video) | 10/31/2021
+10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video) | 10/6/2020
+10/31/2021 | THE PHONE ZOMBIES 1900490DEAD / (same as video) | 10/31/2021
+10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video) | 8/13/2020
 10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-10/28/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White
-10/28/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage
-10/28/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme
-10/28/2021 | Ninja Condors fight scene that never ends / Vanilla - The People
-10/28/2021 | FMW Opener / FMW Closer
-10/28/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental)
-10/28/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE
-10/28/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke)
-10/28/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut
-10/28/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game
-10/26/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster
-10/26/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop)
-10/26/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man
-10/26/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio
-10/26/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home
-10/26/2021 | Fountains Tapan Das / KNXWLEDGE - stilluhme
-10/26/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown
-10/26/2021 | Knight of Justice Death Call / (same as video)
-10/26/2021 | Jerry Harris - Bachelor Life / (same as video)
-10/26/2021 | Emergency Alert Please Stand by / (Beep)
-10/26/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine
-10/26/2021 | SHIT FUCK / (same as video)
-10/26/2021 | Angel Terminators / The First Family - Slow Motion
-10/26/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up
-10/26/2021 | FUNinja Explosions / ??
-10/19/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme
-10/19/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm
-10/19/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers
-10/19/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite
-10/19/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered
-10/19/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me
-10/19/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You)
-10/17/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back
-10/17/2021 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out
-10/17/2021 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin'
-10/17/2021 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill
-10/17/2021 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary
-10/17/2021 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy
-10/17/2021 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade
-10/17/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You
-10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight
-10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino
-10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma
+10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight | 11/29/2020
+10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino | 12/13/2020
+10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma | 12/6/2020
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady
-7/13/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her
-6/15/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You
+9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady | 9/28/2021
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-5/27/2021 | Island Rydeen / Senor Coconut - Rydeen
-5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo
-5/20/2021 | ULTRAMAN 80 Opener / (same as video)
-5/18/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99
-5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13
-5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara
-5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN
-5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video)
-5/11/2021 | Anime Previews incl Genocyber / (same as video)
-5/9/2021 | Friday the 13th promo then W*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls
-5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You
-5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental
-5/6/2021 | Tah Tien credits / (same as video)
-5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me
-5/2/2021 | Daicon IV / ELO - Album opener, Twilight
-4/22/2021 | 2yl8r Hong Kong? / (same as video)
-4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas
-4/18/2021 | Actual Robowar intro / (same as video)
-4/11/2021 | Saint Seiya Opener / (same as video)
-4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine
-4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne
-4/1/2021 | SoundMarket - Earthshine / (same as video)
-4/1/2021 | Zodiac and Jason the Terrible / (same as video)
-4/1/2021 | Drifting Women / Rainbo - Integra Type
-4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami
-4/1/2021 | Yattodetaman Opener / (same as video)
-4/1/2021 | Naoko Kawai - Control / (same as video)
-4/1/2021 | GoLion Opener / (same as video)
-3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM)
-3/25/2021 | Heaven's Hell Trailer / (same as video)
-3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart
-3/14/2021 | Ideon footage / Ideon opening full song
-3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A
-3/4/2021 | STREAM TRAILER / Ideon closing full song
-2/28/2021 | Kamen Rider Ay-Ay / (same as video)
-2/16/2021 | Dairanger Opener / (same as video)
-1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video)
-1/21/2021 | GRANDO FAIR / (same as video)
-1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy
-1/19/2021 | (another interlude "We Filmed Heaven") / (same as video)
-1/19/2021 | (Save the Date Grandu-Fair) / (same as video)
-1/19/2021 | (another interlude where a dude is on a phone) / (same as video)
-1/19/2021 | (French laser toy Claude Debussy) / (same as video)
-1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun
-1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video)
-1/12/2021 | Daicon III / (same as video)
-1/10/2021 | COJI COJI Opener / (same as video)
-1/10/2021 | Commando Fury Opener / (same as video)
+5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo | 4/1/2021
+5/20/2021 | ULTRAMAN 80 Opener / (same as video) | 5/7/2020
+5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
+5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara | 7/14/2020
+5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN | 5/11/2021
+5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video) | 4/1/2021
+5/11/2021 | Anime Previews incl Genocyber / (same as video) | 4/11/2021
+5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls | 3/28/2021
+5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You | 8/13/2020
+5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental | 4/13/2021
+5/6/2021 | Tah Tien credits / (same as video) | 4/13/2021
+5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me | 4/13/2021
+5/2/2021 | Daicon IV / ELO - Album opener, Twilight | 9/13/2020
+4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas | 4/20/2021
+4/18/2021 | Actual Robowar intro / (same as video) | 4/6/2021
+4/11/2021 | Saint Seiya Opener / (same as video) | 12/29/2020
+4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine | 12/29/2020
+4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
+4/1/2021 | SoundMarket - Earthshine / (same as video) | 4/1/2021
+4/1/2021 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
+4/1/2021 | Drifting Women / Rainbo - Integra Type | 11/8/2020
+4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
+4/1/2021 | Yattodetaman Opener / (same as video) | 12/6/2020
+4/1/2021 | Naoko Kawai - Control / (same as video) | 11/19/2020
+4/1/2021 | GoLion Opener / (same as video) | 12/6/2020
+3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM) | 3/2/2021
+3/25/2021 | Heaven's Hell Trailer / (same as video) | 3/25/2021
+3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart | 8/27/2020
+3/14/2021 | Ideon footage / Ideon opening full song | 1/7/2021
+3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A | 2/21/2021
+3/4/2021 | STREAM TRAILER / Ideon closing full song | 3/4/2021
+2/28/2021 | Kamen Rider Ay-Ay / (same as video) | 12/1/2020
+2/16/2021 | Dairanger Opener / (same as video) | 12/6/2020
+1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video) | 1/26/2021
+1/21/2021 | GRANDO FAIR / (same as video) | 1/19/2021
+1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy | 7/23/2020
+1/19/2021 | (another interlude "We Filmed Heaven") / (same as video) | 1/19/2021
+1/19/2021 | (another interlude where a dude is on a phone) / (same as video) | 1/19/2021
+1/19/2021 | (French laser toy Claude Debussy) / (same as video) | 1/19/2021
+1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun | 1/14/2021
+1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video) | 1/12/2021
+1/12/2021 | Daicon III / (same as video) | 12/22/2020
+1/10/2021 | COJI COJI Opener / (same as video) | 12/6/2020
 
+++ outside of a mixtape or bonus clip, as a stream opener
 
 VHS Covers
 ----------
