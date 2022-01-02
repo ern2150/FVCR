@@ -12,11 +12,10 @@ Table of Contents
 
 
 
-Sorted by Last date (Most recent date), ascending
+Sorted by Last date (Most recent date), ascending 
 -----
-Archive is [here](broadcast-2021.md)
-
-Mixtape # | Mixtape Title | Last Date | Original Debut
+[archive](broadcast-2021.md)
+Mixtape # | Mixtape Title | Last Date | Original Debut 
 -- | -- | -- | --
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
 54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
@@ -64,7 +63,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
 
 "Decades" by Weeks Since Seen, descending
 -----
-
+[archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 12 (Th)
@@ -76,8 +75,9 @@ MM00s | 9 | 0 (Th)
 60s | 9 | 0 (Th)
 
 
-Mixtapes with Updates (by Last Changed)
+Mixtapes with Updates (by Last Changed) 
 -----
+[archive](broadcast-2021.md#mixtapes-with-updates-by-last-changed)
 Mixtape # | Title | Update | Last Changed
 -- | -- | -- | --
 52 | Let You Through to Hell | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
@@ -243,6 +243,7 @@ VHS Covers
 
 Bonus Clips
 -----------
+[archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
 11/25/2021 | Wii FCE Ultra GX Karaoke Game Sweet Pea, Maskman 
@@ -250,6 +251,7 @@ Latest Date | Video / Audio
 
 Outros
 ------
+[archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
 12/30/2021 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
