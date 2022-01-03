@@ -93,8 +93,21 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+1/2/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+1/2/2022 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+1/2/2022 | Baki end whiteout / (same as video) | 4/13/2021
+1/2/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+1/2/2022 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+1/2/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+1/2/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+1/2/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
+1/2/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+1/2/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
+1/2/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+1/2/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+1/2/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+1/2/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/30/2021 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
-12/30/2021 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/30/2021 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 12/30/2021 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 12/30/2021 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
@@ -108,7 +121,6 @@ Latest Date | Video / Audio | Debut++
 12/30/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/30/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 12/30/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/30/2021 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/28/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 12/28/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
 12/28/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -127,8 +139,6 @@ Latest Date | Video / Audio | Debut++
 12/26/2021 | FMW Opener / FMW Closer | 12/6/2020
 12/26/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
 12/26/2021 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-12/26/2021 | Wheres Da Schtuff / Original Audio | 11/28/2021
-12/26/2021 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 12/26/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
 12/26/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 12/26/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
@@ -162,16 +172,6 @@ Latest Date | Video / Audio | Debut++
 12/21/2021 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 12/21/2021 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
-12/19/2021 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-12/19/2021 | Baki end whiteout / (same as video) | 4/13/2021
-12/19/2021 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-12/19/2021 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-12/19/2021 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-12/19/2021 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-12/19/2021 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
-12/19/2021 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-12/19/2021 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-12/19/2021 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
