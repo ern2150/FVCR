@@ -100,7 +100,7 @@ Latest Date | Video / Audio | Debut++
 1/4/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 1/4/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 1/4/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
-1/4/2022 | Fox Force Four Fiesta Firearm Fun / Original Audio, George Duke - Reach Out | 5/2/2021
+1/4/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" / Original Audio, George Duke - Reach Out | 5/2/2021
 1/4/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 1/4/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 1/4/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
