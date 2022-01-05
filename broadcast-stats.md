@@ -18,13 +18,12 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Date | Original Debut 
 -- | -- | -- | --
 49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
-54 | Sounds Like the Devil | 10/28/2021 | 1/10/2021
+54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
-60 | Try Your Best to Fight Me | 11/02/2021 | 2/28/2021
+60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021
 50 | The Awesome Powers of Destruction You Possess | 11/11/2021 | 11/15/2020
 MM6 | It's Your Turn to Die | 11/14/2021 | 5/20/2021
-69 | SUMMERTIME | 11/16/2021 | 7/4/2021
 71 | I Don't Belong Here | 11/16/2021 | 8/1/2021
 73 | The Whirlpool of Battle | 11/21/2021 | 9/21/2021
 76 | If I See Him, I'll Kill Him | 11/23/2021 | 11/21/2021
@@ -58,7 +57,8 @@ MM11 | I Can Stand the Pain | 12/28/2021 | 7/27/2021
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021
 MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021
-MM17 | Ninja Challenge Card | 1/2/2022 | 1/2/2022
+MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022
+69 | SUMMERTIME | 11/16/2021 | 7/4/2021
 
 
 
@@ -69,11 +69,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 12 (Th)
 Other | 2 | 9 (Su)
+50s | 5 | 1 (Tu)
 70s | 8 | 1 (Su)
-50s | 5 | 0 (Tu)
-MM10s | 8 | 0 (Su)
+MM10s | 8 | 0 (Tu)
 MM00s | 9 | 0 (Su)
-60s | 9 | 0 (Th)
+60s | 9 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -87,7 +87,8 @@ Mixtape # | Title | Update | Last Changed
 51 | Money, Power, and Position | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
 56 | Everyone Has Got to Live, Even Thieves | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
 58 | Why Do You Help the Evil Person? | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
-TBD | ... | merged into MM17 "Ninja Challenge Card" | 1/2/2022
+54 | Sounds Like the Devil | merged into MM17 "Ninja Challenge Card" | 1/2/2022
+60 | Try Your Best to Fight Me | merged into MM17 "Ninja Challenge Card" | 1/2/2022
 
 
 Intros
