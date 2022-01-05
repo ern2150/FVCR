@@ -1,5 +1,15 @@
 (for things that haven't been seen since 2020, go [here](broadcast-2020.md))
 
+Table of Contents
+-----
+ - [Mixtapes by Last Seen](#sorted-by-last-date-most-recent-date-ascending)
+ - [Mixtape Decades Stats](#decades-by-last-seen-descending)
+ - [Mixtapes with Updates](#mixtapes-with-updates-by-last-changed)
+ - [Intros](#intros)
+ - [VHS Covers](#vhs-covers)
+ - [Bonus Clips](#bonus-clips)
+ - [Outros](#outros)
+
 Sorted by Last date (Most recent date), ascending
 -----
 
