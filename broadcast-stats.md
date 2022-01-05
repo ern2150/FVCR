@@ -58,7 +58,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021
 MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021
 MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022
-69 | SUMMERTIME | 11/16/2021 | 7/4/2021
+69 | SUMMERTIME | 1/4/2022 | 7/4/2021
 
 
 
@@ -257,7 +257,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-1/2/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+1/4/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
