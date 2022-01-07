@@ -23,8 +23,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
 60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021
 50 | The Awesome Powers of Destruction You Possess | 11/11/2021 | 11/15/2020
-MM6 | It's Your Turn to Die | 11/14/2021 | 5/20/2021
-71 | I Don't Belong Here | 11/16/2021 | 8/1/2021
 73 | The Whirlpool of Battle | 11/21/2021 | 9/21/2021
 76 | If I See Him, I'll Kill Him | 11/23/2021 | 11/21/2021
 MM14 | Fights the Evils with Great Power | 11/23/2021 | 9/26/2021
@@ -59,6 +57,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
 MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021
 MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021
+MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021
+71 | I Don't Belong Here | 1/6/2022 | 8/1/2021
 
 
 
@@ -67,12 +67,12 @@ MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-<50s | 1 | 12 (Th)
+<50s | 1 | 13 (Th)
 Other | 2 | 9 (Su)
 50s | 5 | 1 (Tu)
-70s | 8 | 1 (Su)
+70s | 8 | 0 (Th)
 MM10s | 8 | 0 (Tu)
-MM00s | 9 | 0 (Su)
+MM00s | 9 | 0 (Th)
 60s | 9 | 0 (Tu)
 
 
