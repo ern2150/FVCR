@@ -96,7 +96,22 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-1/4/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+1/6/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+1/6/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+1/6/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+1/6/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
+1/6/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
+1/6/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+1/6/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+1/6/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
+1/6/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+1/6/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+1/6/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+1/6/2022 | SHIT FUCK / (same as video) | 5/4/2021
+1/6/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+1/6/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+1/6/2022 | FUNinja Explosions / ?? | 5/20/2021
+1/6/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 1/4/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 1/4/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 1/4/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
@@ -110,7 +125,6 @@ Latest Date | Video / Audio | Debut++
 1/4/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
 1/4/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 1/4/2022 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
-1/4/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 1/2/2022 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 1/2/2022 | Baki end whiteout / (same as video) | 4/13/2021
 1/2/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
@@ -160,20 +174,6 @@ Latest Date | Video / Audio | Debut++
 12/26/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
 12/26/2021 | 𝘽𝙊𝙓𝙄𝙉𝙂 𝘿𝘼𝙔 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙔 12/26 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
-12/23/2021 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-12/23/2021 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-12/23/2021 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
-12/23/2021 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
-12/23/2021 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-12/23/2021 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-12/23/2021 | Knight of Justice Death Call / (same as video) | 5/6/2021
-12/23/2021 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-12/23/2021 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-12/23/2021 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-12/23/2021 | SHIT FUCK / (same as video) | 5/4/2021
-12/23/2021 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-12/23/2021 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-12/23/2021 | FUNinja Explosions / ?? | 5/20/2021
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
