@@ -96,6 +96,7 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+1/6/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
 1/6/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 1/6/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 1/6/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
@@ -112,6 +113,7 @@ Latest Date | Video / Audio | Debut++
 1/6/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 1/6/2022 | FUNinja Explosions / ?? | 5/20/2021
 1/6/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+1/4/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 1/4/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 1/4/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 1/4/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
@@ -125,6 +127,7 @@ Latest Date | Video / Audio | Debut++
 1/4/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
 1/4/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 1/4/2022 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
+1/2/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
 1/2/2022 | [Ninja Knight Thunder Fox](https://ia601004.us.archive.org/3/items/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 1/2/2022 | Baki end whiteout / (same as video) | 4/13/2021
 1/2/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
