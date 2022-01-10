@@ -96,8 +96,22 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+1/9/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
+1/9/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+1/9/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+1/9/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+1/9/2022 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
+1/9/2022 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+1/9/2022 | FMW Opener / FMW Closer | 12/6/2020
+1/9/2022 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+1/9/2022 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+1/9/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+1/9/2022 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+1/9/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+1/9/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+1/9/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+1/9/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 1/6/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
-1/6/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 1/6/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 1/6/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 1/6/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
@@ -112,14 +126,12 @@ Latest Date | Video / Audio | Debut++
 1/6/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 1/6/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 1/6/2022 | FUNinja Explosions / ?? | 5/20/2021
-1/6/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 1/4/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 1/4/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 1/4/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 1/4/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
 1/4/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" / Original Audio, George Duke - Reach Out | 5/2/2021
 1/4/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-1/4/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 1/4/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
 1/4/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
 1/4/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
@@ -164,17 +176,6 @@ Latest Date | Video / Audio | Debut++
 12/28/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 12/28/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 12/28/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-12/26/2021 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-12/26/2021 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-12/26/2021 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
-12/26/2021 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-12/26/2021 | FMW Opener / FMW Closer | 12/6/2020
-12/26/2021 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-12/26/2021 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-12/26/2021 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-12/26/2021 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-12/26/2021 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-12/26/2021 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
 12/26/2021 | 𝘽𝙊𝙓𝙄𝙉𝙂 𝘿𝘼𝙔 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙔 12/26 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
