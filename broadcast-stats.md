@@ -97,8 +97,19 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+1/11/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+1/11/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+1/11/2022 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
+1/11/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+1/11/2022 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+1/11/2022 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+1/11/2022 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+1/11/2022 | Commando Fury Opener / (same as video) | 12/8/2020
+1/11/2022 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+1/11/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+1/11/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+1/11/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 1/9/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
-1/9/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 1/9/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 1/9/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 1/9/2022 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
@@ -166,17 +177,6 @@ Latest Date | Video / Audio | Debut++
 12/30/2021 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/30/2021 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 12/30/2021 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/28/2021 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-12/28/2021 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
-12/28/2021 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-12/28/2021 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-12/28/2021 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-12/28/2021 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-12/28/2021 | Commando Fury Opener / (same as video) | 12/8/2020
-12/28/2021 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-12/28/2021 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-12/28/2021 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-12/28/2021 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
 12/26/2021 | 𝘽𝙊𝙓𝙄𝙉𝙂 𝘿𝘼𝙔 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙔 12/26 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
