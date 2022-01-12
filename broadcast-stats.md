@@ -97,6 +97,7 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+1/11/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
 1/11/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 1/11/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 1/11/2022 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
