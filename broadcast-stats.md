@@ -22,10 +22,9 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
 60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021
-50 | The Awesome Powers of Destruction You Possess | 11/11/2021 | 11/15/2020
-53 | The True Form of His Brains | 11/25/2021 | 12/27/2020
+50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020
+53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020
 57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
-77 | Ninja City | 11/30/2021 | 11/28/2021
 65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
 64 | Hold You Close and Feel Things | 12/05/2021 | 4/18/2021
 MM15 | Don't Be Afraid of Me | 12/07/2021 | 12/05/2021
@@ -60,7 +59,8 @@ MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021
 MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021
 76 | If I See Him, I'll Kill Him | 1/13/2022 | 11/21/2021
-
+77 | Ninja City | 1/16/2022 | 11/28/2021
+79 | A Frightening Experience | 1/16/2022 | 1/16/2022
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,12 +69,12 @@ MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 14 (Th)
-Other | 2 | 11 (Su)
+Other | 2 | 12 (Su)
 50s | 5 | 2 (Tu)
 60s | 9 | 1 (Tu)
 MM00s | 9 | 1 (Th)
 MM10s | 8 | 0 (Th)
-70s | 9 | 0 (Th)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
