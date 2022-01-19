@@ -26,7 +26,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020
 57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
 65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
-64 | Hold You Close and Feel Things | 12/05/2021 | 4/18/2021
 MM15 | Don't Be Afraid of Me | 12/07/2021 | 12/05/2021
 MM2 | Why Are You Playing Heroes? | 12/07/2021 | 2/23/2021
 MM5 | Danger Straight Ahead | 12/09/2021 | 4/4/2021
@@ -60,7 +59,9 @@ MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021
 MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021
 76 | If I See Him, I'll Kill Him | 1/13/2022 | 11/21/2021
 77 | Ninja City | 1/16/2022 | 11/28/2021
-79 | A Frightening Experience | 1/16/2022 | 1/16/2022
+79 | A Frightening Experience | 1/18/2022 | 1/16/2022
+64 | Hold You Close and Feel Things | 1/18/2022 | 4/18/2021
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,11 +71,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 14 (Th)
 Other | 2 | 12 (Su)
-50s | 5 | 2 (Tu)
-60s | 9 | 1 (Tu)
+50s | 2 | 3 (Tu)
 MM00s | 9 | 1 (Th)
 MM10s | 8 | 0 (Th)
-70s | 10 | 0 (Su)
+60s | 9 | 0 (Tu)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
