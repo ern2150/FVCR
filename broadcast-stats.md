@@ -26,7 +26,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020
 57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
 65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
-MM2 | Why Are You Playing Heroes? | 12/07/2021 | 2/23/2021
 MM5 | Danger Straight Ahead | 12/09/2021 | 4/4/2021
 MM4 | I'm Glad to See You're Prepared to Die | 12/12/2021 | 4/4/2021
 MM13 | Keep on Winning | 12/12/2021 | 8/22/2021
@@ -61,7 +60,8 @@ MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021
 64 | Hold You Close and Feel Things | 1/18/2022 | 4/18/2021
 MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021
 68 | Endless Chain of Duels and Killings | 1/20/2022 | 6/27/2021
-
+MM2 | Why Are You Playing Heroes? | 1/23/2022 | 2/23/2021
+MM18 | Fought Against All Evils | 1/23/2022 | 1/23/2022
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,10 +70,10 @@ MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 15 (Th)
-Other | 2 | 12 (Su)
+Other | 2 | 13 (Su)
 50s | 2 | 3 (Tu)
-MM00s | 9 | 2 (Th)
-MM10s | 8 | 0 (Th)
+MM00s | 9 | 0 (Su)
+MM10s | 9 | 0 (Su)
 60s | 9 | 0 (Th)
 70s | 10 | 0 (Tu)
 
