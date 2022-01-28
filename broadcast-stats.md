@@ -27,7 +27,6 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
 65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
 MM4 | I'm Glad to See You're Prepared to Die | 12/12/2021 | 4/4/2021
-MM13 | Keep on Winning | 12/12/2021 | 8/22/2021
 61 | I Must Make Sure You Fail | 12/14/2021 | 3/14/2021
 MM8 | The Sword of Catastrophe | 12/14/2021 | 6/15/2021
 MM9 | Hit Me Like You Mean It | 12/16/2021 | 7/8/2021
@@ -62,6 +61,7 @@ MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021
 MM2 | Why Are You Playing Heroes? | 1/23/2022 | 2/23/2021
 MM18 | Fought Against All Evils | 1/25/2022 | 1/23/2022
 MM5 | Danger Straight Ahead | 1/25/2022 | 4/4/2021
+MM13 | Keep on Winning | 1/27/2022 | 8/22/2021
 
 
 
@@ -70,13 +70,13 @@ MM5 | Danger Straight Ahead | 1/25/2022 | 4/4/2021
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-<50s | 1 | 15 (Th)
+<50s | 1 | 16 (Th)
 Other | 2 | 13 (Su)
 50s | 2 | 4 (Tu)
+60s | 9 | 1 (Th)
 70s | 10 | 1 (Tu)
 MM00s | 9 | 0 (Tu)
-MM10s | 9 | 0 (Tu)
-60s | 9 | 0 (Th)
+MM10s | 9 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -99,7 +99,7 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-1/27/2022 | 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎
+1/27/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1023824694)
 1/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
 1/27/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 1/27/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
