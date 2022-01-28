@@ -99,8 +99,24 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+1/27/2022 | 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎
+1/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
+1/27/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+1/27/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+1/27/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+1/27/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+1/27/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+1/27/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+1/27/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
+1/27/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+1/27/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+1/27/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+1/27/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+1/27/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+1/27/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
+1/27/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+1/27/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 1/25/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
-1/25/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 1/25/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 1/25/2022 | 2yl8r Hong Kong? / (same as video) | 4/1/2021
 1/25/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -112,7 +128,6 @@ Latest Date | Video / Audio | Debut++
 1/25/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 1/25/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 1/25/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-1/25/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 1/23/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
 1/23/2022 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill | 11/5/2020
 1/23/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
@@ -156,22 +171,8 @@ Latest Date | Video / Audio | Debut++
 1/18/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
 1/18/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 1/18/2022 | Tiger robe ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
-1/16/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
-1/16/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-1/16/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-1/16/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-1/16/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-1/16/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-1/16/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-1/16/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-1/16/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-1/16/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-1/16/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-1/16/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-1/16/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
-1/16/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 1/13/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
-1/13/2022 | [Ninja Knight Thunder Fox](https://archive.org/download/godfreyhoninjacollectionpart5/Ninja%20Knight%20-%20Thunder%20Fox%20DVD-Rip%20English%20by%20OnkelMP.mp4?start=4646) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+1/13/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 1/13/2022 | Baki end whiteout / (same as video) | 4/13/2021
 1/13/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
 1/13/2022 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
