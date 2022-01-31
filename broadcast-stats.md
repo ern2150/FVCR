@@ -24,8 +24,8 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021
 50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020
 53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020
-57 | Is There No Justice Anymore? | 11/25/2021 | 2/2/2021
-65 | Suffer My Deadly Arts | 11/30/2021 | 5/9/2021
+57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021
+65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021
 MM8 | The Sword of Catastrophe | 12/14/2021 | 6/15/2021
 MM9 | Hit Me Like You Mean It | 12/16/2021 | 7/8/2021
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021
@@ -92,7 +92,8 @@ Mixtape # | Title | Update | Last Changed
 58 | Why Do You Help the Evil Person? | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
 54 | Sounds Like the Devil | merged into MM17 "Ninja Challenge Card" | 1/2/2022
 60 | Try Your Best to Fight Me | merged into MM17 "Ninja Challenge Card" | 1/2/2022
-
+57 | Is There No Justice Anymore? | merged into MM18 "Fought Against All Evils" | 1/23/2022
+65 | Suffer My Deadly Arts | merged into MM18 "Fought Against All Evils" | 1/23/2022
 
 Intros
 ------
