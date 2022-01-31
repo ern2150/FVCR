@@ -17,7 +17,7 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2021.md)
 Mixtape # | Mixtape Title | Last Date | Original Debut 
 -- | -- | -- | --
-49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
+49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020
 54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021
 &nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
 &nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
