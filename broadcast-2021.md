@@ -53,7 +53,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 51 | Money, Power, and Position (see MM16) | 9/21/2021 | 12/6/2020
 56 | Everyone Has Got to Live, Even Thieves (see MM16) | 9/23/2021 | 1/24/2021
 58 | Why Do You Help the Evil Person? (see MM16) | 9/28/2021 | 2/7/2021
-49 | Despise the Dark 2020 Halloween vol 2 | 10/3/2021 | 10/11/2020
+49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020
 
 
 "Decades" by Last Seen, descending
@@ -109,6 +109,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | updated | 8/31/2021
 47 | Put Yourself in the Universe | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
 48 | Same Deal Next Time | merged into MM14 "Fights the Evils with Great Power" | 9/26/2021
 &nbsp; | Hallowed Out (2020 Halloween Vol 1) | superseded by "Evil Is Excusable 2021 Halloween Vol 1" | 10/3/2021
+49 | Despise the Dark 2020 Halloween vol 2 (retired) | superseded by "74 Reached the End of Your Earthly Time 2021 Halloween Vol 2" |  10/10/2021
 &nbsp; | Evil Is Excusable (2020 Halloween Vol 3) | superseded by "Devil Mountain 2021 Halloween Vol 3" | 10/17/2021
 52 | Let You Through to Hell | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
 59 | Now the Fun Begins | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
