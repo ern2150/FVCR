@@ -15,53 +15,53 @@ Table of Contents
 Sorted by Last date (Most recent date), ascending 
 -----
 [archive](broadcast-2021.md)
-Mixtape # | Mixtape Title | Last Date | Original Debut 
--- | -- | -- | --
-49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020
-54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021
-&nbsp; | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021
-&nbsp; | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021
-60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021
-50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020
-53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020
-57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021
-65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021
-74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021
-63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021
-MM10 | The Splatter and Gore Department | 12/19/2021 | 7/15/2021
-66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021
-MM16 | Today We Shall Kill Each Other | 12/23/2021 | 12/21/2021
-MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021
-70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021
-72 | Who Is the Champion Now? | 12/26/2021 | 9/7/2021
-75 | Never Show Emotion | 12/26/2021 | 11/07/2021
-55 | I Had a Heart Once | 12/28/2021 | 1/17/2021
-MM11 | I Can Stand the Pain | 12/28/2021 | 7/27/2021
-MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019
-67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021
-MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021
-MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022
-69 | SUMMERTIME | 1/4/2022 | 7/4/2021
-MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021
-71 | I Don't Belong Here | 1/6/2022 | 8/1/2021
-73 | The Whirlpool of Battle | 1/9/2022 | 9/21/2021
-78 | All for Revenge | 1/11/2022 | 1/9/2022
-MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021
-MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021
-76 | If I See Him, I'll Kill Him | 1/13/2022 | 11/21/2021
-77 | Ninja City | 1/16/2022 | 11/28/2021
-79 | A Frightening Experience | 1/18/2022 | 1/16/2022
-64 | Hold You Close and Feel Things | 1/18/2022 | 4/18/2021
-MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021
-68 | Endless Chain of Duels and Killings | 1/20/2022 | 6/27/2021
-MM2 | Why Are You Playing Heroes? | 1/23/2022 | 2/23/2021
-MM18 | Fought Against All Evils | 1/25/2022 | 1/23/2022
-MM5 | Danger Straight Ahead | 1/25/2022 | 4/4/2021
-MM13 | Keep on Winning | 1/27/2022 | 8/22/2021
-61 | I Must Make Sure You Fail | 1/30/2022 | 3/14/2021
-MM4 | I'm Glad to See You're Prepared to Die | 1/30/2022 | 4/4/2021
-MM8 | The Sword of Catastrophe | 02/01/2021 | 6/15/2021
-MM9 | Hit Me Like You Mean It | 02/01/2021 | 7/8/2021
+Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
+-- | -- | -- | -- | -- 
+49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020 | 60
+54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021 | 60
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021 | 45
+  | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021 | 49
+60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021 | 62
+50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020 | 63
+53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020 | 58
+57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
+65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
+74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021 | 52
+63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021 | 50
+MM10 | The Splatter and Gore Department | 12/19/2021 | 7/15/2021 | 59
+66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
+MM16 | Today We Shall Kill Each Other | 12/23/2021 | 12/21/2021 | 52
+MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
+70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021 | 54
+72 | Who Is the Champion Now? | 12/26/2021 | 9/7/2021 | 53
+75 | Never Show Emotion | 12/26/2021 | 11/07/2021 | 48
+55 | I Had a Heart Once | 12/28/2021 | 1/17/2021 | 61
+MM11 | I Can Stand the Pain | 12/28/2021 | 7/27/2021 | 65
+MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
+67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021 | 53
+MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021 | 58
+MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022 | 52
+69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
+MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
+71 | I Don't Belong Here | 1/6/2022 | 8/1/2021 | 54
+73 | The Whirlpool of Battle | 1/9/2022 | 9/21/2021 | 62
+78 | All for Revenge | 1/11/2022 | 1/9/2022 | 50
+MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
+MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021 | 58
+76 | If I See Him, I'll Kill Him | 1/13/2022 | 11/21/2021 | 49
+77 | Ninja City | 1/16/2022 | 11/28/2021 | 49
+79 | A Frightening Experience | 1/18/2022 | 1/16/2022 | 57
+64 | Hold You Close and Feel Things | 1/18/2022 | 4/18/2021 | 58
+MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021 | 55
+68 | Endless Chain of Duels and Killings | 1/20/2022 | 6/27/2021 | 54
+MM2 | Why Are You Playing Heroes? | 1/23/2022 | 2/23/2021 | 64
+MM18 | Fought Against All Evils | 1/25/2022 | 1/23/2022 | 51
+MM5 | Danger Straight Ahead | 1/25/2022 | 4/4/2021 | 59
+MM13 | Keep on Winning | 1/27/2022 | 8/22/2021 | 56
+61 | I Must Make Sure You Fail | 1/30/2022 | 3/14/2021 | 53
+MM4 | I'm Glad to See You're Prepared to Die | 1/30/2022 | 4/4/2021 | 50
+MM8 | The Sword of Catastrophe | 02/01/2021 | 6/15/2021 | 61
+MM9 | Hit Me Like You Mean It | 02/01/2021 | 7/8/2021 | 59
 
 
 
