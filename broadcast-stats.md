@@ -260,6 +260,7 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+02/03/2022 | Orochi Chikara
 11/25/2021 | Wii FCE Ultra GX Karaoke Game "sings" Sweet Pea, Maskman 
 
 
