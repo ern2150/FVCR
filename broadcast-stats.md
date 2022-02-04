@@ -28,7 +28,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021 | 52
 63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021 | 50
-MM10 | The Splatter and Gore Department | 12/19/2021 | 7/15/2021 | 59
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
 MM16 | Today We Shall Kill Each Other | 12/23/2021 | 12/21/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
@@ -62,6 +61,7 @@ MM13 | Keep on Winning | 1/27/2022 | 8/22/2021 | 56
 MM4 | I'm Glad to See You're Prepared to Die | 1/30/2022 | 4/4/2021 | 50
 MM8 | The Sword of Catastrophe | 02/01/2021 | 6/15/2021 | 61
 MM9 | Hit Me Like You Mean It | 02/01/2021 | 7/8/2021 | 59
+MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 
 
 
@@ -70,7 +70,7 @@ MM9 | Hit Me Like You Mean It | 02/01/2021 | 7/8/2021 | 59
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-<50s | 1 | 16 (Th)
+<50s | 1 | 17 (Th)
 Other | 2 | 14 (Su)
 50s | 2 | 5 (Tu)
 70s | 10 | 2 (Tu)
