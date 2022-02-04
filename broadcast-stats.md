@@ -260,9 +260,9 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
-02/03/2022 | PS2 games
+02/03/2022 | PS2 games (WCW, 2XTREME, Godzilla [stick goes nuts], Friends, Star Gladiator), cover of 25 to Life then outro
 02/03/2022 | Wrestling toys
-02/03/2022 | PS2 (covers of games and books)
+02/03/2022 | PS2 [covers of games and books](https://github.com/ern2150/FVCR/issues/15#issuecomment-1030326187)
 02/03/2022 | Yukari Oshima and Moon Lee in Killer Angels, Beauty Investigator, Devil Hunters - the Moon Lee Action Series trailer
 02/03/2022 | (NO RULES) Simon Yam in Mission Kill, Cyprus Tigers, and Killer's Romance - the Yam Can Kill Series trailer
 02/03/2022 | Orochi Chikara
