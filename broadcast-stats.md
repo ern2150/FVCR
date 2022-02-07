@@ -29,12 +29,11 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021 | 52
 63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021 | 50
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
-MM16 | Today We Shall Kill Each Other | 12/23/2021 | 12/21/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
 70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021 | 54
 72 | Who Is the Champion Now? | 12/26/2021 | 9/7/2021 | 53
 75 | Never Show Emotion | 12/26/2021 | 11/07/2021 | 48
-55 | I Had a Heart Once | 12/28/2021 | 1/17/2021 | 61
+55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 MM11 | I Can Stand the Pain | 12/28/2021 | 7/27/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021 | 53
@@ -62,7 +61,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 1/30/2022 | 4/4/2021 | 50
 MM8 | The Sword of Catastrophe | 02/01/2021 | 6/15/2021 | 61
 MM9 | Hit Me Like You Mean It | 02/01/2021 | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
-
+MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
+MM19 | Ghost Shadow Squad | 02/06/2022 | 02/06/2022 | 10:06-
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,12 +71,12 @@ MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 17 (Th)
-Other | 2 | 14 (Su)
+Other | 2 | 15 (Su)
 50s | 2 | 5 (Tu)
 70s | 10 | 2 (Tu)
-60s | 9 | 0 (Su)
+60s | 9 | 1 (Su)
 MM00s | 9 | 0 (Tu)
-MM10s | 9 | 0 (Th)
+MM10s | 9 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,6 +94,8 @@ Mixtape # | Title | Update | Last Changed
 60 | Try Your Best to Fight Me | merged into MM17 "Ninja Challenge Card" | 1/2/2022
 57 | Is There No Justice Anymore? | merged into MM18 "Fought Against All Evils" | 1/23/2022
 65 | Suffer My Deadly Arts | merged into MM18 "Fought Against All Evils" | 1/23/2022
+55 | I Had a Heart Once | merged into MM19 "Ghost Shadow Squad" | 02/06/2022
+
 
 Intros
 ------
