@@ -62,7 +62,7 @@ MM8 | The Sword of Catastrophe | 02/01/2021 | 6/15/2021 | 61
 MM9 | Hit Me Like You Mean It | 02/01/2021 | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
-MM19 | Ghost Shadow Squad | 02/06/2022 | 02/06/2022 | 10:06-
+MM19 | Ghost Shadow Squad | 02/06/2022 | 02/06/2022 | 55
 
 
 "Decades" by Weeks Since Seen, descending
