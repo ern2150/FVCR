@@ -30,7 +30,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021 | 50
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
 MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
-70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021 | 54
 72 | Who Is the Champion Now? | 12/26/2021 | 9/7/2021 | 53
 75 | Never Show Emotion | 12/26/2021 | 11/07/2021 | 48
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
@@ -62,7 +61,9 @@ MM8 | The Sword of Catastrophe | 02/01/2022 | 6/15/2021 | 61
 MM9 | Hit Me Like You Mean It | 02/01/2022 | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
-MM19 | Ghost Shadow Squad | 02/06/2022 | 02/06/2022 | 55
+MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
+70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021 | 54
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,13 +71,13 @@ MM19 | Ghost Shadow Squad | 02/06/2022 | 02/06/2022 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-<50s | 1 | 17 (Th)
+<50s | 1 | 18 (Th)
 Other | 2 | 15 (Su)
-50s | 2 | 5 (Tu)
-70s | 10 | 2 (Tu)
+50s | 2 | 6 (Tu)
+70s | 10 | 0 (Th)
 60s | 9 | 1 (Su)
-MM00s | 9 | 0 (Tu)
-MM10s | 9 | 0 (Su)
+MM00s | 9 | 1 (Tu)
+MM10s | 9 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
