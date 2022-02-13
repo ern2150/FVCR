@@ -19,14 +19,11 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020 | 60
 54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021 | 60
-  | Evil Is Excusable 2021 Halloween Vol 1 | 10/31/2021 | 10/3/2021 | 45
-  | Devil Mountain 2021 Halloween Vol 3 | 10/31/2021 | 10/17/2021 | 49
 60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021 | 62
 50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020 | 63
 53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020 | 58
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
-74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 12/16/2021 | 10/10/2021 | 52
 63 | This Sword Will Belong to You Forever | 12/19/2021 | 4/11/2021 | 50
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
 MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
@@ -63,6 +60,9 @@ MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
 MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
 70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021 | 54
+  | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
+74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
+  | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
 
 
 
@@ -72,12 +72,12 @@ MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 <50s | 1 | 18 (Th)
-Other | 2 | 15 (Su)
 50s | 2 | 6 (Tu)
-70s | 10 | 0 (Th)
-60s | 9 | 1 (Su)
+60s | 9 | 2 (Su)
 MM00s | 9 | 1 (Tu)
-MM10s | 9 | 0 (Th)
+Other | 2 | 0 (Su)
+70s | 10 | 0 (Su)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
