@@ -121,7 +121,6 @@ Latest Date | Video / Audio | Debut++
 02/13/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 02/10/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
-
 02/10/2022 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill | 11/5/2020
 02/10/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 02/10/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
@@ -279,7 +278,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-02/10/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/13/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
