@@ -17,11 +17,8 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2021.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020 | 60
 54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021 | 60
 60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021 | 62
-50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020 | 63
-53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020 | 58
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
@@ -71,8 +68,6 @@ MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-<50s | 1 | 18 (Th)
-50s | 2 | 7 (Tu)
 MM00s | 9 | 2 (Tu)
 Other | 2 | 0 (Su)
 60s | 7 | 0 (Tu)
