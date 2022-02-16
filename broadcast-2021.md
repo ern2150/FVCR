@@ -3,7 +3,7 @@
 Table of Contents
 -----
  - [Mixtapes by Last Seen](#sorted-by-last-date-most-recent-date-ascending)
- - [Mixtape Decades Stats](#decades-by-last-seen-descending)
+ - [Mixtape Decades Stats](#decades-by-last-seen)
  - [Mixtapes with Updates](#mixtapes-with-updates-by-last-changed)
  - [Intros](#intros)
  - [VHS Covers](#vhs-covers)
@@ -60,7 +60,7 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 
-"Decades" by Last Seen, descending
+"Decades" by Last Seen
 -----
 
 Decade | Last seen
