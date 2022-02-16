@@ -54,7 +54,11 @@ Mixtape # | Mixtape Title | Last Date | Original Debut
 56 | Everyone Has Got to Live, Even Thieves (see MM16) | 9/23/2021 | 1/24/2021
 58 | Why Do You Help the Evil Person? (see MM16) | 9/28/2021 | 2/7/2021
 49 | Despise the Dark 2020 Halloween vol 2 (retired) | 10/3/2021 | 10/11/2020
-
+54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021 | 60
+50 | The Awesome Powers of Destruction You Possess (retired) | 11/11/2021 | 11/15/2020 | 63
+53 | The True Form of His Brains (retired) | 11/25/2021 | 12/27/2020 | 58
+57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
+55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 
 "Decades" by Last Seen, descending
 -----
@@ -65,6 +69,7 @@ Decade | Last seen
 20s | 5/9/2021
 30s | 7/1/2021
 40s | 10/3/2021
+50s | 12/28/2021
 
 Mixtapes with Updates (by Last Changed)
 -----
