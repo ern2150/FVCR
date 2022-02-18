@@ -23,9 +23,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
 MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
-75 | Never Show Emotion | 12/26/2021 | 11/07/2021 | 48
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
-MM11 | I Can Stand the Pain | 12/28/2021 | 7/27/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021 | 58
@@ -54,12 +52,14 @@ MM9 | Hit Me Like You Mean It | 02/01/2022 | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
 MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
-70 | Take the Fight to the Enemy | 12/26/2021 | 7/11/2021 | 54
+70 | Take the Fight to the Enemy | 02/10/2022 | 7/11/2021 | 54
   | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
 63 | This Sword Will Belong to You Forever | 02/15/2022 | 4/11/2021 | 50
 72 | Who Is the Champion Now? | 02/15/2022 | 9/7/2021 | 53
+MM11 | I Can Stand the Pain | 02/17/2022 | 7/27/2021 | 65
+75 | Never Show Emotion | 02/17/2022 | 11/07/2021 | 48
 
 
 
@@ -71,7 +71,7 @@ Decade | Available Tapes | Weeks since seen
 MM00s | 9 | 2 (Tu)
 Other | 2 | 0 (Su)
 60s | 7 | 0 (Tu)
-70s | 10 | 0 (Tu)
+70s | 10 | 0 (Th)
 MM10s | 10 | 0 (Th)
 
 
