@@ -27,7 +27,6 @@ MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021 | 58
-MM17 | Ninja Challenge Card | 1/4/2022 | 1/2/2022 | 52
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
 71 | I Don't Belong Here | 1/6/2022 | 8/1/2021 | 54
@@ -60,6 +59,8 @@ MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
 72 | Who Is the Champion Now? | 02/15/2022 | 9/7/2021 | 53
 MM11 | I Can Stand the Pain | 02/17/2022 | 7/27/2021 | 65
 75 | Never Show Emotion | 02/17/2022 | 11/07/2021 | 48
+MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
+80 | Pass Through All Hard Times | 02/20/2022 | 02/20/2022 | 46
 
 
 
@@ -69,11 +70,11 @@ MM11 | I Can Stand the Pain | 02/17/2022 | 7/27/2021 | 65
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 MM00s | 9 | 2 (Tu)
-Other | 2 | 0 (Su)
+Other | 2 | 1 (Su)
+80s | 1 | 0 (Su)
 60s | 7 | 0 (Tu)
 70s | 10 | 0 (Th)
-MM10s | 10 | 0 (Th)
-
+MM10s | 10 | 0 (Su)
 
 Mixtapes with Updates (by Last Changed) 
 -----
