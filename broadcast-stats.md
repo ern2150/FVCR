@@ -22,7 +22,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
-MM3 | Blood, Lust, and Intrigue | 12/23/2021 | 3/9/2021 | 53
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021 | 53
@@ -60,8 +59,8 @@ MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
 MM11 | I Can Stand the Pain | 02/17/2022 | 7/27/2021 | 65
 75 | Never Show Emotion | 02/17/2022 | 11/07/2021 | 48
 MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
-80 | Pass Through All Hard Times | 02/20/2022 | 02/20/2022 | 46
-
+80 | Pass Through All Hard Times | 02/22/2022 | 02/20/2022 | 46
+MM3 | Blood, Lust, and Intrigue | 02/22/2022 | 3/9/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,10 +68,10 @@ MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-MM00s | 9 | 2 (Tu)
 Other | 2 | 1 (Su)
-80s | 1 | 0 (Su)
-60s | 7 | 0 (Tu)
+60s | 7 | 1 (Tu)
+80s | 1 | 0 (Tu)
+MM00s | 9 | 0 (Tu)
 70s | 10 | 0 (Th)
 MM10s | 10 | 0 (Su)
 
