@@ -98,8 +98,25 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/24/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
+02/24/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+02/24/2022 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill | 11/5/2020
+02/24/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
+02/24/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+02/24/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+02/24/2022 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
+02/24/2022 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+02/24/2022 | FMW Opener / FMW Closer | 12/6/2020
+02/24/2022 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+02/24/2022 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+02/24/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
+02/24/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+02/24/2022 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+02/24/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+02/24/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+02/24/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+02/24/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
-02/22/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/22/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 02/22/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 02/22/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -111,7 +128,6 @@ Latest Date | Video / Audio | Debut++
 02/22/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 02/22/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 02/22/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-02/22/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
 02/20/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 02/20/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
@@ -133,8 +149,6 @@ Latest Date | Video / Audio | Debut++
 02/17/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
 02/17/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 02/17/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-02/17/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-02/17/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
 02/17/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
 02/17/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 02/17/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
@@ -148,7 +162,6 @@ Latest Date | Video / Audio | Debut++
 02/15/2022 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 02/15/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 02/15/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-02/15/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
 02/15/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
 02/15/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 02/15/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -168,19 +181,6 @@ Latest Date | Video / Audio | Debut++
 02/13/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 02/13/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
-02/10/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
-02/10/2022 | Gordon's Hill Meditations / Original audio, Kate Bush - Running Up That Hill | 11/5/2020
-02/10/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-02/10/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-02/10/2022 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
-02/10/2022 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-02/10/2022 | FMW Opener / FMW Closer | 12/6/2020
-02/10/2022 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-02/10/2022 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-02/10/2022 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-02/10/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-02/10/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-02/10/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 02/03/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1029582852)
 1/27/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1023824694)
 12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
