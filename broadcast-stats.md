@@ -25,10 +25,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 67 | Together We Will Smash Them | 12/30/2021 | 6/20/2021 | 53
-MM7 | I'd Like to See You Try and Hurt Me | 1/2/2022 | 6/6/2021 | 58
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
-71 | I Don't Belong Here | 1/6/2022 | 8/1/2021 | 54
 73 | The Whirlpool of Battle | 1/9/2022 | 9/21/2021 | 62
 78 | All for Revenge | 1/11/2022 | 1/9/2022 | 50
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
@@ -61,6 +59,9 @@ MM11 | I Can Stand the Pain | 02/17/2022 | 7/27/2021 | 65
 MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
 80 | Pass Through All Hard Times | 02/22/2022 | 02/20/2022 | 46
 MM3 | Blood, Lust, and Intrigue | 02/22/2022 | 3/9/2021 | 53
+MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
+71 | I Don't Belong Here | 02/24/2022 | 8/1/2021 | 54
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,7 +72,7 @@ Decade | Available Tapes | Weeks since seen
 Other | 2 | 1 (Su)
 60s | 7 | 1 (Tu)
 80s | 1 | 0 (Tu)
-MM00s | 9 | 0 (Tu)
+MM00s | 9 | 0 (Th)
 70s | 10 | 0 (Th)
 MM10s | 10 | 0 (Su)
 
