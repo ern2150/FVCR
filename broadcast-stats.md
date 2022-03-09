@@ -28,8 +28,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 |
 MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
 MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021 | 58
-77 | Ninja City | 1/16/2022 | 11/28/2021 | 49
-79 | A Frightening Experience | 1/18/2022 | 1/16/2022 | 57
 64 | Hold You Close and Feel Things | 1/18/2022 | 4/18/2021 | 58
 MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021 | 55
 68 | Endless Chain of Duels and Killings | 1/20/2022 | 6/27/2021 | 54
@@ -57,10 +55,13 @@ MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
 MM3 | Blood, Lust, and Intrigue | 02/22/2022 | 3/9/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
 71 | I Don't Belong Here | 02/24/2022 | 8/1/2021 | 54
-67 | Together We Will Smash Them | 03/01/2021 | 6/20/2021 | 53
+67 | Together We Will Smash Them | 03/01/2022 | 6/20/2021 | 53
 73 | The Whirlpool of Battle | 03/01/2022 | 9/21/2021 | 62
 76 | If I See Him, I'll Kill Him | 03/03/2022 | 11/21/2021 | 49
 78 | All for Revenge | 03/03/2022 | 1/9/2022 | 50
+77 | Ninja City | 03/08/2022 | 11/28/2021 | 49
+79 | A Frightening Experience | 03/08/2022 | 1/16/2022 | 57
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -68,12 +69,12 @@ MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 2 (Su)
-80s | 1 | 1 (Tu)
+Other | 2 | 3 (Su)
+80s | 1 | 2 (Tu)
+MM10s | 10 | 2 (Su)
+60s | 7 | 1 (Tu)
 MM00s | 9 | 1 (Th)
-MM10s | 10 | 1 (Su)
-60s | 7 | 0 (Tu)
-70s | 10 | 0 (Th)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
