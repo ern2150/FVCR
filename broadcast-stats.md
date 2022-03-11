@@ -28,8 +28,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 |
 MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
 MM12 | Evil Is Never Invincible | 1/13/2022 | 8/10/2021 | 58
-64 | Hold You Close and Feel Things | 1/18/2022 | 4/18/2021 | 58
-MM15 | Don't Be Afraid of Me | 1/20/2022 | 12/05/2021 | 55
 68 | Endless Chain of Duels and Killings | 1/20/2022 | 6/27/2021 | 54
 MM2 | Why Are You Playing Heroes? | 1/23/2022 | 2/23/2021 | 64
 MM18 | Fought Against All Evils | 1/25/2022 | 1/23/2022 | 51
@@ -61,6 +59,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
 78 | All for Revenge | 03/03/2022 | 1/9/2022 | 50
 77 | Ninja City | 03/08/2022 | 11/28/2021 | 49
 79 | A Frightening Experience | 03/08/2022 | 1/16/2022 | 57
+64 | Hold You Close and Feel Things | 03/10/2022 | 4/18/2021 | 58
+MM15 | Don't Be Afraid of Me | 03/10/2022 | 12/05/2021 | 55
 
 
 
@@ -71,10 +71,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 3 (Su)
 80s | 1 | 2 (Tu)
-MM10s | 10 | 2 (Su)
-60s | 7 | 1 (Tu)
-MM00s | 9 | 1 (Th)
+MM00s | 9 | 2 (Th)
+60s | 7 | 0 (Th)
 70s | 10 | 0 (Tu)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
