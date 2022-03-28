@@ -30,12 +30,10 @@ MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
 MM5 | Danger Straight Ahead | 1/25/2022 | 4/4/2021 | 59
 MM13 | Keep on Winning | 1/27/2022 | 8/22/2021 | 56
 61 | I Must Make Sure You Fail | 1/30/2022 | 3/14/2021 | 53
-MM4 | I'm Glad to See You're Prepared to Die | 1/30/2022 | 4/4/2021 | 50
 MM8 | The Sword of Catastrophe | 02/01/2022 | 6/15/2021 | 61
 MM9 | Hit Me Like You Mean It | 02/01/2022 | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
-MM19 | Ghost Shadow Squad | 02/10/2022 | 02/06/2022 | 55
 70 | Take the Fight to the Enemy | 02/10/2022 | 7/11/2021 | 54
   | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
@@ -61,6 +59,8 @@ MM15 | Don't Be Afraid of Me | 03/10/2022 | 12/05/2021 | 55
 MM18 | Fought Against All Evils | 03/15/2022 | 1/23/2022 | 51
 MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
 MM12 | Evil Is Never Invincible | 03/17/2022 | 8/10/2021 | 58
+MM4 | I'm Glad to See You're Prepared to Die | 03/20/2022 | 4/4/2021 | 50
+MM19 | Ghost Shadow Squad | 03/20/2022 | 02/06/2022 | 55
 
 
 
@@ -100,8 +100,22 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
+03/20/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+03/20/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+03/20/2022 | Baki end whiteout / (same as video) | 4/13/2021
+03/20/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+03/20/2022 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+03/20/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+03/20/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+03/20/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
+03/20/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+03/20/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
+03/20/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+03/20/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+03/20/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+03/20/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/17/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
-03/17/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/17/2022 | Gordon's Hill Meditations (includes 10 years later)/ Original audio, Kate Bush - Running Up That Hill | 11/5/2020
 03/17/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 03/17/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
@@ -110,13 +124,10 @@ Latest Date | Video / Audio | Debut++
 03/17/2022 | FMW Opener / FMW Closer | 12/6/2020
 03/17/2022 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
 03/17/2022 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-03/17/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
-03/17/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 03/17/2022 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
 03/17/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 03/17/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 03/17/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-03/17/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/15/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
 03/15/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 03/15/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -171,17 +182,6 @@ Latest Date | Video / Audio | Debut++
 03/03/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 03/03/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 03/03/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-03/01/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
-03/01/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-03/01/2022 | Baki end whiteout / (same as video) | 4/13/2021
-03/01/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-03/01/2022 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-03/01/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-03/01/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-03/01/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
-03/01/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-03/01/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-03/01/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 02/03/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1029582852)
 1/27/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1023824694)
@@ -275,7 +275,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-03/17/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+03/20/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
