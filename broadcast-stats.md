@@ -27,9 +27,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 |
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
-61 | I Must Make Sure You Fail | 1/30/2022 | 3/14/2021 | 53
 MM8 | The Sword of Catastrophe | 02/01/2022 | 6/15/2021 | 61
-MM9 | Hit Me Like You Mean It | 02/01/2022 | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 02/06/2022 | 12/21/2021 | 52
 70 | Take the Fight to the Enemy | 02/10/2022 | 7/11/2021 | 54
@@ -61,6 +59,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 03/20/2022 | 4/4/2021 | 50
 MM19 | Ghost Shadow Squad | 03/20/2022 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
 MM13 | Keep on Winning | 03/22/2022 | 8/22/2021 | 56
+61 | I Must Make Sure You Fail | 03/24/2022  | 3/14/2021 | 53
+MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 
 
 
@@ -72,8 +72,8 @@ Decade | Available Tapes | Weeks since seen
 Other | 2 | 5 (Su)
 80s | 1 | 4 (Tu)
 70s | 10 | 2 (Tu)
-60s | 7 | 1 (Tu)
-MM00s | 9 | 0 (Tu)
+60s | 7 | 0 (Th)
+MM00s | 9 | 0 (Th)
 MM10s | 10 | 0 (Tu)
 
 
@@ -100,8 +100,23 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/24/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+03/24/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+03/24/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+03/24/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
+03/24/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
+03/24/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+03/24/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+03/24/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+03/24/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
+03/24/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
+03/24/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+03/24/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+03/24/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
+03/24/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+03/24/2022 | Tiger robe Super Ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
+03/24/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
-03/22/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/22/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/22/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 03/22/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
@@ -115,7 +130,6 @@ Latest Date | Video / Audio | Debut++
 03/22/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 03/22/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 03/22/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-03/22/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
 03/20/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 03/20/2022 | Baki end whiteout / (same as video) | 4/13/2021
@@ -124,7 +138,6 @@ Latest Date | Video / Audio | Debut++
 03/20/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 03/20/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 03/20/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
-03/20/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 03/20/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
 03/20/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 03/20/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -169,19 +182,6 @@ Latest Date | Video / Audio | Debut++
 03/10/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 03/10/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 03/10/2022 | FUNinja Explosions / ?? | 5/20/2021
-03/08/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-03/08/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-03/08/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
-03/08/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
-03/08/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-03/08/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-03/08/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
-03/08/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
-03/08/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-03/08/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-03/08/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
-03/08/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-03/08/2022 | Tiger robe Super Ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 02/03/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1029582852)
 1/27/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1023824694)
@@ -275,7 +275,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-03/22/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+03/24/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
