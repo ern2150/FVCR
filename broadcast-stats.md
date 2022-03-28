@@ -100,8 +100,24 @@ Intros
 
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
+03/27/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+03/27/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+03/27/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+03/27/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
+03/27/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
+03/27/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+03/27/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+03/27/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
+03/27/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+03/27/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+03/27/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+03/27/2022 | SHIT FUCK / (same as video) | 5/4/2021
+03/27/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+03/27/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+03/27/2022 | FUNinja Explosions / ?? | 5/20/2021
+03/27/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/24/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-03/24/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/24/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 03/24/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 03/24/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
@@ -115,7 +131,6 @@ Latest Date | Video / Audio | Debut++
 03/24/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
 03/24/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 03/24/2022 | Tiger robe Super Ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
-03/24/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
 03/22/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/22/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -167,21 +182,6 @@ Latest Date | Video / Audio | Debut++
 03/15/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 03/15/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 03/15/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-03/10/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
-03/10/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-03/10/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-03/10/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
-03/10/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
-03/10/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-03/10/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-03/10/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
-03/10/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-03/10/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-03/10/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-03/10/2022 | SHIT FUCK / (same as video) | 5/4/2021
-03/10/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-03/10/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-03/10/2022 | FUNinja Explosions / ?? | 5/20/2021
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 02/03/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1029582852)
 1/27/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1023824694)
