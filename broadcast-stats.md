@@ -98,7 +98,7 @@ Mixtape # | Title | Update | Last Changed
 
 Intros
 ------
-
+[archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 03/29/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
@@ -186,70 +186,7 @@ Latest Date | Video / Audio | Debut++
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 02/03/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1029582852)
 1/27/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀 𝘾𝙊𝙑𝙀𝙍𝙎](https://github.com/ern2150/FVCR/issues/15#issuecomment-1023824694)
-12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
-12/26/2021 | 𝘽𝙊𝙓𝙄𝙉𝙂 𝘿𝘼𝙔 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙔 12/26 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
-12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
-12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
-12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
-11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
-11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
-11/04/2021 | Little Red Cynthia Hood vs Pit Fighter / Edwards Generation - That's How Much I Love Her | 3/9/2021
-11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59 / Doktor Plekter - Kavo | 7/23/2020
-10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video) | 10/31/2021
-10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video) | 10/31/2021
-10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video) | 10/6/2020
-10/31/2021 | THE PHONE ZOMBIES 1900490DEAD / (same as video) | 10/31/2021
-10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video) | 8/13/2020
-10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-10/14/2021 | Hot Yachts Cold Water / Air Suspension Club - Seaside in the Twilight | 11/29/2020
-10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino | 12/13/2020
-10/14/2021 | AND NOW NINJA Pwrfkrce / Alan Parsons Project - Sirius, original audio, Mammagamma | 12/6/2020
-10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady | 9/28/2021
-6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
-5/27/2021 | Zoofunkel / Simon & Garfunkel - At the Zoo | 4/1/2021
-5/20/2021 | ULTRAMAN 80 Opener / (same as video) | 5/7/2020
-5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
-5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara | 7/14/2020
-5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN | 5/11/2021
-5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside / (same as video) | 4/1/2021
-5/11/2021 | Anime Previews incl Genocyber / (same as video) | 4/11/2021
-5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls | 3/28/2021
-5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You | 8/13/2020
-5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental | 4/13/2021
-5/6/2021 | Tah Tien credits / (same as video) | 4/13/2021
-5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me | 4/13/2021
-5/2/2021 | Daicon IV / ELO - Album opener, Twilight | 9/13/2020
-4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas | 4/20/2021
-4/18/2021 | Actual Robowar intro / (same as video) | 4/6/2021
-4/11/2021 | Saint Seiya Opener / (same as video) | 12/29/2020
-4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine | 12/29/2020
-4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
-4/1/2021 | SoundMarket - Earthshine / (same as video) | 4/1/2021
-4/1/2021 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
-4/1/2021 | Drifting Women / Rainbo - Integra Type | 11/8/2020
-4/1/2021 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
-4/1/2021 | Yattodetaman Opener / (same as video) | 12/6/2020
-4/1/2021 | Naoko Kawai - Control / (same as video) | 11/19/2020
-4/1/2021 | GoLion Opener / (same as video) | 12/6/2020
-3/28/2021 | Balaji Dance in Steppe Forest / MF DOOM - Mandrake (HE CAME FROM) | 3/2/2021
-3/25/2021 | Heaven's Hell Trailer / (same as video) | 3/25/2021
-3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart | 8/27/2020
-3/14/2021 | Ideon footage / Ideon opening full song | 1/7/2021
-3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A | 2/21/2021
-3/4/2021 | STREAM TRAILER / Ideon closing full song | 3/4/2021
-2/28/2021 | Kamen Rider Ay-Ay / (same as video) | 12/1/2020
-2/16/2021 | Dairanger Opener / (same as video) | 12/6/2020
-1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video) | 1/26/2021
-1/21/2021 | GRANDO FAIR / (same as video) | 1/19/2021
-1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy | 7/23/2020
-1/19/2021 | (another interlude "We Filmed Heaven") / (same as video) | 1/19/2021
-1/19/2021 | (another interlude where a dude is on a phone) / (same as video) | 1/19/2021
-1/19/2021 | (French laser toy Claude Debussy) / (same as video) | 1/19/2021
-1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun | 1/14/2021
-1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video) | 1/12/2021
-1/12/2021 | Daicon III / (same as video) | 12/22/2020
-1/10/2021 | COJI COJI Opener / (same as video) | 12/6/2020
+
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
@@ -268,7 +205,6 @@ Latest Date | Video / Audio
 02/03/2022 | Yukari Oshima and Moon Lee in Killer Angels, Beauty Investigator, Devil Hunters - the Moon Lee Action Series trailer
 02/03/2022 | (NO RULES) Simon Yam in Mission Kill, Cyprus Tigers, and Killer's Romance - the Yam Can Kill Series trailer
 02/03/2022 | Orochi Chikara
-11/25/2021 | Wii FCE Ultra GX Karaoke Game "sings" Sweet Pea, Maskman 
 
 
 Outros
