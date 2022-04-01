@@ -27,8 +27,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 |
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
-MM10 | The Splatter and Gore Department | 02/03/2022 | 7/15/2021 | 59
-70 | Take the Fight to the Enemy | 02/10/2022 | 7/11/2021 | 54
   | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
@@ -62,7 +60,8 @@ MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 MM16 | Today We Shall Kill Each Other | 03/27/2022 | 12/21/2021 | 52
 81 | One Hell of a Nobody | 03/29/2022 | 03/27/2022 | 53
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
-
+70 | Take the Fight to the Enemy | 03/31/2022 | 7/11/2021 | 54
+MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,11 +70,11 @@ MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 6 (Su)
-70s | 10 | 3 (Tu)
+60s | 7 | 1 (Th)
 80s | 2 | 0 (Tu)
-60s | 7 | 0 (Th)
 MM00s | 9 | 0 (Tu)
-MM10s | 10 | 0 (Su)
+MM10s | 10 | 0 (Th)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
