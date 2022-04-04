@@ -31,8 +31,6 @@ MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
 63 | This Sword Will Belong to You Forever | 02/15/2022 | 4/11/2021 | 50
-72 | Who Is the Champion Now? | 02/15/2022 | 9/7/2021 | 53
-MM11 | I Can Stand the Pain | 02/17/2022 | 7/27/2021 | 65
 75 | Never Show Emotion | 02/17/2022 | 11/07/2021 | 48
 MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
 80 | Pass Through All Hard Times | 02/22/2022 | 02/20/2022 | 46
@@ -62,6 +60,9 @@ MM16 | Today We Shall Kill Each Other | 03/27/2022 | 12/21/2021 | 52
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 70 | Take the Fight to the Enemy | 03/31/2022 | 7/11/2021 | 54
 MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
+MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
+72 | Who Is the Champion Now? | 04/03/2022 | 9/7/2021 | 53
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,12 +70,12 @@ MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 6 (Su)
+Other | 2 | 7 (Su)
 60s | 7 | 1 (Th)
 80s | 2 | 0 (Tu)
 MM00s | 9 | 0 (Tu)
-MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Th)
+MM10s | 10 | 0 (Su)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
