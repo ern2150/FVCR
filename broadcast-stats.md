@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021 | 62
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
-66 | Do You Really Have the Confidence? | 12/21/2021 | 5/23/2021 | 56
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
@@ -31,7 +30,6 @@ MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
 MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
-80 | Pass Through All Hard Times | 02/22/2022 | 02/20/2022 | 46
 MM3 | Blood, Lust, and Intrigue | 02/22/2022 | 3/9/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
 71 | I Don't Belong Here | 02/24/2022 | 8/1/2021 | 54
@@ -62,6 +60,8 @@ MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 72 | Who Is the Champion Now? | 04/03/2022 | 9/7/2021 | 53
 63 | This Sword Will Belong to You Forever | 04/05/2022 | 4/11/2021 | 50
 75 | Never Show Emotion | 04/05/2022 | 11/07/2021 | 48
+66 | Do You Really Have the Confidence? | 04/09/2022 | 5/23/2021 | 56
+80 | Pass Through All Hard Times | 04/09/2022 | 02/20/2022 | 46
 
 
 
@@ -71,9 +71,9 @@ MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 7 (Su)
-80s | 2 | 1 (Tu)
+80s | 2 | 0 (Sa?!)
 MM00s | 9 | 1 (Tu)
-60s | 7 | 0 (Tu)
+60s | 7 | 0 (SaSaSASASAAAA)
 MM10s | 10 | 0 (Su)
 70s | 10 | 0 (Tu)
 
@@ -94,6 +94,7 @@ Mixtape # | Title | Update | Last Changed
 57 | Is There No Justice Anymore? | merged into MM18 "Fought Against All Evils" | 1/23/2022
 65 | Suffer My Deadly Arts | merged into MM18 "Fought Against All Evils" | 1/23/2022
 55 | I Had a Heart Once | merged into MM19 "Ghost Shadow Squad" | 02/06/2022
+66 | Do You Really Have the Confidence? | updated... | 04/09/2022
 
 
 Intros
@@ -109,7 +110,7 @@ Latest Date | Video / Audio | Debut++
 04/09/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 04/09/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 04/09/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-04/09/2022 | TV fireworks FUN / ??
+04/09/2022 | TV fireworks FUN / El Guincho - Antillas
 04/09/2022 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙉𝙄𝙂𝙃𝙏 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎 
 04/05/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 04/05/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
