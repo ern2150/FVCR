@@ -110,7 +110,7 @@ Latest Date | Video / Audio | Debut++
 04/09/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 04/09/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 04/09/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-04/09/2022 | TV fireworks FUN / El Guincho - Antillas
+04/09/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 04/09/2022 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙉𝙄𝙂𝙃𝙏 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 8:30 𝘾𝙀𝙉𝙏𝙍𝘼𝙇 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎 
 04/05/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 04/05/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
@@ -217,7 +217,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-04/05/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+04/09/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
