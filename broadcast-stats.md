@@ -29,8 +29,6 @@ MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
   | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
-MM17 | Ninja Challenge Card | 02/20/2022 | 1/2/2022 | 52
-MM3 | Blood, Lust, and Intrigue | 02/22/2022 | 3/9/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
 71 | I Don't Belong Here | 02/24/2022 | 8/1/2021 | 54
 67 | Together We Will Smash Them | 03/01/2022 | 6/20/2021 | 53
@@ -62,6 +60,8 @@ MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 75 | Never Show Emotion | 04/05/2022 | 11/07/2021 | 48
 66 | Do You Really Have the Confidence? | 04/09/2022 | 5/23/2021 | 56
 80 | Pass Through All Hard Times | 04/09/2022 | 02/20/2022 | 46
+MM3 | Blood, Lust, and Intrigue | 04/12/2022 | 3/9/2021 | 53
+MM17 | Ninja Challenge Card | 04/12/2022 | 1/2/2022 | 52
 
 
 
@@ -70,12 +70,12 @@ MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 7 (Su)
+Other | 2 | 8 (Su)
+70s | 10 | 1 (Tu)
 80s | 2 | 0 (Sa?!)
-MM00s | 9 | 1 (Tu)
 60s | 7 | 0 (SaSaSASASAAAA)
-MM10s | 10 | 0 (Su)
-70s | 10 | 0 (Tu)
+MM00s | 9 | 0 (Tu)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
