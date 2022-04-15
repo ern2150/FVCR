@@ -24,7 +24,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
-MM6 | It's Your Turn to Die | 1/6/2022 | 5/20/2021 | 73
 MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
   | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
@@ -62,6 +61,7 @@ MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 80 | Pass Through All Hard Times | 04/09/2022 | 02/20/2022 | 46
 MM3 | Blood, Lust, and Intrigue | 04/12/2022 | 3/9/2021 | 53
 MM17 | Ninja Challenge Card | 04/12/2022 | 1/2/2022 | 52
+MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 
 
 
@@ -74,7 +74,7 @@ Other | 2 | 8 (Su)
 70s | 10 | 1 (Tu)
 80s | 2 | 0 (Sa?!)
 60s | 7 | 0 (SaSaSASASAAAA)
-MM00s | 9 | 0 (Tu)
+MM00s | 9 | 0 (Th)
 MM10s | 10 | 0 (Tu)
 
 
@@ -102,6 +102,7 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉] (after MM6)
 04/14/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
 04/14/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 04/14/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
@@ -204,6 +205,7 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+04/14/2022 | squidgey and PS [covers](https://github.com/ern2150/FVCR/issues/15#issuecomment-1099827513), PS3 scrolling thru menu, transfer save data to memory card, TEKKEN2, RC HELICOPTER, MGS VR MISSIONS
 02/03/2022 | PS2 games (WCW, 2XTREME, Godzilla [stick goes nuts], Friends, Star Gladiator), cover of 25 to Life then outro
 02/03/2022 | Wrestling toys
 02/03/2022 | PS2 [covers of games and books](https://github.com/ern2150/FVCR/issues/15#issuecomment-1030326187)
