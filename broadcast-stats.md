@@ -22,9 +22,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
-MM1 | Get Rich Regardless of the Means (End of 2019) | 12/30/2021 | 11/14/2019 | 70
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
-MM14 | Fights the Evils with Great Power | 1/11/2022 | 9/26/2021 | 64
   | Evil Is Excusable 2021 Halloween Vol 1 | 02/13/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
@@ -62,6 +60,8 @@ MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 MM3 | Blood, Lust, and Intrigue | 04/12/2022 | 3/9/2021 | 53
 MM17 | Ninja Challenge Card | 04/12/2022 | 1/2/2022 | 52
 MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
+MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
+MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 
 
 
@@ -70,12 +70,12 @@ MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 8 (Su)
+Other | 2 | 9 (Su)
 70s | 10 | 1 (Tu)
-80s | 2 | 0 (Sa?!)
-60s | 7 | 0 (SaSaSASASAAAA)
-MM00s | 9 | 0 (Th)
-MM10s | 10 | 0 (Tu)
+80s | 2 | 1 (Sa?!)
+60s | 7 | 1 (SaSaSASASAAAA)
+MM00s | 9 | 0 (Su)
+MM10s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
