@@ -102,9 +102,22 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/17/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
+04/17/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+04/17/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+04/17/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+04/17/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+04/17/2022 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+04/17/2022 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+04/17/2022 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+04/17/2022 | Commando Fury Opener / (same as video) | 12/8/2020
+04/17/2022 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+04/17/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+04/17/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+04/17/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
+04/17/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉] (after MM6)
 04/14/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
-04/14/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 04/14/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 04/14/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 04/14/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
@@ -119,7 +132,6 @@ Latest Date | Video / Audio | Debut++
 04/14/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 04/14/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 04/14/2022 | FUNinja Explosions / ?? | 5/20/2021
-04/14/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/12/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 04/12/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 04/12/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
@@ -175,18 +187,6 @@ Latest Date | Video / Audio | Debut++
 03/31/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 03/31/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 03/31/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-03/29/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
-03/29/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-03/29/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-03/29/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-03/29/2022 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-03/29/2022 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-03/29/2022 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-03/29/2022 | Commando Fury Opener / (same as video) | 12/8/2020
-03/29/2022 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-03/29/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-03/29/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-03/29/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 03/24/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
 03/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙊𝘿𝙀𝙎𝙎𝘼
 02/13/2022 | 𝙍𝙀𝙋𝙇𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 2021 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙎𝙐𝙉𝘿𝘼𝙔 𝙎𝙏𝘼𝙍𝙏𝙄𝙉𝙂 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
