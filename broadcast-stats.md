@@ -27,8 +27,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 02/13/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
-71 | I Don't Belong Here | 02/24/2022 | 8/1/2021 | 54
-67 | Together We Will Smash Them | 03/01/2022 | 6/20/2021 | 53
 73 | The Whirlpool of Battle | 03/01/2022 | 9/21/2021 | 62
 76 | If I See Him, I'll Kill Him | 03/03/2022 | 11/21/2021 | 49
 78 | All for Revenge | 03/03/2022 | 1/9/2022 | 50
@@ -62,6 +60,8 @@ MM17 | Ninja Challenge Card | 04/12/2022 | 1/2/2022 | 52
 MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
 MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
+67 | Together We Will Smash Them | 04/19/2022 | 6/20/2021 | 53
+71 | I Don't Belong Here | 04/19/2022 | 8/1/2021 | 54
 
 
 
@@ -71,11 +71,11 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 9 (Su)
-70s | 10 | 1 (Tu)
 80s | 2 | 1 (Sa?!)
-60s | 7 | 1 (SaSaSASASAAAA)
+60s | 7 | 0 (Tu)
 MM00s | 9 | 0 (Su)
 MM10s | 10 | 0 (Su)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
