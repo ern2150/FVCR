@@ -28,8 +28,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 02/13/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 02/24/2022 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 03/01/2022 | 9/21/2021 | 62
-78 | All for Revenge | 03/03/2022 | 1/9/2022 | 50
-79 | A Frightening Experience | 03/08/2022 | 1/16/2022 | 57
 64 | Hold You Close and Feel Things | 03/10/2022 | 4/18/2021 | 58
 MM15 | Don't Be Afraid of Me | 03/10/2022 | 12/05/2021 | 55
 68 | Endless Chain of Duels and Killings | 03/15/2022 | 6/27/2021 | 54
@@ -62,6 +60,8 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 71 | I Don't Belong Here | 04/19/2022 | 8/1/2021 | 54
 76 | If I See Him, I'll Kill Him | 04/26/2022 | 11/21/2021 | 49
 77 | Ninja City | 04/26/2022 | 11/28/2021 | 49
+78 | All for Revenge | 04/28/2022 | 1/9/2022 | 50
+79 | A Frightening Experience | 04/28/2022 | 1/16/2022 | 57
 
 
 
@@ -75,7 +75,7 @@ Other | 2 | 10 (Su)
 60s | 7 | 1 (Tu)
 MM00s | 9 | 1 (Su)
 MM10s | 10 | 1 (Su)
-70s | 10 | 0 (Tu)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
