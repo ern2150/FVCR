@@ -23,8 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
-73 | The Whirlpool of Battle | 03/01/2022 | 9/21/2021 | 62
-64 | Hold You Close and Feel Things | 03/10/2022 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 03/15/2022 | 6/27/2021 | 54
 MM18 | Fought Against All Evils | 03/15/2022 | 1/23/2022 | 51
 MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
@@ -62,6 +60,8 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
 MM15 | Don't Be Afraid of Me | 05/05/2022 | 12/05/2021 | 55
+64 | Hold You Close and Feel Things | 05/10/2022 | 4/18/2021 | 58
+73 | The Whirlpool of Battle | 05/10/2022 | 9/21/2021 | 62
 
 
 
@@ -70,12 +70,12 @@ MM15 | Don't Be Afraid of Me | 05/05/2022 | 12/05/2021 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-80s | 2 | 2 (Sa?!)
-60s | 7 | 1 (Tu)
-Other | 2 | 0 (Su)
+80s | 2 | 4 (Sa?!)
+Other | 2 | 1 (Su)
+60s | 7 | 0 (Tu)
 MM00s | 9 | 0 (Th)
 MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Su)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
