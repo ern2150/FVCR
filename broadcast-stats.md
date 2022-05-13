@@ -23,12 +23,10 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
-68 | Endless Chain of Duels and Killings | 03/15/2022 | 6/27/2021 | 54
 MM18 | Fought Against All Evils | 03/15/2022 | 1/23/2022 | 51
 MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
 MM12 | Evil Is Never Invincible | 03/17/2022 | 8/10/2021 | 58
 MM4 | I'm Glad to See You're Prepared to Die | 03/20/2022 | 4/4/2021 | 50
-MM19 | Ghost Shadow Squad | 03/20/2022 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
 MM13 | Keep on Winning | 03/22/2022 | 8/22/2021 | 56
 61 | I Must Make Sure You Fail | 03/24/2022  | 3/14/2021 | 53
@@ -62,6 +60,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
 MM15 | Don't Be Afraid of Me | 05/05/2022 | 12/05/2021 | 55
 64 | Hold You Close and Feel Things | 05/10/2022 | 4/18/2021 | 58
 73 | The Whirlpool of Battle | 05/10/2022 | 9/21/2021 | 62
+68 | Endless Chain of Duels and Killings | 05/12/2022 | 6/27/2021 | 54
+MM19 | Ghost Shadow Squad | 05/12/2022 | 02/06/2022 | 55
 
 
 
@@ -72,8 +72,8 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 80s | 2 | 4 (Sa?!)
 Other | 2 | 1 (Su)
-60s | 7 | 0 (Tu)
-MM00s | 9 | 0 (Th)
+MM00s | 9 | 1 (Th)
+60s | 7 | 0 (Th)
 MM10s | 10 | 0 (Th)
 70s | 10 | 0 (Tu)
 
