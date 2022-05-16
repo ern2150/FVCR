@@ -32,7 +32,6 @@ MM13 | Keep on Winning | 03/22/2022 | 8/22/2021 | 56
 61 | I Must Make Sure You Fail | 03/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 MM16 | Today We Shall Kill Each Other | 03/27/2022 | 12/21/2021 | 52
-81 | One Hell of a Nobody | 03/29/2022 | 03/27/2022 | 53
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 70 | Take the Fight to the Enemy | 03/31/2022 | 7/11/2021 | 54
 MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
@@ -62,7 +61,8 @@ MM15 | Don't Be Afraid of Me | 05/05/2022 | 12/05/2021 | 55
 73 | The Whirlpool of Battle | 05/10/2022 | 9/21/2021 | 62
 68 | Endless Chain of Duels and Killings | 05/12/2022 | 6/27/2021 | 54
 MM19 | Ghost Shadow Squad | 05/12/2022 | 02/06/2022 | 55
-
+81 | One Hell of a Nobody | 05/15/2022 | 03/27/2022 | 53
+82 | Are You Looking for Death? | 05/15/2022 | 05/15/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,9 +70,9 @@ MM19 | Ghost Shadow Squad | 05/12/2022 | 02/06/2022 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-80s | 2 | 4 (Sa?!)
-Other | 2 | 1 (Su)
+Other | 2 | 2 (Su)
 MM00s | 9 | 1 (Th)
+80s | 3 | 0 (Su)
 60s | 7 | 0 (Th)
 MM10s | 10 | 0 (Th)
 70s | 10 | 0 (Tu)
