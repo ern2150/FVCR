@@ -24,10 +24,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
-MM12 | Evil Is Never Invincible | 03/17/2022 | 8/10/2021 | 58
 MM4 | I'm Glad to See You're Prepared to Die | 03/20/2022 | 4/4/2021 | 50
 MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
-MM13 | Keep on Winning | 03/22/2022 | 8/22/2021 | 56
 61 | I Must Make Sure You Fail | 03/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 MM16 | Today We Shall Kill Each Other | 03/27/2022 | 12/21/2021 | 52
@@ -63,6 +61,8 @@ MM19 | Ghost Shadow Squad | 05/12/2022 | 02/06/2022 | 55
 81 | One Hell of a Nobody | 05/15/2022 | 03/27/2022 | 53
 82 | Are You Looking for Death? | 05/17/2022 | 05/15/2022 | 50
 MM18 | Fought Against All Evils | 05/17/2022 | 1/23/2022 | 51
+MM12 | Evil Is Never Invincible | 05/19/2022 | 8/10/2021 | 58
+MM13 | Keep on Winning | 05/19/2022 | 8/22/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,11 +71,11 @@ MM18 | Fought Against All Evils | 05/17/2022 | 1/23/2022 | 51
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 2 (Su)
-MM00s | 9 | 1 (Th)
+MM00s | 9 | 2 (Th)
+60s | 7 | 1 (Th)
 70s | 10 | 1 (Tu)
 80s | 3 | 0 (Tu)
-60s | 7 | 0 (Th)
-MM10s | 10 | 0 (Tu)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
