@@ -102,8 +102,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
+05/22/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/22/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
+05/22/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+05/22/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+05/22/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+05/22/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+05/22/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+05/22/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+05/22/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/19/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-05/19/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/19/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 05/19/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 05/19/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
@@ -117,7 +126,6 @@ Latest Date | Video / Audio | Debut++
 05/19/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
 05/19/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 05/19/2022 | Tiger robe Super Ninja beach / Toro y Moi - Still Sound (Instrumental) | 12/19/2021
-05/19/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/17/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
 05/17/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 05/17/2022 | Baki end whiteout / (same as video) | 4/13/2021
@@ -177,14 +185,7 @@ Latest Date | Video / Audio | Debut++
 05/05/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 05/05/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
 05/05/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-05/01/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
-05/01/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-05/01/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-05/01/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-05/01/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-05/01/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 05/01/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
-05/01/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 04/19/2022 | Gordon's Hill Meditations (includes 10 years later)/ Original audio, Kate Bush - Running Up That Hill | 11/5/2020
 04/19/2022 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
 04/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉] (after MM6)
