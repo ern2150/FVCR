@@ -102,8 +102,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/24/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
+05/24/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/24/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+05/24/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+05/24/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+05/24/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+05/24/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+05/24/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
+05/24/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+05/24/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
-05/22/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/22/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 05/22/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 05/22/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
@@ -111,7 +120,6 @@ Latest Date | Video / Audio | Debut++
 05/22/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 05/22/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 05/22/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-05/22/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/19/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 05/19/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 05/19/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
@@ -177,14 +185,6 @@ Latest Date | Video / Audio | Debut++
 05/10/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 05/10/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 05/10/2022 | FUNinja Explosions / ?? | 5/20/2021
-05/05/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
-05/05/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-05/05/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-05/05/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-05/05/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-05/05/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-05/05/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-05/05/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 05/01/2022 | Gunbuster Intro with prologue / (same as video) | 12/17/2020
 04/19/2022 | Gordon's Hill Meditations (includes 10 years later)/ Original audio, Kate Bush - Running Up That Hill | 11/5/2020
 04/19/2022 | Hanu-bow? Rain...man? / Rainbow TV Show Full Theme | 4/1/2021
