@@ -26,9 +26,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
 MM4 | I'm Glad to See You're Prepared to Die | 03/20/2022 | 4/4/2021 | 50
 MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
-61 | I Must Make Sure You Fail | 03/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
-MM16 | Today We Shall Kill Each Other | 03/27/2022 | 12/21/2021 | 52
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 70 | Take the Fight to the Enemy | 03/31/2022 | 7/11/2021 | 54
 MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
@@ -63,6 +61,8 @@ MM12 | Evil Is Never Invincible | 05/19/2022 | 8/10/2021 | 58
 MM13 | Keep on Winning | 05/19/2022 | 8/22/2021 | 56
 75 | Never Show Emotion | 05/22/2022 | 11/07/2021 | 48
 80 | Pass Through All Hard Times | 05/22/2022 | 02/20/2022 | 46
+61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
+MM16 | Today We Shall Kill Each Other | 05/24/2022 | 12/21/2021 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,10 +72,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 3 (Su)
 MM00s | 9 | 2 (Th)
-60s | 7 | 1 (Th)
 80s | 3 | 0 (Su)
+60s | 7 | 0 (Tu)
 70s | 10 | 0 (Su)
-MM10s | 10 | 0 (Th)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
