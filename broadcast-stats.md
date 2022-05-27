@@ -24,11 +24,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
-MM4 | I'm Glad to See You're Prepared to Die | 03/20/2022 | 4/4/2021 | 50
 MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
 MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
-70 | Take the Fight to the Enemy | 03/31/2022 | 7/11/2021 | 54
 MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
 MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 72 | Who Is the Champion Now? | 04/03/2022 | 9/7/2021 | 53
@@ -63,6 +61,8 @@ MM13 | Keep on Winning | 05/19/2022 | 8/22/2021 | 56
 80 | Pass Through All Hard Times | 05/22/2022 | 02/20/2022 | 46
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM16 | Today We Shall Kill Each Other | 05/24/2022 | 12/21/2021 | 52
+MM4 | I'm Glad to See You're Prepared to Die | 05/26/2022 | 4/4/2021 | 50
+70 | Take the Fight to the Enemy | 05/26/2022 | 7/11/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,11 +71,11 @@ MM16 | Today We Shall Kill Each Other | 05/24/2022 | 12/21/2021 | 52
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 3 (Su)
-MM00s | 9 | 2 (Th)
 80s | 3 | 0 (Su)
 60s | 7 | 0 (Tu)
-70s | 10 | 0 (Su)
+MM00s | 9 | 0 (Th)
 MM10s | 10 | 0 (Tu)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
