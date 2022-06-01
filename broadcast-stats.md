@@ -27,9 +27,7 @@ MM2 | Why Are You Playing Heroes? | 03/17/2022 | 2/23/2021 | 64
 MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
 MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
-MM10 | The Splatter and Gore Department | 03/31/2022 | 7/15/2021 | 59
 MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
-72 | Who Is the Champion Now? | 04/03/2022 | 9/7/2021 | 53
 63 | This Sword Will Belong to You Forever | 04/05/2022 | 4/11/2021 | 50
 66 | Do You Really Have the Confidence? | 04/09/2022 | 5/23/2021 | 56
 MM3 | Blood, Lust, and Intrigue | 04/12/2022 | 3/9/2021 | 53
@@ -63,6 +61,8 @@ MM13 | Keep on Winning | 05/19/2022 | 8/22/2021 | 56
 MM16 | Today We Shall Kill Each Other | 05/24/2022 | 12/21/2021 | 52
 MM4 | I'm Glad to See You're Prepared to Die | 05/26/2022 | 4/4/2021 | 50
 70 | Take the Fight to the Enemy | 05/26/2022 | 7/11/2021 | 54
+MM10 | The Splatter and Gore Department | 05/31/2022 | 7/15/2021 | 59
+72 | Who Is the Champion Now? | 05/31/2022 | 9/7/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,12 +70,12 @@ MM4 | I'm Glad to See You're Prepared to Die | 05/26/2022 | 4/4/2021 | 50
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 3 (Su)
-80s | 3 | 0 (Su)
-60s | 7 | 0 (Tu)
+Other | 2 | 4 (Su)
+80s | 3 | 1 (Su)
+60s | 7 | 1 (Tu)
 MM00s | 9 | 0 (Th)
 MM10s | 10 | 0 (Tu)
-70s | 10 | 0 (Th)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
