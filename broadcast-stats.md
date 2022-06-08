@@ -23,8 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
-MM5 | Danger Straight Ahead | 03/22/2022 | 4/4/2021 | 59
-MM9 | Hit Me Like You Mean It | 03/24/2022  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 63 | This Sword Will Belong to You Forever | 04/05/2022 | 4/11/2021 | 50
@@ -63,6 +61,8 @@ MM10 | The Splatter and Gore Department | 05/31/2022 | 7/15/2021 | 59
 72 | Who Is the Champion Now? | 05/31/2022 | 9/7/2021 | 53
 MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
 MM17 | Ninja Challenge Card | 06/02/2022 | 1/2/2022 | 52
+MM5 | Danger Straight Ahead | 06/07/2022 | 4/4/2021 | 59
+MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,12 +70,12 @@ MM17 | Ninja Challenge Card | 06/02/2022 | 1/2/2022 | 52
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 4 (Su)
-80s | 3 | 1 (Su)
-60s | 7 | 1 (Tu)
-MM00s | 9 | 0 (Th)
+Other | 2 | 5 (Su)
+80s | 3 | 2 (Su)
+60s | 7 | 2 (Tu)
+70s | 10 | 1 (Tu)
+MM00s | 9 | 0 (Tu)
 MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
