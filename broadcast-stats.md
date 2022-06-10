@@ -26,8 +26,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
 63 | This Sword Will Belong to You Forever | 04/05/2022 | 4/11/2021 | 50
-66 | Do You Really Have the Confidence? | 04/09/2022 | 5/23/2021 | 56
-MM3 | Blood, Lust, and Intrigue | 04/12/2022 | 3/9/2021 | 53
 MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
 MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
@@ -63,6 +61,8 @@ MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
 MM17 | Ninja Challenge Card | 06/02/2022 | 1/2/2022 | 52
 MM5 | Danger Straight Ahead | 06/07/2022 | 4/4/2021 | 59
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
+MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
+66 | Do You Really Have the Confidence? | 06/09/2022 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,10 +72,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 5 (Su)
 80s | 3 | 2 (Su)
-60s | 7 | 2 (Tu)
 70s | 10 | 1 (Tu)
-MM00s | 9 | 0 (Tu)
-MM10s | 10 | 0 (Th)
+MM10s | 10 | 1 (Th)
+60s | 7 | 0 (Th)
+MM00s | 9 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
