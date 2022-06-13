@@ -25,12 +25,11 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 MM11 | I Can Stand the Pain | 04/03/2022 | 7/27/2021 | 65
-63 | This Sword Will Belong to You Forever | 04/05/2022 | 4/11/2021 | 50
+63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
 MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
 MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 67 | Together We Will Smash Them | 04/19/2022 | 6/20/2021 | 53
-71 | I Don't Belong Here | 04/19/2022 | 8/1/2021 | 54
 76 | If I See Him, I'll Kill Him | 04/26/2022 | 11/21/2021 | 49
 77 | Ninja City | 04/26/2022 | 11/28/2021 | 49
 78 | All for Revenge | 04/28/2022 | 1/9/2022 | 50
@@ -63,6 +62,8 @@ MM5 | Danger Straight Ahead | 06/07/2022 | 4/4/2021 | 59
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
 66 | Do You Really Have the Confidence? | 06/09/2022 | 5/23/2021 | 56
+71 | I Don't Belong Here | 06/12/2022 | 8/1/2021 | 54
+83 | I Don't Mind a Little Danger (in the Manger) | 06/12/2022 | 06/12/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,12 +71,12 @@ MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 5 (Su)
-80s | 3 | 2 (Su)
-70s | 10 | 1 (Tu)
+Other | 2 | 6 (Su)
 MM10s | 10 | 1 (Th)
+80s | 4 | 0 (Su)
 60s | 7 | 0 (Th)
 MM00s | 9 | 0 (Th)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
