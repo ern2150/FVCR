@@ -118,7 +118,7 @@ Latest Date | Video / Audio | Debut++
 06/16/2022 | SHIT FUCK / (same as video) | 5/4/2021
 06/16/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 06/16/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-06/16/2022 | FUNinja Explosions / ?? | 5/20/2021
+06/16/2022 | FUNinja Explosions / 三宅純 - 西10丁目34番地 | 5/20/2021
 06/16/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/14/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
 06/14/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
