@@ -28,7 +28,6 @@ MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
 MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
-79 | A Frightening Experience | 04/28/2022 | 1/16/2022 | 57
   | Evil Is Excusable 2021 Halloween Vol 1 | 05/01/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
@@ -64,6 +63,7 @@ MM11 | I Can Stand the Pain | 06/16/2022 | 7/27/2021 | 65
 77 | Ninja City | 06/16/2022 | 11/28/2021 | 49
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
 78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
+79 | A Frightening Experience | 06/23/2022 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,11 +72,11 @@ MM11 | I Can Stand the Pain | 06/16/2022 | 7/27/2021 | 65
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 7 (Su)
-MM00s | 9 | 1 (Th)
+MM00s | 9 | 2 (Th)
 80s | 4 | 1 (Tu)
+MM10s | 10 | 1 (Th)
 60s | 6 | 0 (Tu)
-70s | 10 | 0 (Tu)
-MM10s | 10 | 0 (Th)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
