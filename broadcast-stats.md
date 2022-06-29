@@ -32,8 +32,6 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
-MM15 | Don't Be Afraid of Me | 05/05/2022 | 12/05/2021 | 55
-64 | Hold You Close and Feel Things | 05/10/2022 | 4/18/2021 | 58
 73 | The Whirlpool of Battle | 05/10/2022 | 9/21/2021 | 62
 68 | Endless Chain of Duels and Killings | 05/12/2022 | 6/27/2021 | 54
 MM19 | Ghost Shadow Squad | 05/12/2022 | 02/06/2022 | 55
@@ -64,6 +62,8 @@ MM11 | I Can Stand the Pain | 06/16/2022 | 7/27/2021 | 65
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
 78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
 79 | A Frightening Experience | 06/23/2022 | 1/16/2022 | 57
+64 | Hold You Close and Feel Things | 06/28/2022 | 4/18/2021 | 58
+MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,12 +71,12 @@ MM11 | I Can Stand the Pain | 06/16/2022 | 7/27/2021 | 65
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 7 (Su)
+Other | 2 | 8 (Su)
 MM00s | 9 | 2 (Th)
-80s | 4 | 1 (Tu)
-MM10s | 10 | 1 (Th)
+80s | 4 | 2 (Tu)
 60s | 6 | 0 (Tu)
 70s | 10 | 0 (Th)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
