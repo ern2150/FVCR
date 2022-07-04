@@ -22,7 +22,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
-69 | SUMMERTIME | 1/4/2022 | 7/4/2021 | 65
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
 MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
@@ -33,7 +32,6 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 05/10/2022 | 9/21/2021 | 62
-68 | Endless Chain of Duels and Killings | 05/12/2022 | 6/27/2021 | 54
 MM19 | Ghost Shadow Squad | 05/12/2022 | 02/06/2022 | 55
 MM18 | Fought Against All Evils | 05/17/2022 | 1/23/2022 | 51
 MM12 | Evil Is Never Invincible | 05/19/2022 | 8/10/2021 | 58
@@ -64,6 +62,8 @@ MM11 | I Can Stand the Pain | 06/16/2022 | 7/27/2021 | 65
 MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 81 | One Hell of a Nobody | 06/30/2022 | 03/27/2022 | 53
 82 | Are You Looking for Death? | 06/30/2022 | 05/15/2022 | 50
+68 | Endless Chain of Duels and Killings | 07/03/2022 | 6/27/2021 | 54
+69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,11 +71,11 @@ MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 8 (Su)
+Other | 2 | 9 (Su)
 MM00s | 9 | 3 (Th)
 70s | 10 | 1 (Th)
 80s | 4 | 0 (Th)
-60s | 6 | 0 (Tu)
+60s | 6 | 0 (Su)
 MM10s | 10 | 0 (Tu)
 
 
