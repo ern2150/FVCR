@@ -24,7 +24,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
-MM6 | It's Your Turn to Die | 04/14/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
 MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Evil Is Excusable 2021 Halloween Vol 1 | 05/01/2022 | 10/3/2021 | 45
@@ -64,6 +63,7 @@ MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 82 | Are You Looking for Death? | 06/30/2022 | 05/15/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/03/2022 | 6/27/2021 | 54
 69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
+MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,11 +72,11 @@ MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 2 | 9 (Su)
-MM00s | 9 | 3 (Th)
 70s | 10 | 1 (Th)
+MM10s | 10 | 1 (Tu)
 80s | 4 | 0 (Th)
 60s | 6 | 0 (Su)
-MM10s | 10 | 0 (Tu)
+MM00s | 9 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
