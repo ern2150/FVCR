@@ -22,9 +22,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
-MM8 | The Sword of Catastrophe | 03/29/2022 | 6/15/2021 | 61
 63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
-MM1 | Get Rich Regardless of the Means (End of 2019) | 04/17/2022 | 11/14/2019 | 70
 MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Evil Is Excusable 2021 Halloween Vol 1 | 05/01/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
@@ -64,6 +62,8 @@ MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 68 | Endless Chain of Duels and Killings | 07/03/2022 | 6/27/2021 | 54
 69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
+MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
+MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,11 +71,11 @@ MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 9 (Su)
-70s | 10 | 1 (Th)
-MM10s | 10 | 1 (Tu)
-80s | 4 | 0 (Th)
-60s | 6 | 0 (Su)
+Other | 2 | 10 (Su)
+70s | 10 | 2 (Th)
+MM10s | 10 | 2 (Tu)
+80s | 4 | 1 (Th)
+60s | 6 | 1 (Su)
 MM00s | 9 | 0 (Tu)
 
 
