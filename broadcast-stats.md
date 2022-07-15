@@ -64,6 +64,7 @@ MM15 | Don't Be Afraid of Me | 06/28/2022 | 12/05/2021 | 55
 MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
+| | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,11 +72,11 @@ MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 2 | 10 (Su)
-70s | 10 | 2 (Th)
+70s | 10 | 3 (Th)
 MM10s | 10 | 2 (Tu)
-80s | 4 | 1 (Th)
+80s | 4 | 2 (Th)
 60s | 6 | 1 (Su)
+Other | 3 | 0 (Th)
 MM00s | 9 | 0 (Tu)
 
 
@@ -183,6 +184,7 @@ Latest Date | Video / Audio | Debut++
 06/23/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 06/23/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 -- | -- | --
+07/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 05/19/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
 05/19/2022 | [10 YEARS LATER](https://github.com/ern2150/FVCR/wiki/Common-Sources%3A-Ninja-Squad-%281986%29#Vortex-10-YEARS-LATER) / (same as video) | 4/1/2021
 05/19/2022 | Kamen Riders and Hanuman vs Silver Bull / The Go Team - Bust Out Brigade | 1/17/2021
@@ -209,6 +211,10 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+07/14/2022 | Tigamask v1 w Starglide!
+07/14/2022 | Money, Love, and Power (with blank lead in and stream theme around 50 minutes)
+07/14/2022 | FVCR VHS Money Love Power cover.  Skate Clup mistake story.  Source image tapes: Ninja Phantom Heroes, Cobra against Ninja, Thundering Ninja, Catman Boxers and Lethal, Challenge of the Ninja, Ninja Warriors, City Ninja, Ninja Invasion, Ninja Terminator, Ninja the Protector, Ninja of the Magnificence.  
+07/14/2022 | Soundmarket 2020 set
 04/14/2022 | squidgey and PS [covers](https://github.com/ern2150/FVCR/issues/15#issuecomment-1099827513), PS3 scrolling thru menu, transfer save data to memory card, TEKKEN2, RC HELICOPTER, MGS VR MISSIONS
 02/03/2022 | PS2 games (WCW, 2XTREME, Godzilla [stick goes nuts], Friends, Star Gladiator), cover of 25 to Life then outro
 02/03/2022 | Wrestling toys
