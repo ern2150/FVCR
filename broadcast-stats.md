@@ -28,8 +28,6 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
-MM18 | Fought Against All Evils | 05/17/2022 | 1/23/2022 | 51
-MM12 | Evil Is Never Invincible | 05/19/2022 | 8/10/2021 | 58
 MM13 | Keep on Winning | 05/19/2022 | 8/22/2021 | 56
 75 | Never Show Emotion | 05/22/2022 | 11/07/2021 | 48
 80 | Pass Through All Hard Times | 05/22/2022 | 02/20/2022 | 46
@@ -65,6 +63,8 @@ MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 73 | The Whirlpool of Battle | 07/19/2022 | 9/21/2021 | 62
 MM19 | Ghost Shadow Squad | 07/19/2022 | 02/06/2022 | 55
+MM12 | Evil Is Never Invincible | 07/26/2022 | 8/10/2021 | 58
+MM18 | Fought Against All Evils | 07/26/2022 | 1/23/2022 | 51
 
 
 
@@ -73,11 +73,11 @@ MM19 | Ghost Shadow Squad | 07/19/2022 | 02/06/2022 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-80s | 4 | 2 (Th)
-60s | 6 | 2 (Su)
-MM00s | 9 | 1 (Tu)
-Other | 3 | 0 (Th)
-70s | 10 | 0 (Tu)
+80s | 4 | 3 (Th)
+60s | 6 | 3 (Su)
+MM00s | 9 | 2 (Tu)
+Other | 3 | 1 (Th)
+70s | 10 | 1 (Tu)
 MM10s | 10 | 0 (Tu)
 
 
