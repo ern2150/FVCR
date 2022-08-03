@@ -105,8 +105,23 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/02/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
+08/02/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/02/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+08/02/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+08/02/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
+08/02/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
+08/02/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+08/02/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+08/02/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
+08/02/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+08/02/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+08/02/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+08/02/2022 | SHIT FUCK / (same as video) | 5/4/2021
+08/02/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+08/02/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+08/02/2022 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 07/31/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-07/31/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/31/2022 | Toby and toy boats and choppers / Jondana and TV Girl - Summer's Over | 07/31/2022
 07/31/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 07/31/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
@@ -169,21 +184,6 @@ Latest Date | Video / Audio | Debut++
 07/12/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 07/12/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
 07/12/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-07/05/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
-07/05/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-07/05/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-07/05/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
-07/05/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
-07/05/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-07/05/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-07/05/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
-07/05/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-07/05/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-07/05/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-07/05/2022 | SHIT FUCK / (same as video) | 5/4/2021
-07/05/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-07/05/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-07/05/2022 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 -- | -- | --
 07/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 06/30/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
