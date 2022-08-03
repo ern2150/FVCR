@@ -28,9 +28,7 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
-MM13 | Keep on Winning | 05/19/2022 | 8/22/2021 | 56
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
-70 | Take the Fight to the Enemy | 05/26/2022 | 7/11/2021 | 54
 MM10 | The Splatter and Gore Department | 05/31/2022 | 7/15/2021 | 59
 72 | Who Is the Champion Now? | 05/31/2022 | 9/7/2021 | 53
 MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
@@ -65,6 +63,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 07/28/2022 | 4/4/2021 | 50
 80 | Pass Through All Hard Times | 07/28/2022 | 02/20/2022 | 46
 MM16 | Today We Shall Kill Each Other | 07/31/2022 | 12/21/2021 | 52
 75 | Never Show Emotion | 07/31/2022 | 11/07/2021 | 48
+70 | Take the Fight to the Enemy | 08/02/2022 | 7/11/2021 | 54
+MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 
 
 
@@ -77,8 +77,8 @@ Decade | Available Tapes | Weeks since seen
 Other | 3 | 1 (Th)
 80s | 4 | 0 (Th)
 MM00s | 9 | 0 (Th)
-MM10s | 10 | 0 (Su)
-70s | 10 | 0 (Su)
+MM10s | 10 | 0 (Tu)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
