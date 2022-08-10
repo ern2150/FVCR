@@ -30,9 +30,7 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 MM7 | I'd Like to See You Try and Hurt Me | 05/05/2022 | 6/6/2021 | 58
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM10 | The Splatter and Gore Department | 05/31/2022 | 7/15/2021 | 59
-72 | Who Is the Champion Now? | 05/31/2022 | 9/7/2021 | 53
 MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
-MM17 | Ninja Challenge Card | 06/02/2022 | 1/2/2022 | 52
 MM5 | Danger Straight Ahead | 06/07/2022 | 4/4/2021 | 59
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
@@ -65,6 +63,8 @@ MM16 | Today We Shall Kill Each Other | 07/31/2022 | 12/21/2021 | 52
 75 | Never Show Emotion | 07/31/2022 | 11/07/2021 | 48
 70 | Take the Fight to the Enemy | 08/02/2022 | 7/11/2021 | 54
 MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
+72 | Who Is the Champion Now? | 08/09/2022 | 9/7/2021 | 53
+MM17 | Ninja Challenge Card | 08/09/2022 | 1/2/2022 | 52
 
 
 
@@ -73,10 +73,10 @@ MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 4 (Su)
-Other | 3 | 1 (Th)
-80s | 4 | 0 (Th)
-MM00s | 9 | 0 (Th)
+60s | 6 | 5 (Su)
+Other | 3 | 2 (Th)
+80s | 4 | 1 (Th)
+MM00s | 9 | 1 (Th)
 MM10s | 10 | 0 (Tu)
 70s | 10 | 0 (Tu)
 
@@ -231,7 +231,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-08/02/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/09/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
