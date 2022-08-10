@@ -105,8 +105,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/09/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
+08/09/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/09/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+08/09/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+08/09/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+08/09/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+08/09/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+08/09/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
+08/09/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+08/09/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/02/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
-08/02/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/02/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 08/02/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 08/02/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
@@ -143,7 +152,6 @@ Latest Date | Video / Audio | Debut++
 07/28/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/28/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 07/28/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-07/28/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/26/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 07/26/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 07/26/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
@@ -176,14 +184,6 @@ Latest Date | Video / Audio | Debut++
 07/14/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 07/14/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 07/14/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
-07/12/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
-07/12/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-07/12/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-07/12/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-07/12/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-07/12/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-07/12/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-07/12/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 -- | -- | --
 07/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 06/30/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
