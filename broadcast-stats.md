@@ -185,6 +185,7 @@ Latest Date | Video / Audio | Debut++
 07/26/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/26/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 -- | -- | --
+08/16/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 07/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 06/30/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 05/19/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
@@ -213,6 +214,12 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/16/2022 | (discussion prior to) Viva Gordita 1998 
+08/16/2022 | (discussion prior to) Viva Gordita 1997 (pauses before training bit)
+08/16/2022 | (discussion prior to) Rock's Winning Workout without Weights (pauses at Dorral Silverthorn introduction, pauses before Big Zaddy, pauses after Zar ceiling)
+08/16/2022 | Mary betaMax Toshiba tape 
+08/16/2022 | mini-DV instructional video Sony handicam worry-free (interrupts at nightshot to talk about x-ray view controversy)
+08/16/2022 | Canon skiiers, World of Tomorrow with Hitachi 5+2 Head, Zenith Smart Decks, SINGER Front Loading, Decathalon NEC, JVC Color coded aerobics, Panasonic ez programma 8:30, VCR stack Sony betamax, Panasonic lightweight sunset beach dancer, LXI Sears camcorder, Minolta ALPHA camera spin zoom, Minolta tunnels and AF, World of magic with Panasonic Omnimovie, JVC hot air ballooons, Jurassic Panasonic email grandma, Camera Jitter Panasonic Playpak, Sharp Slimcam swim, Horse Sanyo, Toshiba Core stache, Sharp floating vcr, Lookie
 07/14/2022 | Tigamask v1 w Starglide!
 07/14/2022 | Money, Love, and Power (with blank lead in and stream theme around 50 minutes)
 07/14/2022 | FVCR VHS Money Love Power cover.  Skate Clup mistake story.  Source image tapes: Ninja Phantom Heroes, Cobra against Ninja, Thundering Ninja, Catman Boxers and Lethal, Challenge of the Ninja, Ninja Warriors, City Ninja, Ninja Invasion, Ninja Terminator, Ninja the Protector, Ninja of the Magnificence.  
