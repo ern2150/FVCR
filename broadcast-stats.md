@@ -29,7 +29,6 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
-MM5 | Danger Straight Ahead | 06/07/2022 | 4/4/2021 | 59
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
 66 | Do You Really Have the Confidence? | 06/09/2022 | 5/23/2021 | 56
@@ -65,7 +64,7 @@ MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 MM17 | Ninja Challenge Card | 08/09/2022 | 1/2/2022 | 52
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM10 | The Splatter and Gore Department | 08/14/2022 | 7/15/2021 | 59
-
+MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,9 +75,9 @@ Decade | Available Tapes | Weeks since seen
 60s | 6 | 1 (Su)
 Other | 3 | 3 (Th)
 80s | 4 | 2 (Th)
-MM00s | 9 | 0 (Su)
+70s | 10 | 1 (Tu)
+MM00s | 9 | 0 (Tu)
 MM10s | 10 | 0 (Su)
-70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
