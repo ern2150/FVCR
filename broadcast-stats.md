@@ -31,9 +31,7 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
-66 | Do You Really Have the Confidence? | 06/09/2022 | 5/23/2021 | 56
 71 | I Don't Belong Here | 06/12/2022 | 8/1/2021 | 54
-83 | I Don't Mind a Little Danger (in the Manger) | 06/14/2022 | 06/12/2022 | 50
 76 | If I See Him, I'll Kill Him | 06/14/2022 | 11/21/2021 | 49
 MM11 | I Can Stand the Pain | 06/16/2022 | 7/27/2021 | 65
 77 | Ninja City | 06/16/2022 | 11/28/2021 | 49
@@ -65,6 +63,8 @@ MM17 | Ninja Challenge Card | 08/09/2022 | 1/2/2022 | 52
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM10 | The Splatter and Gore Department | 08/14/2022 | 7/15/2021 | 59
 MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
+66 | Do You Really Have the Confidence? | 08/18/2022 | 5/23/2021 | 56
+83 | I Don't Mind a Little Danger | 08/18/2022 | 06/12/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,10 +72,10 @@ MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 1 (Su)
-Other | 3 | 3 (Th)
-80s | 4 | 2 (Th)
+Other | 3 | 4 (Th)
 70s | 10 | 1 (Tu)
+80s | 4 | 0 (Th)
+60s | 6 | 0 (Th)
 MM00s | 9 | 0 (Tu)
 MM10s | 10 | 0 (Su)
 
