@@ -184,6 +184,7 @@ Latest Date | Video / Audio | Debut++
 07/31/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 07/31/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 -- | -- | --
+08/23/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 08/16/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 07/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 06/30/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
@@ -213,6 +214,10 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/23/2022 | YES I CAN Asthma (pauses during aardvark to preview cultural insensitivity, and pauses again before rasta ron. "let's see who to blame" over credits)
+08/23/2022 | (discussion about provenance of japanese wrestling tapes coming from toy fair) Road Warriors from space supercut
+08/23/2022 | VaporspaceSTL Premium promo feat Momentum
+08/23/2022 | (vaporspacestl discussion) MOMENTUM (Northridge Mall) (discussing hard sell, pauses at Wicks n Sticks ceramic owls)
 08/16/2022 | (discussion prior to) Viva Gordita 1998 
 08/16/2022 | (discussion prior to) Viva Gordita 1997 (pauses before training bit)
 08/16/2022 | (discussion prior to) Rock's Winning Workout without Weights (pauses at Dorral Silverthorn introduction, pauses before Big Zaddy, pauses after Zar ceiling)
