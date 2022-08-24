@@ -28,7 +28,6 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
-MM2 | Why Are You Playing Heroes? | 06/02/2022 | 2/23/2021 | 64
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
 71 | I Don't Belong Here | 06/12/2022 | 8/1/2021 | 54
@@ -65,6 +64,7 @@ MM10 | The Splatter and Gore Department | 08/14/2022 | 7/15/2021 | 59
 MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
 66 | Do You Really Have the Confidence? | 08/18/2022 | 5/23/2021 | 56
 83 | I Don't Mind a Little Danger | 08/18/2022 | 06/12/2022 | 50
+MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,11 +73,11 @@ MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 4 (Th)
-70s | 10 | 1 (Tu)
+70s | 10 | 2 (Tu)
+MM10s | 10 | 1 (Su)
 80s | 4 | 0 (Th)
 60s | 6 | 0 (Th)
 MM00s | 9 | 0 (Tu)
-MM10s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
