@@ -105,8 +105,24 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/28/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
+08/28/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/28/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+08/28/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+08/28/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
+08/28/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
+08/28/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+08/28/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+08/28/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
+08/28/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+08/28/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+08/28/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+08/28/2022 | SHIT FUCK / (same as video) | 5/4/2021
+08/28/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+08/28/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+08/28/2022 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+08/28/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/25/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-08/25/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/25/2022 | Toby and toy boats and choppers / Jordana and TV Girl - Summer's Over | 07/31/2022
 08/25/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 08/25/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
@@ -115,7 +131,6 @@ Latest Date | Video / Audio | Debut++
 08/25/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
 08/25/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 08/25/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-08/25/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/23/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 08/23/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 08/23/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
@@ -169,21 +184,6 @@ Latest Date | Video / Audio | Debut++
 08/09/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 08/09/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
 08/09/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-08/02/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
-08/02/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-08/02/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-08/02/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
-08/02/2022 | Forklift Fatalities and Exploding Jewelry / Jr. Walker - Darling Come Back Home, Original Audio | 6/22/2021
-08/02/2022 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-08/02/2022 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-08/02/2022 | Knight of Justice Death Call / (same as video) | 5/6/2021
-08/02/2022 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-08/02/2022 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-08/02/2022 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-08/02/2022 | SHIT FUCK / (same as video) | 5/4/2021
-08/02/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-08/02/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-08/02/2022 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 -- | -- | --
 08/23/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 08/16/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
