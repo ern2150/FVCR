@@ -184,8 +184,9 @@ Latest Date | Video / Audio | Debut++
 08/14/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 08/14/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 -- | -- | --
-08/23/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
-08/16/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
+08/39/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙄𝙄𝙄] (see #bonus-clips)
+08/23/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙄𝙄] (see #bonus-clips)
+08/16/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙄] (see #bonus-clips)
 07/14/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 06/30/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 05/19/2022 | Island Rydeen / Senor Coconut - Rydeen | 4/1/2021
@@ -214,6 +215,10 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/30/2022 | SYNTHAXE
+08/30/2022 | National Exciting Video "THEN, press the play button"
+08/30/2022 | SHADOWRUN 
+08/30/2022 | HOW TO MAKE A VIDEO LETTER
 08/23/2022 | YES I CAN Asthma (pauses during aardvark to preview cultural insensitivity, and pauses again before rasta ron. "let's see who to blame" over credits)
 08/23/2022 | (discussion about provenance of japanese wrestling tapes coming from toy fair) Road Warriors from space supercut
 08/23/2022 | VaporspaceSTL Premium promo feat Momentum
