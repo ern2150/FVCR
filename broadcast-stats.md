@@ -29,7 +29,6 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
-MM3 | Blood, Lust, and Intrigue | 06/09/2022 | 3/9/2021 | 53
 77 | Ninja City | 06/16/2022 | 11/28/2021 | 49
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
 78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
@@ -65,6 +64,7 @@ MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
 76 | If I See Him, I'll Kill Him | 08/25/2022 | 11/21/2021 | 49
 MM11 | I Can Stand the Pain | 08/28/2022 | 7/27/2021 | 65
 MM15 | Don't Be Afraid of Me | 08/28/2022 | 12/05/2021 | 55
+MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
