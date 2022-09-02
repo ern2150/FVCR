@@ -215,6 +215,7 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/01/2022 | WWF Breakdown Master Plan "I have a dream" (sponsored by Stridex) 
 08/30/2022 | SYNTHAXE
 08/30/2022 | National Exciting Video "THEN, press the play button"
 08/30/2022 | SHADOWRUN 
@@ -247,7 +248,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-08/30/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+09/01/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
