@@ -29,10 +29,8 @@ MM14 | Fights the Evils with Great Power | 04/17/2022 | 9/26/2021 | 64
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
-77 | Ninja City | 06/16/2022 | 11/28/2021 | 49
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
 78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
-79 | A Frightening Experience | 06/23/2022 | 1/16/2022 | 57
 64 | Hold You Close and Feel Things | 06/28/2022 | 4/18/2021 | 58
 81 | One Hell of a Nobody | 06/30/2022 | 03/27/2022 | 53
 82 | Are You Looking for Death? | 06/30/2022 | 05/15/2022 | 50
@@ -65,6 +63,8 @@ MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 08/28/2022 | 7/27/2021 | 65
 MM15 | Don't Be Afraid of Me | 08/28/2022 | 12/05/2021 | 55
 MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
+77 | Ninja City | 09/01/2022 | 11/28/2021 | 49
+79 | A Frightening Experience | 09/01/2022 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,9 +72,9 @@ MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 5 (Th)
-80s | 4 | 1 (Th)
-60s | 6 | 1 (Th)
+Other | 3 | 6 (Th)
+80s | 4 | 2 (Th)
+60s | 6 | 2 (Th)
 MM00s | 9 | 0 (Tu)
 70s | 10 | 0 (Th)
 MM10s | 10 | 0 (Su)
