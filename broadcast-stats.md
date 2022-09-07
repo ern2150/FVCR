@@ -32,7 +32,6 @@ MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
 78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
 64 | Hold You Close and Feel Things | 06/28/2022 | 4/18/2021 | 58
-81 | One Hell of a Nobody | 06/30/2022 | 03/27/2022 | 53
 82 | Are You Looking for Death? | 06/30/2022 | 05/15/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/03/2022 | 6/27/2021 | 54
 69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
@@ -65,6 +64,7 @@ MM15 | Don't Be Afraid of Me | 08/28/2022 | 12/05/2021 | 55
 MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 77 | Ninja City | 09/01/2022 | 11/28/2021 | 49
 79 | A Frightening Experience | 09/01/2022 | 1/16/2022 | 57
+81 | One Hell of a Nobody | 09/06/2022 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,11 +73,11 @@ MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 6 (Th)
-80s | 4 | 2 (Th)
 60s | 6 | 2 (Th)
-MM00s | 9 | 0 (Tu)
+MM00s | 9 | 1 (Tu)
+MM10s | 10 | 1 (Su)
+80s | 4 | 0 (Tu)
 70s | 10 | 0 (Th)
-MM10s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
