@@ -216,6 +216,10 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/06/2022 | The Gaman
+09/06/2022 | Turbo Grafx 16 Showcase
+09/06/2022 | ONCE UPON A HAMSTER
+09/06/2022 | MILK VIDEOZINE SUPPLEMENT 2 FUN
 09/01/2022 | WWF Breakdown Master Plan "I have a dream" (sponsored by Stridex) 
 08/30/2022 | SYNTHAXE
 08/30/2022 | National Exciting Video "THEN, press the play button"
