@@ -30,7 +30,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
 78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
-82 | Are You Looking for Death? | 06/30/2022 | 05/15/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/03/2022 | 6/27/2021 | 54
 69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
@@ -65,6 +64,7 @@ MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 81 | One Hell of a Nobody | 09/06/2022 | 03/27/2022 | 53
 64 | Hold You Close and Feel Things | 09/11/2022 | 4/18/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
+82 | Are You Looking for Death? | 09/13/2022 | 05/15/2022 | 50
 
 
 
@@ -74,7 +74,7 @@ MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 7 (Th)
-MM00s | 9 | 1 (Tu)
+MM00s | 9 | 2 (Tu)
 70s | 10 | 1 (Th)
 80s | 4 | 0 (Tu)
 60s | 6 | 0 (Su)
