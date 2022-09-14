@@ -218,6 +218,10 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/13/2022 | Japanese Toy Commercials v1 (with the film counters, incl LEOPARDON)
+09/13/2022 | gamespotTV Dreamcast edition
+09/13/2022 | REVOLUTION TOASTER
+09/13/2022 | PHILIPS CD RECORDER
 09/06/2022 | The Gaman
 09/06/2022 | Turbo Grafx 16 Showcase
 09/06/2022 | ONCE UPON A HAMSTER
