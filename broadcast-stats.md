@@ -29,8 +29,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
-78 | All for Revenge | 06/21/2022 | 1/9/2022 | 50
-68 | Endless Chain of Duels and Killings | 07/03/2022 | 6/27/2021 | 54
 69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
@@ -65,6 +63,8 @@ MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 64 | Hold You Close and Feel Things | 09/11/2022 | 4/18/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 82 | Are You Looking for Death? | 09/13/2022 | 05/15/2022 | 50
+68 | Endless Chain of Duels and Killings | 09/15/2022 | 6/27/2021 | 54
+78 | All for Revenge | 09/15/2022 | 1/9/2022 | 50
 
 
 
@@ -73,11 +73,11 @@ MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 7 (Th)
+Other | 3 | 8 (Th)
 MM00s | 9 | 2 (Tu)
-70s | 10 | 1 (Th)
 80s | 4 | 0 (Tu)
-60s | 6 | 0 (Su)
+60s | 6 | 0 (Th)
+70s | 10 | 0 (Th)
 MM10s | 10 | 0 (Su)
 
 
