@@ -35,7 +35,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 73 | The Whirlpool of Battle | 07/19/2022 | 9/21/2021 | 62
-MM19 | Ghost Shadow Squad | 07/19/2022 | 02/06/2022 | 55
 MM12 | Evil Is Never Invincible | 07/26/2022 | 8/10/2021 | 58
 MM18 | Fought Against All Evils | 07/26/2022 | 1/23/2022 | 51
 MM4 | I'm Glad to See You're Prepared to Die | 07/28/2022 | 4/4/2021 | 50
@@ -65,6 +64,7 @@ MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 82 | Are You Looking for Death? | 09/13/2022 | 05/15/2022 | 50
 68 | Endless Chain of Duels and Killings | 09/15/2022 | 6/27/2021 | 54
 78 | All for Revenge | 09/15/2022 | 1/9/2022 | 50
+MM19 | Ghost Shadow Squad | 09/20/2022 | 02/06/2022 | 55
 
 
 
@@ -74,11 +74,11 @@ MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 8 (Th)
-MM00s | 9 | 2 (Tu)
-80s | 4 | 0 (Tu)
+80s | 4 | 1 (Tu)
+MM10s | 10 | 1 (Su)
 60s | 6 | 0 (Th)
+MM00s | 9 | 0 (Tu)
 70s | 10 | 0 (Th)
-MM10s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
