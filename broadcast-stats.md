@@ -34,8 +34,6 @@ MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
-73 | The Whirlpool of Battle | 07/19/2022 | 9/21/2021 | 62
-MM12 | Evil Is Never Invincible | 07/26/2022 | 8/10/2021 | 58
 MM18 | Fought Against All Evils | 07/26/2022 | 1/23/2022 | 51
 MM4 | I'm Glad to See You're Prepared to Die | 07/28/2022 | 4/4/2021 | 50
 80 | Pass Through All Hard Times | 07/28/2022 | 02/20/2022 | 46
@@ -65,6 +63,8 @@ MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 68 | Endless Chain of Duels and Killings | 09/15/2022 | 6/27/2021 | 54
 78 | All for Revenge | 09/15/2022 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 09/20/2022 | 02/06/2022 | 55
+MM12 | Evil Is Never Invincible | 9/25/2022 | 8/10/2021 | 58
+73 | The Whirlpool of Battle | 09/25/2022 | 9/21/2021 | 62
 
 
 
@@ -73,11 +73,11 @@ MM19 | Ghost Shadow Squad | 09/20/2022 | 02/06/2022 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 8 (Th)
+Other | 3 | 9 (Th)
+MM00s | 9 | 3 (Tu)
 80s | 4 | 1 (Tu)
-MM10s | 10 | 1 (Su)
-60s | 6 | 0 (Th)
-MM00s | 9 | 0 (Tu)
+60s | 6 | 1 (Th)
+MM10s | 10 | 0 (Su)
 70s | 10 | 0 (Th)
 
 
