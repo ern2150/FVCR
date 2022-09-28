@@ -220,6 +220,12 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/27/2022 | SEGATA SANSHIROs 
+09/27/2022 | Michael Sembello - Automatic Man
+09/27/2022 | Arcade attack Silverball Heroes (excerpt with all the animation)
+09/27/2022 | Azul y Negro - Isadora
+09/27/2022 | National Commercials: disclord, toddler Tube, Janet Jackson Angel Baby "Kita", hoop skirts, ostrich, bang a gong moon radio poo poo, national giant keyboard king kong msx 
+09/27/2022 | VHD 1985 product demo 
 09/20/2022 | super JUMBO bros 
 09/20/2022 | Snakeboard
 09/20/2022 | northEast Mall
