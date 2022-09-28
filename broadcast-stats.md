@@ -36,7 +36,6 @@ MM8 | The Sword of Catastrophe | 07/12/2022 | 6/15/2021 | 61
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM18 | Fought Against All Evils | 07/26/2022 | 1/23/2022 | 51
 MM4 | I'm Glad to See You're Prepared to Die | 07/28/2022 | 4/4/2021 | 50
-80 | Pass Through All Hard Times | 07/28/2022 | 02/20/2022 | 46
 MM16 | Today We Shall Kill Each Other | 07/31/2022 | 12/21/2021 | 52
 75 | Never Show Emotion | 07/31/2022 | 11/07/2021 | 48
 70 | Take the Fight to the Enemy | 08/02/2022 | 7/11/2021 | 54
@@ -65,6 +64,7 @@ MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 MM19 | Ghost Shadow Squad | 09/20/2022 | 02/06/2022 | 55
 MM12 | Evil Is Never Invincible | 9/25/2022 | 8/10/2021 | 58
 73 | The Whirlpool of Battle | 09/25/2022 | 9/21/2021 | 62
+80 | Pass Through All Hard Times | 09/27/2022 | 02/20/2022 | 46
 
 
 
@@ -74,10 +74,10 @@ MM12 | Evil Is Never Invincible | 9/25/2022 | 8/10/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 9 (Th)
-MM00s | 9 | 3 (Tu)
-80s | 4 | 1 (Tu)
+MM00s | 9 | 4 (Tu)
 60s | 6 | 1 (Th)
 MM10s | 10 | 0 (Su)
+80s | 4 | 0 (Tu)
 70s | 10 | 0 (Th)
 
 
