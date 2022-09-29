@@ -189,7 +189,7 @@ Latest Date | Video / Audio | Debut++
 1/19/2021 | (another interlude "We Filmed Heaven") / (same as video) | 1/19/2021
 1/19/2021 | (another interlude where a dude is on a phone) / (same as video) | 1/19/2021
 1/19/2021 | (French laser toy Claude Debussy) / (same as video) | 1/19/2021
-1/14/2021 | Action Figure then Red v Black Ninja in Gazebo / Beirut - Elephant Gun | 1/14/2021
+1/14/2021 | [Action Figure then Red v Black Ninja in Gazebo](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ultimate-Ninja-(1986)#stuart-doll) / [Beirut - Elephant Gun](https://youtu.be/SWSz_PAfgNc) | 1/14/2021
 1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video) | 1/12/2021
 1/12/2021 | Daicon III / (same as video) | 12/22/2020
 1/10/2021 | COJI COJI Opener / (same as video) | 12/6/2020
