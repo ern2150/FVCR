@@ -186,8 +186,8 @@ Latest Date | Video / Audio | Debut++
 1/26/2021 | CELICAXXX Wide Show Time Gang Break / (same as video) | 1/26/2021
 1/21/2021 | GRANDO FAIR / (same as video) | 1/19/2021
 1/21/2021 | Fist of the North Star S2 Opening / Tom Cat - Tough Boy | 7/23/2020
-1/19/2021 | (another interlude "We Filmed Heaven") / (same as video) | 1/19/2021
-1/19/2021 | (another interlude where a dude is on a phone) / (same as video) | 1/19/2021
+1/19/2021 | (another interlude "We Filmed Heaven") [continues from Tokyo Melody at 56:45] / (same as video) | 1/19/2021
+1/19/2021 | (another interlude where a dude is on a phone) [continues from Tokyo Melody at 37:06] / (same as video) | 1/19/2021
 1/19/2021 | (French laser toy Claude Debussy) from [Ryuichi Sakamoto - Tokyo Melody](https://youtu.be/Yv3Iqzpv3_I) / (same as video) | 1/19/2021
 1/14/2021 | [Action Figure then Red v Black Ninja in Gazebo](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ultimate-Ninja-(1986)#stuart-doll) / [Beirut - Elephant Gun](https://youtu.be/SWSz_PAfgNc) | 1/14/2021
 1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video) | 1/12/2021
