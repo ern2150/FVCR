@@ -190,8 +190,8 @@ Latest Date | Video / Audio | Debut++
 1/19/2021 | (another interlude where a dude is on a phone) [continues from Tokyo Melody at 37:06] / (same as video) | 1/19/2021
 1/19/2021 | (French laser toy Claude Debussy) from [Ryuichi Sakamoto - Tokyo Melody](https://youtu.be/Yv3Iqzpv3_I) / (same as video) | 1/19/2021
 1/14/2021 | [Action Figure then Red v Black Ninja in Gazebo](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ultimate-Ninja-(1986)#stuart-doll) / [Beirut - Elephant Gun](https://youtu.be/SWSz_PAfgNc) | 1/14/2021
-1/12/2021 | Kabuki Rocks - Niji no Miyako / (same as video) | 1/12/2021
-1/12/2021 | Daicon III / (same as video) | 12/22/2020
+1/12/2021 | [Kabuki Rocks - Niji no Miyako](https://youtu.be/vy10ksoyEEY?t=25) / (same as video) | 1/12/2021
+1/12/2021 | [Daicon III](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Daicon#iii) / [Kitaro - Noah's Ark](https://youtu.be/Vzjz8JgaI7s) | 12/22/2020
 1/10/2021 | COJI COJI Opener / (same as video) | 12/6/2020
 
 ++ outside of a mixtape or bonus clip, as a stream opener
