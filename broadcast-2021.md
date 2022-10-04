@@ -179,7 +179,7 @@ Latest Date | Video / Audio | Debut++
 3/25/2021 | Heaven's Hell Trailer / (same as video) | 3/25/2021
 3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart | 8/27/2020
 3/14/2021 | Ideon footage / Ideon opening full song | 1/7/2021
-3/11/2021 | Martial Arts Weapons / Tangerine Dream - Logo Part One A | 2/21/2021
+3/11/2021 | [Mark Grove's Path of the Ninja - Shinobigatana](https://youtu.be/GbNDe5IFJLw?t=76) / [Tangerine Dream - Logo Part One A](https://youtu.be/YciBfhO1JZU) | 2/21/2021
 3/4/2021 | [STREAM TRAILER](https://www.twitch.tv/videos/935903302) / [Ideon - Overwhelming Power](https://www.youtube.com/watch?v=4w64jlqc-JU&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=156) | 3/4/2021
 2/28/2021 | Kamen Rider Ay-Ay / (same as video) | 12/1/2020
 2/16/2021 | Dairanger Opener / (same as video) | 12/6/2020
