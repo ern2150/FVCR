@@ -164,7 +164,7 @@ Latest Date | Video / Audio | Debut++
 5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me | 4/13/2021
 5/2/2021 | Daicon IV🎧 / ELO - Album opener, Twilight | 9/13/2020
 4/20/2021 | Motorcycle Modown (Iron Angels 3) / Battles - Atlas | 4/20/2021
-4/18/2021 | Actual Robowar intro / (same as video) | 4/6/2021
+4/18/2021 | [Actual Robowar intro](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Robowar-(1988)#end-credits) / (same as video) | 4/6/2021
 4/11/2021 | Saint Seiya Opener🎧 / (same as video) | 12/29/2020
 4/11/2021 | Hot Yachts Cold Water🎧 / Jan Akkerman - She's So Divine | 12/29/2020
 -- | --
