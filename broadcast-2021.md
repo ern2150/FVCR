@@ -167,6 +167,8 @@ Latest Date | Video / Audio | Debut++
 4/18/2021 | Actual Robowar intro / (same as video) | 4/6/2021
 4/11/2021 | Saint Seiya Opener / (same as video) | 12/29/2020
 4/11/2021 | Hot Yachts Cold Water / Jan Akkerman - She's So Divine | 12/29/2020
+-- | --
+4/1/2021 | [𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊: 𝘾𝙃𝘼𝙈𝙋𝙄𝙊𝙉𝙎𝙃𝙄𝙋 𝙀𝘿𝙄𝙏𝙄𝙊𝙉](https://github.com/ern2150/FVCR/wiki/Forced-Stereo:-Championship-Edition) | 4/1/2021
 4/1/2021 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
 4/1/2021 | SoundMarket - Earthshine / (same as video) | 4/1/2021
 4/1/2021 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
@@ -175,6 +177,7 @@ Latest Date | Video / Audio | Debut++
 4/1/2021 | Yattodetaman Opener / (same as video) | 12/6/2020
 4/1/2021 | Naoko Kawai - Control / (same as video) | 11/19/2020
 4/1/2021 | GoLion Opener / (same as video) | 12/6/2020
+-- | --
 3/28/2021 | Balaji Dance in Steppe Forest / [MF DOOM - Mandrake (HE CAME FROM)](https://youtu.be/HAidM8xRhHI) | 3/2/2021
 3/25/2021 | [Heaven's Hell Trailer](https://youtu.be/SA0dQ4aaTHw) / (same as video) | 3/25/2021
 3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart | 8/27/2020
