@@ -222,6 +222,8 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+10/04/2022 | Master Tsai's How to Protect Yourself
+10/04/2022 | How to Eat Lobster the Maine Way
 09/27/2022 | SEGATA SANSHIROs 
 09/27/2022 | Michael Sembello - Automatic Man
 09/27/2022 | Arcade attack Silverball Heroes (excerpt with all the animation)
