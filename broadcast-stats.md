@@ -33,7 +33,6 @@ MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
-70 | Take the Fight to the Enemy | 08/02/2022 | 7/11/2021 | 54
 MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 72 | Who Is the Champion Now? | 08/09/2022 | 9/7/2021 | 53
 MM17 | Ninja Challenge Card | 08/09/2022 | 1/2/2022 | 52
@@ -65,6 +64,8 @@ MM18 | Fought Against All Evils | 09/29/2022 | 1/23/2022 | 51
 MM4 | I'm Glad to See You're Prepared to Die | 10/02/2022 | 4/4/2021 | 50
 MM16 | Today We Shall Kill Each Other | 10/02/2022 | 12/21/2021 | 52
 75 | Never Show Emotion | 10/04/2022 | 11/07/2021 | 48
+70 | Take the Fight to the Enemy | 10/06/2022 | 7/11/2021 | 54
+49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
 
 
 
@@ -73,12 +74,12 @@ MM16 | Today We Shall Kill Each Other | 10/02/2022 | 12/21/2021 | 52
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 10 (Th)
-60s | 6 | 2 (Th)
+60s | 6 | 3 (Th)
 80s | 4 | 1 (Tu)
+Other | 3 | 0 (Th)
 MM00s | 9 | 0 (Su)
 MM10s | 10 | 0 (Su)
-70s | 10 | 0 (Tu)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
