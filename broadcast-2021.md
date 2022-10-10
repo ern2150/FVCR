@@ -150,7 +150,7 @@ Latest Date | Video / Audio | Debut++
 10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino | 12/13/2020
 10/14/2021 | AND NOW NINJA Pwrfkrce🎧 / Alan Parsons Project - Sirius, original audio, Mammagamma | 12/6/2020
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
-9/28/2021 | Redshirt vs Ninja (Live to Fight) / Death from Above 1979 - Going Steady | 9/28/2021
+9/28/2021 | [Redshirt vs Ninja shakycam from Born to Fight](https://youtu.be/E43GrleqZns?t=4381) / [Death from Above 1979 - Going Steady](https://youtu.be/U4glcz1SoaQ) | 9/28/2021
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Zoofunkel🎧 / Simon & Garfunkel - At the Zoo | 4/1/2021
 5/20/2021 | ULTRAMAN 80 Opener🎧 / (same as video) | 5/7/2020
