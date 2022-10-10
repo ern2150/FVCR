@@ -23,7 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
-  | Evil Is Excusable 2021 Halloween Vol 1 | 05/01/2022 | 10/3/2021 | 45
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
@@ -35,7 +34,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 72 | Who Is the Champion Now? | 08/09/2022 | 9/7/2021 | 53
-MM17 | Ninja Challenge Card | 08/09/2022 | 1/2/2022 | 52
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM10 | The Splatter and Gore Department | 08/14/2022 | 7/15/2021 | 59
 MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
@@ -66,6 +64,8 @@ MM16 | Today We Shall Kill Each Other | 10/02/2022 | 12/21/2021 | 52
 75 | Never Show Emotion | 10/04/2022 | 11/07/2021 | 48
 70 | Take the Fight to the Enemy | 10/06/2022 | 7/11/2021 | 54
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
+MM17 | Ninja Challenge Card | 10/09/2022 | 1/2/2022 | 52
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/09/2022 | 10/3/2021 | 45
 
 
 
@@ -76,8 +76,8 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 3 (Th)
 80s | 4 | 1 (Tu)
-Other | 3 | 0 (Th)
-MM00s | 9 | 0 (Su)
+MM00s | 9 | 1 (Su)
+Other | 3 | 0 (Su)
 MM10s | 10 | 0 (Su)
 70s | 10 | 0 (Th)
 
