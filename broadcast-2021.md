@@ -156,9 +156,9 @@ Latest Date | Video / Audio | Debut++
 5/20/2021 | ULTRAMAN 80 Opener🎧 / (same as video) | 5/7/2020
 5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
 5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara | 7/14/2020
-5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN | 5/11/2021
+5/11/2021 | [Road Warriors FUN](https://github.com/ern2150/FVCR/wiki/Vortex#road-warriors-from-outer-space) / [Andrew WK - We Want FUN](https://youtu.be/LofXZ0j3XtI) | 5/11/2021
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside🎧 / (same as video) | 4/1/2021
-5/11/2021 | Anime Previews incl Genocyber / (same as video) | 4/11/2021
+5/11/2021 | [U.S. Manga Corps Anime Previews incl Genocyber](https://youtu.be/UPiKvQjVh8M?t=13) / (same as video) | 4/11/2021
 5/9/2021 | [Jason Takes Manhattan trailer](https://youtu.be/LL_H1D5a1Ww) then [W\*ING Jason v Freddy](https://youtu.be/V2Eogr0CdKY?t=251) / New York, New York sax instrumental (same as trailer video) then [Misfits - Skulls](https://youtu.be/VLXEj4UowF8) | 3/28/2021
 5/9/2021 | [Character Profiles: Mary Roberts / Brothers Johnson - Good to You](https://youtu.be/GZ5HgnTSkGI) | 8/13/2020
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental | 4/13/2021
