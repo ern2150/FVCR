@@ -162,8 +162,8 @@ Latest Date | Video / Audio | Debut++
 5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls | 3/28/2021
 5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You | 8/13/2020
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental | 4/13/2021
-5/6/2021 | Tah Tien credits / (same as video) | 4/13/2021
-5/6/2021 | Destiny to Order end and beginning cut together / Holly Cole - Surrender to Me | 4/13/2021
+5/6/2021 | [Tah Tien credits](https://youtu.be/cs0vZm-21SU?t=155) / (same as video) | 4/13/2021
+5/6/2021 | [Destiny to Order end and beginning cut together](https://archive.org/details/destiny-to-order-1989-hdpvr-amazon-prime-video-whodude?start=5341) / Holly Cole - Surrender to Me | 4/13/2021
 5/2/2021 | Daicon IV🎧 / ELO - Album opener, Twilight | 9/13/2020
 4/20/2021 | [Motorcycle Modown (Iron Angels 3)](https://archive.org/details/iron-angels-1989?start=4340) / [Battles - Atlas](https://youtu.be/IpGp-22t0lU) | 4/20/2021
 4/18/2021 | [Actual Robowar intro](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Robowar-(1988)#end-credits) / (same as video) | 4/6/2021
