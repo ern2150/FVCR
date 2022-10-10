@@ -159,8 +159,8 @@ Latest Date | Video / Audio | Debut++
 5/11/2021 | Road Warriors FUN / Andrew WK - We Want FUN | 5/11/2021
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside🎧 / (same as video) | 4/1/2021
 5/11/2021 | Anime Previews incl Genocyber / (same as video) | 4/11/2021
-5/9/2021 | Friday the 13th promo then W\*ING Freddie v Jason / New York, New York sax instrumental then Misfits - Skulls | 3/28/2021
-5/9/2021 | Character Profiles: Mary Roberts / Brothers Johnson - Good to You | 8/13/2020
+5/9/2021 | [Jason Takes Manhattan trailer](https://youtu.be/LL_H1D5a1Ww) then [W\*ING Jason v Freddy](https://youtu.be/V2Eogr0CdKY?t=251) / New York, New York sax instrumental (same as trailer video) then [Misfits - Skulls](https://youtu.be/VLXEj4UowF8) | 3/28/2021
+5/9/2021 | [Character Profiles: Mary Roberts / Brothers Johnson - Good to You](https://youtu.be/GZ5HgnTSkGI) | 8/13/2020
 5/6/2021 | Strings in the Sunset (Tah Tien contd) / Fiddler on the Roof instrumental | 4/13/2021
 5/6/2021 | [Tah Tien credits](https://youtu.be/cs0vZm-21SU?t=155) / (same as video) | 4/13/2021
 5/6/2021 | [Destiny to Order end and beginning cut together](https://archive.org/details/destiny-to-order-1989-hdpvr-amazon-prime-video-whodude?start=5341) / Holly Cole - Surrender to Me | 4/13/2021
