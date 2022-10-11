@@ -154,8 +154,8 @@ Latest Date | Video / Audio | Debut++
 6/10/2021 | Zar and the West Side Boys / Joji - Pretty Boy
 5/27/2021 | Zoofunkel🎧 / Simon & Garfunkel - At the Zoo | 4/1/2021
 5/20/2021 | ULTRAMAN 80 Opener🎧 / (same as video) | 5/7/2020
-5/13/2021 | VideoDrome's Tape Decay by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
-5/13/2021 | Cyber Ninja Opening Battle / Tony McAlpine - Tears of the Sahara | 7/14/2020
+5/13/2021 | [VideoDrome's Tape Decay](https://www.instagram.com/p/COyHx2JhpI3/) by Mister Melluwu at VaporwaveSTL / KevinTheCreep - 2:13 | 5/13/2021
+5/13/2021 | [Cyber Ninja Opening Battle](https://archive.org/details/CYBERNINJA_201812/CYBER+NINJA.ISO?start=109) / [Tony McAlpine - Tears of the Sahara](https://www.youtube.com/watch?v=aMvqc25AQik&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=83) | 7/14/2020
 5/11/2021 | [Road Warriors FUN](https://github.com/ern2150/FVCR/wiki/Vortex#road-warriors-from-outer-space) / [Andrew WK - We Want FUN](https://youtu.be/LofXZ0j3XtI) | 5/11/2021
 5/11/2021 | Gary Numaninja, THEN, Hurry Open, Dancing Inside🎧 / (same as video) | 4/1/2021
 5/11/2021 | [U.S. Manga Corps Anime Previews incl Genocyber](https://youtu.be/UPiKvQjVh8M?t=13) / (same as video) | 4/11/2021
@@ -268,4 +268,4 @@ Outros
 ------
 Latest Date | Video / Audio
 -- | --
-5/13/2021 | Tigamask Weightlifting Ring training Stats	/ Vic Sepanski - Starglide
+5/13/2021 | [Tigamask Weightlifting Ring training Stats](https://youtu.be/21Kjw7d8rUA)	/ [Vic Sepanski - Starglide](https://www.youtube.com/watch?v=Uhdch7CUwsQ&list=PLBbOMhtEZWjk5CaGWMLH5GEceqTICinZS&index=74)
