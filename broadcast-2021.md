@@ -182,7 +182,7 @@ Latest Date | Video / Audio | Debut++
 -- | --
 3/28/2021 | Balaji Dance in Steppe Forest / [MF DOOM - Mandrake (HE CAME FROM)](https://youtu.be/HAidM8xRhHI) | 3/2/2021
 3/25/2021 | [Heaven's Hell Trailer](https://youtu.be/SA0dQ4aaTHw) / (same as video) | 3/25/2021
-3/21/2021 | Character Profiles: Hanuman / The Go Team - Kickstart | 8/27/2020
+3/21/2021 | [Character Profiles: Hanuman](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Hanuman-vs-7-Ultramen-(1974)#hanuman-vs-sun) / [The Go Team - Kickstart](https://youtu.be/wQg7qOB5Heg) | 8/27/2020
 3/14/2021 | [Ideon Opening without titles](https://youtu.be/xumT8QwcJvY) / (same as video) | 1/7/2021
 3/11/2021 | [Mark Grove's Path of the Ninja - Shinobigatana](https://youtu.be/GbNDe5IFJLw?t=76) / [Tangerine Dream - Logo Part One A](https://youtu.be/YciBfhO1JZU) | 2/21/2021
 3/4/2021 | [STREAM TRAILER](https://www.twitch.tv/videos/935903302) / [Ideon - Overwhelming Power](https://www.youtube.com/watch?v=4w64jlqc-JU&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=156) | 3/4/2021
