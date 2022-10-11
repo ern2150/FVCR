@@ -137,7 +137,7 @@ Latest Date | Video / Audio | Debut++
 12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
 12/05/2021 | Ninja the Protector credits then Schtuff / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
-11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
+11/04/2021 | [Sitar Suit Seaside Scramble](https://youtu.be/5ORsGbP4kzs?t=4601) / [(the affair, then)](https://youtu.be/TEDN8Yh2c2o) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
 11/04/2021 | Little Red Cynthia Hood vs Pit Fighter🎧 / Edwards Generation - That's How Much I Love Her | 3/9/2021
 11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59🎧 / Doktor Plekter - Kavo | 7/23/2020
 10/31/2021 | [The Boy God decapitates LAZER WIZARD](https://youtu.be/6dUiY85El98?t=4477) / (same as video) | 10/31/2021
