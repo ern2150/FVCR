@@ -147,7 +147,7 @@ Latest Date | Video / Audio | Debut++
 10/31/2021 | [Zuntata - DADDY MULK (live with Shamisen solo)](https://www.youtube.com/watch?v=NteidGHXV7U&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=3) / (same as video) | 8/13/2020
 10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 10/14/2021 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
-10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino | 12/13/2020
+10/14/2021 | [NINJA LA Conquista Del Mondo credits until ragdoll](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Thundering-Ninja-(1986)#credits) / Genesis - Domino (same as video) | 12/13/2020
 10/14/2021 | AND NOW NINJA Pwrfkrce🎧 / Alan Parsons Project - Sirius, original audio, Mammagamma | 12/6/2020
 10/3/2021 | "𝘿𝙍𝙄𝙁𝙏 𝙏𝙊𝙒𝘼𝙍𝘿 𝙎𝘼𝙏𝘼𝙉𝙄𝙎𝙈: 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 9/28/2021 | [Redshirt vs Ninja shakycam from Born to Fight](https://youtu.be/E43GrleqZns?t=4381) / [Death from Above 1979 - Going Steady](https://youtu.be/U4glcz1SoaQ) | 9/28/2021
