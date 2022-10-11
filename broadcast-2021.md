@@ -140,11 +140,11 @@ Latest Date | Video / Audio | Debut++
 11/04/2021 | Sitar Suit Seaside Scramble / (the affair, then) J Dilla - Coming Back | 7/20/2021
 11/04/2021 | Little Red Cynthia Hood vs Pit Fighter🎧 / Edwards Generation - That's How Much I Love Her | 3/9/2021
 11/02/2021 | THEN [VHS Instructional tape], Strong Men VCRs, Alpha Digital, Lookie, Canyon TV, Disinterested Dancers, YMO Rydeen, Purple Timeclock Top right 2:59🎧 / Doktor Plekter - Kavo | 7/23/2020
-10/31/2021 | The Boy God decapitates LAZER WIZARD / (same as video) | 10/31/2021
-10/31/2021 | DOODLAT LESSONS from Monkey Wars / (same as video) | 10/31/2021
-10/31/2021 | Noriko Sakai - HAPPY AGAIN / (same as video) | 10/6/2020
-10/31/2021 | THE PHONE ZOMBIES 1900490DEAD / (same as video) | 10/31/2021
-10/31/2021 | Zuntata - DADDY MULK (live with Shamisen solo) / (same as video) | 8/13/2020
+10/31/2021 | [The Boy God decapitates LAZER WIZARD](https://youtu.be/6dUiY85El98?t=4477) / (same as video) | 10/31/2021
+10/31/2021 | [DOODLAT LESSONS from Monkey Wars](https://youtu.be/W-aB2lrq76c?t=539) / (same as video) | 10/31/2021
+10/31/2021 | [Noriko Sakai - HAPPY AGAIN](https://www.youtube.com/watch?v=-g0mb5vuSBQ&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=181) / (same as video) | 10/6/2020
+10/31/2021 | [THE PHONE ZOMBIES 1900490DEAD](https://youtu.be/rXAAn60BeYE) / (same as video) | 10/31/2021
+10/31/2021 | [Zuntata - DADDY MULK (live with Shamisen solo)](https://www.youtube.com/watch?v=NteidGHXV7U&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=3) / (same as video) | 8/13/2020
 10/31/2021 | "𝙏𝙃𝙀 𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝙑𝘾𝙍 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 // 3+ 𝙃𝙊𝙐𝙍𝙎 𝙊𝙁 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎"
 10/14/2021 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
 10/14/2021 | NINJA LA Conquista Del Mondo credits until ragdoll / Genesis - Domino | 12/13/2020
