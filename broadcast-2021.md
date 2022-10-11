@@ -187,7 +187,7 @@ Latest Date | Video / Audio | Debut++
 3/11/2021 | [Mark Grove's Path of the Ninja - Shinobigatana](https://youtu.be/GbNDe5IFJLw?t=76) / [Tangerine Dream - Logo Part One A](https://youtu.be/YciBfhO1JZU) | 2/21/2021
 3/4/2021 | [STREAM TRAILER](https://www.twitch.tv/videos/935903302) / [Ideon - Overwhelming Power](https://www.youtube.com/watch?v=4w64jlqc-JU&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=156) | 3/4/2021
 2/28/2021 | [Kamen Rider Ay-Ay](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Kamen-Rider-Super-1-(1980)#closing) / (same as video) | 12/1/2020
-2/16/2021 | Dairanger Opener / (same as video) | 12/6/2020
+2/16/2021 | [Dairanger Opener](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Gosei-Sentai-Dairanger-(1993)#five-star-squad) / (same as video) | 12/6/2020
 1/26/2021 | [CELICAXXX Wide Show Time Gang Break](https://archive.org/details/11-pmosaka-2-2-84?start=2774) / (same as video) | 1/26/2021
 1/21/2021 | [GRANDO FAIR](https://github.com/ern2150/FVCR/wiki/Vortex#grando-fair) / (same as video) | 1/19/2021
 1/21/2021 | [Fist of the North Star aka Hokuto no Ken 2 Intro](https://www.youtube.com/watch?v=PnRuhAc8GAc) / [Tom Cat - Tough Boy](https://www.youtube.com/watch?v=Mdju-W_ZAnw&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=38) | 7/23/2020
