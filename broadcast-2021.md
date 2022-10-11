@@ -134,7 +134,7 @@ Latest Date | Video / Audio | Debut++
 12/26/2021 | 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙔𝙊𝙐 𝘼𝙇𝙇 // 𝙎𝙏𝙍𝙀𝘼𝙈 𝙄𝙉𝙏𝙍𝙊
 12/26/2021 | 𝘽𝙊𝙓𝙄𝙉𝙂 𝘿𝘼𝙔 𝙎𝙏𝙍𝙀𝘼𝙈 𝙎𝙐𝙉𝘿𝘼𝙔 12/26 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇
 12/19/2021 | I Only Have Eyes for Dick (Wei and Mark Houghton) / Chocolate Milk - How about Love | 11/16/2021
-12/09/2021 | Summertime Seaside Skullcrusher / (Love Theme from Omega Cop) | 7/22/2021
+12/09/2021 | [Summertime Seaside Skullcrusher](https://youtu.be/I0rFqTRuy5c?t=5150) / [(Love Theme from Omega Cop)](https://youtu.be/V35Pyyak974?t=114) | 7/22/2021
 12/05/2021 | [Ninja the Protector credits then Schtuff](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-the-Protector-(1986)#credits) / DANDY COLOGNE, Original Audio | 4/20/2021
 11/04/2021 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5048) Mike v Mark "Forget it, Rex" / (same as video) | 11/4/2021
 11/04/2021 | [Sitar Suit Seaside Scramble](https://youtu.be/5ORsGbP4kzs?t=4601) / [(the affair, then)](https://youtu.be/TEDN8Yh2c2o) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
