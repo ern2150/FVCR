@@ -224,6 +224,8 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+10/11/2022 | Spooky World visit to America's Horror Theme park with Savini
+10/11/2022 | Master Tsai's Protect Yourself against Weapons
 10/04/2022 | Master Tsai's How to Protect Yourself
 10/04/2022 | How to Eat Lobster the Maine Way
 09/27/2022 | SEGATA SANSHIROs 
