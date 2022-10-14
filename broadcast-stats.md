@@ -34,7 +34,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
-MM10 | The Splatter and Gore Department | 08/14/2022 | 7/15/2021 | 59
 MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
 66 | Do You Really Have the Confidence? | 08/18/2022 | 5/23/2021 | 56
 83 | I Don't Mind a Little Danger | 08/18/2022 | 06/12/2022 | 50
@@ -66,7 +65,7 @@ MM16 | Today We Shall Kill Each Other | 10/02/2022 | 12/21/2021 | 52
 MM17 | Ninja Challenge Card | 10/09/2022 | 1/2/2022 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/09/2022 | 10/3/2021 | 45
 72 | Who Is the Champion Now? | 10/11/2022 | 9/7/2021 | 53
-
+MM10 | The Splatter and Gore Department | 10/13/2022 | 7/15/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,11 +73,11 @@ MM17 | Ninja Challenge Card | 10/09/2022 | 1/2/2022 | 52
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 3 (Th)
+60s | 6 | 4 (Th)
 80s | 4 | 2 (Tu)
 MM00s | 9 | 1 (Su)
 Other | 3 | 0 (Su)
-MM10s | 10 | 0 (Su)
+MM10s | 10 | 0 (Th)
 70s | 10 | 0 (Tu)
 
 
