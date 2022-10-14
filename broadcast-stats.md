@@ -225,6 +225,15 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+10/13/2022 | VHS One Hour Photo, Evangelion Clip
+10/13/2022 | VHS the CAR, Trailer
+10/13/2022 | VHS Leprechaun 3, Trailer
+10/13/2022 | VHS Mom (promotional), Trailer
+10/13/2022 | VHS Hunter's Blood, Trailer
+10/13/2022 | VHS Dean Cain BOA, Trailer
+10/13/2022 | VHS covers Heroic Trio, Blair Witch Project, The Cell, The Crow Salvation, American Psycho 2, Evil Dead 2... Lawnmower Man, Evil Ed (Horrorshop ad cover)
+10/13/2022 | Sticker Keep VHS Cheap from MikeVideoPunk
+10/13/2022 | Squidgey GON dinos
 10/11/2022 | Spooky World visit to America's Horror Theme park with Savini
 10/11/2022 | Master Tsai's Protect Yourself against Weapons
 10/04/2022 | Master Tsai's How to Protect Yourself
