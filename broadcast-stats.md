@@ -227,6 +227,8 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+10/18/2022 | DragonStrike
+10/18/2022 | United Studios of Martial Arts Orange Belt
 10/13/2022 | VHS One Hour Photo, Evangelion Clip
 10/13/2022 | VHS the CAR, Trailer
 10/13/2022 | VHS Leprechaun 3, Trailer
