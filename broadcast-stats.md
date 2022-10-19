@@ -35,7 +35,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 MM13 | Keep on Winning | 08/02/2022 | 8/22/2021 | 56
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
-66 | Do You Really Have the Confidence? | 08/18/2022 | 5/23/2021 | 56
 MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
 71 | I Don't Belong Here | 08/25/2022 | 8/1/2021 | 54
 76 | If I See Him, I'll Kill Him | 08/25/2022 | 11/21/2021 | 49
@@ -67,7 +66,7 @@ MM17 | Ninja Challenge Card | 10/09/2022 | 1/2/2022 | 52
 MM10 | The Splatter and Gore Department | 10/13/2022 | 7/15/2021 | 59
 83 | I Don't Mind a Little Danger | 10/16/2022 | 06/12/2022 | 50
 84 | *NEW* Poor Doomed Humans | 10/16/2022 | 10/16/2022 | 51
-
+66 | Do You Really Have the Confidence? | 10/18/2022 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +74,12 @@ MM10 | The Splatter and Gore Department | 10/13/2022 | 7/15/2021 | 59
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 4 (Th)
 MM00s | 9 | 2 (Su)
 Other | 3 | 1 (Su)
+70s | 10 | 1 (Tu)
 80s | 5 | 0 (Su)
+60s | 6 | 0 (Tu)
 MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
