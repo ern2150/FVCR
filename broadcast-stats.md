@@ -24,7 +24,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
 74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
-  | Devil Mountain 2021 Halloween Vol 3 | 05/01/2022 | 10/17/2021 | 49
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
@@ -33,7 +32,6 @@ MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
-MM5 | Danger Straight Ahead | 08/16/2022 | 4/4/2021 | 59
 MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
 71 | I Don't Belong Here | 08/25/2022 | 8/1/2021 | 54
 76 | If I See Him, I'll Kill Him | 08/25/2022 | 11/21/2021 | 49
@@ -67,6 +65,8 @@ MM10 | The Splatter and Gore Department | 10/13/2022 | 7/15/2021 | 59
 84 | *NEW* Poor Doomed Humans | 10/16/2022 | 10/16/2022 | 51
 66 | Do You Really Have the Confidence? | 10/18/2022 | 5/23/2021 | 56
 MM13 | Keep on Winning | 10/18/2022 | 8/22/2021 | 56
+MM5 | Danger Straight Ahead | 10/20/2022 | 4/4/2021 | 59
+  | Devil Mountain 2021 Halloween Vol 3 | 10/20/2022 | 10/17/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,11 +74,11 @@ MM13 | Keep on Winning | 10/18/2022 | 8/22/2021 | 56
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-MM00s | 9 | 2 (Su)
-Other | 3 | 1 (Su)
 70s | 10 | 1 (Tu)
+Other | 3 | 0 (Th)
 80s | 5 | 0 (Su)
 60s | 6 | 0 (Tu)
+MM00s | 9 | 0 (Th)
 MM10s | 10 | 0 (Tu)
 
 
