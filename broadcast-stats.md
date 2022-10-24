@@ -23,7 +23,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
 55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
 63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
-74 | Reached the End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/01/2022 | 10/10/2021 | 52
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
@@ -106,8 +106,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/23/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
+10/23/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+10/23/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+10/23/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+10/23/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+10/23/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+10/23/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+10/23/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
+10/23/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+10/23/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
-10/20/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/20/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 10/20/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 10/20/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
@@ -115,7 +124,6 @@ Latest Date | Video / Audio | Debut++
 10/20/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 10/20/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 10/20/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-10/20/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/18/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
 10/18/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 10/18/2022 | Baki end whiteout / (same as video) | 4/13/2021
@@ -178,14 +186,6 @@ Latest Date | Video / Audio | Debut++
 10/09/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 10/09/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 10/09/2022 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-10/06/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
-10/06/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-10/06/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-10/06/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-10/06/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-10/06/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-10/06/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-10/06/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 -- | -- | --
 10/18/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓] (see #bonus-clips)
 10/13/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
