@@ -180,7 +180,7 @@ Latest Date | Video / Audio | Debut++
 4/1/2021 | Naoko Kawai - Control / (same as video) | 11/19/2020
 4/1/2021 | GoLion Opener / (same as video) | 12/6/2020
 -- | --
-3/28/2021 | Balaji Dance in Steppe Forest / [MF DOOM - Mandrake (HE CAME FROM)](https://youtu.be/HAidM8xRhHI) | 3/2/2021
+3/28/2021 | [Balaji Dance in Steppe Forest](https://youtu.be/J-67YM_Huc4) / [MF DOOM - Mandrake (HE CAME FROM)](https://youtu.be/HAidM8xRhHI) | 3/2/2021
 3/25/2021 | [Heaven's Hell Trailer](https://youtu.be/SA0dQ4aaTHw) / (same as video) | 3/25/2021
 3/21/2021 | [Character Profiles: Hanuman](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Hanuman-vs-7-Ultramen-(1974)#hanuman-vs-sun) / [The Go Team - Kickstart](https://youtu.be/wQg7qOB5Heg) | 8/27/2020
 3/14/2021 | [Ideon Opening without titles](https://youtu.be/xumT8QwcJvY) / (same as video) | 1/7/2021
