@@ -33,10 +33,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 08/28/2022 | 7/27/2021 | 65
-MM15 | Don't Be Afraid of Me | 08/28/2022 | 12/05/2021 | 55
 MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
 77 | Ninja City | 09/01/2022 | 11/28/2021 | 49
-79 | A Frightening Experience | 09/01/2022 | 1/16/2022 | 57
 81 | One Hell of a Nobody | 09/06/2022 | 03/27/2022 | 53
 64 | Hold You Close and Feel Things | 09/11/2022 | 4/18/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
@@ -67,6 +65,8 @@ MM5 | Danger Straight Ahead | 10/20/2022 | 4/4/2021 | 59
 71 | I Don't Belong Here | 10/23/2022 | 8/1/2021 | 54
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/23/2022 | 10/10/2021 | 52
 76 | If I See Him, I'll Kill Him | 10/25/2022 | 11/21/2021 | 49
+MM15 | Don't Be Afraid of Me | 10/27/2022 | 12/05/2021 | 55
+79 | A Frightening Experience | 10/27/2022 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM5 | Danger Straight Ahead | 10/20/2022 | 4/4/2021 | 59
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
+Other | 3 | 1 (Th)
 80s | 5 | 1 (Su)
 60s | 6 | 1 (Tu)
-MM10s | 10 | 1 (Tu)
-70s | 10 | 0 (Tu)
-Other | 3 | 0 (Th)
-MM00s | 9 | 0 (Th)
+MM00s | 9 | 1 (Th)
+MM10s | 10 | 0 (Th)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
