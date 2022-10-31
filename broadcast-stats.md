@@ -17,12 +17,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2021.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-54 | Sounds Like the Devil (See MM17) | 10/28/2021 | 1/10/2021 | 60
-60 | Try Your Best to Fight Me (See MM17) | 11/02/2021 | 2/28/2021 | 62
-57 | Is There No Justice Anymore? (see MM18) | 11/25/2021 | 2/2/2021 | 58
-65 | Suffer My Deadly Arts (see MM18) | 11/30/2021 | 5/9/2021 | 54
-55 | I Had a Heart Once (see MM19) | 12/28/2021 | 1/17/2021 | 61
-63 | This Sword Will Belong to You Forever (retired) | 04/05/2022 | 4/11/2021 | 50
 61 | I Must Make Sure You Fail | 05/24/2022  | 3/14/2021 | 53
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/21/2022 | 6/20/2021 | 53
@@ -87,12 +81,6 @@ Mixtapes with Updates (by Last Changed)
 [archive](broadcast-2021.md#mixtapes-with-updates-by-last-changed)
 Mixtape # | Title | Update | Last Changed
 -- | -- | -- | --
-52 | Let You Through to Hell | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
-59 | Now the Fun Begins | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
-62 | One Lousy Nobody, What Can He Do | merged into MM15 "Don't Be Afraid of Me" | 12/05/2021
-51 | Money, Power, and Position | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
-56 | Everyone Has Got to Live, Even Thieves | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
-58 | Why Do You Help the Evil Person? | merged into MM16 "Today We Shall Kill Each Other" | 12/21/2021
 54 | Sounds Like the Devil | merged into MM17 "Ninja Challenge Card" | 1/2/2022
 60 | Try Your Best to Fight Me | merged into MM17 "Ninja Challenge Card" | 1/2/2022
 57 | Is There No Justice Anymore? | merged into MM18 "Fought Against All Evils" | 1/23/2022
