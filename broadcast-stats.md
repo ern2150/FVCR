@@ -53,20 +53,20 @@ MM16 | Today We Shall Kill Each Other | 10/02/2022 | 12/21/2021 | 52
 70 | Take the Fight to the Enemy | 10/06/2022 | 7/11/2021 | 54
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
 MM17 | Ninja Challenge Card | 10/09/2022 | 1/2/2022 | 52
-  | Evil Is Excusable 2021 Halloween Vol 1 | 10/09/2022 | 10/3/2021 | 45
 72 | Who Is the Champion Now? | 10/11/2022 | 9/7/2021 | 53
 MM10 | The Splatter and Gore Department | 10/13/2022 | 7/15/2021 | 59
 83 | I Don't Mind a Little Danger | 10/16/2022 | 06/12/2022 | 50
-84 | *NEW* Poor Doomed Humans | 10/16/2022 | 10/16/2022 | 51
 66 | Do You Really Have the Confidence? | 10/18/2022 | 5/23/2021 | 56
 MM13 | Keep on Winning | 10/18/2022 | 8/22/2021 | 56
 MM5 | Danger Straight Ahead | 10/20/2022 | 4/4/2021 | 59
-  | Devil Mountain 2021 Halloween Vol 3 | 10/20/2022 | 10/17/2021 | 49
 71 | I Don't Belong Here | 10/23/2022 | 8/1/2021 | 54
-74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/23/2022 | 10/10/2021 | 52
 76 | If I See Him, I'll Kill Him | 10/25/2022 | 11/21/2021 | 49
 MM15 | Don't Be Afraid of Me | 10/27/2022 | 12/05/2021 | 55
 79 | A Frightening Experience | 10/27/2022 | 1/16/2022 | 57
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2022 | 10/10/2021 | 52
+84 | Poor Doomed Humans | 10/30/2022 | 10/16/2022 | 51
+  | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM15 | Don't Be Afraid of Me | 10/27/2022 | 12/05/2021 | 55
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 1 (Th)
-80s | 5 | 1 (Su)
 60s | 6 | 1 (Tu)
 MM00s | 9 | 1 (Th)
+Other | 3 | 0 (Su)
+80s | 5 | 0 (Su)
 MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Th)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
