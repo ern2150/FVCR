@@ -216,6 +216,7 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+11/01/2022 | WMAC Masters ep 1
 10/25/2022 | Yamaha Witch
 10/18/2022 | DragonStrike
 10/18/2022 | United Studios of Martial Arts Orange Belt
