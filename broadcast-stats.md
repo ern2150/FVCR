@@ -94,8 +94,21 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/01/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
+11/01/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/01/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+11/01/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+11/01/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+11/01/2022 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+11/01/2022 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+11/01/2022 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+11/01/2022 | Commando Fury Opener / (same as video) | 12/8/2020
+11/01/2022 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+11/01/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+11/01/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+11/01/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
+11/01/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-10/27/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/27/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 10/27/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 10/27/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -104,7 +117,6 @@ Latest Date | Video / Audio | Debut++
 10/27/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 10/27/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 10/27/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-10/27/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/25/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
 10/25/2022 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 10/25/2022 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
@@ -162,19 +174,8 @@ Latest Date | Video / Audio | Debut++
 10/16/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 10/16/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 10/16/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-10/13/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
-10/13/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-10/13/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-10/13/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-10/13/2022 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-10/13/2022 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-10/13/2022 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-10/13/2022 | Commando Fury Opener / (same as video) | 12/8/2020
-10/13/2022 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-10/13/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-10/13/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-10/13/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 -- | -- | --
+11/01/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙄] (see #bonus-clips)
 10/25/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄] (see #bonus-clips)
 10/18/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓] (see #bonus-clips)
 10/13/2022 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
