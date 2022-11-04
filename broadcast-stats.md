@@ -26,8 +26,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM2 | Why Are You Playing Heroes? | 08/23/2022 | 2/23/2021 | 64
-MM3 | Blood, Lust, and Intrigue | 08/30/2022 | 3/9/2021 | 53
-77 | Ninja City | 09/01/2022 | 11/28/2021 | 49
 81 | One Hell of a Nobody | 09/06/2022 | 03/27/2022 | 53
 64 | Hold You Close and Feel Things | 09/11/2022 | 4/18/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
@@ -61,6 +59,8 @@ MM15 | Don't Be Afraid of Me | 10/27/2022 | 12/05/2021 | 55
 84 | Poor Doomed Humans | 10/30/2022 | 10/16/2022 | 51
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM11 | I Can Stand the Pain | 11/01/2022 | 7/27/2021 | 65
+MM3 | Blood, Lust, and Intrigue | 11/03/2022 | 3/9/2021 | 53
+77 | Ninja City | 11/03/2022 | 11/28/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,11 +69,11 @@ MM11 | I Can Stand the Pain | 11/01/2022 | 7/27/2021 | 65
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 2 (Tu)
-MM00s | 9 | 1 (Th)
+MM00s | 9 | 0 (Th)
 Other | 3 | 0 (Su)
 80s | 5 | 0 (Su)
 MM10s | 10 | 0 (Tu)
-70s | 10 | 0 (Su)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
