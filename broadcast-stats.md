@@ -94,8 +94,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/06/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
+11/06/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/06/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
+11/06/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+11/06/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+11/06/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+11/06/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+11/06/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+11/06/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+11/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/03/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
-11/03/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/03/2022 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 11/03/2022 | Rothrock v Kathy Foot-off / King Pari - Understanding | 5/15/2022
 11/03/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
@@ -110,7 +119,6 @@ Latest Date | Video / Audio | Debut++
 11/03/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 11/03/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 11/03/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-11/03/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/01/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
 11/01/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 11/01/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -155,14 +163,6 @@ Latest Date | Video / Audio | Debut++
 10/23/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 10/23/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
 10/23/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-10/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
-10/20/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
-10/20/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-10/20/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-10/20/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-10/20/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-10/20/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-10/20/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 10/18/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
 10/18/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 10/18/2022 | Baki end whiteout / (same as video) | 4/13/2021
