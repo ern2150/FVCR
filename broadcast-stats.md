@@ -217,6 +217,7 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+11/08/2022 | For Safety's Sake with Gary Coleman
 11/01/2022 | WMAC Masters ep 1
 10/25/2022 | Yamaha Witch
 10/18/2022 | DragonStrike
