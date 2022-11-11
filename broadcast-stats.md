@@ -23,8 +23,6 @@ MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
-81 | One Hell of a Nobody | 09/06/2022 | 03/27/2022 | 53
-64 | Hold You Close and Feel Things | 09/11/2022 | 4/18/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 82 | Are You Looking for Death? | 09/13/2022 | 05/15/2022 | 50
 68 | Endless Chain of Duels and Killings | 09/15/2022 | 6/27/2021 | 54
@@ -61,6 +59,8 @@ MM3 | Blood, Lust, and Intrigue | 11/03/2022 | 3/9/2021 | 53
 67 | Together We Will Smash Them | 11/06/2022 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 11/06/2022  | 3/14/2021 | 53
 MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
+64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
+81 | One Hell of a Nobody | 11/10/2022 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,11 +69,11 @@ MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 1 (Su)
-80s | 5 | 1 (Su)
 MM10s | 10 | 1 (Tu)
-60s | 6 | 0 (Su)
+70s | 10 | 1 (Th)
+80s | 5 | 0 (Th)
+60s | 6 | 0 (Th)
 MM00s | 9 | 0 (Tu)
-70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
