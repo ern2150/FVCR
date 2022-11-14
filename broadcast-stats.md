@@ -24,7 +24,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
-82 | Are You Looking for Death? | 09/13/2022 | 05/15/2022 | 50
 68 | Endless Chain of Duels and Killings | 09/15/2022 | 6/27/2021 | 54
 78 | All for Revenge | 09/15/2022 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 09/20/2022 | 02/06/2022 | 55
@@ -61,6 +60,8 @@ MM3 | Blood, Lust, and Intrigue | 11/03/2022 | 3/9/2021 | 53
 MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
 81 | One Hell of a Nobody | 11/10/2022 | 03/27/2022 | 53
+82 | Are You Looking for Death? | 11/13/2022 | 05/15/2022 | 50
+85 | *NEW* The Power You Are Seeking | 11/13/2022 | 11/13/2022 | 10:01-
 
 
 "Decades" by Weeks Since Seen, descending
@@ -68,10 +69,10 @@ MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 1 (Su)
+Other | 3 | 2 (Su)
 MM10s | 10 | 1 (Tu)
 70s | 10 | 1 (Th)
-80s | 5 | 0 (Th)
+80s | 6 | 0 (Su)
 60s | 6 | 0 (Th)
 MM00s | 9 | 0 (Tu)
 
