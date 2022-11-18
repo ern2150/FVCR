@@ -24,8 +24,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM7 | I'd Like to See You Try and Hurt Me | 08/14/2022 | 6/6/2021 | 58
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
-68 | Endless Chain of Duels and Killings | 09/15/2022 | 6/27/2021 | 54
-MM19 | Ghost Shadow Squad | 09/20/2022 | 02/06/2022 | 55
 MM12 | Evil Is Never Invincible | 9/25/2022 | 8/10/2021 | 58
 73 | The Whirlpool of Battle | 09/25/2022 | 9/21/2021 | 62
 80 | Pass Through All Hard Times | 09/27/2022 | 02/20/2022 | 46
@@ -62,6 +60,9 @@ MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 82 | Are You Looking for Death? | 11/13/2022 | 05/15/2022 | 50
 85 | The Power You Are Seeking | 11/15/2022 | 11/13/2022 | 45
 78 | All for Revenge | 11/15/2022 | 1/9/2022 | 50
+68 | Endless Chain of Duels and Killings | 11/17/2022 | 6/27/2021 | 54
+MM19 | Ghost Shadow Squad | 11/17/2022 | 02/06/2022 | 55
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,11 +71,11 @@ MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 2 (Su)
-MM10s | 10 | 2 (Tu)
 MM00s | 9 | 1 (Tu)
-70s | 10 | 0 (Tu)
 80s | 6 | 0 (Tu)
 60s | 6 | 0 (Th)
+70s | 10 | 0 (Tu)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
