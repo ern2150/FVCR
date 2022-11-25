@@ -18,12 +18,10 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 06/07/2022  | 7/8/2021 | 59
-69 | SUMMERTIME | 07/03/2022 | 7/4/2021 | 65
 MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
-80 | Pass Through All Hard Times | 09/27/2022 | 02/20/2022 | 46
 MM8 | The Sword of Catastrophe | 09/29/2022 | 6/15/2021 | 61
 MM18 | Fought Against All Evils | 09/29/2022 | 1/23/2022 | 51
 MM4 | I'm Glad to See You're Prepared to Die | 10/02/2022 | 4/4/2021 | 50
@@ -62,6 +60,8 @@ MM19 | Ghost Shadow Squad | 11/17/2022 | 02/06/2022 | 55
 MM7 | I'd Like to See You Try and Hurt Me | 11/20/2022 | 6/6/2021 | 58
 MM12 | Evil Is Never Invincible | 11/20/2022 | 8/10/2021 | 58
 73 | The Whirlpool of Battle | 11/22/2022 | 9/21/2021 | 62
+80 | Pass Through All Hard Times | 11/24/2022 | 02/20/2022 | 46
+69 | SUMMERTIME | 11/24/2022 | 7/4/2021 | 65
 
 
 
@@ -71,7 +71,7 @@ MM12 | Evil Is Never Invincible | 11/20/2022 | 8/10/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 3 (Su)
-80s | 6 | 1 (Tu)
+80s | 6 | 0 (Th)
 60s | 6 | 0 (Th)
 MM00s | 9 | 0 (Su)
 MM10s | 10 | 0 (Su)
