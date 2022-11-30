@@ -23,8 +23,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM14 | Fights the Evils with Great Power | 09/11/2022 | 9/26/2021 | 64
 MM8 | The Sword of Catastrophe | 09/29/2022 | 6/15/2021 | 61
-MM16 | Today We Shall Kill Each Other | 10/02/2022 | 12/21/2021 | 52
-75 | Never Show Emotion | 10/04/2022 | 11/07/2021 | 48
 70 | Take the Fight to the Enemy | 10/06/2022 | 7/11/2021 | 54
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
 MM17 | Ninja Challenge Card | 10/09/2022 | 1/2/2022 | 52
@@ -62,6 +60,8 @@ MM12 | Evil Is Never Invincible | 11/20/2022 | 8/10/2021 | 58
 69 | SUMMERTIME | 11/24/2022 | 7/4/2021 | 65
 MM4 | I'm Glad to See You're Prepared to Die | 11/27/2022 | 4/4/2021 | 50
 MM18 | Fought Against All Evils | 11/27/2022 | 1/23/2022 | 51
+MM16 | Today We Shall Kill Each Other | 11/29/2022 | 12/21/2021 | 52
+75 | Never Show Emotion | 11/29/2022 | 11/07/2021 | 48
 
 
 
@@ -74,7 +74,7 @@ Other | 3 | 4 (Su)
 80s | 6 | 0 (Th)
 60s | 6 | 0 (Th)
 MM00s | 9 | 0 (Su)
-MM10s | 10 | 0 (Su)
+MM10s | 10 | 0 (Tu)
 70s | 10 | 0 (Tu)
 
 
