@@ -177,7 +177,7 @@ Latest Date | Video / Audio | Debut++
 11/24/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 11/24/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 -- | -- | --
-12/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙑𝙄?] (see #bonus-clips)
+12/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙑] (see #bonus-clips)
 11/22/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙑] (see #bonus-clips)
 11/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙄𝙄] (see #bonus-clips)
 11/01/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙄] (see #bonus-clips)
@@ -221,6 +221,8 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/08/2022 | Bicycle Safety Camp
+12/08/2022 | Twin Peaks commercials - China Beach, local news, ET, Orkin eSwat
 11/22/2022 | Invasion of the Robot Dinosaurs
 11/22/2022 | Dinosaurs! with Fred Savage
 11/08/2022 | For Safety's Sake with Gary Coleman
