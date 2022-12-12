@@ -221,6 +221,19 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/11/2022 | Lysol jellywall, ATT bills, (ep ff) Promise jumpscare, Tercel values, Redenbacher.
+12/11/2022 | (end of previous show) Conference Showdowns, Hardee's chicken, Channel 2 education fundraiser, Local Weather, National Gulf War update Colon Powell. (begin of ep)
+12/11/2022 | (ep end) Calgon time, Duracell tester, Local News not local, Good Morning America (next time, creds) America's watching ABC, Best Buy jvc rainbow.
+12/11/2022 | Triaminic, Leggs sheer energy, Massengill, Candace Bergen Sprint, Skippy time control, thirtysomething, Anything but Love, Barbara Walters and the Judds. 
+12/11/2022 | Excedrin paranoia, V05 don't be so mean to your hair, Prego, Fantasies (reality contest show?), (ep id), Gulf War Primetime, Local News not really local, Pizza Hut yeah pepperoni, Consumer Hotline local, local id. (ep ff)
+12/11/2022 | Visa skiing, Ranch dramatization. (ep ff) Terri Garr Fruit of the Loom, Pizza Pizza quiz, Sudafed near accident, Oatmeal Raisin Crisp, Orville Redenbacher, Son of the Morning Star. (ep ff) 
+12/11/2022 | (End of previous show with Sliders beard guy and Change Leader in credits), 20/20, Perfume Photo Gear, Busch, Local News spot, National News Gulf War update featuring Scud missles. (begin of ep)
+12/11/2022 | (ep end) Preparation H, Cavalier, McGuyver, The Last to Go, (next time on TP in 2 weeks, creds with voiceover), Superbowl id, Local News then rainbow to next recording.
+12/11/2022 | Excedrin, Ford compact STOP, Grifters trailer, Degree stinky ladies, Ray Charles Diet Pepsi, Raiders of the Lost Arc, Brinkley Stormin Norman (again).
+12/11/2022 | Corolla, Promise jumpscare, All My Children swerve, Peaks Id, Davis Rules, Local News spot, World of Wheels, McD 69 cheezburger, Skywarn.
+12/11/2022 | Superbowl, Geo to know you, Goodwrench, Weight Watchers, Miller Gator Superbowl, Super Buckets, Discovery Red Express, thirtysomething.
+12/11/2022 | Twin Peaks off-air VHS boundaries: Monday, McGuyver, StorminNorman, Saturn, GuessTheProduct (Pizza Hut), Local News spot, National News Gulf War update featuring Patriot missles.  Saturn sponsor interrupts credits.
+12/11/2022 | Videonics Sound board fun
 12/08/2022 | Bicycle Safety Camp
 12/08/2022 | Twin Peaks commercials - China Beach, local news, ET, Orkin eSwat
 11/22/2022 | Invasion of the Robot Dinosaurs
