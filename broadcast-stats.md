@@ -222,6 +222,13 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/13/2022 | Mazda baby, Burger King baby, Halls of Medicine, Buy American, thirtysomething.
+12/13/2022 | Isotoner slippers, Snake Swatch, Burger King US Sprint synergy, (ep continues).
+12/13/2022 | Suzuki sidekick, down with dry eyes to rainbow. "Macmurphy, stay with me" end credits for tv movie.  MPG super car, local news promo, Toyota dealer downright american, Totes auto club, local promo, (ep begins - IDEON).
+12/13/2022 | Dances with Wolves, Lil Caesars on tv puppet. GIMME A MINUTE!! Snake Swatch, Trident trips, Heartbeat of america, In My Hometown Army, AFV - America's Funniest People, Who's the Boss lost ep, Head of the Class, (ep continues - Revenge their Deaths theme).
+12/13/2022 | Previa boulders, Belgian Cafe celebrate the moments, MISERY, (ep id), primetime doctor, local news promo bomb-bat bugs, Tollhouse, LX Mazda, Current Affair extra, (ep continues - Good 2 U).
+12/13/2022 | getting to know you Geo, Met Life snoopy, (ep continues - Glass/Koyonisqatsi).  Sprint murphy brown, SCOUPE hyundai, Orange Juice, Light Balance microwaveable meals, IT (ep continues - the Gift).
+12/13/2022 | Twin Peaks off-air VHS boundaries: tv movie creds, primetime promo, abc news dips out, Zhivago ad, Saturn dog ad, local news promo, (ep begins w/ Rollercoaster).
 12/11/2022 | Lysol jellywall, ATT bills, (ep ff) Promise jumpscare, Tercel values, Redenbacher.
 12/11/2022 | (end of previous show) Conference Showdowns, Hardee's chicken, Channel 2 education fundraiser, Local Weather, National Gulf War update Colon Powell. (begin of ep)
 12/11/2022 | (ep end) Calgon time, Duracell tester, Local News not local, Good Morning America (next time, creds) America's watching ABC, Best Buy jvc rainbow.
