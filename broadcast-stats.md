@@ -95,8 +95,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/13/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
+12/13/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/13/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+12/13/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+12/13/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+12/13/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+12/13/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+12/13/2022 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+12/13/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+12/13/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/11/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
-12/11/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/11/2022 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 12/11/2022 | Baki end whiteout / (same as video) | 4/13/2021
 12/11/2022 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
@@ -109,7 +118,6 @@ Latest Date | Video / Audio | Debut++
 12/11/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 12/11/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 12/11/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-12/11/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/08/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 12/08/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 12/08/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
@@ -168,15 +176,8 @@ Latest Date | Video / Audio | Debut++
 11/29/2022 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 11/29/2022 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 11/29/2022 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-11/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
-11/27/2022 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-11/27/2022 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-11/27/2022 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-11/27/2022 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-11/27/2022 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-11/27/2022 | Moped guy gets chain-dragged downstairs (Against All?) / Moving Units - Between Us and Them | 3/9/2021
-11/27/2022 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 -- | -- | --
+12/13/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙃𝙊𝙈𝙀 𝙍𝙀𝘾𝙊𝙍𝘿𝙀𝘿 𝙏𝘼𝙋𝙀𝙎] (see #bonus-clips)
 12/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙑] (see #bonus-clips)
 11/22/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙑] (see #bonus-clips)
 11/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙄𝙄] (see #bonus-clips)
