@@ -21,7 +21,6 @@ MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 | 70
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
-66 | Do You Really Have the Confidence? | 10/18/2022 | 5/23/2021 | 56
 MM13 | Keep on Winning | 10/18/2022 | 8/22/2021 | 56
 MM5 | Danger Straight Ahead | 10/20/2022 | 4/4/2021 | 59
 71 | I Don't Belong Here | 10/23/2022 | 8/1/2021 | 54
@@ -62,6 +61,7 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM10 | The Splatter and Gore Department | 12/06/2022 | 7/15/2021 | 59
 MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
 83 | I Don't Mind a Little Danger | 12/11/2022 | 06/12/2022 | 50
+66 | Do You Really Have the Confidence? | 12/13/2022 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,11 +70,11 @@ MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 6 (Su)
-60s | 6 | 2 (Th)
 MM00s | 9 | 1 (Su)
+70s | 10 | 1 (Tu)
+60s | 6 | 0 (Tu)
 80s | 6 | 0 (Su)
 MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
