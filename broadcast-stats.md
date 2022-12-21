@@ -22,7 +22,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
 MM15 | Don't Be Afraid of Me | 10/27/2022 | 12/05/2021 | 55
-79 | A Frightening Experience | 10/27/2022 | 1/16/2022 | 57
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2022 | 10/10/2021 | 52
 84 | Poor Doomed Humans | 10/30/2022 | 10/16/2022 | 51
@@ -62,6 +61,7 @@ MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
 MM13 | Keep on Winning | 12/15/2022 | 8/22/2021 | 56
 MM5 | Danger Straight Ahead | 12/18/2022 | 4/4/2021 | 59
 76 | If I See Him, I'll Kill Him | 12/18/2022 | 11/21/2021 | 49
+79 | A Frightening Experience | 12/20/2022 | 1/16/2022 | 57
 
 
 
@@ -72,9 +72,9 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 7 (Su)
 80s | 6 | 1 (Su)
-60s | 6 | 0 (Tu)
+60s | 6 | 1 (Tu)
 MM00s | 9 | 0 (Su)
-70s | 10 | 0 (Su)
+70s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Th)
 
 
