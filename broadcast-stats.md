@@ -96,13 +96,24 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/22/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+12/22/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/22/2022 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+12/22/2022 | FMW Opener / FMW Closer | 12/6/2020
+12/22/2022 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+12/22/2022 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+12/22/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
+12/22/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+12/22/2022 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+12/22/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+12/22/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+12/22/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+12/22/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-12/20/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/20/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 12/20/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 12/20/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 12/20/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-12/20/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/18/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝘼𝙇𝙄
 12/18/2022 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 12/18/2022 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -145,8 +156,6 @@ Latest Date | Video / Audio | Debut++
 12/11/2022 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 12/11/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 12/11/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-12/11/2022 | Wheres Da Schtuff / Original Audio | 11/28/2021
-12/11/2022 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
 12/11/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
 12/11/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 12/11/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -164,14 +173,6 @@ Latest Date | Video / Audio | Debut++
 12/06/2022 | Rothrock v Kathy Foot-off / King Pari - Understanding | 5/15/2022
 12/06/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 12/06/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-12/06/2022 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-12/06/2022 | FMW Opener / FMW Closer | 12/6/2020
-12/06/2022 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-12/06/2022 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-12/06/2022 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-12/06/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-12/06/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-12/06/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 12/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 -- | -- | --
 12/20/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀] (see #bonus-clips)
