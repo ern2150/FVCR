@@ -173,12 +173,12 @@ Latest Date | Video / Audio | Debut++
 12/08/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 12/08/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/08/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/06/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
 12/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 -- | -- | --
 12/20/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀] (see #bonus-clips)
 12/13/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙃𝙊𝙈𝙀 𝙍𝙀𝘾𝙊𝙍𝘿𝙀𝘿 𝙏𝘼𝙋𝙀𝙎] (see #bonus-clips)
 12/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙑] (see #bonus-clips)
+12/06/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
 12/04/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 12/04/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
 12/04/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
@@ -325,7 +325,7 @@ Outros
 [archive](broadcast-2021.md#outros)
 Latest Date | Video / Audio
 -- | --
-12/22/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+12/25/2022 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
