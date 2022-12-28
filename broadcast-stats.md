@@ -228,6 +228,7 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/27/2022 | Kitty Faces... but it's called Kitty Kats
 12/20/2022 | Xmas Jeffersons in-progress with rich white ppl. St Louis school district hearing tests, Consumer Information catalog Pueblo.
 12/20/2022 | Twin Peaks off-air VHS boundaries: "2 10".  Local Basketball game wraps up. Quality Ford newscasters, Jack in the Box sourdough, Busch "that horse and I are one", Shop n Save eyeballs groceries sing, St Clair corporation house guy. Basketball quick review.  Button fly Jeans cartoon, Dairy Queen gross burgers, Foot Locker give the best of everything, Ford winning the world over.  Basketball throws to Xmas Jeffersons, Basketball ad ids: "Both sides of the river" = East St Louis. Channel 2 id does charity, Give your teen their own phone line pamphlet Southwestern Bell, Wisconsin Cheese bus kid, Eternity for men Dillard's, Channel weather id, "we now join..."
 12/20/2022 | A Time for Romance with Fabio
