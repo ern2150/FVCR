@@ -26,7 +26,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/12/2022 | 11/14/2019 |
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM11 | I Can Stand the Pain | 11/01/2022 | 7/27/2021 | 65
 MM3 | Blood, Lust, and Intrigue | 11/03/2022 | 3/9/2021 | 53
-77 | Ninja City | 11/03/2022 | 11/28/2021 | 49
 67 | Together We Will Smash Them | 11/06/2022 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 11/06/2022  | 3/14/2021 | 53
 MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
@@ -63,6 +62,7 @@ MM5 | Danger Straight Ahead | 12/18/2022 | 4/4/2021 | 59
 MM15 | Don't Be Afraid of Me | 12/22/2022 | 12/05/2021 | 55
 86 | The Passion and Death of their Struggle | 12/25/2022 | 12/22/2022 | 43
 84 | Poor Doomed Humans | 12/25/2022 | 10/16/2022 | 51
+77 | Ninja City | 12/27/2022 | 11/28/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,7 +71,7 @@ MM15 | Don't Be Afraid of Me | 12/22/2022 | 12/05/2021 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 8 (Su)
-60s | 6 | 1 (Tu)
+60s | 6 | 2 (Tu)
 MM00s | 9 | 1 (Su)
 80s | 7 | 0 (Su)
 70s | 10 | 0 (Tu)
