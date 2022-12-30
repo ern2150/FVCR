@@ -96,14 +96,19 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/29/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
+12/29/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/29/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+12/29/2022 | KittyKats / This Mortal Coil - Sixteen Days | 12/29/2022
+12/29/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+12/29/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+12/29/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-12/27/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/27/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 12/27/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 12/27/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 12/27/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/27/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/27/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/25/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 12/25/2022 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 12/25/2022 | Rothrock v Kathy Foot-off / King Pari - Understanding | 5/15/2022
@@ -173,7 +178,6 @@ Latest Date | Video / Audio | Debut++
 12/11/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 12/08/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 12/08/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
-12/08/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 12/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 -- | -- | --
 12/27/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀] (see #bonus-clips)
@@ -183,8 +187,6 @@ Latest Date | Video / Audio | Debut++
 12/06/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝘼𝙉𝙊𝙉
 12/04/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=5229) Fisheye lens on "Rex" til The End / (same as video) | 11/4/2021
 12/04/2022 | [Platoon the Warriors](https://youtu.be/E6VLzZRWWlk?t=4917) Ruins, Tommy Guns, Grenades / (same as video) | 11/4/2021
-12/04/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-12/04/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/22/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙑] (see #bonus-clips)
 11/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙄𝙄] (see #bonus-clips)
 11/01/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙄𝙄] (see #bonus-clips)
