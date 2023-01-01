@@ -15,8 +15,8 @@ Sorted by Last date (Most recent date), ascending
 
 Mixtape # | Mixtape Title | Last Date | Original Debut
 -- | -- | -- | --
-22 | By Tonight, You'll Be History (See MM6) | 1/5/2021 | 2/2/2020
-24 | [A Conspiracy of Ninjas and Vampires](https://github.com/ern2150/FVCR/wiki/Mixtape-24:-A-Conspiracy-of-Ninjas-and-Vampires) | 1/7/2021 | 2/16/2020
+22 | By Tonight, You'll Be History | 1/5/2021 | 2/2/2020
+24 | A Conspiracy of Ninjas and Vampires (See MM6) | 1/7/2021 | 2/16/2020
 21 | Enlightenment Isn't Serious (See MM6) | 1/19/2021 | 1/26/2020
 11 | I'm a Winner (See MM5) | 1/21/2021  | 11/19/2019
 31 | Magic Hand (See MM7) | 1/24/2021 | 4/12/2020
