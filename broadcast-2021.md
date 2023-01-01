@@ -91,8 +91,9 @@ Mixtape # | Title | Update | Last Changed
 11 |  I'm a Winner | merged into MM5 "Danger Straight Ahead" | 4/4/2021
 27 | Open the Strange Realm | updated | 4/25/2021
 21 | Enlightenment Isn't Serious | merged into MM6 "It's Your Turn to Die" | 5/20/2021
-22 | By Tonight, You'll Be History | merged into MM6 "It's Your Turn to Die" | 5/20/2021
+~~22~~ | ~~By Tonight, You'll Be History~~ | ~~merged into MM6 "It's Your Turn to Die"~~ | ~~5/20/2021~~
 23 | Dangerous and ColdBlooded | merged into MM6 "It's Your Turn to Die" | 5/20/2021
+*24* | *A Conspiracy of Ninjas and Vampires* | *merged into MM6 "It's Your Turn to Die"* | *5/20/2021*
 31 | Magic Hand | merged into MM7 "I'd Like to See You Try and Hurt Me" | 6/6/2021
 &nbsp; | Video Beam Volume 1 | merged into MM7 "I'd Like to See You Try and Hurt Me"| 6/6/2021
 28 | Forget about Luck | merged into MM8 "The Sword of Catastrophe" | 6/15/2021 
