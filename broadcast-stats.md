@@ -96,13 +96,17 @@ Intros
 [archive](broadcast-2021.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:
+01/01/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/01/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+01/01/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+01/01/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+01/01/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/29/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-12/29/2022 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/29/2022 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 12/29/2022 | KittyKats / This Mortal Coil - Sixteen Days | 12/29/2022
 12/29/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 12/29/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-12/29/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 12/27/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 12/27/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
@@ -173,9 +177,6 @@ Latest Date | Video / Audio | Debut++
 12/11/2022 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 12/11/2022 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 12/11/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
-12/11/2022 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-12/11/2022 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-12/11/2022 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 12/08/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 12/08/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 12/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
