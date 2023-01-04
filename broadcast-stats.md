@@ -27,7 +27,6 @@ MM11 | I Can Stand the Pain | 11/01/2022 | 7/27/2021 | 65
 61 | I Must Make Sure You Fail | 11/06/2022  | 3/14/2021 | 53
 MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
-81 | One Hell of a Nobody | 11/10/2022 | 03/27/2022 | 53
 82 | Are You Looking for Death? | 11/13/2022 | 05/15/2022 | 50
 78 | All for Revenge | 11/15/2022 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 11/17/2022 | 6/27/2021 | 54
@@ -63,6 +62,7 @@ MM15 | Don't Be Afraid of Me | 12/22/2022 | 12/05/2021 | 55
 MM3 | Blood, Lust, and Intrigue | 12/29/2022 | 3/9/2021 | 53
 MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 | 70
 85 | The Power You Are Seeking | 01/01/2023 | 11/13/2022 | 45
+81 | One Hell of a Nobody | 01/03/2023 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,10 +71,10 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 |
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 9 (Su)
-60s | 6 | 2 (Tu)
+60s | 6 | 3 (Tu)
 MM10s | 10 | 1 (Th)
 MM00s | 9 | 0 (Su)
-80s | 7 | 0 (Su)
+80s | 7 | 0 (Tu)
 70s | 10 | 0 (Th)
 
 
