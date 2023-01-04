@@ -182,6 +182,7 @@ Latest Date | Video / Audio | Debut++
 12/08/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 12/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 -- | -- | --
+01/03/2023 | [𝘽𝙀𝙎𝙏 𝙊𝙁 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 12/27/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀] (see #bonus-clips)
 12/20/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀] (see #bonus-clips)
 12/13/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙃𝙊𝙈𝙀 𝙍𝙀𝘾𝙊𝙍𝘿𝙀𝘿 𝙏𝘼𝙋𝙀𝙎] (see #bonus-clips)
@@ -232,6 +233,12 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+01/03/2023 | 1st place: TACO BELL TRAINING TAPES 97-98! (customer training leadin, creepy lady hands, inflated budget)
+01/03/2023 | Least voted: Gaman, Video Letter, Asthma
+01/03/2023 | 2nd place: MOMENTUM: NORTHRIDGE MALL! (pulled from youtube)
+01/03/2023 | 3rd place: SEGATA SANSHIRO COMPILATION! (end shot should have sad anime music)
+01/03/2023 | Joji - Pretty Boy w ZAR
+01/03/2023 | Best of Lost and Found 4th place: ROCK'S WINNING WORKOUT WITHOUT WEIGHTS! (make this mockumentary please, and have it happen all in one shooting day), (bet this is Dorral's funding baby), (Zaddy supes awks and Zar hits his head daily), (end portrait)
 12/27/2022 | Kitty Faces... but it's called Kitty Kats
 12/20/2022 | Xmas Jeffersons in-progress with rich white ppl. St Louis school district hearing tests, Consumer Information catalog Pueblo.
 12/20/2022 | Twin Peaks off-air VHS boundaries: "2 10".  Local Basketball game wraps up. Quality Ford newscasters, Jack in the Box sourdough, Busch "that horse and I are one", Shop n Save eyeballs groceries sing, St Clair corporation house guy. Basketball quick review.  Button fly Jeans cartoon, Dairy Queen gross burgers, Foot Locker give the best of everything, Ford winning the world over.  Basketball throws to Xmas Jeffersons, Basketball ad ids: "Both sides of the river" = East St Louis. Channel 2 id does charity, Give your teen their own phone line pamphlet Southwestern Bell, Wisconsin Cheese bus kid, Eternity for men Dillard's, Channel weather id, "we now join..."
