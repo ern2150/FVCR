@@ -17,7 +17,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2021.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-MM6 | It's Your Turn to Die | 07/05/2022 | 5/20/2021 | 73
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
@@ -27,7 +26,6 @@ MM11 | I Can Stand the Pain | 11/01/2022 | 7/27/2021 | 65
 61 | I Must Make Sure You Fail | 11/06/2022  | 3/14/2021 | 53
 MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
-82 | Are You Looking for Death? | 11/13/2022 | 05/15/2022 | 50
 78 | All for Revenge | 11/15/2022 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 11/17/2022 | 6/27/2021 | 54
 MM19 | Ghost Shadow Squad | 11/17/2022 | 02/06/2022 | 55
@@ -63,6 +61,9 @@ MM3 | Blood, Lust, and Intrigue | 12/29/2022 | 3/9/2021 | 53
 MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 | 70
 85 | The Power You Are Seeking | 01/01/2023 | 11/13/2022 | 45
 81 | One Hell of a Nobody | 01/03/2023 | 03/27/2022 | 53
+82 | Are You Looking for Death? | 01/05/2023 | 05/15/2022 | 50
+MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
+
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,10 +73,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 9 (Su)
 60s | 6 | 3 (Tu)
-MM10s | 10 | 1 (Th)
-MM00s | 9 | 0 (Su)
-80s | 7 | 0 (Tu)
-70s | 10 | 0 (Th)
+MM10s | 10 | 2 (Th)
+70s | 10 | 1 (Th)
+80s | 7 | 0 (Th)
+MM00s | 9 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -97,7 +98,7 @@ Intros
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 01/05/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-01/05/2023 | New Stream Trailer 2023 / ?? 
+01/05/2023 | *NEW* Stream Trailer 2023 / ?? | 01/05/2023
 01/05/2023 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
 01/05/2023 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 01/05/2023 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
