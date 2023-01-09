@@ -21,10 +21,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
-MM11 | I Can Stand the Pain | 11/01/2022 | 7/27/2021 | 65
 67 | Together We Will Smash Them | 11/06/2022 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 11/06/2022  | 3/14/2021 | 53
-MM2 | Why Are You Playing Heroes? | 11/08/2022 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
 78 | All for Revenge | 11/15/2022 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 11/17/2022 | 6/27/2021 | 54
@@ -63,6 +61,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 |
 81 | One Hell of a Nobody | 01/03/2023 | 03/27/2022 | 53
 82 | Are You Looking for Death? | 01/05/2023 | 05/15/2022 | 50
 MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
+MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
+MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
 
 
 
@@ -71,12 +71,12 @@ MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 [archive](broadcast-2021.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 9 (Su)
+Other | 3 | 10 (Su)
 60s | 6 | 3 (Tu)
-MM10s | 10 | 2 (Th)
 70s | 10 | 1 (Th)
 80s | 7 | 0 (Th)
-MM00s | 9 | 0 (Th)
+MM00s | 9 | 0 (Su)
+MM10s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -102,6 +102,7 @@ Latest Date | Video / Audio | Debut++
 01/08/2023 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 01/08/2023 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 01/08/2023 | [Sitar Suit Seaside Scramble](https://youtu.be/5ORsGbP4kzs?t=4601) / [(the affair, then)](https://youtu.be/TEDN8Yh2c2o) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
+01/08/2023 | (false start with ending tape lol)
 01/08/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/05/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 01/05/2023 | *NEW* Stream Trailer 2023 / ?? | 01/05/2023
