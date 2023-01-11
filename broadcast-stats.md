@@ -188,6 +188,7 @@ Latest Date | Video / Audio | Debut++
 12/08/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
 12/06/2022 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 -- | -- | --
+01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"] (see #bonus-clips)
 01/05/2023 | [𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝙋𝙊𝙎𝙏 𝙎𝙃𝙊𝙒] (see #bonus-clips)
 01/03/2023 | [𝘽𝙀𝙎𝙏 𝙊𝙁 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 12/27/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀] (see #bonus-clips)
@@ -241,6 +242,8 @@ Bonus Clips
 [archive](broadcast-2021.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+01/10/2023 | Fingers of Fury (Tech Deck showoffs)
+01/10/2023 | BIGF OOT In Action
 01/05/2023 | Tekken / FVCR Jams playlist
 01/05/2023 | GIMME A MINUTE!!
 01/03/2023 | 1st place: TACO BELL TRAINING TAPES 97-98! (customer training leadin, creepy lady hands, inflated budget)
