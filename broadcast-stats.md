@@ -23,7 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 67 | Together We Will Smash Them | 11/06/2022 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 11/06/2022  | 3/14/2021 | 53
-64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
 78 | All for Revenge | 11/15/2022 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 11/17/2022 | 6/27/2021 | 54
 MM19 | Ghost Shadow Squad | 11/17/2022 | 02/06/2022 | 55
@@ -63,6 +62,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 |
 MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
+64 | Hold You Close and Feel Things | 11/10/2022 | 4/18/2021 | 58
 
 
 
@@ -72,8 +72,8 @@ MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 10 (Su)
-60s | 6 | 3 (Tu)
 70s | 10 | 1 (Th)
+60s | 6 | 0 (Tu)
 80s | 7 | 0 (Th)
 MM00s | 9 | 0 (Su)
 MM10s | 10 | 0 (Su)
