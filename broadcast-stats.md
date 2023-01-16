@@ -88,8 +88,14 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/15/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+01/15/2023 | Stream Trailer 2023 / ?? | 01/05/2023
+01/15/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+01/15/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+01/15/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+01/15/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+01/15/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/12/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-01/12/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 01/12/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 01/12/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
 01/12/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
@@ -98,7 +104,6 @@ Latest Date | Video / Audio | Debut++
 01/12/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 01/12/2023 | SHIT FUCK / (same as video) | 5/4/2021
 01/12/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-01/12/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/10/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 01/10/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/10/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
