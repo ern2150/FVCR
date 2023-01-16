@@ -54,11 +54,7 @@ Latest Date | Video / Audio | Debut++
 12/18/2022 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
 12/18/2022 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 12/18/2022 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-12/18/2022 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 12/18/2022 | Commando Fury Opener / (same as video) | 12/8/2020
-12/18/2022 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-12/18/2022 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-12/18/2022 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 12/18/2022 | Fender bender turns into suitcase brawl then boat brawl / Delegation - Darlin (I Think About You) | 2/21/2021
 12/15/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙁𝙐𝙉
 12/15/2022 | Silver Dragon Ninja Friends in Trouble EXISTS EVERYWHERE / MNDSGN - Cosmic Perspective, Original Audio | 8/19/2021
