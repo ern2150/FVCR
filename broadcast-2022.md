@@ -62,7 +62,7 @@ Latest Date | Video / Audio | Debut++
 12/13/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙃𝙊𝙈𝙀 𝙍𝙀𝘾𝙊𝙍𝘿𝙀𝘿 𝙏𝘼𝙋𝙀𝙎] (see #bonus-clips)
 12/13/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝙊𝙏𝙊
 12/11/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝘼𝙈𝘽𝙊𝙊𝙕𝙄𝙀
-12/11/2022 | Lady Powerglove vs Junkyard / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
+12/11/2022 | Lady Powerglove vs Junkyard (Beauty Investigator) / Jackie Stoudemire - Don't Stop Dancin' | 11/16/2021
 12/08/2022 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙋𝙏 𝙓𝙑] (see #bonus-clips)
 12/08/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙄𝘼
 12/08/2022 | Camo Gordon v Camo Mike / Peter Cat Recording Co - Memory Box | 05/22/2022
