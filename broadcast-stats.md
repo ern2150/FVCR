@@ -172,7 +172,8 @@ Latest Date | Video / Audio | Debut++
 12/20/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 12/20/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 -- | -- | --
-01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"] (see #bonus-clips)
+01/17/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
+01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"]
 01/05/2023 | [𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝙋𝙊𝙎𝙏 𝙎𝙃𝙊𝙒] (see #bonus-clips)
 01/03/2023 | [𝘽𝙀𝙎𝙏 𝙊𝙁 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
 
@@ -187,6 +188,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+01/17/2023 | VENOM RANGERS
 01/10/2023 | Fingers of Fury (Tech Deck showoffs)
 01/10/2023 | BIGF OOT In Action
 01/05/2023 | Tekken / FVCR Jams playlist
