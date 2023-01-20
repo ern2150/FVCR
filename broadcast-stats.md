@@ -88,15 +88,20 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+01/19/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/19/2023 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+01/19/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+01/19/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+01/19/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+01/19/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/17/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-01/17/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/17/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 01/17/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 01/17/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
 01/17/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 01/17/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 01/17/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
-01/17/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/15/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 01/15/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 01/15/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
@@ -166,11 +171,6 @@ Latest Date | Video / Audio | Debut++
 12/22/2022 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 12/22/2022 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 12/22/2022 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-12/20/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-12/20/2022 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-12/20/2022 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-12/20/2022 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-12/20/2022 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 -- | -- | --
 01/17/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"]
