@@ -19,9 +19,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
-73 | The Whirlpool of Battle | 11/22/2022 | 9/21/2021 | 62
 69 | SUMMERTIME | 11/24/2022 | 7/4/2021 | 65
-MM18 | Fought Against All Evils | 11/27/2022 | 1/23/2022 | 51
 MM16 | Today We Shall Kill Each Other | 11/29/2022 | 12/21/2021 | 52
 75 | Never Show Emotion | 11/29/2022 | 11/07/2021 | 48
 MM8 | The Sword of Catastrophe | 12/01/2022 | 6/15/2021 | 61
@@ -61,6 +59,8 @@ MM19 | Ghost Shadow Squad | 01/12/2023 | 02/06/2022 | 55
 MM12 | Evil Is Never Invincible | 01/19/2023 | 8/10/2021 | 58
 MM4 | I'm Glad to See You're Prepared to Die | 01/22/2023 | 4/4/2021 | 50
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
+73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
+MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,11 +69,11 @@ MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 12 (Su)
-70s | 10 | 1 (Th)
-60s | 6 | 0 (Th)
+60s | 6 | 1 (Th)
 80s | 7 | 0 (Tu)
 MM00s | 9 | 0 (Su)
 MM10s | 10 | 0 (Th)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
