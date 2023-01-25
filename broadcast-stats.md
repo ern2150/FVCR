@@ -88,8 +88,14 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/24/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+01/24/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/24/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+01/24/2023 | Rothrock v Kathy Foot-off / King Pari - Understanding | 5/15/2022
+01/24/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+01/24/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+01/24/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/22/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-01/22/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/22/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 01/22/2023 | FMW Opener / FMW Closer | 12/6/2020
 01/22/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -100,7 +106,6 @@ Latest Date | Video / Audio | Debut++
 01/22/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 01/22/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 01/22/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-01/22/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 01/19/2023 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 01/19/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -166,11 +171,6 @@ Latest Date | Video / Audio | Debut++
 12/27/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 12/27/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 12/27/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-12/25/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-12/25/2022 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-12/25/2022 | Rothrock v Kathy Foot-off / King Pari - Understanding | 5/15/2022
-12/25/2022 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-12/25/2022 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 -- | -- | --
 01/17/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"]
