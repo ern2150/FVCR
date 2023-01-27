@@ -88,13 +88,19 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/26/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+01/26/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/26/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+01/26/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+01/26/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+01/26/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+01/26/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+01/26/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/24/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-01/24/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/24/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 01/24/2023 | Rothrock v Kathy Foot-off / King Pari - Understanding | 5/15/2022
 01/24/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 01/24/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-01/24/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/22/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 01/22/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 01/22/2023 | FMW Opener / FMW Closer | 12/6/2020
@@ -165,13 +171,8 @@ Latest Date | Video / Audio | Debut++
 12/29/2022 | KittyKats / This Mortal Coil - Sixteen Days | 12/29/2022
 12/29/2022 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 12/29/2022 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-12/27/2022 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-12/27/2022 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-12/27/2022 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-12/27/2022 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-12/27/2022 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-12/27/2022 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 -- | -- | --
+01/26/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/17/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"]
 01/05/2023 | [𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝙋𝙊𝙎𝙏 𝙎𝙃𝙊𝙒] (see #bonus-clips)
