@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 69 | SUMMERTIME | 11/24/2022 | 7/4/2021 | 65
 MM16 | Today We Shall Kill Each Other | 11/29/2022 | 12/21/2021 | 52
-75 | Never Show Emotion | 11/29/2022 | 11/07/2021 | 48
 MM8 | The Sword of Catastrophe | 12/01/2022 | 6/15/2021 | 61
 70 | Take the Fight to the Enemy | 12/01/2022 | 7/11/2021 | 54
 MM17 | Ninja Challenge Card | 12/04/2022 | 1/2/2022 | 52
@@ -61,6 +60,7 @@ MM4 | I'm Glad to See You're Prepared to Die | 01/22/2023 | 4/4/2021 | 50
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
 MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
+75 | Never Show Emotion | 11/29/2022 | 11/07/2021 | 48
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,9 +70,9 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 12 (Su)
 60s | 6 | 1 (Th)
-80s | 7 | 0 (Tu)
+80s | 7 | 1 (Tu)
 MM00s | 9 | 0 (Su)
-MM10s | 10 | 0 (Th)
+MM10s | 10 | 0 (Tu)
 70s | 10 | 0 (Th)
 
 
