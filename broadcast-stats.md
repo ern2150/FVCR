@@ -60,7 +60,7 @@ MM4 | I'm Glad to See You're Prepared to Die | 01/22/2023 | 4/4/2021 | 50
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
 MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
-75 | Never Show Emotion | 01/24/2023 | 11/07/2021 | 48
+75 | Never Show Emotion | 01/26/2023 | 11/07/2021 | 48
 
 
 "Decades" by Weeks Since Seen, descending
