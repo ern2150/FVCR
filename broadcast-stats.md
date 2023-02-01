@@ -172,6 +172,7 @@ Latest Date | Video / Audio | Debut++
 01/03/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 01/03/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 -- | -- | --
+01/31/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/26/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/17/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙎𝙋𝙊𝙍𝙏𝙎"]
@@ -189,6 +190,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+01/31/2023 | RECYCLE THIS by DOW
 01/26/2023 | Henry Johnson: Surviving the Big One (Earthquakes)
 01/17/2023 | VENOM RANGERS
 01/10/2023 | Fingers of Fury (Tech Deck showoffs)
