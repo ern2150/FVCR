@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 69 | SUMMERTIME | 11/24/2022 | 7/4/2021 | 65
-70 | Take the Fight to the Enemy | 12/01/2022 | 7/11/2021 | 54
 MM17 | Ninja Challenge Card | 12/04/2022 | 1/2/2022 | 52
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 72 | Who Is the Champion Now? | 12/06/2022 | 9/7/2021 | 53
@@ -61,6 +60,7 @@ MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
 75 | Never Show Emotion | 01/26/2023 | 11/07/2021 | 48
 MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 61
 MM16 | Today We Shall Kill Each Other | 01/29/2023 | 12/21/2021 | 52
+70 | Take the Fight to the Enemy | 01/31/2023 | 7/11/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,11 +69,11 @@ MM16 | Today We Shall Kill Each Other | 01/29/2023 | 12/21/2021 | 52
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 13 (Su)
+80s | 7 | 2 (Tu)
 60s | 6 | 1 (Th)
-80s | 7 | 1 (Tu)
 MM00s | 9 | 0 (Su)
 MM10s | 10 | 0 (Su)
-70s | 10 | 0 (Th)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
