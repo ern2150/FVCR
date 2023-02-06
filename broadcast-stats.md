@@ -19,8 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/06/2022 ~~10/3/2021~~ | 10/11/2020 | 60
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
-69 | SUMMERTIME | 11/24/2022 | 7/4/2021 | 65
-MM17 | Ninja Challenge Card | 12/04/2022 | 1/2/2022 | 52
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 72 | Who Is the Champion Now? | 12/06/2022 | 9/7/2021 | 53
 MM10 | The Splatter and Gore Department | 12/06/2022 | 7/15/2021 | 59
@@ -61,6 +59,8 @@ MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
 MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 61
 MM16 | Today We Shall Kill Each Other | 01/29/2023 | 12/21/2021 | 52
 70 | Take the Fight to the Enemy | 01/31/2023 | 7/11/2021 | 54
+69 | SUMMERTIME | 02/05/2023 | 7/4/2021 | 65
+MM17 | Ninja Challenge Card | 02/05/2023 | 1/2/2022 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -68,10 +68,10 @@ MM16 | Today We Shall Kill Each Other | 01/29/2023 | 12/21/2021 | 52
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 13 (Su)
+Other | 3 | 14 (Su)
 80s | 7 | 2 (Tu)
-60s | 6 | 1 (Th)
-MM00s | 9 | 0 (Su)
+MM00s | 9 | 1 (Su)
+60s | 6 | 0 (Su)
 MM10s | 10 | 0 (Su)
 70s | 10 | 0 (Tu)
 
