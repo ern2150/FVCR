@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
-66 | Do You Really Have the Confidence? | 12/13/2022 | 5/23/2021 | 56
 71 | I Don't Belong Here | 12/15/2022 | 8/1/2021 | 54
 MM13 | Keep on Winning | 12/15/2022 | 8/22/2021 | 56
 MM5 | Danger Straight Ahead | 12/18/2022 | 4/4/2021 | 59
@@ -61,6 +60,8 @@ MM17 | Ninja Challenge Card | 02/05/2023 | 1/2/2022 | 52
 72 | Who Is the Champion Now? | 02/07/2023 | 9/7/2021 | 53
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 83 | I Don't Mind a Little Danger | 02/09/2023 | 06/12/2022 | 50
+66 | Do You Really Have the Confidence? | 02/12/2023 | 5/23/2021 | 56
+87 | *𝙉𝙀𝙒* 𝙒𝙄𝙉 𝙒𝙄𝙏𝙃𝙊𝙐𝙏 𝙁𝘼𝙄𝙇𝙄𝙉𝙂 | 02/12/2023 | 02/12/2023 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -68,10 +69,10 @@ MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 14 (Su)
-MM00s | 9 | 1 (Su)
+Other | 3 | 15 (Su)
+MM00s | 9 | 2 (Su)
 60s | 6 | 0 (Su)
-80s | 7 | 0 (Th)
+80s | 8 | 0 (Su)
 MM10s | 10 | 0 (Th)
 70s | 10 | 0 (Tu)
 
