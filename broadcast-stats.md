@@ -193,7 +193,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
-02/07/2023 | MACRON ONE
+02/16/2023 | Ultraman Towards the Future ("signs of life")
+02/16/2023 | MACRON ONE (part two, plus lead out feat Noel and GI Joe Movie, discussion of Sgt Slaughter scorpion quack)
+02/07/2023 | MACRON ONE (part one)
 02/07/2023 | WTROLL
 02/07/2023 | SHARP's Understanding Home Video "Video World"
 01/31/2023 | RECYCLE THIS by DOW
