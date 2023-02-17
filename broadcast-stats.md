@@ -61,7 +61,7 @@ MM17 | Ninja Challenge Card | 02/05/2023 | 1/2/2022 | 52
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 83 | I Don't Mind a Little Danger | 02/09/2023 | 06/12/2022 | 50
 66 | Do You Really Have the Confidence? | 02/12/2023 | 5/23/2021 | 56
-87 | *𝙉𝙀𝙒* 𝙒𝙄𝙉 𝙒𝙄𝙏𝙃𝙊𝙐𝙏 𝙁𝘼𝙄𝙇𝙄𝙉𝙂 | 02/12/2023 | 02/12/2023 | 46
+87 | Win without Failing| 02/16/2023 | 02/12/2023 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,10 +71,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 15 (Su)
 MM00s | 9 | 2 (Su)
+MM10s | 10 | 1 (Th)
+70s | 10 | 1 (Tu)
 60s | 6 | 0 (Su)
-80s | 8 | 0 (Su)
-MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Tu)
+80s | 8 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
