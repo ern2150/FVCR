@@ -21,11 +21,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
-71 | I Don't Belong Here | 12/15/2022 | 8/1/2021 | 54
 MM13 | Keep on Winning | 12/15/2022 | 8/22/2021 | 56
 MM5 | Danger Straight Ahead | 12/18/2022 | 4/4/2021 | 59
 76 | If I See Him, I'll Kill Him | 12/18/2022 | 11/21/2021 | 49
-79 | A Frightening Experience | 12/20/2022 | 1/16/2022 | 57
 MM15 | Don't Be Afraid of Me | 12/22/2022 | 12/05/2021 | 55
 86 | The Passion and Death of their Struggle | 12/25/2022 | 12/22/2022 | 43
 84 | Poor Doomed Humans | 12/25/2022 | 10/16/2022 | 51
@@ -62,6 +60,8 @@ MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 83 | I Don't Mind a Little Danger | 02/09/2023 | 06/12/2022 | 50
 66 | Do You Really Have the Confidence? | 02/12/2023 | 5/23/2021 | 56
 87 | Win without Failing| 02/16/2023 | 02/12/2023 | 46
+71 | I Don't Belong Here | 02/19/2023 | 8/1/2021 | 54
+79 | A Frightening Experience | 02/19/2023 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,11 +69,11 @@ MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 15 (Su)
-MM00s | 9 | 2 (Su)
+Other | 3 | 16 (Su)
+MM00s | 9 | 3 (Su)
 MM10s | 10 | 1 (Th)
-70s | 10 | 1 (Tu)
-60s | 6 | 0 (Su)
+60s | 6 | 1 (Su)
+70s | 10 | 0 (Su)
 80s | 8 | 0 (Th)
 
 
