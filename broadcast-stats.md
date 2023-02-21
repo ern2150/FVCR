@@ -89,6 +89,14 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+02/19/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+02/19/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+02/19/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+02/19/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+02/19/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+02/19/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
+02/19/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 02/16/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 02/16/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
@@ -99,7 +107,6 @@ Latest Date | Video / Audio | Debut++
 02/16/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 02/16/2023 | SHIT FUCK / (same as video) | 5/4/2021
 02/16/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-02/16/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/12/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 02/12/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/12/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
@@ -159,13 +166,6 @@ Latest Date | Video / Audio | Debut++
 01/19/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 01/19/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 01/19/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-01/17/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-01/17/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-01/17/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-01/17/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-01/17/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-01/17/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-01/17/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
 01/15/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 01/15/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 01/15/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
