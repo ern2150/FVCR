@@ -194,6 +194,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+02/21/2023 | Gargoyles trailer then Superhuman Samurai Syber Squad "His Master's Voice" (A Skorn in their side?)
+02/21/2023 | Power Rangers trailers incl toy commercial leading to VR Troopers (switches to other vcr, chessboard opening)
 02/16/2023 | Ultraman Towards the Future ("signs of life")
 02/16/2023 | MACRON ONE (part two, plus lead out feat Noel and GI Joe Movie, discussion of Sgt Slaughter scorpion quack)
 02/07/2023 | MACRON ONE (part one)
