@@ -172,6 +172,7 @@ Latest Date | Video / Audio | Debut++
 01/24/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 01/24/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 -- | -- | --
+02/26/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘽𝙊𝙉𝙐𝙎 𝙍𝙊𝙐𝙉𝘿]
 02/21/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 02/16/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿]
 02/07/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
@@ -194,7 +195,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
-02/21/2023 | Gargoyles trailer then Superhuman Samurai Syber Squad "His Master's Voice" (A Skorn in their side?)
+02/26/2023 | VR Troopers "Lost Humanity"
+02/26/2023 | Malcolm Superhuman Samurai Syber Squad "An Unhelping Hand" (Tape title: A Skorn in their side) 
+02/21/2023 | Gargoyles trailer then Superhuman Samurai Syber Squad "His Master's Voice" (Tape title: A Skorn in their side)
 02/21/2023 | Power Rangers trailers incl toy commercial leading to VR Troopers (switches to other vcr, chessboard opening)
 02/16/2023 | Ultraman Towards the Future ("signs of life")
 02/16/2023 | MACRON ONE (part two, plus lead out feat Noel and GI Joe Movie, discussion of Sgt Slaughter scorpion quack)
