@@ -22,7 +22,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
 MM5 | Danger Straight Ahead | 12/18/2022 | 4/4/2021 | 59
-84 | Poor Doomed Humans | 12/25/2022 | 10/16/2022 | 51
 77 | Ninja City | 12/27/2022 | 11/28/2021 | 49
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 12/29/2022 | 10/10/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 12/29/2022 | 3/9/2021 | 53
@@ -60,8 +59,9 @@ MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 79 | A Frightening Experience | 02/19/2023 | 1/16/2022 | 57
 MM13 | Keep on Winning | 02/21/2023 | 8/22/2021 | 56
 76 | If I See Him, I'll Kill Him | 02/23/2023 | 11/21/2021 | 49
-MM15 | Don't Be Afraid of Me | 12/22/2022 | 12/05/2021 | 55
-86 | The Passion and Death of their Struggle | 12/25/2022 | 12/22/2022 | 43
+MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
+86 | The Passion and Death of their Struggle | 02/26/2023 | 12/22/2022 | 43
+84 | Poor Doomed Humans | 02/28/2023 | 10/16/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,7 +72,7 @@ Decade | Available Tapes | Weeks since seen
 Other | 3 | 17 (Su)
 MM00s | 9 | 4 (Su)
 60s | 6 | 2 (Su)
-80s | 8 | 0 (Su)
+80s | 8 | 0 (Tu)
 MM10s | 10 | 0 (Th)
 70s | 10 | 0 (Th)
 
