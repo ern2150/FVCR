@@ -21,12 +21,10 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
-MM5 | Danger Straight Ahead | 12/18/2022 | 4/4/2021 | 59
 77 | Ninja City | 12/27/2022 | 11/28/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 12/29/2022 | 3/9/2021 | 53
 MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 | 70
 81 | One Hell of a Nobody | 01/03/2023 | 03/27/2022 | 53
-82 | Are You Looking for Death? | 01/05/2023 | 05/15/2022 | 50
 MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
@@ -62,6 +60,8 @@ MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
 84 | Poor Doomed Humans | 02/28/2023 | 10/16/2022 | 51
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
 85 | The Power You Are Seeking | 03/02/2023 | 11/13/2022 | 45
+82 | Are You Looking for Death? | 03/05/2023 | 05/15/2022 | 50
+MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,11 +69,11 @@ MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 17 (Su)
-MM00s | 9 | 4 (Su)
-60s | 6 | 2 (Su)
+Other | 3 | 18 (Su)
+60s | 6 | 3 (Su)
 MM10s | 10 | 1 (Th)
-80s | 8 | 0 (Th)
+80s | 8 | 0 (Su)
+MM00s | 9 | 0 (Su)
 70s | 10 | 0 (Th)
 
 
