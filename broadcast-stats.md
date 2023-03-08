@@ -197,6 +197,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+03/07/2023 | Malibu Comics Ultraverse Comic Books promo, Ultraverse bungee promo, Ultraverse heist promo. FIREARM!
+03/07/2023 | MORTAL KOMBAT: The Journey Begins
+03/07/2023 | Power Rangers trailers incl toy commercial leading to VR Troopers (Tape title: Oh Brother), music video "All in Your Mind"
 02/28/2023 | Best of W\*ING Vol 1 (incl Taking Bumps 2)
 02/26/2023 | VR Troopers "Lost Humanity"
 02/26/2023 | Malcolm Superhuman Samurai Syber Squad "An Unhelping Hand" (Tape title: A Skorn in their side) 
