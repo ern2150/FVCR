@@ -26,7 +26,6 @@ MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
 64 | Hold You Close and Feel Things | 01/10/2023| 4/18/2021 | 58
-78 | All for Revenge | 01/12/2023 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 01/12/2023 | 02/06/2022 | 55
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
 68 | Endless Chain of Duels and Killings | 01/15/2023 | 6/27/2021 | 54
@@ -62,6 +61,7 @@ MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 59
 81 | One Hell of a Nobody | 03/07/2023 | 03/27/2022 | 53
 77 | Ninja City | 03/09/2023 | 11/28/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 53
+78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,12 +69,12 @@ MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 53
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 18 (Su)
-60s | 6 | 3 (Su)
+Other | 3 | 19 (Su)
+60s | 6 | 4 (Su)
 MM10s | 10 | 2 (Th)
 80s | 8 | 0 (Tu)
 MM00s | 9 | 0 (Th)
-70s | 10 | 0 (Th)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
