@@ -172,6 +172,7 @@ Latest Date | Video / Audio | Debut++
 02/05/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 02/05/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 -- | -- | --
+03/12/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘽𝙊𝙉𝙐𝙎 𝙍𝙊𝙐𝙉𝘿]
 03/07/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 02/28/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 02/26/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘽𝙊𝙉𝙐𝙎 𝙍𝙊𝙐𝙉𝘿]
@@ -197,6 +198,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+03/12/2023 | Be Somebody... or be somebody's FOOL with Mr T!
 03/07/2023 | Malibu Comics Ultraverse Comic Books promo, Ultraverse bungee promo, Ultraverse heist promo. FIREARM!
 03/07/2023 | MORTAL KOMBAT: The Journey Begins
 03/07/2023 | Power Rangers trailers incl toy commercial leading to VR Troopers (Tape title: Oh Brother), music video "All in Your Mind"
