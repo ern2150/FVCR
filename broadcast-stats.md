@@ -199,6 +199,12 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+03/14/2023 | TMNT Making of the Coming Out of Their Shells Tour
+03/14/2023 | Alphabet Soup (william Wegman)
+03/14/2023 | Donut Hole (up til donut pops out of box)
+03/14/2023 | Without Reservation (pause after rap) 
+03/14/2023 | The Appointment (Rich Christiano) ending part
+03/14/2023 | Here Comes Jesus (Kids International) just past Donkey song
 03/12/2023 | Be Somebody... or be somebody's FOOL with Mr T!
 03/07/2023 | Malibu Comics Ultraverse Comic Books promo, Ultraverse bungee promo, Ultraverse heist promo. FIREARM!
 03/07/2023 | MORTAL KOMBAT: The Journey Begins
