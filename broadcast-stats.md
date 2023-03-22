@@ -200,6 +200,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+03/21/2023 | STAR BLAZERS ep 1, THERE ARE ONLY 364 DAYS LEFT
+03/21/2023 | (Dumpster tape) History of Television - Window to the World
+03/21/2023 | Warrior Quest - Path of the Ninja instructional series - Shinobigatana
 03/14/2023 | TMNT Making of the Coming Out of Their Shells Tour
 03/14/2023 | Alphabet Soup (william Wegman)
 03/14/2023 | Donut Hole (up til donut pops out of box)
