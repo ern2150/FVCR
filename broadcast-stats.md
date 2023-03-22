@@ -27,7 +27,6 @@ MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
 64 | Hold You Close and Feel Things | 01/10/2023| 4/18/2021 | 58
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
-68 | Endless Chain of Duels and Killings | 01/15/2023 | 6/27/2021 | 54
 80 | Pass Through All Hard Times | 01/17/2023 | 02/20/2022 | 46
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 01/19/2023 | 8/10/2021 | 58
@@ -62,6 +61,7 @@ MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 59
 MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 53
 78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
+68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,8 +70,8 @@ MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 19 (Su)
-60s | 6 | 4 (Su)
 80s | 8 | 1 (Tu)
+60s | 6 | 0 (Tu)
 MM10s | 10 | 0 (Tu)
 MM00s | 9 | 0 (Th)
 70s | 10 | 0 (Su)
