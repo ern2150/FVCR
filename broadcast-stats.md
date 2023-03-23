@@ -21,7 +21,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
-MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 | 70
+MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
 MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
@@ -35,7 +35,7 @@ MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
 MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
 75 | Never Show Emotion | 01/26/2023 | 11/07/2021 | 48
-MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 61
+MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 58
 MM16 | Today We Shall Kill Each Other | 01/29/2023 | 12/21/2021 | 52
 70 | Take the Fight to the Enemy | 01/31/2023 | 7/11/2021 | 54
 69 | SUMMERTIME | 02/05/2023 | 7/4/2021 | 65
@@ -55,10 +55,10 @@ MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
 85 | The Power You Are Seeking | 03/02/2023 | 11/13/2022 | 45
 82 | Are You Looking for Death? | 03/05/2023 | 05/15/2022 | 50
-MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 59
+MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 57
 81 | One Hell of a Nobody | 03/07/2023 | 03/27/2022 | 53
 77 | Ninja City | 03/09/2023 | 11/28/2021 | 49
-MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 53
+MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 54
 78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
@@ -69,8 +69,8 @@ MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 19 (Su)
-80s | 8 | 1 (Tu)
+Other | 3 | 20 (Su)
+80s | 8 | 2 (Tu)
 60s | 6 | 0 (Tu)
 MM10s | 10 | 0 (Tu)
 MM00s | 9 | 0 (Th)
