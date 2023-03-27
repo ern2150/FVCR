@@ -89,13 +89,23 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/26/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+03/26/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+03/26/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+03/26/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+03/26/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
+03/26/2023 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+03/26/2023 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+03/26/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+03/26/2023 | SHIT FUCK / (same as video) | 5/4/2021
+03/26/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+03/26/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/21/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 03/21/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/21/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 03/21/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 03/21/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 03/21/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-03/21/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 03/14/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 03/14/2023 | Baki end whiteout / (same as video) | 4/13/2021
@@ -162,15 +172,6 @@ Latest Date | Video / Audio | Debut++
 02/19/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 02/19/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 02/19/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
-02/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-02/16/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-02/16/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-02/16/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
-02/16/2023 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-02/16/2023 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-02/16/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-02/16/2023 | SHIT FUCK / (same as video) | 5/4/2021
-02/16/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 -- | -- | --
 03/21/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 03/14/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
