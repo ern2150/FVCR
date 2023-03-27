@@ -20,11 +20,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-MM14 | Fights the Evils with Great Power | 12/08/2022 | 9/26/2021 | 64
 MM1 | Get Rich Regardless of the Means (End of 2019) | 01/01/2023 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 MM2 | Why Are You Playing Heroes? | 01/08/2023 | 2/23/2021 | 64
-MM11 | I Can Stand the Pain | 01/08/2023 | 7/27/2021 | 65
 64 | Hold You Close and Feel Things | 01/10/2023| 4/18/2021 | 58
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
 80 | Pass Through All Hard Times | 01/17/2023 | 02/20/2022 | 46
@@ -62,6 +60,8 @@ MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 54
 78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
+MM11 | I Can Stand the Pain | 03/26/2023 | 7/27/2021 | 65
+MM14 | Fights the Evils with Great Power | 03/26/2022 | 9/26/2021 | 64
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,12 +69,13 @@ MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 20 (Su)
+Other | 3 | 21 (Su)
 80s | 8 | 2 (Tu)
+MM00s | 9 | 1 (Th)
+70s | 10 | 1 (Su)
 60s | 6 | 0 (Tu)
-MM10s | 10 | 0 (Tu)
-MM00s | 9 | 0 (Th)
-70s | 10 | 0 (Su)
+MM10s | 10 | 0 (Su)
+
 
 
 Mixtapes with Updates (by Last Changed) 
