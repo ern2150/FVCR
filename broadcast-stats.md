@@ -32,7 +32,6 @@ MM4 | I'm Glad to See You're Prepared to Die | 01/22/2023 | 4/4/2021 | 50
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
 MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
-75 | Never Show Emotion | 01/26/2023 | 11/07/2021 | 48
 MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 58
 MM16 | Today We Shall Kill Each Other | 01/29/2023 | 12/21/2021 | 52
 70 | Take the Fight to the Enemy | 01/31/2023 | 7/11/2021 | 54
@@ -62,6 +61,7 @@ MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
 MM11 | I Can Stand the Pain | 03/26/2023 | 7/27/2021 | 65
 MM14 | Fights the Evils with Great Power | 03/26/2022 | 9/26/2021 | 64
+75 | Never Show Emotion | 03/28/2023 | 11/07/2021 | 48
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,10 +70,10 @@ MM14 | Fights the Evils with Great Power | 03/26/2022 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 21 (Su)
-80s | 8 | 2 (Tu)
+80s | 8 | 3 (Tu)
 MM00s | 9 | 1 (Th)
-70s | 10 | 1 (Su)
-60s | 6 | 0 (Tu)
+60s | 6 | 1 (Tu)
+70s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Su)
 
 
