@@ -174,6 +174,7 @@ Latest Date | Video / Audio | Debut++
 02/21/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 02/21/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 -- | -- | --
+03/28/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 03/21/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 03/14/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 03/12/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘽𝙊𝙉𝙐𝙎 𝙍𝙊𝙐𝙉𝘿]
@@ -202,6 +203,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+03/28/2023 | Ice Master and the Karate Breakers
+03/28/2023 | (Dumpster) WPTA 21Alive The Making of TV News
 03/21/2023 | STAR BLAZERS ep 1, THERE ARE ONLY 364 DAYS LEFT
 03/21/2023 | (Dumpster tape) History of Television - Window to the World
 03/21/2023 | Warrior Quest - Path of the Ninja instructional series - Shinobigatana
