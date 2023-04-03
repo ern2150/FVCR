@@ -58,7 +58,7 @@ MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 54
 MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
 MM11 | I Can Stand the Pain | 03/26/2023 | 7/27/2021 | 65
-MM14 | Fights the Evils with Great Power | 03/26/2022 | 9/26/2021 | 64
+MM14 | Fights the Evils with Great Power | 03/26/2023 | 9/26/2021 | 64
 75 | Never Show Emotion | 03/28/2023 | 11/07/2021 | 48
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/02/2023 | 11/14/2019 | 66
 MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
