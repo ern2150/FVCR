@@ -204,6 +204,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+04/04/2023 | Billiard Basics (Thomas Crown)
+04/04/2023 | Earthscapes 
+04/04/2023 | (Savers tapes) Harcourt: Take a Field Trip to States and Regions 
 03/28/2023 | Ice Master and the Karate Breakers
 03/28/2023 | (Dumpster) WPTA 21Alive The Making of TV News
 03/21/2023 | STAR BLAZERS ep 1, THERE ARE ONLY 364 DAYS LEFT
