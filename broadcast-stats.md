@@ -23,7 +23,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 64 | Hold You Close and Feel Things | 01/10/2023| 4/18/2021 | 58
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
-80 | Pass Through All Hard Times | 01/17/2023 | 02/20/2022 | 46
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 01/19/2023 | 8/10/2021 | 58
 MM4 | I'm Glad to See You're Prepared to Die | 01/22/2023 | 4/4/2021 | 50
@@ -62,6 +61,7 @@ MM14 | Fights the Evils with Great Power | 03/26/2023 | 9/26/2021 | 64
 75 | Never Show Emotion | 03/28/2023 | 11/07/2021 | 48
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/02/2023 | 11/14/2019 | 66
 MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
+80 | Pass Through All Hard Times | 04/04/2023 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,11 +70,11 @@ MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 22 (Su)
-80s | 8 | 3 (Tu)
-60s | 6 | 1 (Tu)
+60s | 6 | 2 (Tu)
+70s | 10 | 1 (Tu)
 MM10s | 10 | 1 (Su)
+80s | 8 | 0 (Tu)
 MM00s | 9 | 0 (Su)
-70s | 10 | 0 (Tu)
 
 
 
