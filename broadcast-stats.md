@@ -24,8 +24,6 @@ MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 64 | Hold You Close and Feel Things | 01/10/2023| 4/18/2021 | 58
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
-MM12 | Evil Is Never Invincible | 01/19/2023 | 8/10/2021 | 58
-MM4 | I'm Glad to See You're Prepared to Die | 01/22/2023 | 4/4/2021 | 50
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
 MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
@@ -62,6 +60,8 @@ MM14 | Fights the Evils with Great Power | 03/26/2023 | 9/26/2021 | 64
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/02/2023 | 11/14/2019 | 66
 MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
 80 | Pass Through All Hard Times | 04/04/2023 | 02/20/2022 | 46
+MM12 | Evil Is Never Invincible | 04/06/2023 | 8/10/2021 | 58
+MM4 | I'm Glad to See You're Prepared to Die | 04/06/2023 | 4/4/2021 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,9 +72,9 @@ Decade | Available Tapes | Weeks since seen
 Other | 3 | 22 (Su)
 60s | 6 | 2 (Tu)
 70s | 10 | 1 (Tu)
-MM10s | 10 | 1 (Su)
 80s | 8 | 0 (Tu)
-MM00s | 9 | 0 (Su)
+MM00s | 9 | 0 (Th)
+MM10s | 10 | 0 (Th)
 
 
 
