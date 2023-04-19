@@ -24,10 +24,8 @@ MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
-73 | The Whirlpool of Battle | 01/24/2023 | 9/21/2021 | 62
 MM18 | Fought Against All Evils | 01/24/2023  | 1/23/2022 | 51
 MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 58
-70 | Take the Fight to the Enemy | 01/31/2023 | 7/11/2021 | 54
 69 | SUMMERTIME | 02/05/2023 | 7/4/2021 | 65
 MM17 | Ninja Challenge Card | 02/05/2023 | 1/2/2022 | 52
 72 | Who Is the Champion Now? | 02/07/2023 | 9/7/2021 | 53
@@ -62,6 +60,8 @@ MM12 | Evil Is Never Invincible | 04/06/2023 | 8/10/2021 | 58
 MM4 | I'm Glad to See You're Prepared to Die | 04/06/2023 | 4/4/2021 | 50
 64 | Hold You Close and Feel Things | 04/11/2023| 4/18/2021 | 58
 MM16 | Today We Shall Kill Each Other | 04/11/2023 | 12/21/2021 | 52
+73 | The Whirlpool of Battle | 04/18/2023 | 9/21/2021 | 62
+70 | Take the Fight to the Enemy | 04/18/2023 | 7/11/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -69,12 +69,12 @@ MM16 | Today We Shall Kill Each Other | 04/11/2023 | 12/21/2021 | 52
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 3 | 23 (Su)
-70s | 10 | 2 (Tu)
-80s | 8 | 1 (Tu)
-60s | 6 | 0 (Tu)
-MM00s | 9 | 0 (Th)
-MM10s | 10 | 0 (Tu)
+Other | 3 | 24 (Su)
+80s | 8 | 2 (Tu)
+60s | 6 | 1 (Tu)
+MM00s | 9 | 1 (Th)
+MM10s | 10 | 1 (Tu)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
