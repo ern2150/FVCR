@@ -204,6 +204,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+04/20/2023 | Mathmatazz: The Super-Duper Art Show
 04/04/2023 | Billiard Basics (Thomas Crown)
 04/04/2023 | Earthscapes 
 04/04/2023 | (Savers tapes) Harcourt: Take a Field Trip to States and Regions 
