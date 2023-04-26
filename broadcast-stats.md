@@ -205,6 +205,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+04/25/2023 | Dog Sitter (including Tim Lepards Ghost Riding Monkeys)
+04/25/2023 | A Guide for Raising Your Puppy
 04/20/2023 | Mathmatazz: The Super-Duper Art Show
 04/04/2023 | Billiard Basics (Thomas Crown)
 04/04/2023 | Earthscapes 
