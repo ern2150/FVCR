@@ -89,12 +89,19 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/27/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
+04/27/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+04/27/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+04/27/2023 | Baki end whiteout / (same as video) | 4/13/2021
+04/27/2023 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+04/27/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+04/27/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+04/27/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+04/27/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-04/25/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 04/25/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 04/25/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 04/25/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-04/25/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/20/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/20/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/20/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -155,13 +162,6 @@ Latest Date | Video / Audio | Debut++
 03/21/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 03/21/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 03/21/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-03/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-03/14/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-03/14/2023 | Baki end whiteout / (same as video) | 4/13/2021
-03/14/2023 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-03/14/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-03/14/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-03/14/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 03/12/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 03/12/2023 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/12/2023 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
