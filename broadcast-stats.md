@@ -206,6 +206,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+05/02/2023 | Panorama Australia (and chill beats over it)
+05/02/2023 | Real Life Monster Truck for Kids
+05/02/2023 | "Space Shuttle" won the poll... Real Life Shuttle Adventures for Kids
 04/25/2023 | Dog Sitter (including Tim Lepards Ghost Riding Monkeys)
 04/25/2023 | A Guide for Raising Your Puppy
 04/20/2023 | Mathmatazz: The Super-Duper Art Show
