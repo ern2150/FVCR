@@ -25,7 +25,6 @@ MM6 | It's Your Turn to Die | 01/05/2023 | 5/20/2021 | 73
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 58
-MM17 | Ninja Challenge Card | 02/05/2023 | 1/2/2022 | 52
 72 | Who Is the Champion Now? | 02/07/2023 | 9/7/2021 | 53
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 66 | Do You Really Have the Confidence? | 02/12/2023 | 5/23/2021 | 56
@@ -62,6 +61,7 @@ MM18 | Fought Against All Evils | 04/20/2023  | 1/23/2022 | 51
 87 | Win without Failing | 04/25/2023 | 02/12/2023 | 46
 69 | SUMMERTIME | 04/27/2023 | 7/4/2021 | 65
 76 | If I See Him, I'll Kill Him | 05/02/2023 | 11/21/2021 | 49
+MM17 | Ninja Challenge Card | 05/04/2023 | 1/2/2022 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,11 +70,11 @@ MM18 | Fought Against All Evils | 04/20/2023  | 1/23/2022 | 51
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | 26 (Su)
-MM00s | 9 | 3 (Th)
+MM00s | 9 | 4 (Th)
 80s | 8 | 1 (Tu)
-MM10s | 10 | 1 (Th)
-60s | 6 | 0 (Th)
+60s | 6 | 1 (Th)
 70s | 10 | 0 (Tu)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
