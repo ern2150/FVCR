@@ -27,12 +27,10 @@ MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 MM8 | The Sword of Catastrophe | 01/29/2023 | 6/15/2021 | 58
 72 | Who Is the Champion Now? | 02/07/2023 | 9/7/2021 | 53
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
-66 | Do You Really Have the Confidence? | 02/12/2023 | 5/23/2021 | 56
 79 | A Frightening Experience | 02/19/2023 | 1/16/2022 | 57
 MM13 | Keep on Winning | 02/21/2023 | 8/22/2021 | 56
 MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
-85 | The Power You Are Seeking | 03/02/2023 | 11/13/2022 | 45
 82 | Are You Looking for Death? | 03/05/2023 | 05/15/2022 | 50
 MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 57
 81 | One Hell of a Nobody | 03/07/2023 | 03/27/2022 | 53
@@ -62,6 +60,8 @@ MM17 | Ninja Challenge Card | 05/04/2023 | 1/2/2022 | 52
 86 | The Passion and Death of their Struggle | 05/09/2023 | 12/22/2022 | 43
 71 | I Don't Belong Here | 05/11/2023 | 8/1/2021 | 54
 84 | Poor Doomed Humans | 05/11/2023 | 10/16/2022 | 51
+66 | Do You Really Have the Confidence? | 05/14/2023 | 5/23/2021 | 56
+85 | The Power You Are Seeking | 05/14/2023 | 11/13/2022 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,10 +71,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | > 6 mo
 MM00s | 9 | 5 (Th)
-60s | 6 | 2 (Th)
 MM10s | 10 | 1 (Th)
+60s | 6 | 0 (Su)
+80s | 8 | 0 (Su)
 70s | 10 | 0 (Th)
-80s | 8 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
