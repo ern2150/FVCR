@@ -89,6 +89,19 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+05/16/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/16/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+05/16/2023 | FMW Opener / FMW Closer | 12/6/2020
+05/16/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+05/16/2023 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+05/16/2023 | Wheres Da Schtuff / Original Audio | 11/28/2021
+05/16/2023 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+05/16/2023 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+05/16/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+05/16/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+05/16/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+05/16/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 05/14/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 05/14/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -100,9 +113,7 @@ Latest Date | Video / Audio | Debut++
 05/14/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 05/14/2023 | SHIT FUCK / (same as video) | 5/4/2021
 05/14/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-05/14/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/11/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-05/11/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/11/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 05/11/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 05/11/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -156,23 +167,13 @@ Latest Date | Video / Audio | Debut++
 04/06/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 04/06/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 04/06/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-04/04/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-04/04/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-04/04/2023 | FMW Opener / FMW Closer | 12/6/2020
-04/04/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-04/04/2023 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-04/04/2023 | Wheres Da Schtuff / Original Audio | 11/28/2021
-04/04/2023 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-04/04/2023 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-04/04/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-04/04/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-04/04/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 04/02/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 04/02/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 04/02/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 04/02/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 04/02/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 -- | -- | --
+05/16/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 05/09/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 05/02/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 𝙂𝘼𝙐𝙉𝙏𝙇𝙀𝙏]
 04/25/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
