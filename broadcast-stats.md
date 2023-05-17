@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+05/16/2023 | Liquid Television comp 1994 (ads: Beavis and Butthead VHS 1, Year in Rock) Uncle Louie, AEON Flux, Crazy Daisy, Stick Figure Theater, Doktor Zum, Dangwoods, Big City, The Ant, Smart Talk with Raisin
 05/09/2023 | I LOVE TOY TRAINS, part 2 (and chill beats over it)
 05/09/2023 | VR Troopers "The Virtual V6" (incl VHS intro, and music video "We Are VR" hair metal mix)
 05/04/2023 | Tomi Ungerer Video Library (Three Robbers, Moon Man, The Hat, The Beast of Monsieur Racine)
