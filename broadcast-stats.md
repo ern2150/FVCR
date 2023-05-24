@@ -23,7 +23,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
-72 | Who Is the Champion Now? | 02/07/2023 | 9/7/2021 | 53
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 79 | A Frightening Experience | 02/19/2023 | 1/16/2022 | 57
 MM13 | Keep on Winning | 02/21/2023 | 8/22/2021 | 56
@@ -62,6 +61,7 @@ MM17 | Ninja Challenge Card | 05/04/2023 | 1/2/2022 | 52
 85 | The Power You Are Seeking | 05/14/2023 | 11/13/2022 | 45
 MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
+72 | Who Is the Champion Now? | 05/23/2023 | 9/7/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,10 +71,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | > 6 mo
 MM10s | 10 | 2 (Th)
-70s | 10 | 1 (Th)
-60s | 6 | 0 (Su)
-80s | 8 | 0 (Su)
+60s | 6 | 1 (Su)
+80s | 8 | 1 (Su)
 MM00s | 9 | 0 (Th)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
