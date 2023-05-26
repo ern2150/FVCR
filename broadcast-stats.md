@@ -24,7 +24,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
-79 | A Frightening Experience | 02/19/2023 | 1/16/2022 | 57
 MM13 | Keep on Winning | 02/21/2023 | 8/22/2021 | 56
 MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
@@ -62,6 +61,7 @@ MM17 | Ninja Challenge Card | 05/04/2023 | 1/2/2022 | 52
 MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 72 | Who Is the Champion Now? | 05/23/2023 | 9/7/2021 | 53
+79 | A Frightening Experience | 05/25/2023 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,11 +70,11 @@ MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | > 6 mo
-MM10s | 10 | 2 (Th)
+MM10s | 10 | 3 (Th)
 60s | 6 | 1 (Su)
 80s | 8 | 1 (Su)
-MM00s | 9 | 0 (Th)
-70s | 10 | 0 (Tu)
+MM00s | 9 | 1 (Th)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
