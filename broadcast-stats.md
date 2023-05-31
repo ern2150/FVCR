@@ -27,7 +27,6 @@ MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 MM13 | Keep on Winning | 02/21/2023 | 8/22/2021 | 56
 MM15 | Don't Be Afraid of Me | 02/23/2023 | 12/05/2021 | 55
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
-82 | Are You Looking for Death? | 03/05/2023 | 05/15/2022 | 50
 MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 57
 81 | One Hell of a Nobody | 03/07/2023 | 03/27/2022 | 53
 77 | Ninja City | 03/09/2023 | 11/28/2021 | 49
@@ -62,6 +61,7 @@ MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 72 | Who Is the Champion Now? | 05/23/2023 | 9/7/2021 | 53
 79 | A Frightening Experience | 05/25/2023 | 1/16/2022 | 57
+82 | Are You Looking for Death? | 05/30/2023 | 05/15/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -71,8 +71,8 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | > 6 mo
 MM10s | 10 | 3 (Th)
-60s | 6 | 1 (Su)
-80s | 8 | 1 (Su)
+60s | 6 | 2 (Su)
+80s | 8 | 0 (Tu)
 MM00s | 9 | 1 (Th)
 70s | 10 | 0 (Th)
 
