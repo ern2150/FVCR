@@ -211,6 +211,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+05/30/2023 | All About Perfect Hair with Alex Roldan
+05/30/2023 | (Mary Kay) Selling Skin Care
 05/25/2023 | VR Troopers "Computer Captive" (music video "We Are VR Troopers" - "Who's the VR Trooper?")
 05/25/2023 | The Original Kitty Show - Video Toy for Cats (stillstore of cover)
 05/23/2023 | 10 Smart Ways to Shape Up
