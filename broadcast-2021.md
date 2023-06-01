@@ -195,7 +195,7 @@ Latest Date | Video / Audio | Debut++
 1/21/2021 | [Fist of the North Star aka Hokuto no Ken 2 Intro](https://www.youtube.com/watch?v=PnRuhAc8GAc) / [Tom Cat - Tough Boy](https://www.youtube.com/watch?v=Mdju-W_ZAnw&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=38) | 7/23/2020
 1/19/2021 | (another interlude "We Filmed Heaven") [continues from Tokyo Melody at 56:45] / (same as video) | 1/19/2021
 1/19/2021 | (another interlude where a dude is on a phone) [continues from Tokyo Melody at 37:06] / (same as video) | 1/19/2021
-1/19/2021 | (French laser toy Claude Debussy) from [Ryuichi Sakamoto - Tokyo Melody](https://youtu.be/Yv3Iqzpv3_I) / (same as video) | 1/19/2021
+1/19/2021 | (French laser toy Claude Debussy) from [Ryuichi Sakamoto - Tokyo Melody](https://archive.org/details/tokyo-melody-un-film-sur-ryuichi-sakamoto) / (same as video) | 1/19/2021
 1/14/2021 | [Action Figure then Red v Black Ninja in Gazebo](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ultimate-Ninja-(1986)#stuart-doll) / [Beirut - Elephant Gun](https://youtu.be/SWSz_PAfgNc) | 1/14/2021
 1/12/2021 | [Kabuki Rocks - Niji no Miyako](https://youtu.be/vy10ksoyEEY?t=25) / (same as video) | 1/12/2021
 1/12/2021 | [Daicon III](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Daicon#iii) / [Kitaro - Noah's Ark](https://youtu.be/Vzjz8JgaI7s) | 12/22/2020
