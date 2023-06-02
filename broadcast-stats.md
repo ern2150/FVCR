@@ -89,8 +89,8 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-06/01/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 06/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+06/01/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 06/01/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 06/01/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 06/01/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
@@ -279,7 +279,7 @@ Outros
 [archive](broadcast-2022.md#outros)
 Latest Date | Video / Audio
 -- | --
-05/30/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+06/01/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
