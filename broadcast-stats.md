@@ -20,8 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-67 | Together We Will Smash Them | 01/15/2023 | 6/20/2021 | 53
-61 | I Must Make Sure You Fail | 01/19/2023  | 3/14/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 01/22/2023 | 6/6/2021 | 58
 MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 MM13 | Keep on Winning | 02/21/2023 | 8/22/2021 | 56
@@ -62,6 +60,8 @@ MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 79 | A Frightening Experience | 05/25/2023 | 1/16/2022 | 57
 82 | Are You Looking for Death? | 05/30/2023 | 05/15/2022 | 50
 MM15 | Don't Be Afraid of Me | 06/01/2023 | 12/05/2021 | 55
+61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
+67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,9 +70,9 @@ MM15 | Don't Be Afraid of Me | 06/01/2023 | 12/05/2021 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 3 | > 6 mo
-60s | 6 | 2 (Su)
 MM00s | 9 | 2 (Th)
 70s | 10 | 1 (Th)
+60s | 6 | 0 (FRI)
 80s | 8 | 0 (Tu)
 MM10s | 10 | 0 (Th)
 
