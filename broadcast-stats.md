@@ -212,6 +212,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+06/01/2023 | MoBot - Life Habitat Video Series by Herb Halpert - Secret of the Pond
+06/01/2023 | (Orion home video promo for Anime) JOHNNY SOKKO AND HIS FLYING ROBOT "Destroy the Dam"
 05/30/2023 | All About Perfect Hair with Alex Roldan
 05/30/2023 | (Mary Kay) Selling Skin Care
 05/25/2023 | VR Troopers "Computer Captive" (music video "We Are VR Troopers" - "Who's the VR Trooper?")
