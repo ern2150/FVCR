@@ -72,8 +72,8 @@ Decade | Available Tapes | Weeks since seen
 Other | 3 | > 6 mo
 MM10s | 10 | 3 (Th)
 60s | 6 | 2 (Su)
-80s | 8 | 0 (Tu)
 MM00s | 9 | 1 (Th)
+80s | 8 | 0 (Tu)
 70s | 10 | 0 (Th)
 
 
@@ -89,13 +89,18 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/01/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+06/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+06/01/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+06/01/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+06/01/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+06/01/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+06/01/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/30/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-05/30/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/30/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 05/30/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 05/30/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 05/30/2023 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-05/30/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 05/25/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 05/25/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
@@ -167,12 +172,8 @@ Latest Date | Video / Audio | Debut++
 04/25/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 04/25/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 04/25/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-04/11/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-04/11/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-04/11/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-04/11/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-04/11/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 -- | -- | --
+06/01/2023 | [(𝙈𝙊𝙍𝙀) 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 05/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 05/25/2023 | [(𝙈𝙊𝙍𝙀) 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 05/23/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
