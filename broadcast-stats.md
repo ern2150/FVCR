@@ -89,6 +89,11 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/08/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | --8/30/2020
+06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | --8/30/2020
+06/08/2023 | Tough Maskman / Lindberg - Rush Life | --8/30/2020
+06/08/2023 | Space - Just Blue (live) / (same as video) | --8/30/2020
 06/06/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 06/06/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 06/06/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
@@ -97,7 +102,6 @@ Latest Date | Video / Audio | Debut++
 06/06/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 06/06/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 06/06/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-06/06/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/02/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 06/02/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 06/02/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
