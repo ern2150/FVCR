@@ -219,6 +219,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+06/13/2023 | Tag Team Titlewave
+06/13/2023 | STAR BLAZERS Volume 2
 06/06/2023 | (rewind to find rap from vol 1)
 06/06/2023 | MoBot - Life Habitat 4 - Story of the Woodland Stream
 06/06/2023 | JOHNNY SOCKO pt 2
@@ -245,7 +247,7 @@ Latest Date | Video / Audio
 04/04/2023 | (Savers tapes) Harcourt: Take a Field Trip to States and Regions 
 03/28/2023 | Ice Master and the Karate Breakers
 03/28/2023 | (Dumpster) WPTA 21Alive The Making of TV News
-03/21/2023 | STAR BLAZERS ep 1, THERE ARE ONLY 364 DAYS LEFT
+03/21/2023 | STAR BLAZERS ep (volume?) 1, THERE ARE ONLY 364 DAYS LEFT
 03/21/2023 | (Dumpster tape) History of Television - Window to the World
 03/21/2023 | Warrior Quest - Path of the Ninja instructional series - Shinobigatana
 03/14/2023 | TMNT Making of the Coming Out of Their Shells Tour
