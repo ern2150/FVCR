@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2022 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2022 | 10/17/2021 | 49
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-MM10 | The Splatter and Gore Department | 02/09/2023 | 7/15/2021 | 59
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
 MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 57
 77 | Ninja City | 03/09/2023 | 11/28/2021 | 49
@@ -63,6 +62,7 @@ MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
 | | _FORCED STEREO DELUXE_ | 06/08/2023 ~~8/30/2020~~ | 8/27/2020 | 46
 81 | One Hell of a Nobody | 06/08/2023 | 03/27/2022 | 53
 MM13 | Keep on Winning | 06/13/2023 | 8/22/2021 | 56
+MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -70,12 +70,12 @@ MM13 | Keep on Winning | 06/13/2023 | 8/22/2021 | 56
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-70s | 10 | 2 (Th)
+70s | 10 | 3 (Th)
+Other | 3 | 1 (Th)
 60s | 6 | 1 (FRI)
+80s | 8 | 1 (Th)
 MM00s | 9 | 1 (Tu)
-Other | 3 | 0 (Th)
-80s | 8 | 0 (Th)
-MM10s | 10 | 0 (Tu)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
