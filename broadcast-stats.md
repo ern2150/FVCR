@@ -22,7 +22,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
 MM5 | Danger Straight Ahead | 03/05/2023 | 4/4/2021 | 57
-77 | Ninja City | 03/09/2023 | 11/28/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 54
 78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
 MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
@@ -63,7 +62,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
 81 | One Hell of a Nobody | 06/08/2023 | 03/27/2022 | 53
 MM13 | Keep on Winning | 06/13/2023 | 8/22/2021 | 56
 MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
-
+77 | Ninja City | 06/18/2023 | 11/28/2021 | 49
+88 | *NEW* Under Attack in Hong Kong | 06/18/2023 | 06/18/2023 | 45
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -71,10 +71,10 @@ MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 70s | 10 | 3 (Th)
+60s | 6 | 2 (FRI)
 Other | 3 | 1 (Th)
-60s | 6 | 1 (FRI)
-80s | 8 | 1 (Th)
 MM00s | 9 | 1 (Tu)
+80s | 9 | 0 (Su)
 MM10s | 10 | 0 (Th)
 
 
