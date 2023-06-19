@@ -70,12 +70,12 @@ MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-70s | 10 | 3 (Th)
 60s | 6 | 2 (FRI)
 Other | 3 | 1 (Th)
 MM00s | 9 | 1 (Tu)
 80s | 9 | 0 (Su)
 MM10s | 10 | 0 (Th)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
