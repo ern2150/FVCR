@@ -23,7 +23,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 03/02/2023 | 10/10/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 03/09/2023 | 3/9/2021 | 54
 78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
-MM19 | Ghost Shadow Squad | 03/14/2023 | 02/06/2022 | 55
 68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
 MM11 | I Can Stand the Pain | 03/26/2023 | 7/27/2021 | 65
 MM14 | Fights the Evils with Great Power | 03/26/2023 | 9/26/2021 | 64
@@ -64,6 +63,7 @@ MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
 77 | Ninja City | 06/18/2023 | 11/28/2021 | 49
 88 | Under Attack in Hong Kong | 06/20/2023 | 06/18/2023 | 45
 MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
+MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,7 +72,7 @@ MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 2 (FRI)
-Other | 3 | 1 (Th)
+Other | 3 | 2 (Th)
 MM00s | 9 | 0 (Tu)
 80s | 9 | 0 (Tu)
 MM10s | 10 | 0 (Th)
