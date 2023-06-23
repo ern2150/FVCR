@@ -222,6 +222,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+06/22/2023 | Ice Master and the Karate Breakers
+06/22/2023 | Troxel's Bicycle Safety Camp
 06/15/2023 | (1998 multistep installation guide) "Welcome to DSS/USSB" by Directv / "How to Install a Digital Satellite System"
 06/13/2023 | Tag Team Titlewave cover but content is "Rock n Roll Rumble - Missing Matches"
 06/13/2023 | STAR BLAZERS Volume 2
