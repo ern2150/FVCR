@@ -225,6 +225,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+06/29/2023 | BMX FREESTYLE (Hot, Rad & Trick)
+06/29/2023 | "ANDRE THE GIANT - the Missing Matches" (can't maintain signal)
 06/22/2023 | Ice Master and the Karate Breakers
 06/22/2023 | Troxel's Bicycle Safety Camp
 06/15/2023 | (1998 multistep installation guide) "Welcome to DSS/USSB" by Directv / "How to Install a Digital Satellite System"
