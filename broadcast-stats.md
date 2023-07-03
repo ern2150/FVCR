@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-78 | All for Revenge | 03/12/2023 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 03/21/2023 | 6/27/2021 | 54
 MM11 | I Can Stand the Pain | 03/26/2023 | 7/27/2021 | 65
 MM14 | Fights the Evils with Great Power | 03/26/2023 | 9/26/2021 | 64
@@ -64,19 +63,20 @@ MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
   | Devil Mountain 2021 Halloween Vol 3 | 06/27/2023 | 10/17/2021 | 49
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 06/27/2023 | 10/10/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
-
+78 | All for Revenge | 07/02/2023 | 1/9/2022 | 50
+89 | 𝘿𝙊𝙉'𝙏 𝙔𝙊𝙐 𝙆𝙉𝙊𝙒 𝙏𝙃𝙀 𝙎𝙏𝘼𝙏𝙀 𝙄'𝙈 𝙄𝙉? | 07/02/2023 | 07/02/2023 | ...
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 3 (FRI)
-80s | 9 | 1 (Tu)
+60s | 6 | 4 (FRI)
 MM10s | 10 | 1 (Th)
 Other | 4 | 0 (Tu)
 MM00s | 9 | 0 (Th)
-70s | 10 | 0 (Tu)
+70s | 10 | 0 (Su)
+80s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
