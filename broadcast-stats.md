@@ -91,8 +91,15 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/09/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+07/09/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+07/09/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+07/09/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+07/09/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+07/09/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+07/09/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+07/09/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/02/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-07/02/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/02/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 07/02/2023 | FMW Opener / FMW Closer | 12/6/2020
 07/02/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -103,7 +110,6 @@ Latest Date | Video / Audio | Debut++
 07/02/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 07/02/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 07/02/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-07/02/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/29/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 06/29/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 06/29/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -173,12 +179,6 @@ Latest Date | Video / Audio | Debut++
 06/01/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 06/01/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 06/01/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-05/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-05/25/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-05/25/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-05/25/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-05/25/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-05/25/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 -- | -- | --
 06/29/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 06/27/2023 | [𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙋𝙏. 2]
