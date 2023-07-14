@@ -91,14 +91,19 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/13/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+07/13/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+07/13/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+07/13/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+07/13/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+07/13/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+07/13/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/09/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-07/09/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/09/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 07/09/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 07/09/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/09/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/09/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-07/09/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/02/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 07/02/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 07/02/2023 | FMW Opener / FMW Closer | 12/6/2020
@@ -174,12 +179,8 @@ Latest Date | Video / Audio | Debut++
 06/02/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 06/02/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 06/02/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-06/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-06/01/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-06/01/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-06/01/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-06/01/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 -- | -- | --
+07/13/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 06/29/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 06/27/2023 | [𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎 𝙋𝙏. 2]
 06/25/2023 | [𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎]
