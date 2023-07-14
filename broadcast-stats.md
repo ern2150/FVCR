@@ -226,6 +226,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+07/13/2023 | (2002 scary cgi yellow cassette) Miss Patty Cake Egg Strava Ganza
 06/29/2023 | BMX FREESTYLE (Hot, Rad & Trick)
 06/29/2023 | "ANDRE THE GIANT - the Missing Matches" (can't maintain signal)
 06/22/2023 | Ice Master and the Karate Breakers
