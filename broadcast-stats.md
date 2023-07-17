@@ -18,10 +18,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 03/26/2023 | 9/26/2021 | 64
-75 | Never Show Emotion | 03/28/2023 | 11/07/2021 | 48
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/02/2023 | 11/14/2019 | 66
 MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
-80 | Pass Through All Hard Times | 04/04/2023 | 02/20/2022 | 46
 MM12 | Evil Is Never Invincible | 04/06/2023 | 8/10/2021 | 58
 MM4 | I'm Glad to See You're Prepared to Die | 04/06/2023 | 4/4/2021 | 50
 64 | Hold You Close and Feel Things | 04/11/2023| 4/18/2021 | 58
@@ -65,6 +63,8 @@ MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
 89 | Don't You Know the State I'm In? | 07/09/2023 | 07/02/2023 | 47
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
 MM11 | I Can Stand the Pain | 07/13/2023 | 7/27/2021 | 65
+75 | Never Show Emotion | 07/16/2023 | 11/07/2021 | 48
+80 | Pass Through All Hard Times | 07/16/2023 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -72,12 +72,12 @@ MM11 | I Can Stand the Pain | 07/13/2023 | 7/27/2021 | 65
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-MM10s | 10 | 0 (Th)
 Other | 4 | 2 (Tu)
 MM00s | 9 | 2 (Th)
-70s | 10 | 1 (Su)
-60s | 6 | 0 (Su)
+60s | 6 | 1 (Su)
+70s | 10 | 0 (Su)
 80s | 10 | 0 (Su)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
