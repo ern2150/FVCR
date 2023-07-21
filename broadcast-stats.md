@@ -20,9 +20,7 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM1 | Get Rich Regardless of the Means (End of 2019) | 04/02/2023 | 11/14/2019 | 66
 MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
 MM12 | Evil Is Never Invincible | 04/06/2023 | 8/10/2021 | 58
-MM4 | I'm Glad to See You're Prepared to Die | 04/06/2023 | 4/4/2021 | 50
 64 | Hold You Close and Feel Things | 04/11/2023| 4/18/2021 | 58
-MM16 | Today We Shall Kill Each Other | 04/11/2023 | 12/21/2021 | 52
 73 | The Whirlpool of Battle | 04/18/2023 | 9/21/2021 | 62
 70 | Take the Fight to the Enemy | 04/18/2023 | 7/11/2021 | 54
 83 | I Don't Mind a Little Danger | 04/20/2023 | 06/12/2022 | 50
@@ -65,6 +63,8 @@ MM11 | I Can Stand the Pain | 07/13/2023 | 7/27/2021 | 65
 75 | Never Show Emotion | 07/16/2023 | 11/07/2021 | 48
 80 | Pass Through All Hard Times | 07/16/2023 | 02/20/2022 | 46
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
+MM16 | Today We Shall Kill Each Other | 07/20/2023 | 12/21/2021 | 52
+MM4 | I'm Glad to See You're Prepared to Die | 07/20/2023 | 4/4/2021 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,8 +73,8 @@ MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 4 | 3 (Tu)
-MM00s | 9 | 2 (Th)
 60s | 6 | 1 (Su)
+MM00s | 9 | 0 (Th)
 70s | 10 | 0 (Su)
 80s | 10 | 0 (Su)
 MM10s | 10 | 0 (Tu)
