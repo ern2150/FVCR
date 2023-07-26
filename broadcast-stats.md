@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-MM1 | Get Rich Regardless of the Means (End of 2019) | 04/02/2023 | 11/14/2019 | 66
 MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
 MM12 | Evil Is Never Invincible | 04/06/2023 | 8/10/2021 | 58
 64 | Hold You Close and Feel Things | 04/11/2023| 4/18/2021 | 58
@@ -65,7 +64,8 @@ MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM16 | Today We Shall Kill Each Other | 07/20/2023 | 12/21/2021 | 52
 MM4 | I'm Glad to See You're Prepared to Die | 07/20/2023 | 4/4/2021 | 50
 87 | Win without Failing | 07/23/2023 | 02/12/2023 | 46
-90 | 𝙀𝙑𝙀𝙍𝙔 𝘿𝙄𝙁𝙁𝙀𝙍𝙀𝙉𝙏 𝙒𝘼𝙔 𝙊𝙁 𝙆𝙄𝙇𝙇𝙄𝙉𝙂 | 07/23/2023 | 07/23/2023 | 47
+90 | Every Different Way of Killing | 07/25/2023 | 07/23/2023 | 47
+MM1 | Get Rich Regardless of the Means (End of 2019) | 07/25/2023 | 11/14/2019 | 66
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 07/20/2023 | 4/4/2021 | 50
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 4 | 3 (Tu)
+Other | 4 | 4 (Tu)
 60s | 6 | 2 (Su)
 70s | 10 | 1 (Su)
 80s | 10 | 0 (Su)
-_90s_ | 1 | 0 (Su)
-MM00s | 9 | 0 (Th)
-MM10s | 10 | 0 (Tu)
+_90s_ | 1 | 0 (Tu)
+MM00s | 9 | 0 (Tu)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
