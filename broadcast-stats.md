@@ -233,6 +233,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/01/2023 | Cat TV - A Video for Your Cat
+08/01/2023 | The World of Tom Clark (gnomes)
 07/30/2023 | Bob Mann's Unauthorized History of Golf
 07/18/2023 | Magic Eye II - The Video
 07/13/2023 | (2002 scary cgi yellow cassette) Miss Patty Cake Egg Strava Ganza
