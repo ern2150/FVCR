@@ -22,9 +22,7 @@ MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
 73 | The Whirlpool of Battle | 04/18/2023 | 9/21/2021 | 62
 70 | Take the Fight to the Enemy | 04/18/2023 | 7/11/2021 | 54
 69 | SUMMERTIME | 04/27/2023 | 7/4/2021 | 65
-76 | If I See Him, I'll Kill Him | 05/02/2023 | 11/21/2021 | 49
 MM17 | Ninja Challenge Card | 05/04/2023 | 1/2/2022 | 52
-86 | The Passion and Death of their Struggle | 05/09/2023 | 12/22/2022 | 43
 71 | I Don't Belong Here | 05/11/2023 | 8/1/2021 | 54
 84 | Poor Doomed Humans | 05/11/2023 | 10/16/2022 | 51
 66 | Do You Really Have the Confidence? | 05/14/2023 | 5/23/2021 | 56
@@ -66,6 +64,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/25/2023 | 11/14/2019 |
 MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 83 | I Don't Mind a Little Danger | 08/04/2023 | 06/12/2022 | 50
 MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
+86 | The Passion and Death of their Struggle | 08/06/2023 | 12/22/2022 | 43
+76 | If I See Him, I'll Kill Him | 08/06/2023 | 11/21/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,11 +74,11 @@ MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 4 | 5 (Tu)
-60s | 6 | 3 (Su)
-70s | 10 | 2 (Su)
+60s | 6 | 4 (Su)
 _90s_ | 1 | 1 (Tu)
 MM00s | 9 | 1 (Tu)
-80s | 10 | 0 (FRI)
+70s | 10 | 0 (Su)
+80s | 10 | 0 (Su)
 MM10s | 10 | 0 (FRI)
 
 
