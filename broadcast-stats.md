@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/08/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+08/08/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/08/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+08/08/2023 | FMW Opener / FMW Closer | 12/6/2020
+08/08/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+08/08/2023 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+08/08/2023 | Wheres Da Schtuff / Original Audio | 11/28/2021
+08/08/2023 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+08/08/2023 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+08/08/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+08/08/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+08/08/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+08/08/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/06/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-08/06/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/06/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 08/06/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 08/06/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 08/06/2023 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-08/06/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/04/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 08/04/2023 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 08/04/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -161,17 +172,6 @@ Latest Date | Video / Audio | Debut++
 07/09/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/09/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/09/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-07/02/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-07/02/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-07/02/2023 | FMW Opener / FMW Closer | 12/6/2020
-07/02/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-07/02/2023 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-07/02/2023 | Wheres Da Schtuff / Original Audio | 11/28/2021
-07/02/2023 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-07/02/2023 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-07/02/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-07/02/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-07/02/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 06/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 06/25/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 06/25/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
@@ -183,6 +183,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+08/09/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 1 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 RETROSPECTIVE]
 08/06/2023 | [SUNDAY BRUNCH STREAM]
 08/01/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 07/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
