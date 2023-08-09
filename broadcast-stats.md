@@ -235,6 +235,15 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/08/2023 | HOW TO MAKE A VIDEO LETTER (08/30/2022)
+08/08/2023 | Japanese Toy Commercials (09/13/2022)
+08/08/2023 | SEGATA SANSHIROs (09/27/2022)
+08/08/2023 | Rock's Winning Workout without Weights (08/16/2022)
+08/08/2023 | Road Warriors Retrospective (08/23/2022)
+08/08/2023 | Shadowrun (08/30/2022)
+08/08/2023 | Jerry Harris - Exercise Your Body, Bachelor Life
+08/08/2023 | Mary betaMax Toshiba tape (08/16/2022)
+08/08/2023 | Kavo Music Video Sources (08/16/2022)
 08/01/2023 | Cat TV - A Video for Your Cat
 08/01/2023 | The World of Tom Clark (gnomes)
 07/30/2023 | Bob Mann's Unauthorized History of Golf
