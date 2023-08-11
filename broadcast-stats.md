@@ -17,10 +17,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-MM2 | Why Are You Playing Heroes? | 04/02/2023 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 04/11/2023| 4/18/2021 | 58
 73 | The Whirlpool of Battle | 04/18/2023 | 9/21/2021 | 62
-70 | Take the Fight to the Enemy | 04/18/2023 | 7/11/2021 | 54
 69 | SUMMERTIME | 04/27/2023 | 7/4/2021 | 65
 MM17 | Ninja Challenge Card | 05/04/2023 | 1/2/2022 | 52
 71 | I Don't Belong Here | 05/11/2023 | 8/1/2021 | 54
@@ -66,6 +64,8 @@ MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
 86 | The Passion and Death of their Struggle | 08/06/2023 | 12/22/2022 | 43
 76 | If I See Him, I'll Kill Him | 08/06/2023 | 11/21/2021 | 49
+70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
+MM2 | Why Are You Playing Heroes? | 08/10/2023 | 2/23/2021 | 64
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,11 +73,11 @@ MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 4 | 5 (Tu)
+Other | 4 | 6 (Tu)
 60s | 6 | 4 (Su)
-_90s_ | 1 | 1 (Tu)
-MM00s | 9 | 1 (Tu)
-70s | 10 | 0 (Su)
+_90s_ | 1 | 2 (Tu)
+MM00s | 9 | 0 (Th)
+70s | 10 | 0 (Th)
 80s | 10 | 0 (Su)
 MM10s | 10 | 0 (FRI)
 
@@ -94,6 +94,13 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/10/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+08/10/2023 | Stream Trailer 2023 / ?? | 01/05/2023
+08/10/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+08/10/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+08/10/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+08/10/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+08/10/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/08/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 08/08/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/08/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
@@ -106,7 +113,6 @@ Latest Date | Video / Audio | Debut++
 08/08/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 08/08/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 08/08/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-08/08/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/06/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 08/06/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 08/06/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -125,7 +131,6 @@ Latest Date | Video / Audio | Debut++
 08/01/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 08/01/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 07/30/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-07/30/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 07/30/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 07/30/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 07/30/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -172,18 +177,13 @@ Latest Date | Video / Audio | Debut++
 07/09/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/09/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/09/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-06/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-06/25/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-06/25/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-06/25/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-06/25/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 06/08/2023 | --
 06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
-08/09/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 1 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 RETROSPECTIVE]
+08/09/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 1 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 𝙍𝙀𝙏𝙍𝙊𝙎𝙋𝙀𝘾𝙏𝙄𝙑𝙀]
 08/06/2023 | [SUNDAY BRUNCH STREAM]
 08/01/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 07/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
