@@ -94,20 +94,20 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-08/10/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-08/10/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
-08/10/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-08/10/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-08/10/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-08/10/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-08/10/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+08/12/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+08/12/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/12/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+08/12/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+08/12/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+08/12/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+08/12/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+08/12/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/10/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 08/10/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 08/10/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 08/10/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 08/10/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 08/10/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-08/10/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/08/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 08/08/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 08/08/2023 | FMW Opener / FMW Closer | 12/6/2020
@@ -184,7 +184,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
 08/12/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙄𝙉𝙎𝙏𝙍𝙐𝘾𝙏𝙄𝙊𝙉𝘼𝙇/𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀𝙎]
-08/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 1 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 𝙍𝙀𝙏𝙍𝙊𝙎𝙋𝙀𝘾𝙏𝙄𝙑𝙀]
+08/08/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 1 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 𝙍𝙀𝙏𝙍𝙊𝙎𝙋𝙀𝘾𝙏𝙄𝙑𝙀]
 08/06/2023 | [SUNDAY BRUNCH STREAM]
 08/01/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 07/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
@@ -236,6 +236,28 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/12/2023 | Bonus Clip: Dinosaurs: Fun, Fact, Fantasy
+08/12/2023 | Bonus Clip: Zoids ep 9 (including toy commercial)
+08/12/2023 | Ancient Mysteries Pompeii: Buried Alive
+08/12/2023 | Nature Series: Dinosaurs 3 Video Set (includes Dino fun facts fantasy)
+08/12/2023 | Darrin's Dance Grooves, Diane Horner Country Line Dancing, Career Exploration & Planning: What Will I Do with My Life?
+08/12/2023 | Converse Basketball Tips with Dr. J, Wild about Wheels: Million Dollar Cars
+08/12/2023 | The Great Canadian Train Ride, Flying Scotsman/Steam Alive, White Pass & Yukon Route, America's Historic Steam Railroads (2 volumes), AWESOME Trains
+08/12/2023 | SIR CHARLES (Barkley)
+08/12/2023 | Channel 2 Newsteam Flood '93 Watch, NewsChannel 5 Reports: Great Flood of 93, Twisters: Nature's Fury (2 tapes)
+08/12/2023 | Bear tapes?, Katy and the Aliens
+08/12/2023 | Drawing Power: Playground Power, Dinosaurs: Fun, Facts and Fantasy v1
+08/12/2023 | BIG WARS (Eng dub), ANIMALAND (Kim), ZOIDS (the Coliseum battle)
+08/12/2023 | Tricky People: Can't Fool Me, Cinderella (old timey shorts)
+08/12/2023 | I Love Toy Trains 2, America's Greatest Rollercoaster Thrills in 3D
+08/12/2023 | Eyewitness: Shell, Monkey Business, Fuzzy Wuzzy Bears (raccoons? a quiz?!)
+08/12/2023 | (Bin VHSes) Eyewitness: Bird, Marty Stouffer's Wild America: Fascinating Fishes, A Stitch in Time: Saving the Last Great Places (Hackman, 12 minutes, set aside)
+08/12/2023 | The World of Tom Clark VHS
+08/12/2023 | FX2 VHS ("TOPSY FrYE" scrawled on it), The NET VHS
+08/12/2023 | FLESH EATeR VHS
+08/12/2023 | Japanese Anime Sodas, Crab King
+08/12/2023 | SQUIDGEY DUDES
+08/12/2023 | (VStock and estate sale haul)
 08/08/2023 | HOW TO MAKE A VIDEO LETTER (08/30/2022)
 08/08/2023 | Japanese Toy Commercials (09/13/2022)
 08/08/2023 | SEGATA SANSHIROs (09/27/2022)
