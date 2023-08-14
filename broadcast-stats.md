@@ -245,7 +245,7 @@ Latest Date | Video / Audio
 08/12/2023 | The Great Canadian Train Ride, Flying Scotsman/Steam Alive, White Pass & Yukon Route, America's Historic Steam Railroads (2 volumes), AWESOME Trains
 08/12/2023 | SIR CHARLES (Barkley)
 08/12/2023 | Channel 2 Newsteam Flood '93 Watch, NewsChannel 5 Reports: Great Flood of 93, Twisters: Nature's Fury (2 tapes)
-08/12/2023 | Bear tapes?, Katy and the Aliens
+08/12/2023 | Animals in the Wild: the White Black Bear, Fascinating World of BEARS, Katy and the Aliens
 08/12/2023 | Drawing Power: Playground Power, Dinosaurs: Fun, Facts and Fantasy v1
 08/12/2023 | BIG WARS (Eng dub), ANIMALAND (Kim), ZOIDS (the Coliseum battle)
 08/12/2023 | Tricky People: Can't Fool Me, Cinderella (old timey shorts)
