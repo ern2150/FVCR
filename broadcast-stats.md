@@ -31,7 +31,7 @@ MM15 | Don't Be Afraid of Me | 06/01/2023 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
-| | _FORCED STEREO DELUXE_ | 06/08/2023 ~~8/30/2020~~ | 8/27/2020 | 46
+| | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 81 | One Hell of a Nobody | 06/08/2023 | 03/27/2022 | 53
 MM13 | Keep on Winning | 06/13/2023 | 8/22/2021 | 56
 MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
@@ -40,7 +40,7 @@ MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
 MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
 MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
   | Evil Is Excusable 2021 Halloween Vol 1 | 06/25/2023 | 10/3/2021 | 45
-49 | Despise the Dark 2020 Halloween vol 2 | 06/25/2023 ~~10/3/2021~~ | 10/11/2020 | 60
+49 | Despise the Dark 2020 Halloween vol 2 | 06/25/2023 | 10/11/2020 | 60
   | Devil Mountain 2021 Halloween Vol 3 | 06/27/2023 | 10/17/2021 | 49
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 06/27/2023 | 10/10/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
@@ -94,6 +94,14 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/19/2023 | --
+08/19/2023 ~~08/25/2022~~ |	Toby and toy boats and choppers / Jordana and TV Girl - Summer's Over	| 07/31/2022
+08/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+08/15/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/19/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+08/19/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+08/19/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+08/19/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/17/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 08/17/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 08/17/2023 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
@@ -101,9 +109,7 @@ Latest Date | Video / Audio | Debut++
 08/17/2023 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 08/17/2023 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 08/17/2023 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-08/17/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/15/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-08/15/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/15/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 08/15/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 08/15/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
@@ -173,20 +179,17 @@ Latest Date | Video / Audio | Debut++
 07/20/2023 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 07/20/2023 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 07/20/2023 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-07/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-07/16/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-07/16/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-07/16/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 06/08/2023 | --
 06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+08/19/2023 | [𝘾𝙃𝘼𝙉𝙂𝙀 𝙊𝙁 𝙋𝙇𝘼𝙉𝙎: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 69 𝙎𝙐𝙈𝙈𝙀𝙍𝙏𝙄𝙈𝙀]
 08/15/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 08/12/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙄𝙉𝙎𝙏𝙍𝙐𝘾𝙏𝙄𝙊𝙉𝘼𝙇/𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀𝙎]
 08/08/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 1 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 𝙍𝙀𝙏𝙍𝙊𝙎𝙋𝙀𝘾𝙏𝙄𝙑𝙀]
-08/06/2023 | [SUNDAY BRUNCH STREAM]
+08/06/2023 | [𝙎𝙐𝙉𝘿𝘼𝙔 𝘽𝙍𝙐𝙉𝘾𝙃 𝙎𝙏𝙍𝙀𝘼𝙈]
 08/01/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 07/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 07/23/2023 | [4 𝙔𝙀𝘼𝙍 𝘼𝙉𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙍𝙔 𝙎𝙏𝙍𝙀𝘼𝙈]
