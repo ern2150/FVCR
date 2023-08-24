@@ -17,8 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-64 | Hold You Close and Feel Things | 04/11/2023| 4/18/2021 | 58
-73 | The Whirlpool of Battle | 04/18/2023 | 9/21/2021 | 62
 71 | I Don't Belong Here | 05/11/2023 | 8/1/2021 | 54
 66 | Do You Really Have the Confidence? | 05/14/2023 | 5/23/2021 | 56
 MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
@@ -66,6 +64,8 @@ MM2 | Why Are You Playing Heroes? | 08/10/2023 | 2/23/2021 | 64
 84 | Poor Doomed Humans | 08/17/2023 | 10/16/2022 | 51
 MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
+64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
+73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 4 | 7 (Tu)
-_90s_ | 1 | 3 (Tu)
+Other | 4 | 8 (Tu)
+_90s_ | 1 | 4 (Tu)
 MM00s | 9 | 1 (Th)
-70s | 10 | 1 (Th)
-60s | 6 | 0 (SAT)
-MM10s | 10 | 0 (Th)
+60s | 6 | 0 (WED)
+70s | 10 | 0 (WED)
 80s | 10 | 0 (Th)
+MM10s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
