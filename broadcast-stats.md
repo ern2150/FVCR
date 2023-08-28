@@ -23,7 +23,6 @@ MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 72 | Who Is the Champion Now? | 05/23/2023 | 9/7/2021 | 53
 79 | A Frightening Experience | 05/25/2023 | 1/16/2022 | 57
-82 | Are You Looking for Death? | 05/30/2023 | 05/15/2022 | 50
 MM15 | Don't Be Afraid of Me | 06/01/2023 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
@@ -33,7 +32,6 @@ MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 06/13/2023 | 8/22/2021 | 56
 MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
 77 | Ninja City | 06/18/2023 | 11/28/2021 | 49
-88 | Under Attack in Hong Kong | 06/20/2023 | 06/18/2023 | 45
 MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
 MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
   | Evil Is Excusable 2021 Halloween Vol 1 | 06/25/2023 | 10/3/2021 | 45
@@ -66,6 +64,8 @@ MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
 64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
+82 | Are You Looking for Death? | 08/27/2023 | 05/15/2022 | 50
+88 | Under Attack in Hong Kong | 08/27/2023 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 4 | 8 (Tu)
 _90s_ | 1 | 4 (Tu)
-MM00s | 9 | 1 (Th)
+MM00s | 9 | 2 (Th)
+MM10s | 10 | 1 (Th)
 60s | 6 | 0 (WED)
 70s | 10 | 0 (WED)
-80s | 10 | 0 (Th)
-MM10s | 10 | 0 (Th)
+80s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
