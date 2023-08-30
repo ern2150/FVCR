@@ -94,13 +94,20 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/29/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+08/29/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+08/29/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+08/29/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+08/29/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+08/29/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+08/29/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+08/29/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
+08/29/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/27/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-08/27/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/27/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 08/27/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 08/27/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 08/27/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-08/27/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/23/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 08/23/2023 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 08/23/2023 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -172,19 +179,13 @@ Latest Date | Video / Audio | Debut++
 07/30/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 07/30/2023 | SHIT FUCK / (same as video) | 5/4/2021
 07/30/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-07/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-07/25/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-07/25/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-07/25/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-07/25/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-07/25/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-07/25/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
 06/08/2023 | --
 06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+08/29/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙁𝙇𝙊𝙊𝘿 𝙊𝙁 93]
 08/19/2023 | [𝘾𝙃𝘼𝙉𝙂𝙀 𝙊𝙁 𝙋𝙇𝘼𝙉𝙎: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 69 𝙎𝙐𝙈𝙈𝙀𝙍𝙏𝙄𝙈𝙀]
 08/15/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 08/12/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙄𝙉𝙎𝙏𝙍𝙐𝘾𝙏𝙄𝙊𝙉𝘼𝙇/𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀𝙎]
