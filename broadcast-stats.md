@@ -241,6 +241,8 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+08/29/2023 | DRAGONSTRIKE
+08/29/2023 | News Channel 5 KSDK Great Flood of 93
 08/15/2023 | (Hallmark Entertainment) BLASTOFF!
 08/12/2023 | Bonus Clip: Dinosaurs: Fun, Fact, Fantasy
 08/12/2023 | Bonus Clip: Zoids ep 9 (including toy commercial)
