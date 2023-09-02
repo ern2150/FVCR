@@ -94,6 +94,18 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+09/01/2023 | Stream Trailer 2023 / ?? | 01/05/2023
+09/01/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+09/01/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+09/01/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+09/01/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
+09/01/2023 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+09/01/2023 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+09/01/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+09/01/2023 | SHIT FUCK / (same as video) | 5/4/2021
+09/01/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+09/01/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/29/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 08/29/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/29/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
@@ -102,7 +114,6 @@ Latest Date | Video / Audio | Debut++
 08/29/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 08/29/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 08/29/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
-08/29/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/27/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 08/27/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 08/27/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -119,7 +130,6 @@ Latest Date | Video / Audio | Debut++
 08/19/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 08/19/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 08/17/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-08/17/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 08/17/2023 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
 08/17/2023 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 08/17/2023 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
@@ -169,22 +179,13 @@ Latest Date | Video / Audio | Debut++
 08/01/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 08/01/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 08/01/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-07/30/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-07/30/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-07/30/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-07/30/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-07/30/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
-07/30/2023 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-07/30/2023 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-07/30/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-07/30/2023 | SHIT FUCK / (same as video) | 5/4/2021
-07/30/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 06/08/2023 | --
 06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+09/01/2023 | [STREAMING TONIGHT AT 7:30 PM CENTRAL]
 08/29/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙁𝙇𝙊𝙊𝘿 𝙊𝙁 93]
 08/19/2023 | [𝘾𝙃𝘼𝙉𝙂𝙀 𝙊𝙁 𝙋𝙇𝘼𝙉𝙎: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 69 𝙎𝙐𝙈𝙈𝙀𝙍𝙏𝙄𝙈𝙀]
 08/15/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
