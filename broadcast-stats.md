@@ -17,8 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-71 | I Don't Belong Here | 05/11/2023 | 8/1/2021 | 54
-66 | Do You Really Have the Confidence? | 05/14/2023 | 5/23/2021 | 56
 MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 72 | Who Is the Champion Now? | 05/23/2023 | 9/7/2021 | 53
@@ -66,6 +64,8 @@ MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
 82 | Are You Looking for Death? | 08/27/2023 | 05/15/2022 | 50
 88 | Under Attack in Hong Kong | 08/27/2023 | 06/18/2023 | 45
+71 | I Don't Belong Here | 09/01/2023 | 8/1/2021 | 54
+66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,10 +75,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 4 | 8 (Tu)
 _90s_ | 1 | 4 (Tu)
-MM00s | 9 | 2 (Th)
-MM10s | 10 | 1 (Th)
-60s | 6 | 0 (WED)
-70s | 10 | 0 (WED)
+MM00s | 9 | 3 (Th)
+MM10s | 10 | 2 (Th)
+60s | 6 | 0 (FRI)
+70s | 10 | 0 (FRI)
 80s | 10 | 0 (Su)
 
 
