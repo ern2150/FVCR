@@ -243,6 +243,10 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/03/2023 | Paperbacks: The Thing.  The Way of the Tiger - Inferno! (book 6)
+09/03/2023 | Boardgames:  The Sassy EXPERIENCE Game.  Channel Surfing.
+09/03/2023 | Stuff: STEEL DIVINE transmorpher on card, Su Bart me lighter (Supreme sticker with Bart in the middle), Radio Shack Pinball Shaky Action, W ING "WE LOVE BLOOD" shirt, HELLO KITTY lightning shirt, Lisa Frank sticker kittens and horse (including Six Flags Fun stickers), flomo pencil cases dude lookin at mecha with popout drawers and Robot Tech
+09/03/2023 | (thrift haul on-camera)
 08/29/2023 | DRAGONSTRIKE
 08/29/2023 | News Channel 5 KSDK Great Flood of 93
 08/15/2023 | (Hallmark Entertainment) BLASTOFF!
