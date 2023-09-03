@@ -94,6 +94,15 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/03/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
+09/03/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+09/03/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+09/03/2023 | Baki end whiteout / (same as video) | 4/13/2021
+09/03/2023 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+09/03/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+09/03/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+09/03/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+09/03/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 09/01/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 09/01/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -105,9 +114,7 @@ Latest Date | Video / Audio | Debut++
 09/01/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 09/01/2023 | SHIT FUCK / (same as video) | 5/4/2021
 09/01/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-09/01/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/29/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-08/29/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/29/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 08/29/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 08/29/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -172,20 +179,14 @@ Latest Date | Video / Audio | Debut++
 08/04/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 08/04/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 08/04/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-08/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-08/01/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-08/01/2023 | Baki end whiteout / (same as video) | 4/13/2021
-08/01/2023 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-08/01/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-08/01/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-08/01/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 06/08/2023 | --
 06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
-09/01/2023 | [STREAMING TONIGHT AT 7:30 PM CENTRAL]
+09/03/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 𝘽𝙍𝙐𝙉𝘾𝙃 𝙎𝙏𝙍𝙀𝘼𝙈 + 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎]
+09/01/2023 | [𝙎𝙏𝙍𝙀𝘼𝙈𝙄𝙉𝙂 𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 7:30 𝙋𝙈 𝘾𝙀𝙉𝙏𝙍𝘼𝙇]
 08/29/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿: 𝙁𝙇𝙊𝙊𝘿 𝙊𝙁 93]
 08/19/2023 | [𝘾𝙃𝘼𝙉𝙂𝙀 𝙊𝙁 𝙋𝙇𝘼𝙉𝙎: 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 69 𝙎𝙐𝙈𝙈𝙀𝙍𝙏𝙄𝙈𝙀]
 08/15/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
