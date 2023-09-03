@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
-72 | Who Is the Champion Now? | 05/23/2023 | 9/7/2021 | 53
 79 | A Frightening Experience | 05/25/2023 | 1/16/2022 | 57
 MM15 | Don't Be Afraid of Me | 06/01/2023 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
@@ -66,6 +65,7 @@ MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 88 | Under Attack in Hong Kong | 08/27/2023 | 06/18/2023 | 45
 71 | I Don't Belong Here | 09/01/2023 | 8/1/2021 | 54
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
+72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,9 +77,9 @@ Other | 4 | 8 (Tu)
 _90s_ | 1 | 4 (Tu)
 MM00s | 9 | 3 (Th)
 MM10s | 10 | 2 (Th)
+80s | 10 | 1 (Su)
 60s | 6 | 0 (FRI)
-70s | 10 | 0 (FRI)
-80s | 10 | 0 (Su)
+70s | 10 | 0 (Su)
 
 
 Mixtapes with Updates (by Last Changed) 
