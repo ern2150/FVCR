@@ -244,6 +244,9 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/05/2023 | SECRET Adventures: Spin - Truth, Tubas, George Washington
+09/05/2023 | Camera: Robin Hood VHS, SECRET Adventures: Spin - Truth, Tubas, George Washington
+09/05/2023 | Robin Hood and Other Fabulous Fables: The Adventures of Robin Hood -England-
 09/03/2023 | Paperbacks: The Thing.  The Way of the Tiger - Inferno! (book 6)
 09/03/2023 | Boardgames:  The Sassy EXPERIENCE Game.  Channel Surfing.
 09/03/2023 | Stuff: STEEL DIVINE transmorpher on card, Su Bart me lighter (Supreme sticker with Bart in the middle), Radio Shack Pinball Shaky Action, W ING "WE LOVE BLOOD" shirt, HELLO KITTY lightning shirt, Lisa Frank sticker kittens and horse (including Six Flags Fun stickers), flomo pencil cases dude lookin at mecha with popout drawers and Robot Tech
