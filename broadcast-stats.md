@@ -367,7 +367,7 @@ Outros
 [archive](broadcast-2022.md#outros)
 Latest Date | Video / Audio
 -- | --
-09/05/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+09/07/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
