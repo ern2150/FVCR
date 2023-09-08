@@ -17,9 +17,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-MM8 | The Sword of Catastrophe | 05/16/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
-79 | A Frightening Experience | 05/25/2023 | 1/16/2022 | 57
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
@@ -66,6 +64,8 @@ MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
 72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
 MM15 | Don't Be Afraid of Me | 09/05/2023 | 12/05/2021 | 55
+79 | A Frightening Experience | 09/07/2023 | 1/16/2022 | 57
+MM8 | The Sword of Catastrophe | 09/07/2023 | 6/15/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,10 +75,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 4 | 8 (Tu)
 _90s_ | 1 | 5 (Tu)
-MM00s | 9 | 3 (Th)
 80s | 10 | 1 (Su)
 60s | 6 | 0 (FRI)
-70s | 10 | 0 (Su)
+MM00s | 9 | 0 (Th)
+70s | 10 | 0 (Th)
 MM10s | 10 | 0 (Tu)
 
 
