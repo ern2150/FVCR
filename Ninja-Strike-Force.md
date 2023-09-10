@@ -1,4 +1,4 @@
-https://twitter.com/forgottenvcr/status/1303379378408247297
+[FVCR's tweet about the first Context Club (archived)](https://web.archive.org/web/20200908170839/https://twitter.com/forgottenvcr/status/1303379378408247297) 
 
 Ninja Strike Force (heretoafter NSF) is an exercise in duplicity. Being comprised of (at least) two separate "movies", as many Godfrey Ho productions<sup>[1](#1)</sup> are, this should be unsurprising.  But in fact, I'm about to tell you something that'll stun you rigid -- the NSF is a front for the CIA!
 
