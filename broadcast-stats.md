@@ -245,6 +245,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/12/2023 | (will come back and fill in later lol)
 09/05/2023 | SECRET Adventures: Spin - Truth, Tubas, George Washington
 09/05/2023 | Camera: Robin Hood VHS, SECRET Adventures: Spin - Truth, Tubas, George Washington
 09/05/2023 | Robin Hood and Other Fabulous Fables: The Adventures of Robin Hood -England-
@@ -368,7 +369,7 @@ Outros
 [archive](broadcast-2022.md#outros)
 Latest Date | Video / Audio
 -- | --
-09/07/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+09/12/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
