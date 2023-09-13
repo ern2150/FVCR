@@ -245,7 +245,19 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
-09/12/2023 | (will come back and fill in later lol)
+09/12/2023 | Tiger End II tape label
+09/12/2023 | Bonus Clip: Specimen.  A-Pix logo, Moving Target trailer, Werewolf trailer, (no kissing lol).
+09/12/2023 | Bonus Clip: Lifeforce.  Warning, company website and logo, Sci-Fi Classics preview incl Invisible Invaders / Forbidden Planet / Quatermass Experiment / Lifeforce, Turner logo, movie starts (lol).
+09/12/2023 | Bonus Clip: Detonator.  Warning, movie starts (lol).
+09/12/2023 | Bonus Clip: Wizards of the Lost Kingdom.  Warning, Media company logo, movie starts (lol).
+09/12/2023 | Box 3 continues... Wizards of the Lost Kingdom, from Dusk til Dawn, Beavis and Butthead Do America, Detonator, Johnny Socko, Lifeforce, House II, Komodo (...moldy)
+09/12/2023 | Bonus Clip: Space Warriors - Battle for Earth Station S-1.  Already in progress, low audio, had been stopped previously because boring maybe, stopped again after unsavory salutes.
+09/12/2023 | Box 3: WMAC Masters, Perfect Hair, ABCs of Muzzle Loading, Walking with Jesus and Here Comes Jesus, Video Guide to DSS, VR Troopers, Path of the Ninja, Mulholland Dr, Guide to Raising Your Puppy, Super-Duper Art Show, Legends of Ireland, Dog Sitter, Skin Care MLM, Tales from the Crypt Demon Knight, The Cell, Specimen, Blair Witch Project, Creepshow, Lawnmower Man, Evil Ed, Real Cops, Exorcist, CB4, No Holds Barred, The Changeling, New Kids on the Block cartoon, Jimi Hendrix Electric Ladyland, Stepfather, Freddy vs Jason, Nightmare on Elm Street Box Set, Space Warriors - Battle for Earth Station S-1...
+09/12/2023 | Box 2 (Thanksgiving? Big clamshell VHS cases): Shrek, Ninja Invasion (weird colon), The Victim, Ninja Destroyer, Halloween 3 (off-air recording), Zeram (live action weird spelling), Saviour of the Soul, Clash of the Ninja, Ninja the Protector, "Angel II" (not actual title), Ninja Terminator, Ninja Brothers of Blood, Barbie Rapunzel. BluRay: Ninja Vortex, Holy Virgin vs Evil Dead. DVD: Predator Termination Time
+09/12/2023 | Bonus Clip: Gunmen VHS intro.  Trimark the Hive game ad,  UFC merch, Meet Wally Sparks trailer, Crossworlds trailer, Overkill (Aaron Norris) trailer, Family of Cops trailer
+09/12/2023 | Bonus Clip: Hackers VHS intro.  Lord of Illusions trailer, Something to Talk About trailer (pause/talk about Magic Crab romcom), Under Siege 2 trailer 
+09/12/2023 | Box 1: King Kong, White Zombie, Greatest Fights of Martial Arts, Highlander, Police Squad, Animatrix, Purple Rain, Gunmen, Virus (Brian Bosworth), Bucktown, Virtual Assassin (DO NOT PLAY! WILL BREAK VCR!), Mondo Cane, Lyrical Blades, Legend of the Swordsman, Breathing Fire, Shaolin and Wu Tang 2, Top Fights of Kung-Fu, Dinosaurs, Frighteners, Once Upon a Time in China 3, Time Guardian, People that Time Forgot, Iron Eagle, Candyman: Farewell to the Flesh, Godzilla vs Megalon, Night Vision, Judge Dredd, G.I. Bro, Hackers, Sorcerer, Punisher, Bad Lieutenant, The Lorax, Falling Down, Face/Off, Escape from New York, Reason to Die, Once Upon a Time in China, Night Breed, Tales from the Crypt Episodes, RoboCop, Great Outdoors, Road House 
+09/12/2023 | Camera: 9 of 20-odd boxes full of VHS tapes
 09/05/2023 | SECRET Adventures: Spin - Truth, Tubas, George Washington
 09/05/2023 | Camera: Robin Hood VHS, SECRET Adventures: Spin - Truth, Tubas, George Washington
 09/05/2023 | Robin Hood and Other Fabulous Fables: The Adventures of Robin Hood -England-
