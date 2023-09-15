@@ -94,6 +94,13 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+09/14/2023 | Stream Trailer 2023 / ?? | 01/05/2023
+09/14/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+09/14/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+09/14/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+09/14/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+09/14/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/12/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 09/12/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/12/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
@@ -106,7 +113,6 @@ Latest Date | Video / Audio | Debut++
 09/12/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 09/12/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 09/12/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-09/12/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/07/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 09/07/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 09/07/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -125,7 +131,6 @@ Latest Date | Video / Audio | Debut++
 09/03/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 09/03/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 09/01/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-09/01/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 09/01/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 09/01/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 09/01/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -174,18 +179,13 @@ Latest Date | Video / Audio | Debut++
 08/12/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 08/12/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 08/12/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-08/10/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-08/10/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-08/10/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-08/10/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-08/10/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 06/08/2023 | --
 06/08/2023 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 06/08/2023 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
-09/12/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 (𝙃𝙀𝙇𝙋 𝙈𝙀 𝙎𝙊𝙍𝙏 𝙈𝙔 𝙑𝙃𝙎 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉)]
+09/12/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 (𝙃𝙀𝙇𝙋 𝙈𝙀 𝙎𝙊𝙍𝙏 𝙈𝙔 𝙑𝙃𝙎 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉: 𝙋𝘼𝙍𝙏 𝙊𝙉𝙀)]
 09/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 09/03/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 𝘽𝙍𝙐𝙉𝘾𝙃 𝙎𝙏𝙍𝙀𝘼𝙈 + 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀𝙎]
 09/01/2023 | [𝙎𝙏𝙍𝙀𝘼𝙈𝙄𝙉𝙂 𝙏𝙊𝙉𝙄𝙂𝙃𝙏 𝘼𝙏 7:30 𝙋𝙈 𝘾𝙀𝙉𝙏𝙍𝘼𝙇]
