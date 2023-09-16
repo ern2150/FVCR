@@ -246,6 +246,16 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/16/2023 | Bonus Clip: Sonic Hedgehog super special smash n search VHS.  Warning, DIC logo, Bhobot Entertainment logo, then right into the show lol
+09/16/2023 | Bonus Clip: Back in Action VHS.  Warning, MCA logo, SGE logo, oops no trailer lol
+09/16/2023 | Bonus Clip: Ready to Rumble VHS. DVD ad lol, Romeo Must Die, Any Given Sunday, Don Quixote (Lithgow), Gossip, WCW Magazine
+09/16/2023 | Bonus Clip: The Net VHS.  Columbia Tristar logo,  The Net trailer, Martha & Ethel, Redband trailer starts and is ejected lol
+09/16/2023 | Bonus Clip: Universal Soldier VHS.  Warning, Avid logo, Tri-Star logo starts (movie starts lol)
+09/16/2023 | Bonus Clip: Camp Nowhere VHS.  Warning, Hollywood Pictures logo, Coming Soon... Angels in the Outfield (soda fx), A Simple Twist of Fate, It's Pat
+09/16/2023 | Bonus Clip: Tough & Deadly VHS.  Warning, MCA Universal logo, SGE logo
+09/16/2023 | Bonus Clip: the MAXX VHS.  Warning, SMV logo, Beavis n Butthead, The HEAD, Beavis n Butthead (again), MTV logo
+09/16/2023 | Box 4 (VHS): VOLTRON "Castle of Lions", The Net (wanna watch trailers), 2001 Space Odyssey, Ready to Rumble (wanna watch trailers), Tough & Deadly (wanna watch trailers), Gatchaman 2, Salem's Lot, mac and me, Kung Fu Rebels, Sometimes They Come Back, The MAXX (wanna watch trailers), Jake Speed, Back in Action (wanna watch trailers), Son of Wu-Tang, Camp Nowhere (wanna watch trailers), The Retrievers, 5 Element Kung Fu, Mortal Kombat, Buck Rodgers in the 25th Century, Bill & Ted's Excellent Adventure, Tales from the Hood, E.T. (original with guns), Sleepwalkers, Delta Force, Tremors, Blind Fury, Drunken Master (2?), 18 Weapons of Kung-Fu, Child's Play 2, Bloodpact, Batman (1989), Body Double, Rubberface, Warriors of the Apocalypse, Neon Genesis Evangelion (white tape), Welcome to the Dollhouse, magnolia, Rocky Horror Picture Show, Universal Soldier (wanna watch trailers), Grosse Pointe Blank 
+09/16/2023 | Camera: Boxes set to Ognos music, RAD DUDES cards ($3.50): Radical Ron, Kickin Kevin, Big Buff Brian, Wave Rippin' Ray, Snow Board Sean, Downhill David, Mini Video Vinny, Video Mad Vince, Remote Control Craig, Boom Box Brian 
 09/12/2023 | Tiger End II tape label
 09/12/2023 | Bonus Clip: Specimen.  A-Pix logo, Moving Target trailer, Werewolf trailer, (no kissing lol).
 09/12/2023 | Bonus Clip: Lifeforce.  Warning, company website and logo, Sci-Fi Classics preview incl Invisible Invaders / Forbidden Planet / Quatermass Experiment / Lifeforce, Turner logo, movie starts (lol).
