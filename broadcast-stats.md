@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
-MM6 | It's Your Turn to Die | 05/18/2023 | 5/20/2021 | 73
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
@@ -66,6 +65,7 @@ MM15 | Don't Be Afraid of Me | 09/05/2023 | 12/05/2021 | 55
 MM8 | The Sword of Catastrophe | 09/07/2023 | 6/15/2021 | 58
 81 | One Hell of a Nobody | 09/14/2023 | 03/27/2022 | 53
 89 | Don't You Know the State I'm In? | 09/14/2023 | 07/02/2023 | 47
+MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,10 +75,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 4 | 9 (Tu)
 _90s_ | 1 | 6 (Tu)
-60s | 6 | 1 (FRI)
-MM00s | 9 | 1 (Th)
+60s | 6 | 2 (FRI)
 70s | 10 | 1 (Th)
 MM10s | 10 | 1 (Tu)
+MM00s | 9 | 0 (SAT)
 80s | 10 | 0 (Th)
 
 
