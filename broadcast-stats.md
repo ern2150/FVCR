@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
-MM7 | I'd Like to See You Try and Hurt Me | 06/06/2023 | 6/6/2021 | 58
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM13 | Keep on Winning | 06/13/2023 | 8/22/2021 | 56
 MM10 | The Splatter and Gore Department | 06/15/2023 | 7/15/2021 | 59
@@ -66,6 +65,7 @@ MM8 | The Sword of Catastrophe | 09/07/2023 | 6/15/2021 | 58
 81 | One Hell of a Nobody | 09/14/2023 | 03/27/2022 | 53
 89 | Don't You Know the State I'm In? | 09/14/2023 | 07/02/2023 | 47
 MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
+MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,12 +73,12 @@ MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 4 | 9 (Tu)
-_90s_ | 1 | 6 (Tu)
+Other | 4 | 10 (Tu)
+_90s_ | 1 | 7 (Tu)
 60s | 6 | 2 (FRI)
+MM10s | 10 | 2 (Tu)
 70s | 10 | 1 (Th)
-MM10s | 10 | 1 (Tu)
-MM00s | 9 | 0 (SAT)
+MM00s | 9 | 0 (Tu)
 80s | 10 | 0 (Th)
 
 
