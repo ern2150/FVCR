@@ -185,7 +185,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
-09/19/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 (𝙃𝙀𝙇𝙋 𝙈𝙀 𝙎𝙊𝙍𝙏 𝙈𝙔 𝙑𝙃𝙎 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉: 𝙋𝘼𝙍𝙏 𝙏𝙃𝙍𝙀𝙀)]
+09/19/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀𝙎 𝘼𝙉𝘿 𝙍𝘼𝙉𝘿𝙊𝙈 𝙋𝙄𝘾𝙆 𝙐𝙋𝙎]
 09/16/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 (𝙃𝙀𝙇𝙋 𝙈𝙀 𝙎𝙊𝙍𝙏 𝙈𝙔 𝙑𝙃𝙎 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉: 𝙋𝘼𝙍𝙏 𝙏𝙒𝙊)]
 09/12/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 (𝙃𝙀𝙇𝙋 𝙈𝙀 𝙎𝙊𝙍𝙏 𝙈𝙔 𝙑𝙃𝙎 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉: 𝙋𝘼𝙍𝙏 𝙊𝙉𝙀)]
 09/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
@@ -247,6 +247,15 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+09/19/2023 | MM7 tape roll-in: shark nom
+09/19/2023 | Wrestling Fruit Plate ChatGPT, Taco Bell ChatGPT 1000 calorie order
+09/19/2023 | Box 5 (VHS): Star Wars trilogy box, Choices the movie, Speed Racer cartoon, Dragonball Z, Bill and Ted Bogus Journey, Sudden Death, Deadly China Hero, Mom and Dad Save the World, Celestial Souljas, The Warrior Within (weird cartoon cover), Dragonball Z 2 Trunks tapes, Death Before Dishonor, Damme Cyborg, Double Dragon, Demolition Man, American Pop, Blood of the Dragon, Child's Play 2, Donut Hole, Appointment, Hot Lead, Red Dwarf 3 Timeslides, Judgment Night, election, Teen Spirit, Aeon Flux 2, The Celebration, CHUD, Jerky Boys.
+09/19/2023 | 8 vhs horizontal display shelf
+09/19/2023 | Pocket Rockers black n blue mini-cassette player.  4 tapes with belt-clips.  Purple plays "heat is on/miami vice", Green "fat boys wipeout/rock around the world", Orange "manic monday/walk like egyptian", Yellow "tom petty come around here no more/?"
+09/19/2023 | Pelco PVM from dumpster
+09/19/2023 | Lil TV with Red/Yellow input and AM/FM tuner, takes 12 D batteries
+09/19/2023 | Board game: Mid-Life Crisis.  Certificate of authenticity, board, Crisis Cards, Zap Cards
+09/19/2023 | Camera: "my new purple shoes", RF adapter
 09/16/2023 | Bonus Clip: Sonic Hedgehog super special smash n search VHS.  Warning, DIC logo, Bhobot Entertainment logo, then right into the show lol
 09/16/2023 | Bonus Clip: Back in Action VHS.  Warning, MCA logo, SGE logo, oops no trailer lol
 09/16/2023 | Bonus Clip: Ready to Rumble VHS. DVD ad lol, Romeo Must Die, Any Given Sunday, Don Quixote (Lithgow), Gossip, WCW Magazine
