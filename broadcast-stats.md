@@ -30,7 +30,6 @@ MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
 MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
 78 | All for Revenge | 07/02/2023 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
-MM11 | I Can Stand the Pain | 07/13/2023 | 7/27/2021 | 65
 75 | Never Show Emotion | 07/16/2023 | 11/07/2021 | 48
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM16 | Today We Shall Kill Each Other | 07/20/2023 | 12/21/2021 | 52
@@ -66,6 +65,7 @@ MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
 80 | Pass Through All Hard Times | 09/26/2023 | 02/20/2022 | 46
 90 | Every Different Way of Killing | 09/26/2023 | 07/23/2023 | 47
+MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 Other | 4 | 11 (Tu)
 60s | 6 | 3 (FRI)
 MM00s | 9 | 1 (Tu)
+70s | 10 | 1 (Th)
 _90s_ | 1 | 0 (Tu)
 80s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Th)
-70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
