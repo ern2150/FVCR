@@ -73,11 +73,11 @@ SMS1 | Saturday Morning Simulator | 09/30/2023 | 09/30/2023 | 117
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 4 | 11 (Tu)
-60s | 6 | 3 (FRI)
+60s | 6 | 4 (FRI)
 MM00s | 9 | 1 (Tu)
 70s | 10 | 1 (Th)
 _90s_ | 1 | 0 (Tu)
+Other | 5 | 0 (SAT)
 80s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Th)
 
