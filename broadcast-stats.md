@@ -94,6 +94,7 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/30/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 09/28/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 09/28/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/28/2023 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
