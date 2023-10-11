@@ -187,6 +187,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+10/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘼𝙑 𝙈𝙄𝙓: 𝘿𝙍𝙄𝙀𝘿 𝙁𝙇𝙊𝙒𝙀𝙍𝙎]
 09/30/2023 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍: 𝘾𝘼𝙍𝙏𝙊𝙊𝙉𝙎, 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇𝙎, 𝙉𝙊𝙉𝙎𝙀𝙉𝙎𝙀. 𝙏𝙃𝙄𝙎 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇]
 09/19/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉: 𝙑𝙃𝙎 𝙏𝘼𝙋𝙀𝙎 𝘼𝙉𝘿 𝙍𝘼𝙉𝘿𝙊𝙈 𝙋𝙄𝘾𝙆 𝙐𝙋𝙎]
 09/16/2023 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉 (𝙃𝙀𝙇𝙋 𝙈𝙀 𝙎𝙊𝙍𝙏 𝙈𝙔 𝙑𝙃𝙎 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉: 𝙋𝘼𝙍𝙏 𝙏𝙒𝙊)]
@@ -250,6 +251,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+10/10/2023 | Dried Flowers and Plants set to chill beats
 09/19/2023 | MM7 tape roll-in: shark nom
 09/19/2023 | Wrestling Fruit Plate ChatGPT, Taco Bell ChatGPT 1000 calorie order
 09/19/2023 | Box 5 (VHS): Star Wars trilogy box, Choices the movie, Speed Racer cartoon, Dragonball Z, Bill and Ted Bogus Journey, Sudden Death, Deadly China Hero, Mom and Dad Save the World, Celestial Souljas, The Warrior Within (weird cartoon cover), Dragonball Z 2 Trunks tapes, Death Before Dishonor, Damme Cyborg, Double Dragon, Demolition Man, American Pop, Blood of the Dragon, Child's Play 2, Donut Hole, Appointment, Hot Lead, Red Dwarf 3 Timeslides, Judgment Night, election, Teen Spirit, Aeon Flux 2, The Celebration, CHUD, Jerky Boys.
