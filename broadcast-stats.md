@@ -23,7 +23,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
 MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
   | Evil Is Excusable 2021 Halloween Vol 1 | 06/25/2023 | 10/3/2021 | 45
-49 | Despise the Dark 2020 Halloween vol 2 | 06/25/2023 | 10/11/2020 | 60
   | Devil Mountain 2021 Halloween Vol 3 | 06/27/2023 | 10/17/2021 | 49
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 06/27/2023 | 10/10/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
@@ -67,6 +66,7 @@ MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
 MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
+49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -78,8 +78,8 @@ MM00s | 9 | 3 (Tu)
 _90s_ | 1 | 2 (Tu)
 70s | 10 | 2 (Th)
 80s | 10 | 2 (Tu)
-Other | 5 | 1 (Th)
-MM10s | 10 | 0 (Th)
+MM10s | 10 | 1 (Th)
+Other | 5 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
