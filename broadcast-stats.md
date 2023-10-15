@@ -24,7 +24,6 @@ MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
 MM19 | Ghost Shadow Squad | 06/22/2023 | 02/06/2022 | 55
   | Evil Is Excusable 2021 Halloween Vol 1 | 06/25/2023 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 06/27/2023 | 10/17/2021 | 49
-74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 06/27/2023 | 10/10/2021 | 52
 MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
 78 | All for Revenge | 07/02/2023 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
@@ -67,19 +66,20 @@ MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 5 (FRI)
+60s | 6 | 6 (FRI)
 MM00s | 9 | 3 (Tu)
 _90s_ | 1 | 2 (Tu)
-70s | 10 | 2 (Th)
 80s | 10 | 2 (Tu)
 MM10s | 10 | 1 (Th)
 Other | 5 | 0 (Th)
+70s | 10 | 0 (SAT)
 
 
 Mixtapes with Updates (by Last Changed) 
