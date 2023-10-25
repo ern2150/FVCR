@@ -94,13 +94,18 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/24/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
+10/24/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+10/24/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+10/24/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
+10/24/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+10/24/2023 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+10/24/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/17/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-10/17/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/17/2023 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 10/17/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 10/17/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 10/17/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-10/17/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 10/14/2023 | Stream Trailer 2023 / ?? | 01/05/2023
 10/14/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -167,11 +172,6 @@ Latest Date | Video / Audio | Debut++
 09/12/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 09/12/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 09/12/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-09/07/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-09/07/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-09/07/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
-09/07/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-09/07/2023 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 09/03/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 09/03/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 09/03/2023 | Baki end whiteout / (same as video) | 4/13/2021
@@ -187,6 +187,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+10/24/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿]
 10/12/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀 - 𝙎𝙋𝙊𝙊𝙆𝙔 𝙒𝙊𝙍𝙇𝘿]
 10/10/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘼𝙑 𝙈𝙄𝙓: 𝘿𝙍𝙄𝙀𝘿 𝙁𝙇𝙊𝙒𝙀𝙍𝙎]
 09/30/2023 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍: 𝘾𝘼𝙍𝙏𝙊𝙊𝙉𝙎, 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇𝙎, 𝙉𝙊𝙉𝙎𝙀𝙉𝙎𝙀. 𝙏𝙃𝙄𝙎 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝘼𝙏 𝙉𝙊𝙊𝙉 𝘾𝙀𝙉𝙏𝙍𝘼𝙇]
