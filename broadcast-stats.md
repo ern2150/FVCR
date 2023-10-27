@@ -20,8 +20,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
-MM5 | Danger Straight Ahead | 06/20/2023 | 4/4/2021 | 57
-  | Devil Mountain 2021 Halloween Vol 3 | 06/27/2023 | 10/17/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 06/29/2023 | 3/9/2021 | 54
 78 | All for Revenge | 07/02/2023 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
@@ -67,19 +65,21 @@ MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM19 | Ghost Shadow Squad | 10/17/2023 | 02/06/2022 | 55
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/17/2023 | 10/3/2021 | 45
+MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
+  | Devil Mountain 2021 Halloween Vol 3 | 10/26/2023 | 10/17/2021 | 49
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 6 (FRI)
-MM00s | 9 | 4 (Tu)
-_90s_ | 1 | 3 (Tu)
-80s | 10 | 3 (Tu)
-MM10s | 10 | 0 (Tu)
-Other | 5 | 0 (Tu)
-70s | 10 | 0 (SAT)
+60s | 6 | 7 (FRI)
+_90s_ | 1 | 4 (Tu)
+80s | 10 | 4 (Tu)
+MM10s | 10 | 1 (Tu)
+70s | 10 | 1 (SAT)
+Other | 5 | 0 (Th)
+MM00s | 9 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -95,7 +95,7 @@ Intros
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 10/26/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-10/26/2023 | Stream Trailer 2023 / ?? | 01/05/2023
+10/26/2023 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/26/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 10/26/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 10/26/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
