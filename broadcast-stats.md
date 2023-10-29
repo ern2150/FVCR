@@ -94,15 +94,20 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/28/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+10/28/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+10/28/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+10/28/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+10/28/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+10/28/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+10/26/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/26/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 10/26/2023 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/26/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 10/26/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 10/26/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 10/26/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-10/26/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/24/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-10/24/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/24/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 10/24/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 10/24/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
@@ -150,11 +155,6 @@ Latest Date | Video / Audio | Debut++
 09/21/2023 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 09/21/2023 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 09/21/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
-09/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-09/19/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-09/19/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-09/19/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-09/19/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 09/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 09/16/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 09/16/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
