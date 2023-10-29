@@ -37,7 +37,6 @@ MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
 70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/10/2023 | 2/23/2021 | 64
 85 | The Power You Are Seeking | 08/15/2023 | 11/13/2022 | 45
-84 | Poor Doomed Humans | 08/17/2023 | 10/16/2022 | 51
 MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
 64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
@@ -64,22 +63,24 @@ MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM19 | Ghost Shadow Squad | 10/17/2023 | 02/06/2022 | 55
-  | Evil Is Excusable 2021 Halloween Vol 1 | 10/17/2023 | 10/3/2021 | 45
 MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
   | Devil Mountain 2021 Halloween Vol 3 | 10/26/2023 | 10/17/2021 | 49
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/28/2023 | 10/3/2021 | 45
+84 | Poor Doomed Humans | 10/28/2023 | 10/16/2022 | 51
+
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 7 (FRI)
+60s | 6 | 8 (FRI)
 _90s_ | 1 | 4 (Tu)
-80s | 10 | 4 (Tu)
 MM10s | 10 | 1 (Tu)
-70s | 10 | 1 (SAT)
-Other | 5 | 0 (Th)
+70s | 10 | 1 (Sat)
+Other | 5 | 0 (Sat)
 MM00s | 9 | 0 (Th)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
