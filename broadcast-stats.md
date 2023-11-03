@@ -255,6 +255,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+11/02/2023 | Aesop's Fables (by TOEI?) Time Honored Tales of Wisdom: FBI, Warning, Kids Klassics presents, main program.
 10/24/2023 | Kid Rhino presents: FBI, Swamp Lizard Anatole Bon-Bon introduces Chicken Minute
 10/24/2023 | Learning Station Music Video collection, stopped before stranger danger song
 10/24/2023 | Niagra Falls Visitor Bureau - 6 min
