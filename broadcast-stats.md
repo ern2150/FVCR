@@ -20,7 +20,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
-78 | All for Revenge | 07/02/2023 | 1/9/2022 | 50
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
 75 | Never Show Emotion | 07/16/2023 | 11/07/2021 | 48
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
@@ -67,6 +66,7 @@ MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/28/2023 | 10/3/2021 | 45
 84 | Poor Doomed Humans | 10/28/2023 | 10/16/2022 | 51
 MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
+78 | All for Revenge | 11/05/2023 | 1/9/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 8 (FRI)
+60s | 6 | 9 (FRI)
 _90s_ | 1 | 5 (Tu)
 MM10s | 10 | 2 (Tu)
-70s | 10 | 1 (Sat)
-Other | 5 | 0 (Sat)
+Other | 5 | 1 (Sat)
+80s | 10 | 1 (Sat)
+70s | 10 | 0 (Sun)
 MM00s | 9 | 0 (Th)
-80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
