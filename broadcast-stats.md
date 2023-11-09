@@ -30,7 +30,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 07/25/2023 | 11/14/2019 |
 MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 83 | I Don't Mind a Little Danger | 08/04/2023 | 06/12/2022 | 50
 MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
-86 | The Passion and Death of their Struggle | 08/06/2023 | 12/22/2022 | 43
 76 | If I See Him, I'll Kill Him | 08/06/2023 | 11/21/2021 | 49
 70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/10/2023 | 2/23/2021 | 64
@@ -67,6 +66,7 @@ MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
 84 | Poor Doomed Humans | 10/28/2023 | 10/16/2022 | 51
 MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 78 | All for Revenge | 11/05/2023 | 1/9/2022 | 50
+86 | The Passion and Death of their Struggle | 11/08/2023 | 12/22/2022 | 43
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,7 +78,7 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 1 | 5 (Tu)
 MM10s | 10 | 2 (Tu)
 Other | 5 | 1 (Sat)
-80s | 10 | 1 (Sat)
+80s | 10 | 0 (WED)
 70s | 10 | 0 (Sun)
 MM00s | 9 | 0 (Th)
 
