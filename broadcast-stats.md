@@ -187,6 +187,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+11/08/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/02/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿]
 10/24/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿]
@@ -255,6 +256,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+11/08/2023 | "the last of the children's tapes leading up to next Saturday Morning Simulator": SILLY TALES & TUNES
 11/05/2023 | Warning by 1987 Left Coast Media, J2 Comms.  Mother Goose's Treasury: King Cole.
 11/05/2023 | On camera: LAMP.  Salted Egg, Black Pepper Steak Chips.  VHS: Brimley Diabeetus, Bitsy Bears, UFC Redemption, UFC the ultimate force, Wet Hot American Summer, NordicTrack Ultimate Abdominal Conditioner, Black Belt w Don "the Dragon" Wilson, Danielle Steel's Daddy, Secrets, Palomino, Star, Melanie Stewart Dance Quarantine/Flatland, Tiger and the Bride, Kirkwood's Birthday Musical, Off-air recording of NCAA championship 1988
 11/02/2023 | Aesop's Fables (by TOEI?) Time Honored Tales of Wisdom: FBI, Warning, Kids Klassics presents, main program.
