@@ -21,7 +21,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
-75 | Never Show Emotion | 07/16/2023 | 11/07/2021 | 48
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM16 | Today We Shall Kill Each Other | 07/20/2023 | 12/21/2021 | 52
 MM4 | I'm Glad to See You're Prepared to Die | 07/20/2023 | 4/4/2021 | 50
@@ -67,6 +66,7 @@ MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
 MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 78 | All for Revenge | 11/05/2023 | 1/9/2022 | 50
 86 | The Passion and Death of their Struggle | 11/08/2023 | 12/22/2022 | 43
+75 | Never Show Emotion | 11/09/2023 | 11/07/2021 | 48
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,9 +78,9 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 1 | 5 (Tu)
 MM10s | 10 | 2 (Tu)
 Other | 5 | 1 (Sat)
+MM00s | 9 | 1 (Th)
 80s | 10 | 0 (WED)
-70s | 10 | 0 (Sun)
-MM00s | 9 | 0 (Th)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
