@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
-MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 61 | I Must Make Sure You Fail | 06/02/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
@@ -24,7 +23,6 @@ MM9 | Hit Me Like You Mean It | 12/04/2022  | 7/8/2021 | 59
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM16 | Today We Shall Kill Each Other | 07/20/2023 | 12/21/2021 | 52
 MM4 | I'm Glad to See You're Prepared to Die | 07/20/2023 | 4/4/2021 | 50
-87 | Win without Failing | 07/23/2023 | 02/12/2023 | 46
 MM1 | Get Rich Regardless of the Means (End of 2019) | 07/25/2023 | 11/14/2019 | 66
 MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 83 | I Don't Mind a Little Danger | 08/04/2023 | 06/12/2022 | 50
@@ -67,6 +65,8 @@ MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 78 | All for Revenge | 11/05/2023 | 1/9/2022 | 50
 86 | The Passion and Death of their Struggle | 11/08/2023 | 12/22/2022 | 43
 75 | Never Show Emotion | 11/09/2023 | 11/07/2021 | 48
+87 | Win without Failing | 11/11/2023 | 02/12/2023 | 46
+MM9 | Hit Me Like You Mean It | 11/11/2022  | 7/8/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 9 (FRI)
+60s | 6 | 10 (FRI)
 _90s_ | 1 | 5 (Tu)
 MM10s | 10 | 2 (Tu)
-Other | 5 | 1 (Sat)
-MM00s | 9 | 1 (Th)
-80s | 10 | 0 (WED)
+Other | 5 | 2 (Sat)
+MM00s | 9 | 0 (Sat)
+80s | 10 | 0 (Sat)
 70s | 10 | 0 (Th)
 
 
