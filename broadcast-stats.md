@@ -95,8 +95,13 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/11/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+11/11/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/11/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+11/11/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+11/11/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+11/11/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/09/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-11/09/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/09/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 11/09/2023 | FMW Opener / FMW Closer | 12/6/2020
 11/09/2023 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -107,7 +112,6 @@ Latest Date | Video / Audio | Debut++
 11/09/2023 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 11/09/2023 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 11/09/2023 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-11/09/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/08/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 11/08/2023 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 11/08/2023 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -169,10 +173,6 @@ Latest Date | Video / Audio | Debut++
 10/10/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 10/10/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
-09/26/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-09/26/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-09/26/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-09/26/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 09/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 09/16/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 09/16/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
