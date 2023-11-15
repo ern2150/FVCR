@@ -23,7 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM16 | Today We Shall Kill Each Other | 07/20/2023 | 12/21/2021 | 52
 MM4 | I'm Glad to See You're Prepared to Die | 07/20/2023 | 4/4/2021 | 50
-MM1 | Get Rich Regardless of the Means (End of 2019) | 07/25/2023 | 11/14/2019 | 66
 MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 83 | I Don't Mind a Little Danger | 08/04/2023 | 06/12/2022 | 50
 MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
@@ -67,6 +66,7 @@ MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 75 | Never Show Emotion | 11/09/2023 | 11/07/2021 | 48
 87 | Win without Failing | 11/11/2023 | 02/12/2023 | 46
 MM9 | Hit Me Like You Mean It | 11/11/2022  | 7/8/2021 | 59
+MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 | 66
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,10 +75,10 @@ MM9 | Hit Me Like You Mean It | 11/11/2022  | 7/8/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 10 (FRI)
-_90s_ | 1 | 5 (Tu)
-MM10s | 10 | 2 (Tu)
+_90s_ | 1 | 6 (Tu)
+MM10s | 10 | 3 (Tu)
 Other | 5 | 2 (Sat)
-MM00s | 9 | 0 (Sat)
+MM00s | 9 | 0 (Tu)
 80s | 10 | 0 (Sat)
 70s | 10 | 0 (Th)
 
