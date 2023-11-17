@@ -95,14 +95,19 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+11/16/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/16/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+11/16/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+11/16/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+11/16/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+11/16/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-11/14/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/14/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 11/14/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 11/14/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 11/14/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 11/14/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-11/14/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/11/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 11/11/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 11/11/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -173,11 +178,7 @@ Latest Date | Video / Audio | Debut++
 10/12/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 10/12/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 10/12/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
-10/10/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-10/10/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-10/10/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-10/10/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-10/10/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/19/2023 | --
 08/19/2023 ~~08/25/2022~~ |	Toby and toy boats and choppers / Jordana and TV Girl - Summer's Over	| 07/31/2022
