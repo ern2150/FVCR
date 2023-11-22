@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
-67 | Together We Will Smash Them | 06/02/2023 | 6/20/2021 | 53
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 68 | Endless Chain of Duels and Killings | 07/09/2023 | 6/27/2021 | 54
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
@@ -67,6 +66,7 @@ MM9 | Hit Me Like You Mean It | 11/11/2022  | 7/8/2021 | 59
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 | 66
 61 | I Must Make Sure You Fail | 11/16/2023  | 3/14/2021 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 11/16/2023 | 4/4/2021 | 50
+67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 11/16/2023 | 4/4/2021 | 50
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 0 (Th)
-_90s_ | 1 | 6 (Tu)
-MM10s | 10 | 3 (Tu)
-Other | 5 | 2 (Sat)
+_90s_ | 1 | 7 (Tu)
+MM10s | 10 | 4 (Tu)
+Other | 5 | 3 (Sat)
 70s | 10 | 1 (Th)
+80s | 10 | 1 (Sat)
+60s | 6 | 0 (Tu)
 MM00s | 9 | 0 (Th)
-80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
