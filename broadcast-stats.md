@@ -95,13 +95,20 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/21/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+11/21/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/21/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+11/21/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+11/21/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+11/21/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+11/21/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+11/21/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
+11/21/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-11/16/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/16/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 11/16/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 11/16/2023 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 11/16/2023 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-11/16/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 11/14/2023 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 11/14/2023 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
@@ -171,13 +178,6 @@ Latest Date | Video / Audio | Debut++
 10/14/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 10/14/2023 | SHIT FUCK / (same as video) | 5/4/2021
 10/14/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-10/12/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-10/12/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-10/12/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-10/12/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-10/12/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-10/12/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-10/12/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/19/2023 | --
