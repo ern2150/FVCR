@@ -95,6 +95,18 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/25/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+11/25/2023 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+11/25/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+11/25/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+11/25/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+11/25/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
+11/25/2023 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+11/25/2023 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+11/25/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+11/25/2023 | SHIT FUCK / (same as video) | 5/4/2021
+11/25/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+11/25/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/21/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 11/21/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/21/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
@@ -103,7 +115,6 @@ Latest Date | Video / Audio | Debut++
 11/21/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 11/21/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 11/21/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
-11/21/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/16/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 11/16/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 11/16/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -135,7 +146,6 @@ Latest Date | Video / Audio | Debut++
 11/08/2023 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 11/08/2023 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
 11/05/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-11/05/2023 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 11/05/2023 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
 11/05/2023 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 11/05/2023 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
@@ -168,16 +178,6 @@ Latest Date | Video / Audio | Debut++
 10/17/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 10/17/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 10/17/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-10/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-10/14/2023 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-10/14/2023 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-10/14/2023 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-10/14/2023 | Knight of Justice Death Call / (same as video) | 5/6/2021
-10/14/2023 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-10/14/2023 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-10/14/2023 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-10/14/2023 | SHIT FUCK / (same as video) | 5/4/2021
-10/14/2023 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/19/2023 | --
@@ -188,6 +188,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+11/25/2023 | [𝙎𝙏𝙍𝙀𝘼𝙈𝙄𝙉𝙂 𝙏𝙊𝘿𝘼𝙔 𝘼𝙏 5 𝙋𝙈 𝘾𝙀𝙉𝙏𝙍𝘼𝙇]
 11/21/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/09/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/08/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
