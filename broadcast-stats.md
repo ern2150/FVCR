@@ -19,8 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
-83 | I Don't Mind a Little Danger | 08/04/2023 | 06/12/2022 | 50
-MM18 | Fought Against All Evils | 08/04/2023  | 1/23/2022 | 51
 76 | If I See Him, I'll Kill Him | 08/06/2023 | 11/21/2021 | 49
 70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/10/2023 | 2/23/2021 | 64
@@ -67,6 +65,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 11/16/2023 | 4/4/2021 | 50
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 68 | Endless Chain of Duels and Killings | 11/25/2023 | 6/27/2021 | 54
 MM16 | Today We Shall Kill Each Other | 11/25/2023 | 12/21/2021 | 52
+83 | I Don't Mind a Little Danger | 11/28/2023 | 06/12/2022 | 50
+MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM16 | Today We Shall Kill Each Other | 11/25/2023 | 12/21/2021 | 52
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 1 | 7 (Tu)
+_90s_ | 1 | 8 (Tu)
 Other | 5 | 3 (Sat)
 70s | 10 | 1 (Th)
-80s | 10 | 2 (Sat)
+80s | 10 | 0 (Tu)
 60s | 6 | 0 (Sat)
 MM00s | 9 | 0 (Th)
-MM10s | 10 | 0 (Sat)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
