@@ -57,7 +57,7 @@ MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 86 | The Passion and Death of their Struggle | 11/08/2023 | 12/22/2022 | 43
 75 | Never Show Emotion | 11/09/2023 | 11/07/2021 | 48
 87 | Win without Failing | 11/11/2023 | 02/12/2023 | 46
-MM9 | Hit Me Like You Mean It | 11/11/2022  | 7/8/2021 | 59
+MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 | 66
 61 | I Must Make Sure You Fail | 11/16/2023  | 3/14/2021 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 11/16/2023 | 4/4/2021 | 50
