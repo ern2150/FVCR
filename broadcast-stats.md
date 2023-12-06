@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
-MM2 | Why Are You Playing Heroes? | 08/10/2023 | 2/23/2021 | 64
 85 | The Power You Are Seeking | 08/15/2023 | 11/13/2022 | 45
 MM17 | Ninja Challenge Card | 08/17/2023 | 1/2/2022 | 52
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
@@ -67,6 +66,7 @@ MM16 | Today We Shall Kill Each Other | 11/25/2023 | 12/21/2021 | 52
 83 | I Don't Mind a Little Danger | 11/28/2023 | 06/12/2022 | 50
 MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
 76 | If I See Him, I'll Kill Him | 11/30/2023 | 11/21/2021 | 49
+MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +75,12 @@ MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 1 | 8 (Tu)
-Other | 5 | 3 (Sat)
-MM00s | 9 | 1 (Th)
-60s | 6 | 0 (Sat)
+Other | 5 | 4 (Sat)
+60s | 6 | 1 (Sat)
+80s | 10 | 1 (Tu)
+MM10s | 10 | 1 (Tu)
+MM00s | 9 | 0 (Tu)
 70s | 10 | 0 (Th)
-80s | 10 | 0 (Tu)
-MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
