@@ -267,19 +267,19 @@ Latest Date | Video / Audio
 12/07/2023 | (Video Treasures) Polar Cubs North Pole Adventure
 12/07/2023 | Ray Stevens "Help Me Make It Through the Night" and pervert song
 12/07/2023 | (Just for Kids logo, Emerald City Productions) Oliver Twist
-12/07/2023 | Chrysler/Teachers present?) Learn at Every Turn
-12/07/2023 | (work out from 1992 sans activity booklet)
+12/07/2023 | (Chrysler/Teachers present?) Learn at Every Turn
+12/07/2023 | (next tape from 1992 sans activity booklet)
 12/07/2023 | Abworks NordicTrac "Sexy" (super warbl)
-12/07/2023 | (rewinds quick, brief)
+12/07/2023 | (next tape rewinds quick, brief)
 12/07/2023 | (stops and ffwds at dance instructor, picks up in space)
 12/07/2023 | Sebastian Star Bear: FIRST MISSION
-12/07/2023 | (cover shown in collector's ed previously 1991)
+12/07/2023 | (next tape's cover shown in collector's ed previously 1991)
 12/07/2023 | Everglades Odyssey a journey of exploration
-12/07/2023 | ("this could go either way" 1998, part one of two)
+12/07/2023 | (next tape "this could go either way" 1998, part one of two)
 12/07/2023 | Breadman plus
-12/07/2023 | (big spools needs rewinding 1994)
+12/07/2023 | (next tape big spools needs rewinding 1994)
 12/07/2023 | Victor Borge tells Hans Christen Anderson stories (princess and pea, ff to end of emperor, ugly duckling)
-12/07/2023 | (draw 2, has AS SEEN ON TV sticker 1992)
+12/07/2023 | (next tape has AS SEEN ON TV sticker 1992)
 12/07/2023 | Leslie Sansons Walk Aerobics for Seniors Live at the Club 33min
 12/07/2023 | (some sort of self-help tape drawn from a pile...)
 12/05/2023 | (watching) DOGGIE ADVENTURE 
