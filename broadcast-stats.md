@@ -95,15 +95,20 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/07/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+12/07/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/07/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+12/07/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+12/07/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+12/07/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+12/07/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/05/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 12/05/2023 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/05/2023 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 12/05/2023 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 12/05/2023 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 12/05/2023 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-12/05/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/30/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-11/30/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/30/2023 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 11/30/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 11/30/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
@@ -173,11 +178,6 @@ Latest Date | Video / Audio | Debut++
 11/02/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 11/02/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 11/02/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-10/28/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-10/28/2023 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-10/28/2023 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-10/28/2023 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-10/28/2023 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/19/2023 | --
@@ -188,6 +188,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+12/07/2023 | [Lost and Found Endurance Test tonight at 8:30 central.]
 12/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 11/25/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙂𝙀𝙏𝙏𝙄𝙉𝙂 𝙎𝙏𝘼𝙍𝙏𝙀𝘿"]
