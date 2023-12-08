@@ -188,7 +188,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
-12/07/2023 | [Lost and Found Endurance Test tonight at 8:30 central.]
+12/07/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 12/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 11/25/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: "𝙂𝙀𝙏𝙏𝙄𝙉𝙂 𝙎𝙏𝘼𝙍𝙏𝙀𝘿"]
@@ -264,6 +264,24 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/07/2023 | (Video Treasures) Polar Cubs North Pole Adventure
+12/07/2023 | Ray Stevens "Help Me Make It Through the Night" and pervert song
+12/07/2023 | (Just for Kids logo, Emerald City Productions) Oliver Twist
+12/07/2023 | Chrysler/Teachers present?) Learn at Every Turn
+12/07/2023 | (work out from 1992 sans activity booklet)
+12/07/2023 | Abworks NordicTrac "Sexy" (super warbl)
+12/07/2023 | (rewinds quick, brief)
+12/07/2023 | (stops and ffwds at dance instructor, picks up in space)
+12/07/2023 | Sebastian Star Bear: FIRST MISSION
+12/07/2023 | (cover shown in collector's ed previously 1991)
+12/07/2023 | Everglades Odyssey a journey of exploration
+12/07/2023 | ("this could go either way" 1998, part one of two)
+12/07/2023 | Breadman plus
+12/07/2023 | (big spools needs rewinding 1994)
+12/07/2023 | Victor Borge tells Hans Christen Anderson stories (princess and pea, ff to end of emperor, ugly duckling)
+12/07/2023 | (draw 2, has AS SEEN ON TV sticker 1992)
+12/07/2023 | Leslie Sansons Walk Aerobics for Seniors Live at the Club 33min
+12/07/2023 | (some sort of self-help tape drawn from a pile...)
 12/05/2023 | (watching) DOGGIE ADVENTURE 
 12/05/2023 | (picture overlay) DOGGIE ADVENTURE VHS cover front and back
 11/30/2023 | Present Time: Adventure Begins
