@@ -188,6 +188,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+12/12/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 12/07/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 12/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 11/30/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
@@ -264,6 +265,14 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/12/2023 | Gaither's Pond: The Great Divide
+12/12/2023 | (on camera) The Great DIVIDE
+12/12/2023 | threads (already in progress?)
+12/12/2023 | (on camera, talking about animated ponds) threads
+12/12/2023 | Animals on the Farm: Dairy Cows
+12/12/2023 | (on camera) Atacking Anxiety (coaching video with Lucinda Bassett), Animals on the Farm Dairy Cows, viva forever Spice, Rock n Learn Colors Shapes and Counting & Letter Sounds, wee sing together,
+12/12/2023 | Primary Focus
+12/12/2023 | (on camera - VHS Covers!) Adventures of the Polar Cubs, Walk Aerobics for Seniors Live at the Club, Your Guide to Healthy Bread Baking, Abworks label is the tape, Ray Stevens Comedy Video Classics, PresentTime TheAdventureBegins, Noozles tape 1 and a Day with Grandma, Doggie Adventure, lil ceramic TV ornament and ceramic cup w TV and remote on it, No More Sheets, Wet Video Head Cleaner (discwasher)
 12/07/2023 | (Video Treasures) Polar Cubs North Pole Adventure
 12/07/2023 | Ray Stevens "Help Me Make It Through the Night" and pervert song
 12/07/2023 | (Just for Kids logo, Emerald City Productions) Oliver Twist
