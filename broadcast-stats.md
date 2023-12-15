@@ -24,7 +24,6 @@ MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
 82 | Are You Looking for Death? | 08/27/2023 | 05/15/2022 | 50
-88 | Under Attack in Hong Kong | 08/27/2023 | 06/18/2023 | 45
 71 | I Don't Belong Here | 09/01/2023 | 8/1/2021 | 54
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
 72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
@@ -67,6 +66,7 @@ MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
 MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
 85 | The Power You Are Seeking | 12/09/2023 | 11/13/2022 | 45
 MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
+88 | Under Attack in Hong Kong | 12/14/2023 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,10 +77,10 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 1 | 8 (Tu)
 Other | 5 | 5 (Sat)
 60s | 6 | 2 (Sat)
-80s | 10 | 0 (Sat)
+70s | 10 | 1 (Th)
+80s | 10 | 0 (Th)
 MM10s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Tu)
-70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
