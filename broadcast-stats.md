@@ -188,7 +188,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
-12/14/2023 | [𝙈𝙊𝙍𝙀 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
+12/14/2023 | [(𝙈𝙊𝙍𝙀) 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 12/12/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 12/07/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 12/05/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
@@ -266,6 +266,7 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/14/2023 | ("from 1997... fingers crossed") Rock n Learn Colors, Shapes & Counting
 12/12/2023 | Gaither's Pond: The Great Divide
 12/12/2023 | (on camera) The Great DIVIDE
 12/12/2023 | threads (already in progress?)
