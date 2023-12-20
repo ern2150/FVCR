@@ -18,12 +18,10 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 | | Money, Love, and Power (see #bonus-clips for more) | 07/14/2022 | 06/22/2021 (physical) | 50
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
-MM12 | Evil Is Never Invincible | 07/30/2023 | 8/10/2021 | 58
 70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
 64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
-82 | Are You Looking for Death? | 08/27/2023 | 05/15/2022 | 50
 71 | I Don't Belong Here | 09/01/2023 | 8/1/2021 | 54
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
 72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
@@ -67,6 +65,8 @@ MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
 85 | The Power You Are Seeking | 12/09/2023 | 11/13/2022 | 45
 MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
 88 | Under Attack in Hong Kong | 12/14/2023 | 06/18/2023 | 45
+82 | Are You Looking for Death? | 12/19/2023 | 05/15/2022 | 50
+MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
 [archive](broadcast-2022.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 1 | 8 (Tu)
-Other | 5 | 5 (Sat)
-60s | 6 | 2 (Sat)
+_90s_ | 1 | 9 (Tu)
+Other | 5 | 6 (Sat)
+60s | 6 | 3 (Sat)
+MM00s | 9 | 1 (Tu)
 70s | 10 | 1 (Th)
-80s | 10 | 0 (Th)
-MM10s | 10 | 0 (Sat)
-MM00s | 9 | 0 (Tu)
+80s | 10 | 0 (Tu)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
