@@ -267,6 +267,10 @@ Bonus Clips
 [archive](broadcast-2022.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
+12/23/2023 | The World of Tom Clark
+12/23/2023 | Magic Eye II
+12/23/2023 | Getting Started
+12/23/2023 | CAT TV (FVCR AV mix)
 12/14/2023 | ("from 1997... fingers crossed") Rock n Learn Colors, Shapes & Counting
 12/12/2023 | Gaither's Pond: The Great Divide
 12/12/2023 | (on camera) The Great DIVIDE
