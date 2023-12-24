@@ -95,15 +95,19 @@ Intros
 [archive](broadcast-2022.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/23/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+12/23/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/23/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+12/23/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+12/23/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+12/23/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-12/19/2023 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/19/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 12/19/2023 | Baki end whiteout / (same as video) | 4/13/2021
 12/19/2023 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
 12/19/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 12/19/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 12/19/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-12/19/2023 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/14/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 12/14/2023 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 12/14/2023 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -163,10 +167,6 @@ Latest Date | Video / Audio | Debut++
 11/14/2023 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 11/14/2023 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 11/14/2023 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-11/11/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-11/11/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-11/11/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-11/11/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 11/09/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 11/09/2023 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 11/09/2023 | FMW Opener / FMW Closer | 12/6/2020
@@ -188,6 +188,7 @@ Latest Date | Video / Audio | Debut++
 06/08/2023 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 06/08/2023 | Space - Just Blue (live) / (same as video) | 8/2/2020
 -- | -- | --
+12/23/2023 | [𝘽𝙀𝙎𝙏 𝙊𝙁 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 2023]
 12/14/2023 | [(𝙈𝙊𝙍𝙀) 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 12/12/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 12/07/2023 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
