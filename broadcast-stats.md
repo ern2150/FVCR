@@ -26,10 +26,8 @@ MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
 79 | A Frightening Experience | 09/07/2023 | 1/16/2022 | 57
 MM8 | The Sword of Catastrophe | 09/07/2023 | 6/15/2021 | 58
 81 | One Hell of a Nobody | 09/14/2023 | 03/27/2022 | 53
-89 | Don't You Know the State I'm In? | 09/14/2023 | 07/02/2023 | 47
 MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
-77 | Ninja City | 09/21/2023 | 11/28/2021 | 49
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
 80 | Pass Through All Hard Times | 09/26/2023 | 02/20/2022 | 46
 90 | Every Different Way of Killing | 09/26/2023 | 07/23/2023 | 47
@@ -66,6 +64,8 @@ MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
 MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
 MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
+77 | Ninja City | 01/02/2024 | 11/28/2021 | 49
+89 | Don't You Know the State I'm In? | 01/02/2024 | 07/02/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,12 +73,12 @@ MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 1 | 10 (Tu)
-Other | 5 | 6 (Sat)
-60s | 6 | 3 (Sat)
-MM00s | 9 | 2 (Tu)
-80s | 10 | 1 (Tu)
-70s | 10 | 0 (Th)
+_90s_ | 1 | 11 (Tu)
+Other | 5 | 7 (Sat)
+60s | 6 | 4 (Sat)
+MM00s | 9 | 3 (Tu)
+80s | 10 | 0 (Tu)
+70s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Th)
 
 
