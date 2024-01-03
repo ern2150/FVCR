@@ -180,7 +180,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
-01/02/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿] (see #bonus-clips)
+
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
@@ -192,7 +192,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Video / Audio
 -- | --
-01/02/2024 | 
+
 
 
 Outros
@@ -200,7 +200,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-12/28/2023 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+01/02/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
