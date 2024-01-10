@@ -16,8 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
-MM14 | Fights the Evils with Great Power | 07/18/2023 | 9/26/2021 | 64
-70 | Take the Fight to the Enemy | 08/10/2023 | 7/11/2021 | 54
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
 64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
@@ -66,6 +64,8 @@ MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 77 | Ninja City | 01/02/2024 | 11/28/2021 | 49
 89 | Don't You Know the State I'm In? | 01/02/2024 | 07/02/2023 | 47
+70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
+MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 1 | 11 (Tu)
-Other | 5 | 7 (Sat)
-60s | 6 | 4 (Sat)
-MM00s | 9 | 3 (Tu)
-80s | 10 | 0 (Tu)
+_90s_ | 1 | 12 (Tu)
+Other | 5 | 8 (Sat)
+60s | 6 | 5 (Sat)
+MM00s | 9 | 4 (Tu)
+80s | 10 | 1 (Tu)
 70s | 10 | 0 (Tu)
-MM10s | 10 | 0 (Th)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
