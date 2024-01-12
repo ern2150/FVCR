@@ -194,7 +194,25 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
-01/11/2024 | Cam |  
+01/11/2024 | VCR | Trailer Mix: ministry of vengeance, rabid grannies, fatal skies, AIP logo, The Revenger, New Horizons logo, Babyface Nelson, Star Hunter, Operation Cobra, Dollman
+01/11/2024 | Cam | VHS Down Twisted
+01/11/2024 | Cam | VHS Future zone
+01/11/2024 | Cam | VHS SURVIVOR
+01/11/2024 | VCR | K.K. Girly Action Tour: band on a stage with a ... couch
+01/11/2024 | Cam | VHS K.K Girly Action Tour in Tokyo
+01/11/2024 | Cam | VHS Dollman vs Demonic Toys
+01/11/2024 | Cam | VHS Dollman
+01/11/2024 | Cam | VHS Alien Autopsy: (fact or fiction)
+01/11/2024 | Cam | VHS Women Warriors (mold)
+01/11/2024 | Cam | VHS Photoshop 4.0 tape 3
+01/11/2024 | Cam | VHS Spacehunter
+01/11/2024 | Cam | VHS Destroy All Monsters 
+01/11/2024 | Cam | VHS Star Hunter
+01/11/2024 | Cam | VHS Iron Warrior
+01/11/2024 | VCR | America the Beautiful: Reader's Digest logo, landscapes with patriotic music.
+01/11/2024 | Cam | VHS Musical Portrait of America the Beautiful
+01/11/2024 | Cam | Slatty the Table, Jane Ashen's Costume Book, unicorn keychain "Creamy Beast", Puppy boxcutter, tiny photo rpg slipcovers
+
 
 
 Outros
