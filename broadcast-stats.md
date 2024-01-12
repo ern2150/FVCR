@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
-64 | Hold You Close and Feel Things | 08/23/2023| 4/18/2021 | 58
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
 72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
@@ -66,6 +65,7 @@ MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 89 | Don't You Know the State I'm In? | 01/02/2024 | 07/02/2023 | 47
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
+64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,9 +75,9 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 1 | 12 (Tu)
 Other | 5 | 8 (Sat)
-60s | 6 | 5 (Sat)
 MM00s | 9 | 4 (Tu)
 80s | 10 | 1 (Tu)
+60s | 6 | 0 (Th)
 70s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Tu)
 
