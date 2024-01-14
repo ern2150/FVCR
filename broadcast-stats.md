@@ -22,11 +22,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
 79 | A Frightening Experience | 09/07/2023 | 1/16/2022 | 57
 MM8 | The Sword of Catastrophe | 09/07/2023 | 6/15/2021 | 58
-81 | One Hell of a Nobody | 09/14/2023 | 03/27/2022 | 53
 MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
-80 | Pass Through All Hard Times | 09/26/2023 | 02/20/2022 | 46
 90 | Every Different Way of Killing | 09/26/2023 | 07/23/2023 | 47
 MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
@@ -66,6 +64,8 @@ MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
+80 | Pass Through All Hard Times | 01/13/2024 | 02/20/2022 | 46
+81 | One Hell of a Nobody | 01/13/2024 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,9 +74,9 @@ MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 1 | 12 (Tu)
-Other | 5 | 8 (Sat)
+Other | 5 | 9 (Sat)
 MM00s | 9 | 4 (Tu)
-80s | 10 | 1 (Tu)
+80s | 10 | 0 (Sat)
 60s | 6 | 0 (Th)
 70s | 10 | 0 (Tu)
 MM10s | 10 | 0 (Tu)
