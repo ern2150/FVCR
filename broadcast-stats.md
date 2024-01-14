@@ -94,14 +94,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+01/13/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/13/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+01/13/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+01/13/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+01/13/2024 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+01/13/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/11/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-01/11/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/11/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 01/11/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 01/11/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 01/11/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 01/11/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-01/11/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/09/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 01/09/2024 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 01/09/2024 | FMW Opener / FMW Closer | 12/6/2020
@@ -172,14 +177,10 @@ Latest Date | Video / Audio | Debut++
 11/30/2023 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 11/30/2023 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/30/2023 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-11/28/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-11/28/2023 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-11/28/2023 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-11/28/2023 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-11/28/2023 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+01/13/2024 | (lollllshiiiibaaaaaaa)
 01/11/2024 | (lolshiba craps out during first intro)
 01/11/2024 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
 
