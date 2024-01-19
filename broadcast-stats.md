@@ -19,13 +19,11 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
 73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
-72 | Who Is the Champion Now? | 09/03/2023 | 9/7/2021 | 53
 79 | A Frightening Experience | 09/07/2023 | 1/16/2022 | 57
 MM8 | The Sword of Catastrophe | 09/07/2023 | 6/15/2021 | 58
 MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
-90 | Every Different Way of Killing | 09/26/2023 | 07/23/2023 | 47
 MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
@@ -66,6 +64,8 @@ MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
 80 | Pass Through All Hard Times | 01/13/2024 | 02/20/2022 | 46
 81 | One Hell of a Nobody | 01/13/2024 | 03/27/2022 | 53
+72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
+90 | Every Different Way of Killing | 01/18/2024 | 07/23/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 1 | 12 (Tu)
 Other | 5 | 9 (Sat)
-MM00s | 9 | 4 (Tu)
-80s | 10 | 0 (Sat)
+MM00s | 9 | 5 (Tu)
+MM10s | 10 | 1 (Tu)
+_90s_ | 1 | 0 (Th)
 60s | 6 | 0 (Th)
-70s | 10 | 0 (Tu)
-MM10s | 10 | 0 (Tu)
+80s | 10 | 0 (Sat)
+70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -196,6 +196,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/18/2024 | VCR | Demonstration of Toshiba's brokenness
 01/11/2024 | VCR | Trailer Mix: ministry of vengeance, rabid grannies, fatal skies, AIP logo, The Revenger, New Horizons logo, Babyface Nelson, Star Hunter, Operation Cobra, Dollman
 01/11/2024 | Cam | VHS Down Twisted
 01/11/2024 | Cam | VHS Future zone
