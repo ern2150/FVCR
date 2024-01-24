@@ -180,6 +180,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+01/23/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/18/2024 | Toshiba is dead, long live block text
 01/13/2024 | (lollllshiiiibaaaaaaa)
 01/11/2024 | (lolshiba craps out during first intro)
@@ -196,6 +197,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/23/2024 | VCR | (trailers before) The Making of Left Behind
+01/23/2024 | VCR | (intro to) Nutrisystem Body Breakthrough Activity Plan
 01/18/2024 | VCR | Demonstration of Toshiba's brokenness
 01/11/2024 | VCR | Trailer Mix: ministry of vengeance, rabid grannies, fatal skies, AIP logo, The Revenger, New Horizons logo, Babyface Nelson, Star Hunter, Operation Cobra, Dollman
 01/11/2024 | Cam | VHS Down Twisted
