@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 69 | SUMMERTIME | 08/19/2023 | 7/4/2021 | 65
-73 | The Whirlpool of Battle | 08/23/2023 | 9/21/2021 | 62
 66 | Do You Really Have the Confidence? | 09/01/2023 | 5/23/2021 | 56
 79 | A Frightening Experience | 09/07/2023 | 1/16/2022 | 57
 MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
@@ -66,6 +65,7 @@ MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
 90 | Every Different Way of Killing | 01/18/2024 | 07/23/2023 | 47
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
+73 | The Whirlpool of Battle | 01/25/2024 | 9/21/2021 | 62
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,8 +76,8 @@ Decade | Available Tapes | Weeks since seen
 Other | 5 | 10 (Sat)
 MM10s | 10 | 2 (Tu)
 80s | 10 | 1 (Sat)
-_90s_ | 1 | 0 (Th)
-60s | 6 | 0 (Th)
+_90s_ | 1 | 1 (Th)
+60s | 6 | 1 (Th)
 MM00s | 9 | 0 (Tu)
 70s | 10 | 0 (Th)
 
