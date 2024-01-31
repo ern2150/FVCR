@@ -180,6 +180,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+01/30/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/23/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 01/18/2024 | Toshiba is dead, long live block text
 01/13/2024 | (lollllshiiiibaaaaaaa)
@@ -197,6 +198,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/30/2024 | VCR | TLC Presents: Sixth Sense
 01/25/2024 | VCR | I LOVE TOY TRAINS 2 AV
 01/23/2024 | VCR | (trailers before) The Making of Left Behind
 01/23/2024 | VCR | (intro to) Nutrisystem Body Breakthrough Activity Plan
