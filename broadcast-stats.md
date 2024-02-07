@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
-79 | A Frightening Experience | 09/07/2023 | 1/16/2022 | 57
 MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
@@ -66,7 +65,8 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
 69 | SUMMERTIME | 02/01/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
-91 | 𝙉𝙀𝙒 Reprieve from Chaos | 02/03/2024 | 02/03/2024 | 49
+79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
+91 | Reprieve from Chaos | 02/06/2024 | 02/03/2024 | 49
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -74,10 +74,10 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 12 (Sat)
-MM10s | 10 | 3 (Tu)
-MM00s | 9 | 1 (Tu)
-70s | 10 | 1 (Th)
-_90s_ | 2 | 0 (Sat)
+MM10s | 10 | 4 (Tu)
+MM00s | 9 | 2 (Tu)
+70s | 10 | 0 (Tu)
+_90s_ | 2 | 0 (Tu)
 60s | 6 | 0 (Th)
 80s | 10 | 0 (Sat)
 
