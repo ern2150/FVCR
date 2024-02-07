@@ -66,7 +66,7 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
 69 | SUMMERTIME | 02/01/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
-91 | 𝙉𝙀𝙒 Reprieve from Chaos | 02/03/2024 | 02/03/2024 | 0939-
+91 | 𝙉𝙀𝙒 Reprieve from Chaos | 02/03/2024 | 02/03/2024 | 49
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -94,13 +94,17 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/06/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+02/06/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+02/06/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+02/06/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+02/06/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+02/06/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/03/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-02/03/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/03/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 02/03/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 02/03/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 02/03/2024 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-02/03/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/01/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 02/01/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 02/01/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
@@ -166,10 +170,6 @@ Latest Date | Video / Audio | Debut++
 12/28/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 12/28/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 12/28/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
-12/23/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-12/23/2023 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-12/23/2023 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-12/23/2023 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 12/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 12/19/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 12/19/2023 | Baki end whiteout / (same as video) | 4/13/2021
