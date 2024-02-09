@@ -94,12 +94,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+02/08/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+02/08/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+02/08/2024 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+02/08/2024 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+02/08/2024 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+02/08/2024 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+02/08/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
+02/08/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/06/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-02/06/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/06/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 02/06/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 02/06/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-02/06/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/03/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 02/03/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 02/03/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -163,13 +170,6 @@ Latest Date | Video / Audio | Debut++
 01/02/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 01/02/2024 | SHIT FUCK / (same as video) | 5/4/2021
 01/02/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-12/28/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-12/28/2023 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-12/28/2023 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-12/28/2023 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-12/28/2023 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-12/28/2023 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-12/28/2023 | TV Asahi interludes / (same as video?) | 01/17/2023
 12/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 12/19/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 12/19/2023 | Baki end whiteout / (same as video) | 4/13/2021
