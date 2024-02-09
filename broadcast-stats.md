@@ -180,6 +180,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+02/08/2024 | lol tiger tape falls apart
 02/08/2024 | [𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝘿𝙑𝘿 // 𝙄'𝙈 𝙔𝙊𝙐𝙍 𝙈𝘼𝙉: 𝙏𝙃𝙀 𝙁𝙄𝙍𝙎𝙏 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏𝙄𝙑𝙀 𝙈𝙊𝙑𝙄𝙀 𝙊𝙉 𝘿𝙑𝘿]
 02/03/2024 | [𝙉𝙀𝙒 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 91: 𝙍𝙀𝙋𝙍𝙀𝙑𝙀 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙊𝙎]
 01/30/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
@@ -232,7 +233,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-02/06/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/08/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
