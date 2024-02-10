@@ -94,15 +94,22 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/10/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
+02/10/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+02/10/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+02/10/2024 | Baki end whiteout / (same as video) | 4/13/2021
+02/10/2024 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+02/10/2024 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+02/10/2024 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+02/10/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+02/10/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-02/08/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/08/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 02/08/2024 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 02/08/2024 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
 02/08/2024 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 02/08/2024 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 02/08/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
-02/08/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/06/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 02/06/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 02/06/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -170,16 +177,10 @@ Latest Date | Video / Audio | Debut++
 01/02/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 01/02/2024 | SHIT FUCK / (same as video) | 5/4/2021
 01/02/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-12/19/2023 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-12/19/2023 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-12/19/2023 | Baki end whiteout / (same as video) | 4/13/2021
-12/19/2023 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-12/19/2023 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-12/19/2023 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-12/19/2023 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+02/10/2024 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 𝙏𝙀𝙎𝙏𝙄𝙉𝙂 𝙊𝙐𝙏 𝙏𝙃𝙀 𝙉𝙀𝙒 𝙑𝘾𝙍 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
 02/08/2024 | lol tiger tape falls apart
 02/08/2024 | [𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝘿𝙑𝘿 // 𝙄'𝙈 𝙔𝙊𝙐𝙍 𝙈𝘼𝙉: 𝙏𝙃𝙀 𝙁𝙄𝙍𝙎𝙏 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏𝙄𝙑𝙀 𝙈𝙊𝙑𝙄𝙀 𝙊𝙉 𝘿𝙑𝘿]
 02/03/2024 | [𝙉𝙀𝙒 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 91: 𝙍𝙀𝙋𝙍𝙀𝙑𝙀 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙊𝙎]
