@@ -202,6 +202,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/10/2024 | VCR | off-air recording about Beatles Anthology to test audio
+02/10/2024 | Cam | VCR/dongle setup, rip Toshiba.  Magnavox converts composite to HDMI, HDMI to USB, sound issues.
 02/08/2024 | PS3/DVD | I'm Your Man _INTERACTIVE_ (and special features!)
 01/30/2024 | VCR | TLC Presents: Sixth Sense
 01/25/2024 | VCR | I LOVE TOY TRAINS 2 AV
