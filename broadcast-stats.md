@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
-MM6 | It's Your Turn to Die | 09/16/2023 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
 MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
@@ -67,19 +66,20 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 91 | Reprieve from Chaos | 02/06/2024 | 02/03/2024 | 49
+MM6 | It's Your Turn to Die | 02/10/2024 | 5/20/2021 | 73
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 12 (Sat)
+Other | 5 | 13 (Sat)
 MM10s | 10 | 4 (Tu)
-MM00s | 9 | 2 (Tu)
+80s | 10 | 1 (Sat)
+MM00s | 9 | 0 (Sat)
 70s | 10 | 0 (Tu)
 _90s_ | 2 | 0 (Tu)
 60s | 6 | 0 (Th)
-80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -180,6 +180,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+02/10/2024 | tape interrupted deliberately, swap from magnavox to sony, audio improves
 02/10/2024 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 𝙏𝙀𝙎𝙏𝙄𝙉𝙂 𝙊𝙐𝙏 𝙏𝙃𝙀 𝙉𝙀𝙒 𝙑𝘾𝙍 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
 02/08/2024 | lol tiger tape falls apart
 02/08/2024 | [𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝘿𝙑𝘿 // 𝙄'𝙈 𝙔𝙊𝙐𝙍 𝙈𝘼𝙉: 𝙏𝙃𝙀 𝙁𝙄𝙍𝙎𝙏 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏𝙄𝙑𝙀 𝙈𝙊𝙑𝙄𝙀 𝙊𝙉 𝘿𝙑𝘿]
@@ -202,6 +203,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/10/2024 | Cam | DVD covers: Bruce Li comp, BLFBftG, Magnificent Warriors, Cool as Hell
 02/10/2024 | VCR | off-air recording about Beatles Anthology to test audio
 02/10/2024 | Cam | VCR/dongle setup, rip Toshiba.  Magnavox converts composite to HDMI, HDMI to USB, sound issues.
 02/08/2024 | PS3/DVD | I'm Your Man _INTERACTIVE_ (and special features!)
