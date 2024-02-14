@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM7 | I'd Like to See You Try and Hurt Me | 09/19/2023 | 6/6/2021 | 58
 MM13 | Keep on Winning | 09/21/2023 | 8/22/2021 | 56
-MM11 | I Can Stand the Pain | 09/28/2023 | 7/27/2021 | 65
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
@@ -67,6 +66,8 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 91 | Reprieve from Chaos | 02/06/2024 | 02/03/2024 | 49
 MM6 | It's Your Turn to Die | 02/10/2024 | 5/20/2021 | 73
+MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
+
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -74,12 +75,12 @@ MM6 | It's Your Turn to Die | 02/10/2024 | 5/20/2021 | 73
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 13 (Sat)
-MM10s | 10 | 4 (Tu)
 80s | 10 | 1 (Sat)
-MM00s | 9 | 0 (Sat)
-70s | 10 | 0 (Tu)
-_90s_ | 2 | 0 (Tu)
+70s | 10 | 1 (Tu)
+_90s_ | 2 | 1 (Tu)
 60s | 6 | 0 (Th)
+MM00s | 9 | 0 (Sat)
+MM10s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
