@@ -181,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+02/20/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 02/10/2024 | tape interrupted deliberately, swap from magnavox to sony, audio improves
 02/10/2024 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 𝙏𝙀𝙎𝙏𝙄𝙉𝙂 𝙊𝙐𝙏 𝙏𝙃𝙀 𝙉𝙀𝙒 𝙑𝘾𝙍 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
 02/08/2024 | lol tiger tape falls apart
@@ -204,6 +205,9 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/20/2024 | VCR | EcoQuest International Project Home
+02/20/2024 | VCR | Creative Features Number One 8/2-13/1993 (ff til vampire) "Creatures on Horror Island"
+02/20/2024 | VCR | Bow Master
 02/10/2024 | Cam | DVD covers: Bruce Li comp, BLFBftG, Magnificent Warriors, Cool as Hell
 02/10/2024 | VCR | off-air recording about Beatles Anthology to test audio
 02/10/2024 | Cam | VCR/dongle setup, rip Toshiba.  Magnavox converts composite to HDMI, HDMI to USB, sound issues.
