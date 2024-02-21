@@ -95,13 +95,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/20/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+02/20/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+02/20/2024 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+02/20/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+02/20/2024 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+02/20/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+02/20/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+02/20/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/15/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-02/15/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 02/15/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 02/15/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 02/15/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 02/15/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-02/15/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 02/13/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/13/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
@@ -145,12 +151,6 @@ Latest Date | Video / Audio | Debut++
 01/25/2024 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 01/25/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 01/25/2024 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-01/23/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-01/23/2024 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-01/23/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-01/23/2024 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-01/23/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-01/23/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 01/11/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 01/11/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 01/11/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
