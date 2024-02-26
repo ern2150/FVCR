@@ -21,7 +21,6 @@ SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
-MM19 | Ghost Shadow Squad | 10/17/2023 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
   | Devil Mountain 2021 Halloween Vol 3 | 10/26/2023 | 10/17/2021 | 49
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/28/2023 | 10/3/2021 | 45
@@ -67,6 +66,7 @@ MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 86 | The Passion and Death of their Struggle | 02/15/2024 | 12/22/2022 | 43
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
 87 | Win without Failing | 02/20/2024 | 02/12/2023 | 46
+MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,9 +77,9 @@ Decade | Available Tapes | Weeks since seen
 Other | 5 | 14 (Sat)
 _90s_ | 2 | 2 (Tu)
 70s | 10 | 2 (Tu)
-60s | 6 | 1 (Th)
-MM10s | 10 | 1 (Tu)
-MM00s | 9 | 0 (Th)
+60s | 6 | 2 (Th)
+MM00s | 9 | 1 (Th)
+MM10s | 10 | 0 (Th)
 80s | 10 | 0 (Tu)
 
 
