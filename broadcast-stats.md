@@ -207,6 +207,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/25/2024 | VCR | Bigfoot Strikes Again
+02/25/2024 | VCR | Monster Madness
 02/22/2024 | VCR | BULLDOG SECURITY
 02/22/2024 | VCR | Baqua Spa
 02/20/2024 | VCR | EcoQuest International Project Home
