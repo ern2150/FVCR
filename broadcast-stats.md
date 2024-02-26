@@ -206,6 +206,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/22/2024 | VCR | BULLDOG SECURITY
+02/22/2024 | VCR | Baqua Spa
 02/20/2024 | VCR | EcoQuest International Project Home
 02/20/2024 | VCR | Creative Features Number One 8/2-13/1993 (ff til vampire) "Creatures on Horror Island"
 02/20/2024 | VCR | Bow Master
