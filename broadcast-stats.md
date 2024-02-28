@@ -205,6 +205,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/27/2024 | VCR | Mystery Science Vol 1 - Dowsing
+02/27/2024 | VCR | Black n Decker bread sniffer
 02/25/2024 | VCR | Bigfoot Strikes Again
 02/25/2024 | VCR | Monster Madness
 02/25/2024 | VCR | Sonogram tape
