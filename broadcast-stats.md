@@ -216,7 +216,8 @@ Latest Date | Cam / Video / Audio | Stuff
 02/20/2024 | VCR | EcoQuest International Project Home
 02/20/2024 | VCR | Creative Features Number One 8/2-13/1993 (ff til vampire) "Creatures on Horror Island"
 02/20/2024 | VCR | Bow Master
-02/10/2024 | Cam | DVD covers: Bruce Li comp, BLFBftG, Magnificent Warriors, Cool as Hell
+02/10/2024 | Cam | DVD covers: Bruce Li in "Blind Fist of Bruce", BLFBftG, Magnificent Warriors, Cool as Hell
+02/10/2024 | Cam | VHS front label for Megamix 6
 02/10/2024 | VCR | off-air recording about Beatles Anthology to test audio
 02/10/2024 | Cam | VCR/dongle setup, rip Toshiba.  Magnavox converts composite to HDMI, HDMI to USB, sound issues.
 02/08/2024 | PS3/DVD | I'm Your Man _INTERACTIVE_ (and special features!)
