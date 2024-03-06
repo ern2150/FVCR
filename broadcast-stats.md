@@ -205,6 +205,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/05/2024 | VCR | AV Mix - The Helicopter Line - New Zealand (feat. The Awesome Foursome, Kiwi Magic)
 02/27/2024 | VCR | Mystery Science Vol 1 - Dowsing
 02/27/2024 | VCR | Black n Decker bread sniffer
 02/25/2024 | VCR | Bigfoot Strikes Again
