@@ -181,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+03/12/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 02/20/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 02/10/2024 | tape interrupted deliberately, swap from magnavox to sony, audio improves
 02/10/2024 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 𝙏𝙀𝙎𝙏𝙄𝙉𝙂 𝙊𝙐𝙏 𝙏𝙃𝙀 𝙉𝙀𝙒 𝙑𝘾𝙍 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
@@ -205,6 +206,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/12/2024 | VCR | PJ Sparkles
 03/05/2024 | VCR | AV Mix - The Helicopter Line - New Zealand (feat. The Awesome Foursome, Kiwi Magic)
 02/27/2024 | VCR | Mystery Science Vol 1 - Dowsing
 02/27/2024 | VCR | Black n Decker bread sniffer
