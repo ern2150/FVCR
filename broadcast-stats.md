@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
-MM10 | The Splatter and Gore Department | 10/10/2023 | 7/15/2021 | 59
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
@@ -67,6 +66,7 @@ MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
 75 | Never Show Emotion | 03/07/2024 | 11/07/2021 | 48
 78 | All for Revenge | 03/07/2024 | 1/9/2022 | 50
 MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
+MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 16 (Sat)
+Other | 5 | 17 (Sat)
+60s | 6 | 6 (Th)
 _90s_ | 2 | 5 (Tu)
-60s | 6 | 5 (Th)
 80s | 10 | 3 (Tu)
-MM10s | 10 | 1 (Tu)
+70s | 10 | 1 (Th)
+MM10s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Tu)
-70s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
