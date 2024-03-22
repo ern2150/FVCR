@@ -33,9 +33,7 @@ MM16 | Today We Shall Kill Each Other | 11/25/2023 | 12/21/2021 | 52
 MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
 76 | If I See Him, I'll Kill Him | 11/30/2023 | 11/21/2021 | 49
 MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
-85 | The Power You Are Seeking | 12/09/2023 | 11/13/2022 | 45
 MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
-88 | Under Attack in Hong Kong | 12/14/2023 | 06/18/2023 | 45
 82 | Are You Looking for Death? | 12/19/2023 | 05/15/2022 | 50
 MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
@@ -67,6 +65,8 @@ MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
 78 | All for Revenge | 03/07/2024 | 1/9/2022 | 50
 MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
 MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
+85 | The Power You Are Seeking | 03/21/2024 | 11/13/2022 | 45
+88 | Under Attack in Hong Kong | 03/21/2024 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +75,12 @@ MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 17 (Sat)
+_90s_ | 2 | 6 (Tu)
 60s | 6 | 6 (Th)
-_90s_ | 2 | 5 (Tu)
-80s | 10 | 3 (Tu)
+MM00s | 9 | 1 (Tu)
 70s | 10 | 1 (Th)
 MM10s | 10 | 0 (Sat)
-MM00s | 9 | 0 (Tu)
+80s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -181,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+03/21/2024 | encoder still being weird, improves after several stream restarts
 03/16/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 03/16/2024 | intro interrupted by audio issues, resumes toward the end of fashion clip
 03/12/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
