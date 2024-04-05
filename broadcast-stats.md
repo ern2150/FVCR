@@ -19,9 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
-MM5 | Danger Straight Ahead | 10/26/2023 | 4/4/2021 | 57
-  | Devil Mountain 2021 Halloween Vol 3 | 10/26/2023 | 10/17/2021 | 49
-  | Evil Is Excusable 2021 Halloween Vol 1 | 10/28/2023 | 10/3/2021 | 45
 MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 | 66
@@ -67,6 +64,9 @@ MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
 MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
 85 | The Power You Are Seeking | 03/21/2024 | 11/13/2022 | 45
 88 | Under Attack in Hong Kong | 03/21/2024 | 06/18/2023 | 45
+  | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
+  | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
+MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -95,6 +95,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
+03/29/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+03/29/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+03/29/2024 | Baki end whiteout / (same as video) | 4/13/2021
+03/29/2024 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+03/29/2024 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+03/29/2024 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+03/29/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+03/27/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+03/27/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+03/27/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+03/27/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+03/27/2024 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 03/21/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 03/21/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 03/21/2024 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -104,7 +117,6 @@ Latest Date | Video / Audio | Debut++
 03/21/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
 03/21/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/16/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-03/16/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/16/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 03/16/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 03/16/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
@@ -156,18 +168,6 @@ Latest Date | Video / Audio | Debut++
 02/15/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 02/15/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 02/15/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-02/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-02/13/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-02/13/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-02/13/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-02/13/2024 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-02/10/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-02/10/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-02/10/2024 | Baki end whiteout / (same as video) | 4/13/2021
-02/10/2024 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-02/10/2024 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-02/10/2024 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-02/10/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 01/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 01/02/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 01/02/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
@@ -209,6 +209,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/29/2024 | VCR | Barbie Dance Club
 03/16/2024 | VCR | Threads v2 "Things that go Puff in the Dark" and "...Bean Wars"?!
 03/12/2024 | VCR | PJ Sparkles
 03/05/2024 | VCR | AV Mix - The Helicopter Line - New Zealand (feat. The Awesome Foursome, Kiwi Magic)
