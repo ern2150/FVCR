@@ -74,12 +74,12 @@ MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 18 (Sat)
-_90s_ | 2 | 7 (Tu)
-60s | 6 | 7 (Th)
-70s | 10 | 2 (Th)
-MM10s | 10 | 1 (Sat)
-MM00s | 9 | 0 (Th)
+60s | 6 | 9 (Th)
+_90s_ | 2 | 8 (Tu)
+70s | 10 | 4 (Th)
+MM10s | 10 | 2 (Sat)
+Other | 5 | 1 (Wed)
+MM00s | 9 | 0 (Fri)
 80s | 10 | 0 (Th)
 
 
