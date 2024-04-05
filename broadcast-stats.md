@@ -26,7 +26,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 |
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 68 | Endless Chain of Duels and Killings | 11/25/2023 | 6/27/2021 | 54
 MM16 | Today We Shall Kill Each Other | 11/25/2023 | 12/21/2021 | 52
-83 | I Don't Mind a Little Danger | 11/28/2023 | 06/12/2022 | 50
 MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
 76 | If I See Him, I'll Kill Him | 11/30/2023 | 11/21/2021 | 49
 MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
@@ -67,6 +66,7 @@ MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
   | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
 MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
+83 | I Don't Mind a Little Danger | 04/04/2024 | 06/12/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 17 (Sat)
-_90s_ | 2 | 6 (Tu)
-60s | 6 | 6 (Th)
-MM00s | 9 | 1 (Tu)
-70s | 10 | 1 (Th)
-MM10s | 10 | 0 (Sat)
+Other | 5 | 18 (Sat)
+_90s_ | 2 | 7 (Tu)
+60s | 6 | 7 (Th)
+70s | 10 | 2 (Th)
+MM10s | 10 | 1 (Sat)
+MM00s | 9 | 0 (Th)
 80s | 10 | 0 (Th)
 
 
