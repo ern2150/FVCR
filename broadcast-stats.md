@@ -95,8 +95,15 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/09/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+04/09/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+04/09/2024 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
+04/09/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+04/09/2024 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
+04/09/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+04/09/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+04/09/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/04/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-04/04/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/04/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 04/04/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 04/04/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
@@ -121,7 +128,6 @@ Latest Date | Video / Audio | Debut++
 03/21/2024 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 03/21/2024 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 03/21/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
-03/21/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/16/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 03/16/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 03/16/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
@@ -162,12 +168,6 @@ Latest Date | Video / Audio | Debut++
 02/22/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 02/22/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 02/22/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-02/20/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-02/20/2024 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
-02/20/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-02/20/2024 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
-02/20/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-02/20/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 01/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 01/02/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 01/02/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
