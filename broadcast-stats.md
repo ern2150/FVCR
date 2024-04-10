@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
-MM3 | Blood, Lust, and Intrigue | 11/02/2023 | 3/9/2021 | 54
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 | 66
 61 | I Must Make Sure You Fail | 11/16/2023  | 3/14/2021 | 53
@@ -67,6 +66,7 @@ MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
   | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
 MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
 83 | I Don't Mind a Little Danger | 04/04/2024 | 06/12/2022 | 50
+MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 9 (Th)
-_90s_ | 2 | 8 (Tu)
+_90s_ | 2 | 9 (Tu)
 70s | 10 | 4 (Th)
-MM10s | 10 | 2 (Sat)
+MM10s | 10 | 3 (Sat)
 Other | 5 | 1 (Wed)
-MM00s | 9 | 0 (Fri)
+MM00s | 9 | 0 (Tu)
 80s | 10 | 0 (Th)
 
 
