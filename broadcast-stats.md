@@ -209,6 +209,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/13/2024 | VCR | Briefings - Becoming a Leader
 04/09/2024 | VCR | "Lefton Promotions" lululululu luf ton
 04/04/2024 | VCR | VideoTrack Interactive Video Trainer: New England (becomes AV mix halfway thru)
 03/29/2024 | VCR | Barbie Dance Club
