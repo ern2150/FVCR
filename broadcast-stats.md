@@ -26,7 +26,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 |
 68 | Endless Chain of Duels and Killings | 11/25/2023 | 6/27/2021 | 54
 MM16 | Today We Shall Kill Each Other | 11/25/2023 | 12/21/2021 | 52
 MM18 | Fought Against All Evils | 11/28/2023  | 1/23/2022 | 51
-76 | If I See Him, I'll Kill Him | 11/30/2023 | 11/21/2021 | 49
 MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
 MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
 82 | Are You Looking for Death? | 12/19/2023 | 05/15/2022 | 50
@@ -67,6 +66,7 @@ MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
 MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
 83 | I Don't Mind a Little Danger | 04/04/2024 | 06/12/2022 | 50
 MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
+76 | If I See Him, I'll Kill Him | 04/13/2024 | 11/21/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 9 (Th)
 _90s_ | 2 | 9 (Tu)
-70s | 10 | 4 (Th)
-MM10s | 10 | 3 (Sat)
+MM10s | 10 | 4 (Sat)
 Other | 5 | 1 (Wed)
 MM00s | 9 | 0 (Tu)
+70s | 10 | 0 (Sat)
 80s | 10 | 0 (Th)
 
 
