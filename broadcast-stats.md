@@ -95,8 +95,15 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/25/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+04/25/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+04/25/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+04/25/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+04/25/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+04/25/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+04/25/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+04/25/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/22/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-04/22/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 04/22/2024 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 04/22/2024 | FMW Opener / FMW Closer | 12/6/2020
 04/22/2024 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -107,7 +114,6 @@ Latest Date | Video / Audio | Debut++
 04/22/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 04/22/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 04/22/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-04/22/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/13/2024 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/13/2024 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -162,12 +168,6 @@ Latest Date | Video / Audio | Debut++
 03/05/2024 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/05/2024 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 03/05/2024 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-02/25/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-02/25/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-02/25/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-02/25/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-02/25/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-02/25/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 01/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 01/02/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 01/02/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
