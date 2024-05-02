@@ -209,6 +209,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/01/2024 | VCR | (rejects Track Freaks) (instead, from Time-Life) Wedding Bloopers
+05/01/2024 | Cam | security camera box, toshiba vcr box, "Track Freaks" VHS cover
 04/24/2024 | VCR | (from Time-Life video) News Bloopers
 04/25/2024 | VCR | (preparation for summer 1989 promotional tape) St. Martin's Island Pelican Resort Timeshare 
 04/13/2024 | VCR | Briefings - Becoming a Leader
