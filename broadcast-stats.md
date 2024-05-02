@@ -24,7 +24,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 |
 61 | I Must Make Sure You Fail | 11/16/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
-MM17 | Ninja Challenge Card | 12/09/2023 | 1/2/2022 | 52
 82 | Are You Looking for Death? | 12/19/2023 | 05/15/2022 | 50
 MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
@@ -67,6 +66,7 @@ MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
 MM18 | Fought Against All Evils | 04/22/2024  | 1/23/2022 | 51
 MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
+MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 11 (Tu)
-Other | 5 | 3 (Wed)
-80s | 10 | 3 (Th)
-MM00s | 9 | 2 (Tu)
-70s | 10 | 1 (Sat)
+_90s_ | 2 | 12 (Tu)
+Other | 5 | 4 (Wed)
+80s | 10 | 4 (Th)
+MM00s | 9 | 3 (Tu)
+70s | 10 | 2 (Sat)
 60s | 6 | 0 (Th)
-MM10s | 10 | 0 (Mon)
+MM10s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
