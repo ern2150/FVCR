@@ -20,7 +20,6 @@ SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
-MM1 | Get Rich Regardless of the Means (End of 2019) | 11/14/2023 | 11/14/2019 | 66
 61 | I Must Make Sure You Fail | 11/16/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 MM2 | Why Are You Playing Heroes? | 12/05/2023 | 2/23/2021 | 64
@@ -67,20 +66,20 @@ MM18 | Fought Against All Evils | 04/22/2024  | 1/23/2022 | 51
 MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
-
+MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 | 66
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 12 (Tu)
-Other | 5 | 4 (Wed)
-80s | 10 | 4 (Th)
-MM00s | 9 | 3 (Tu)
-70s | 10 | 2 (Sat)
-60s | 6 | 0 (Th)
-MM10s | 10 | 0 (Wed)
+_90s_ | 2 | 13 (Tu)
+Other | 5 | 5 (Wed)
+80s | 10 | 5 (Th)
+70s | 10 | 3 (Sat)
+60s | 6 | 1 (Th)
+MM10s | 10 | 1 (Wed)
+MM00s | 9 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -95,12 +94,17 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+05/08/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/08/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+05/08/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+05/08/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+05/08/2024 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+05/08/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/01/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-05/02/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/01/2024 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 05/01/2024 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 05/01/2024 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-05/01/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/25/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 04/25/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 04/25/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
@@ -163,11 +167,6 @@ Latest Date | Video / Audio | Debut++
 03/12/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 03/12/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 03/12/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-03/07/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-03/07/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-03/07/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-03/07/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-03/07/2024 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 01/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 01/02/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 01/02/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
@@ -181,6 +180,8 @@ Latest Date | Video / Audio | Debut++
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+05/08/2024 | [new vcr eats Tigermask outro and refuses to do anything else]
+05/08/2024 | [𝙉𝙀𝙒 𝙑𝘾𝙍 𝙐𝙉𝘽𝙊𝙓𝙄𝙉𝙂 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
 03/21/2024 | encoder still being weird, improves after several stream restarts
 03/16/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
 03/16/2024 | intro interrupted by audio issues, resumes toward the end of fashion clip
@@ -209,6 +210,14 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/08/2024 | Cam | (after input button pushed reading manual) VHS cover back Tom Hanks face lol
+05/08/2024 | VCR(W528) | 0H00M33S > SLP.  Mazes and Monsters "pretty" cover plays to test A/V.
+05/08/2024 | null | (talking about rerouting outputs from W528)
+05/08/2024 | Cam | replacing input cords to capture box from base VCR, unplugs camera
+05/08/2024 | Cam | tv 003 shows Mazes and Monsters already in progress, displays HHMMSS. "does the remote work"? stream freezes
+05/08/2024 | Cam | W-528 hooked up via coax to tv 003.  VHS Covers: Life against Death, etc. but Mazes and Monsters is attempted first.
+05/08/2024 | Cam | VCR stack: old JVC, crappy "new" magnavox.  yeet magnavox, add W-528. Clock!
+05/08/2024 | Cam | Slatty.  Toshiba W-528 VCR box from estate sale.
 05/01/2024 | VCR | (rejects Track Freaks) (instead, from Time-Life) Wedding Bloopers
 05/01/2024 | Cam | security camera box, toshiba vcr box, "Track Freaks" VHS cover
 04/24/2024 | VCR | (from Time-Life video) News Bloopers
@@ -267,6 +276,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
+05/08/2024 | oh no
 05/01/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
