@@ -28,7 +28,6 @@ MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
 MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 77 | Ninja City | 01/02/2024 | 11/28/2021 | 49
-89 | Don't You Know the State I'm In? | 01/02/2024 | 07/02/2023 | 47
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
@@ -67,19 +66,20 @@ MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 | 66
+89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 13 (Tu)
-Other | 5 | 5 (Wed)
-80s | 10 | 5 (Th)
-70s | 10 | 3 (Sat)
-60s | 6 | 1 (Th)
-MM10s | 10 | 1 (Wed)
-MM00s | 9 | 0 (Wed)
+_90s_ | 2 | 14 (Tu)
+Other | 5 | 6 (Wed)
+70s | 10 | 4 (Sat)
+60s | 6 | 3 (Th)
+MM10s | 10 | 2 (Wed)
+MM00s | 9 | 1 (Wed)
+80s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/16/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+05/16/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+05/16/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+05/16/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+05/16/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+05/16/2024 | Knight of Justice Death Call / (same as video) | 5/6/2021
+05/16/2024 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+05/16/2024 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+05/16/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+05/16/2024 | SHIT FUCK / (same as video) | 5/4/2021
+05/16/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+05/16/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 05/08/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/08/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 05/08/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 05/08/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 05/08/2024 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-05/08/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/01/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 05/01/2024 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 05/01/2024 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -128,7 +139,6 @@ Latest Date | Video / Audio | Debut++
 04/13/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 04/13/2024 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 04/09/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-04/09/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/09/2024 | Hell Virgin vs Fingernail Lady / George Benson - Give Me the Night | 9/2/2021
 04/09/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 04/09/2024 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
@@ -167,19 +177,10 @@ Latest Date | Video / Audio | Debut++
 03/12/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 03/12/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 03/12/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-01/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-01/02/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-01/02/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-01/02/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-01/02/2024 | Knight of Justice Death Call / (same as video) | 5/6/2021
-01/02/2024 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-01/02/2024 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-01/02/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-01/02/2024 | SHIT FUCK / (same as video) | 5/4/2021
-01/02/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+05/16/2024 | [NEW VCR]
 05/08/2024 | [new vcr eats Tigermask outro and refuses to do anything else]
 05/08/2024 | [𝙉𝙀𝙒 𝙑𝘾𝙍 𝙐𝙉𝘽𝙊𝙓𝙄𝙉𝙂 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
 03/21/2024 | encoder still being weird, improves after several stream restarts
@@ -210,6 +211,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/16/2024 | VCR | Red Band FBI warning. Racing forum presents "Playing to Win" with Bob Neumeier.
+05/16/2024 | VCR | VCR Menu
 05/08/2024 | Cam | (after input button pushed reading manual) VHS cover back Tom Hanks face lol
 05/08/2024 | VCR(W528) | 0H00M33S > SLP.  Mazes and Monsters "pretty" cover plays to test A/V.
 05/08/2024 | null | (talking about rerouting outputs from W528)
@@ -276,8 +279,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-05/08/2024 | oh no
-05/01/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+05/16/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
