@@ -211,6 +211,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/23/2024 | VCR | Green FBI, DIC.  Hulk's Rock n Wrestling
 05/16/2024 | VCR | Red Band FBI warning. Racing forum presents "Playing to Win" with Bob Neumeier.
 05/16/2024 | VCR | VCR Menu
 05/08/2024 | Cam | (after input button pushed reading manual) VHS cover back Tom Hanks face lol
