@@ -94,6 +94,12 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/23/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+05/23/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/23/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+05/23/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+05/23/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+05/23/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/16/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 05/16/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 05/16/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -105,9 +111,7 @@ Latest Date | Video / Audio | Debut++
 05/16/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 05/16/2024 | SHIT FUCK / (same as video) | 5/4/2021
 05/16/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-05/16/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-05/08/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/08/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 05/08/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 05/08/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
@@ -173,10 +177,6 @@ Latest Date | Video / Audio | Debut++
 03/16/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 03/16/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 03/16/2024 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-03/12/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-03/12/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-03/12/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-03/12/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
