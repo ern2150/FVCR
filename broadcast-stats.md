@@ -24,7 +24,6 @@ MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
-MM15 | Don't Be Afraid of Me | 12/28/2023 | 12/05/2021 | 55
 77 | Ninja City | 01/02/2024 | 11/28/2021 | 49
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
@@ -67,6 +66,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 |
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
 82 | Are You Looking for Death? | 05/23/2024 | 05/15/2022 | 50
+MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,8 +77,8 @@ _90s_ | 2 | 15 (Tu)
 Other | 5 | 7 (Wed)
 70s | 10 | 5 (Sat)
 60s | 6 | 4 (Th)
-MM10s | 10 | 3 (Wed)
 MM00s | 9 | 0 (Th)
+MM10s | 10 | 0 (Sat)
 80s | 10 | 0 (Th)
 
 
