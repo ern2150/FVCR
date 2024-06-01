@@ -20,11 +20,9 @@ SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
-61 | I Must Make Sure You Fail | 11/16/2023  | 3/14/2021 | 53
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
-77 | Ninja City | 01/02/2024 | 11/28/2021 | 49
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
@@ -67,6 +65,8 @@ MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
 MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 90 | Every Different Way of Killing | 05/29/2024 | 07/23/2023 | 47
 91 | Reprieve from Chaos | 05/29/2024 | 02/03/2024 | 49
+61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
+77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 7 (Wed)
-70s | 10 | 5 (Sat)
-60s | 6 | 4 (Th)
+MM10s | 10 | 1 (Sat)
 _90s_ | 2 | 0 (Wed)
+60s | 6 | 0 (Sat)
 MM00s | 9 | 0 (Th)
-MM10s | 10 | 0 (Sat)
+70s | 10 | 0 (Sat)
 80s | 10 | 0 (Th)
 
 
