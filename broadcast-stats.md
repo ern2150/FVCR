@@ -21,7 +21,6 @@ SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
-MM12 | Evil Is Never Invincible | 12/19/2023 | 8/10/2021 | 58
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
@@ -67,6 +66,7 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 91 | Reprieve from Chaos | 05/29/2024 | 02/03/2024 | 49
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
 77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
+MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,9 +74,9 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 7 (Wed)
-MM10s | 10 | 1 (Sat)
-_90s_ | 2 | 0 (Wed)
+Other | 5 | 8 (Wed)
+_90s_ | 2 | 1 (Wed)
+MM10s | 10 | 0 (Wed)
 60s | 6 | 0 (Sat)
 MM00s | 9 | 0 (Th)
 70s | 10 | 0 (Sat)
@@ -95,8 +95,15 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/05/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
+06/05/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+06/05/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+06/05/2024 | Baki end whiteout / (same as video) | 4/13/2021
+06/05/2024 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+06/05/2024 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+06/05/2024 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+06/05/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 06/01/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-06/01/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 06/01/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 06/01/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 06/01/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
@@ -171,13 +178,6 @@ Latest Date | Video / Audio | Debut++
 04/04/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 04/04/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 04/04/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-03/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-03/29/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-03/29/2024 | Baki end whiteout / (same as video) | 4/13/2021
-03/29/2024 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-03/29/2024 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-03/29/2024 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-03/29/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
@@ -212,6 +212,10 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/05/2024 | DVD/PS3 | Black Belts Forever
+06/05/2024 | DVD/PS3 | Monsanto 2nd video audio is fine - Dueling Sitars
+06/05/2024 | PS3 | China IL ep testing audio
+06/05/2024 | DVD/PS3 | Monsanto Music Video DVD - Constant Changes (blown out audio)
 05/23/2024 | VCR | Green FBI, DIC.  Hulk's Rock n Wrestling
 05/16/2024 | VCR | Red Band FBI warning. Racing forum presents "Playing to Win" with Bob Neumeier.
 05/16/2024 | VCR | VCR Menu
@@ -281,7 +285,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-06/01/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+06/05/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
