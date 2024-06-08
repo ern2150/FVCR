@@ -34,7 +34,6 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 69 | SUMMERTIME | 02/01/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
-MM6 | It's Your Turn to Die | 02/10/2024 | 5/20/2021 | 73
 MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 86 | The Passion and Death of their Struggle | 02/15/2024 | 12/22/2022 | 43
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
@@ -67,6 +66,7 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
 77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
+MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +75,12 @@ MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 8 (Wed)
+80s | 10 | 2 (Th)
 _90s_ | 2 | 1 (Wed)
 MM10s | 10 | 0 (Wed)
 60s | 6 | 0 (Sat)
-MM00s | 9 | 0 (Th)
+MM00s | 9 | 0 (Sat)
 70s | 10 | 0 (Sat)
-80s | 10 | 0 (Th)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -95,6 +95,13 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+06/08/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+06/08/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+06/08/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+06/08/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+06/08/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+06/08/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/05/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 06/05/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 06/05/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
@@ -108,7 +115,6 @@ Latest Date | Video / Audio | Debut++
 06/01/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 06/01/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 06/01/2024 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-06/01/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 05/29/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 05/29/2024 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -126,7 +132,6 @@ Latest Date | Video / Audio | Debut++
 05/23/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 05/23/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 05/16/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-05/16/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 05/16/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 05/16/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 05/16/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -173,11 +178,6 @@ Latest Date | Video / Audio | Debut++
 04/09/2024 | Motorbike v Car v Barrels / Dabeull - Special to Me | 8/8/2021
 04/09/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 04/09/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-04/04/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-04/04/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-04/04/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-04/04/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-04/04/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
@@ -285,7 +285,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-06/05/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+06/08/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
