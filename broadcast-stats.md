@@ -74,13 +74,13 @@ MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 8 (Wed)
-80s | 10 | 2 (Th)
-_90s_ | 2 | 1 (Wed)
-MM10s | 10 | 0 (Wed)
+Other | 5 | 9 (Wed)
+_90s_ | 2 | 2 (Wed)
+MM00s | 9 | 1 (Wed)
+MM10s | 10 | 1 (Wed)
+70s | 10 | 1 (Sat)
 60s | 6 | 0 (Sat)
-MM00s | 9 | 0 (Sat)
-70s | 10 | 0 (Sat)
+80s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -212,6 +212,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/12/2024 | VCR | AAL presents: Together Forever
 06/05/2024 | DVD/PS3 | Black Belts Forever
 06/05/2024 | DVD/PS3 | Monsanto 2nd video audio is fine - Dueling Sitars
 06/05/2024 | PS3 | China IL ep testing audio
