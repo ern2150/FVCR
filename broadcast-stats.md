@@ -25,7 +25,6 @@ MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 01/09/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
-80 | Pass Through All Hard Times | 01/13/2024 | 02/20/2022 | 46
 81 | One Hell of a Nobody | 01/13/2024 | 03/27/2022 | 53
 72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
@@ -67,6 +66,7 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
+80 | Pass Through All Hard Times | 06/12/2024 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
