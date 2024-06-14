@@ -212,6 +212,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/13/2024 | VCR | JUGGLEBUG: JUGGLERCISE
 06/12/2024 | VCR | AAL presents: Together Forever
 06/05/2024 | DVD/PS3 | Black Belts Forever
 06/05/2024 | DVD/PS3 | Monsanto 2nd video audio is fine - Dueling Sitars
