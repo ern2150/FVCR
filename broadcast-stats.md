@@ -76,11 +76,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 9 (Wed)
 _90s_ | 2 | 2 (Wed)
-MM00s | 9 | 1 (Wed)
 MM10s | 10 | 1 (Wed)
 70s | 10 | 1 (Sat)
-60s | 6 | 0 (Sat)
+60s | 6 | 1 (Sat)
 80s | 10 | 0 (Wed)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -95,6 +95,13 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
+06/13/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+06/13/2024 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+06/13/2024 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
+06/13/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+06/13/2024 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+06/13/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/12/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 06/12/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 06/12/2024 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -102,14 +109,12 @@ Latest Date | Video / Audio | Debut++
 06/12/2024 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 06/12/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 06/12/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-06/12/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 06/08/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 06/08/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 06/08/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 06/08/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 06/05/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-06/05/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 06/05/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 06/05/2024 | Baki end whiteout / (same as video) | 4/13/2021
 06/05/2024 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
@@ -173,11 +178,6 @@ Latest Date | Video / Audio | Debut++
 04/22/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 04/22/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 04/22/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-04/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-04/13/2024 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-04/13/2024 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
-04/13/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-04/13/2024 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 10/05/2023 | --
 10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
