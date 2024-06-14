@@ -34,7 +34,6 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
-86 | The Passion and Death of their Struggle | 02/15/2024 | 12/22/2022 | 43
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
 87 | Win without Failing | 02/20/2024 | 02/12/2023 | 46
 MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
@@ -67,6 +66,7 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 06/12/2024 | 02/20/2022 | 46
+86 | The Passion and Death of their Struggle | 06/13/2024 | 12/22/2022 | 43
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,7 +79,7 @@ _90s_ | 2 | 2 (Wed)
 MM10s | 10 | 1 (Wed)
 70s | 10 | 1 (Sat)
 60s | 6 | 1 (Sat)
-80s | 10 | 0 (Wed)
+80s | 10 | 0 (Th)
 MM00s | 9 | 0 (Sat)
 
 
