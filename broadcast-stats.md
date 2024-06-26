@@ -27,7 +27,6 @@ MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 81 | One Hell of a Nobody | 01/13/2024 | 03/27/2022 | 53
 72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
-73 | The Whirlpool of Battle | 01/25/2024 | 9/21/2021 | 62
 66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
 69 | SUMMERTIME | 02/01/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
@@ -67,6 +66,7 @@ MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 06/12/2024 | 02/20/2022 | 46
 86 | The Passion and Death of their Struggle | 06/13/2024 | 12/22/2022 | 43
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
+73 | The Whirlpool of Battle | 06/24/2024 (interrupted by power outage) | 9/21/2021 | 62
 
 
 "Decades" by Weeks Since Seen, descending
