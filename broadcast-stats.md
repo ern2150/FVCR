@@ -66,7 +66,7 @@ MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 06/12/2024 | 02/20/2022 | 46
 86 | The Passion and Death of their Struggle | 06/13/2024 | 12/22/2022 | 43
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
-73 | The Whirlpool of Battle | 06/24/2024 (interrupted by power outage) | 9/21/2021 | 62
+73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,11 +76,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 9 (Wed)
 _90s_ | 2 | 2 (Wed)
-70s | 10 | 2 (Sat)
-60s | 6 | 2 (Sat)
-MM00s | 9 | 1 (Sat)
-80s | 10 | 0 (Th)
-MM10s | 10 | 0 (Tu)
+60s | 6 | 3 (Sat)
+MM00s | 9 | 2 (Sat)
+80s | 10 | 1 (Th)
+MM10s | 10 | 1 (Tu)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
