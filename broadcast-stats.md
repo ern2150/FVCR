@@ -24,7 +24,6 @@ MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
 70 | Take the Fight to the Enemy | 01/09/2024 | 7/11/2021 | 54
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
-81 | One Hell of a Nobody | 01/13/2024 | 03/27/2022 | 53
 72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
@@ -33,7 +32,6 @@ MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
-87 | Win without Failing | 02/20/2024 | 02/12/2023 | 46
 MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
 75 | Never Show Emotion | 03/07/2024 | 11/07/2021 | 48
@@ -67,6 +65,8 @@ MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 86 | The Passion and Death of their Struggle | 06/13/2024 | 12/22/2022 | 43
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
+87 | Win without Failing | 06/29/2024 | 02/12/2023 | 46
+81 | One Hell of a Nobody | 06/29/2024 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 9 (Wed)
-_90s_ | 2 | 2 (Wed)
-60s | 6 | 3 (Sat)
-MM00s | 9 | 2 (Sat)
-80s | 10 | 1 (Th)
+Other | 5 | 10 (Wed)
+_90s_ | 2 | 3 (Wed)
+60s | 6 | 4 (Sat)
+MM00s | 9 | 3 (Sat)
 MM10s | 10 | 1 (Tu)
+80s | 10 | 0 (Sat)
 70s | 10 | 0 (Tu)
 
 
