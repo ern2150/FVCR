@@ -27,7 +27,6 @@ MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
-69 | SUMMERTIME | 02/01/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 02/03/2024 | 10/16/2022 | 51
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
@@ -67,6 +66,7 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
 87 | Win without Failing | 06/29/2024 | 02/12/2023 | 46
 81 | One Hell of a Nobody | 06/29/2024 | 03/27/2022 | 53
+69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 10 (Wed)
-_90s_ | 2 | 3 (Wed)
-60s | 6 | 4 (Sat)
-MM00s | 9 | 3 (Sat)
-MM10s | 10 | 1 (Tu)
-80s | 10 | 0 (Sat)
-70s | 10 | 0 (Tu)
+Other | 5 | 11 (Wed)
+_90s_ | 2 | 4 (Wed)
+MM00s | 9 | 4 (Sat)
+MM10s | 10 | 2 (Tu)
+80s | 10 | 1 (Sat)
+70s | 10 | 1 (Tu)
+60s | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
