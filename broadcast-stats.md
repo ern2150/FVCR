@@ -212,7 +212,9 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
-07/11/2024 | VCR | Basics of Inline Skating
+07/18/2024 | VCR | Rollerblade: InLineInLife!
+07/18/2024 | VCR | "Wonder of You"
+07/11/2024 | VCR | Rollerblade: Basics of Inline Skating
 07/11/2024 | VCR | Word Lifeware.  Orel Hershiser on Excellence (and ... Jesus?)
 06/18/2024 | VCR | (encore of) DOGGIE ADVENTURE 
 06/18/2024 | VCR | JOKE POKE - Humor Enhances Health
