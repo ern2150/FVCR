@@ -20,7 +20,6 @@ SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
-67 | Together We Will Smash Them | 11/21/2023 | 6/20/2021 | 53
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
 64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
 72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
@@ -67,7 +66,7 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 07/11/2024 | 10/16/2022 | 51
 70 | Take the Fight to the Enemy | 07/18/2024 | 7/11/2021 | 54
-
+67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,10 +75,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 13 (Wed)
 _90s_ | 2 | 7 (Wed)
-MM00s | 9 | 5 (Sat)
+MM00s | 9 | 6 (Sat)
 MM10s | 10 | 4 (Tu)
-60s | 6 | 1 (Sat)
 80s | 10 | 1 (Th)
+60s | 6 | 0 (Sat)
 70s | 10 | 0 (Th)
 
 
