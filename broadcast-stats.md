@@ -30,11 +30,9 @@ MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
 MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
-75 | Never Show Emotion | 03/07/2024 | 11/07/2021 | 48
 78 | All for Revenge | 03/07/2024 | 1/9/2022 | 50
 MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
 MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
-85 | The Power You Are Seeking | 03/21/2024 | 11/13/2022 | 45
 88 | Under Attack in Hong Kong | 03/21/2024 | 06/18/2023 | 45
   | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
@@ -67,6 +65,8 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 84 | Poor Doomed Humans | 07/11/2024 | 10/16/2022 | 51
 70 | Take the Fight to the Enemy | 07/18/2024 | 7/11/2021 | 54
 67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
+75 | Never Show Emotion | 07/24/2024 | 11/07/2021 | 48
+85 | The Power You Are Seeking | 07/24/2024 | 11/13/2022 | 45
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 Other | 5 | 13 (Wed)
 _90s_ | 2 | 7 (Wed)
 MM00s | 9 | 6 (Sat)
-MM10s | 10 | 4 (Tu)
-80s | 10 | 1 (Th)
+MM10s | 10 | 5 (Tu)
 60s | 6 | 0 (Sat)
-70s | 10 | 0 (Th)
+70s | 10 | 0 (Wed)
+80s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
