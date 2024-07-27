@@ -211,6 +211,15 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/26/2024 | VCR | ActionMax: Hydrosub 2021
+07/26/2024 | VCR | Off-air recording: lighter side of the news... Inappropriate gifts!
+07/26/2024 | VCR | Off-air recording: Garth Brooks special
+07/26/2024 | VCR | 20080916 - wallmart ... tv? like for employees?
+07/26/2024 | VCR | ActionMax: Rescue of Pops Ghostly
+07/26/2024 | VCR | In-Store loop tape for The Disney Store
+07/26/2024 | VCR | ActionMax: .38 Ambush Alley (came first in poll)
+07/26/2024 | VCR | Styles on Video - personalized hair superimposing!  Thanks Debbie.
+07/26/2024 | VCR | Off-air recording: Security footage from convenience store with blasted audio
 07/18/2024 | VCR | Rollerblade: InLineInLife!
 07/18/2024 | VCR | "Wonder of You"
 07/11/2024 | VCR | Rollerblade: Basics of Inline Skating
