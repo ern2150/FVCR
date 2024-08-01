@@ -21,8 +21,6 @@ SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
-64 | Hold You Close and Feel Things | 01/11/2024 | 4/18/2021 | 58
-72 | Who Is the Champion Now? | 01/18/2024 | 9/7/2021 | 53
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
@@ -67,19 +65,21 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
 75 | Never Show Emotion | 07/24/2024 | 11/07/2021 | 48
 85 | The Power You Are Seeking | 07/24/2024 | 11/13/2022 | 45
+72 | Who Is the Champion Now? | 07/31/2024 | 9/7/2021 | 53
+64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 13 (Wed)
-_90s_ | 2 | 7 (Wed)
-MM00s | 9 | 6 (Sat)
-MM10s | 10 | 5 (Tu)
-60s | 6 | 0 (Sat)
+Other | 5 | 14 (Wed)
+_90s_ | 2 | 8 (Wed)
+MM00s | 9 | 7 (Sat)
+MM10s | 10 | 6 (Tu)
+80s | 10 | 1 (Wed)
+60s | 6 | 0 (Wed)
 70s | 10 | 0 (Wed)
-80s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
