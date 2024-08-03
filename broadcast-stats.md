@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
-SMS1 | Saturday Morning Simulator | 10/05/2023 | 09/30/2023 | 117
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
@@ -67,17 +66,18 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 85 | The Power You Are Seeking | 07/24/2024 | 11/13/2022 | 45
 72 | Who Is the Champion Now? | 07/31/2024 | 9/7/2021 | 53
 64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
+SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 14 (Wed)
 _90s_ | 2 | 8 (Wed)
-MM00s | 9 | 7 (Sat)
+MM00s | 9 | 8 (Sat)
 MM10s | 10 | 6 (Tu)
 80s | 10 | 1 (Wed)
+Other | 5 | 0 (Sat)
 60s | 6 | 0 (Wed)
 70s | 10 | 0 (Wed)
 
@@ -94,13 +94,15 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/03/2024 | --
+08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
+08/03/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/31/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 07/31/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 07/31/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 07/31/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 07/31/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 07/31/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-07/31/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/26/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 07/26/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/26/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
@@ -177,8 +179,6 @@ Latest Date | Video / Audio | Debut++
 06/05/2024 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 06/05/2024 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 06/05/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-10/05/2023 | --
-10/05/2023 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
 05/16/2024 | [NEW VCR]
 05/08/2024 | [new vcr eats Tigermask outro and refuses to do anything else]
