@@ -211,6 +211,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/14/2024 | VCR | (educational) Star Scouts: Discover NASA: Gateways to Space 
+08/14/2024 | VCR | Videogroove Vol 11: California Dreamin
 07/26/2024 | VCR | ActionMax: Hydrosub 2021
 07/26/2024 | VCR | Off-air recording: lighter side of the news... Inappropriate gifts!
 07/26/2024 | VCR | Off-air recording: Garth Brooks special
