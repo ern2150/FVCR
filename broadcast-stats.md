@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
 MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
-66 | Do You Really Have the Confidence? | 01/30/2024 | 5/23/2021 | 56
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
@@ -67,19 +66,20 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 72 | Who Is the Champion Now? | 07/31/2024 | 9/7/2021 | 53
 64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
+66 | Do You Really Have the Confidence? | 08/21/2024 | 5/23/2021 | 56
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 8 (Wed)
-MM00s | 9 | 8 (Sat)
-MM10s | 10 | 6 (Tu)
-80s | 10 | 1 (Wed)
-Other | 5 | 0 (Sat)
+_90s_ | 2 | 10 (Wed)
+MM00s | 9 | 10 (Sat)
+MM10s | 10 | 8 (Tu)
+80s | 10 | 3 (Wed)
+Other | 5 | 2 (Sat)
+70s | 10 | 2 (Wed)
 60s | 6 | 0 (Wed)
-70s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
