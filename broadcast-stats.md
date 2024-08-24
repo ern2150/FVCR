@@ -211,6 +211,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/23/2024 | VCR | COLD STEEL
 08/21/2024 | VCR | (educational, 1992) Penn and Teller BeHind the Scenes 
 08/14/2024 | VCR | (educational) Star Scouts: Discover NASA: Gateways to Space 
 08/14/2024 | VCR | Videogroove Vol 11: California Dreamin
