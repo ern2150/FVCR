@@ -26,7 +26,6 @@ MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
 MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
-78 | All for Revenge | 03/07/2024 | 1/9/2022 | 50
 MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
 MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
 88 | Under Attack in Hong Kong | 03/21/2024 | 06/18/2023 | 45
@@ -67,19 +66,21 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 66 | Do You Really Have the Confidence? | 08/21/2024 | 5/23/2021 | 56
+78 | All for Revenge [interrupted...] | 08/28/2024 | 1/9/2022 | 50
+
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 10 (Wed)
-MM00s | 9 | 10 (Sat)
-MM10s | 10 | 8 (Tu)
-80s | 10 | 3 (Wed)
-Other | 5 | 2 (Sat)
-70s | 10 | 2 (Wed)
-60s | 6 | 0 (Wed)
+_90s_ | 2 | 14 (Wed)
+MM00s | 9 | 12 (Sat)
+MM10s | 10 | 10 (Tu)
+80s | 10 | 5 (Wed)
+Other | 5 | 3 (Sat)
+60s | 6 | 1 (Wed)
+70s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -180,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 06/18/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 06/18/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 -- | -- | --
+08/28/2024 | "LOCK" (mixtape 78 interrupted...)
 05/16/2024 | [NEW VCR]
 05/08/2024 | [new vcr eats Tigermask outro and refuses to do anything else]
 05/08/2024 | [𝙉𝙀𝙒 𝙑𝘾𝙍 𝙐𝙉𝘽𝙊𝙓𝙄𝙉𝙂 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
