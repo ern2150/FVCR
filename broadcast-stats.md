@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
-MM8 | The Sword of Catastrophe | 01/23/2024 | 6/15/2021 | 58
 79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
 MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
@@ -28,7 +27,6 @@ MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
 MM4 | I'm Glad to See You're Prepared to Die | 03/12/2024 | 4/4/2021 | 50
 MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
-88 | Under Attack in Hong Kong | 03/21/2024 | 06/18/2023 | 45
   | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
 MM5 | Danger Straight Ahead | 03/29/2024 | 4/4/2021 | 57
@@ -67,6 +65,8 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 66 | Do You Really Have the Confidence? | 08/21/2024 | 5/23/2021 | 56
 78 | All for Revenge [interrupted...] | 08/28/2024 | 1/9/2022 | 50
+MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
+88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +75,12 @@ SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 14 (Wed)
-MM00s | 9 | 12 (Sat)
 MM10s | 10 | 10 (Tu)
-80s | 10 | 5 (Wed)
-Other | 5 | 3 (Sat)
+Other | 5 | 4 (Sat)
 60s | 6 | 1 (Wed)
+MM00s | 9 | 0 (Sat)
 70s | 10 | 0 (Wed)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -181,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 06/29/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 06/29/2024 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 -- | -- | --
+08/31/2024 | ...butt(on) dialed the VCR
 08/28/2024 | "LOCK" (mixtape 78 interrupted...)
 05/16/2024 | [NEW VCR]
 05/08/2024 | [new vcr eats Tigermask outro and refuses to do anything else]
