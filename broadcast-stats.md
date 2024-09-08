@@ -20,8 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 71 | I Don't Belong Here | 12/28/2023 | 8/1/2021 | 54
-79 | A Frightening Experience | 02/06/2024 | 1/16/2022 | 57
-MM11 | I Can Stand the Pain | 02/13/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 02/15/2024 | 6/6/2021 | 58
 MM19 | Ghost Shadow Squad | 02/22/2024 | 02/06/2022 | 55
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
@@ -67,6 +65,8 @@ SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 78 | All for Revenge [interrupted...] | 08/28/2024 | 1/9/2022 | 50
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
+79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
+MM11 | I Can Stand the Pain | 09/07/2024 | 7/27/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 14 (Wed)
-MM10s | 10 | 10 (Tu)
-Other | 5 | 4 (Sat)
-60s | 6 | 1 (Wed)
-MM00s | 9 | 0 (Sat)
-70s | 10 | 0 (Wed)
-80s | 10 | 0 (Sat)
+_90s_ | 2 | 15 (Wed)
+Other | 5 | 5 (Sat)
+60s | 6 | 2 (Wed)
+MM00s | 9 | 1 (Sat)
+80s | 10 | 1 (Sat)
+70s | 10 | 0 (Sat)
+MM10s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -214,6 +214,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+09/07/2024 | VCR | Kiteboarding: How to Rip
 08/28/2024 | VCR | I LOVE TOY TRAINS 5 AV MIX
 08/23/2024 | VCR | COLD STEEL
 08/21/2024 | VCR | (educational, 1992) Penn and Teller BeHind the Scenes 
