@@ -181,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 06/29/2024 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 06/29/2024 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 -- | -- | --
+09/14/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 08/31/2024 | ...butt(on) dialed the VCR
 08/28/2024 | "LOCK" (mixtape 78 interrupted...)
 05/16/2024 | [NEW VCR]
@@ -214,6 +215,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+09/14/2024 | VCR | [(Job Title) Dave / Becky present the "There goes a (Vehicle)" series promo] , [Real Animals series promo] "i wish a were a ..." (tape dies)
+09/14/2024 | VCR | [Razor & Tie Direct disclaimer] Geo's Dance Party
 09/07/2024 | VCR | Kiteboarding: How to Rip
 08/28/2024 | VCR | I LOVE TOY TRAINS 5 AV MIX
 08/23/2024 | VCR | COLD STEEL
