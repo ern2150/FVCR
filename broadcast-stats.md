@@ -95,14 +95,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/18/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+09/18/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+09/18/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+09/18/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+09/18/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+09/18/2024 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+09/18/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/14/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-09/14/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/14/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 09/14/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 09/14/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 09/14/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 09/14/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-09/14/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/07/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 09/07/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 09/07/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -166,11 +171,6 @@ Latest Date | Video / Audio | Debut++
 07/24/2024 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 07/24/2024 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 07/24/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
-07/20/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-07/20/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-07/20/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-07/20/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-07/20/2024 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 07/11/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 07/11/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/11/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
