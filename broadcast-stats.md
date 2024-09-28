@@ -216,6 +216,10 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+09/27/2024 | VCR | Doug Henning's World of Magic VI [off air tape 👀] 
+09/27/2024 | VCR | John-Ring and Cards [VCR says "BYE", recovers]
+09/27/2024 | VCR | Steve Fearson's Original Floating Cigarette Routine (all 100 seconds of it)
+09/27/2024 | VCR | [bought VCR game based on Newsreel riffs purchased, but contained magic-related tapes instead]
 09/14/2024 | VCR | [(Job Title) Dave / Becky present the "There goes a (Vehicle)" series promo] , [Real Animals series promo] "i wish a were a ..." (tape dies)
 09/14/2024 | VCR | [Razor & Tie Direct disclaimer] Geo's Dance Party
 09/07/2024 | VCR | Kiteboarding: How to Rip
