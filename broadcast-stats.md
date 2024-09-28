@@ -24,7 +24,6 @@ MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
   | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
-76 | If I See Him, I'll Kill Him | 04/13/2024 | 11/21/2021 | 49
 MM18 | Fought Against All Evils | 04/22/2024  | 1/23/2022 | 51
 MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
@@ -67,6 +66,7 @@ MM4 | I'm Glad to See You're Prepared to Die | 09/21/2024 | 4/4/2021 | 50
 MM19 | Ghost Shadow Squad | 09/21/2024 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 83 | I Don't Mind a Little Danger | 09/25/2024 | 06/12/2022 | 50
+76 | If I See Him, I'll Kill Him | 09/25/2024 | 11/21/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,10 +77,10 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 2 | 18 (Wed)
 Other | 5 | 7 (Sat)
 60s | 6 | 5 (Wed)
-70s | 10 | 1 (Wed)
 MM10s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Wed)
 80s | 10 | 0 (Wed)
+70s | 10 | 0 (Fri)
 
 
 Mixtapes with Updates (by Last Changed) 
