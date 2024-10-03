@@ -20,11 +20,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
-MM10 | The Splatter and Gore Department | 03/16/2024 | 7/15/2021 | 59
   | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
-MM18 | Fought Against All Evils | 04/22/2024  | 1/23/2022 | 51
 MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
@@ -66,7 +64,9 @@ MM4 | I'm Glad to See You're Prepared to Die | 09/21/2024 | 4/4/2021 | 50
 MM19 | Ghost Shadow Squad | 09/21/2024 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 83 | I Don't Mind a Little Danger | 09/25/2024 | 06/12/2022 | 50
-76 | If I See Him, I'll Kill Him | 09/25/2024 | 11/21/2021 | 49
+76 | If I See Him, I'll Kill Him | 09/27/2024 | 11/21/2021 | 49
+MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
+MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 18 (Wed)
-Other | 5 | 7 (Sat)
-60s | 6 | 5 (Wed)
-MM10s | 10 | 0 (Sat)
-MM00s | 9 | 0 (Wed)
-80s | 10 | 0 (Wed)
+_90s_ | 2 | 19 (Wed)
+Other | 5 | 8 (Sat)
+60s | 6 | 6 (Wed)
+MM00s | 9 | 1 (Wed)
+80s | 10 | 1 (Wed)
 70s | 10 | 0 (Fri)
+MM10s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
