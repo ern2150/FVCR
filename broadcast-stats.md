@@ -95,12 +95,17 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+10/02/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+10/02/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+10/02/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+10/02/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+10/02/2024 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+10/02/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/27/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-09/27/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/27/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 09/27/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 09/27/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-09/27/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/25/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 09/25/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 09/25/2024 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -175,11 +180,6 @@ Latest Date | Video / Audio | Debut++
 07/31/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 07/31/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 07/31/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-07/26/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-07/26/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-07/26/2024 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-07/26/2024 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-07/26/2024 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 -- | -- | --
 09/27/2024 | new VCR says "BYE" to intro tape lol, eventually works
 09/14/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
