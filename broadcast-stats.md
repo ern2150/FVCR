@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
-74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/14/2023 | 10/10/2021 | 52
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
   | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
@@ -67,6 +66,7 @@ MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 76 | If I See Him, I'll Kill Him | 09/27/2024 | 11/21/2021 | 49
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
 MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +75,12 @@ MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 19 (Wed)
-Other | 5 | 8 (Sat)
+Other | 5 | 9 (Sat)
 60s | 6 | 6 (Wed)
 MM00s | 9 | 1 (Wed)
 80s | 10 | 1 (Wed)
-70s | 10 | 0 (Fri)
 MM10s | 10 | 0 (Wed)
+70s | 10 | 0 (Tu)
 
 
 Mixtapes with Updates (by Last Changed) 
