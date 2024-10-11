@@ -19,8 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
-  | Evil Is Excusable 2021 Halloween Vol 1 | 03/27/2024 | 10/3/2021 | 45
-  | Devil Mountain 2021 Halloween Vol 3 | 03/27/2024 | 10/17/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
 MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
@@ -67,6 +65,8 @@ MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
 MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
+  | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 19 (Wed)
-Other | 5 | 9 (Sat)
-60s | 6 | 6 (Wed)
-MM00s | 9 | 1 (Wed)
-80s | 10 | 1 (Wed)
-MM10s | 10 | 0 (Wed)
+_90s_ | 2 | 20 (Wed)
+60s | 6 | 7 (Wed)
+MM00s | 9 | 2 (Wed)
+80s | 10 | 2 (Wed)
+MM10s | 10 | 1 (Wed)
 70s | 10 | 0 (Tu)
+Other | 5 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -95,13 +95,13 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/10/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/08/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 10/08/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/08/2024 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 10/08/2024 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 10/08/2024 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 10/08/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-10/08/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/02/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 10/02/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/02/2024 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
@@ -319,7 +319,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-10/08/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+10/10/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
