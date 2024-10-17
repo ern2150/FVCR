@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/12/2023 (buzz)| 10/11/2020 | 60
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
-MM3 | Blood, Lust, and Intrigue | 04/09/2024 | 3/9/2021 | 54
 MM16 | Today We Shall Kill Each Other | 04/22/2024 | 12/21/2021 | 52
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
@@ -67,6 +66,7 @@ MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
+MM3 | Blood, Lust, and Intrigue | 10/15/2024 | 3/9/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,11 +76,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 20 (Wed)
 60s | 6 | 7 (Wed)
-MM00s | 9 | 2 (Wed)
 80s | 10 | 2 (Wed)
 MM10s | 10 | 1 (Wed)
-70s | 10 | 0 (Tu)
+70s | 10 | 1 (Tue)
 Other | 5 | 0 (Thu)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
