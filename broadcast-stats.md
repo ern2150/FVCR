@@ -216,6 +216,9 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+10/24/2024 | VCR | Dirty Tennis [with Larry Bud Melman Couch Potato workout preview at end]
+10/24/2024 | VCR | Mega-man clamshell tape, all the trailers ever, and then ep 1 (save other eps for later)
+10/24/2024 | VCR | [Commercials during "The Big Fisherman" on STL channel 11] 
 10/08/2024 | VCR | [Halloween themed tapes] fhe's Bobby Goldsboro's LUMPKIN THE PUMPKIN
 09/27/2024 | VCR | Doug Henning's World of Magic VI [off air tape 👀] 
 09/27/2024 | VCR | John-Ring and Cards [VCR says "BYE", recovers]
