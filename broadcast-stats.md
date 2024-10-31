@@ -23,9 +23,7 @@ MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 | 66
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
-82 | Are You Looking for Death? | 05/23/2024 | 05/15/2022 | 50
 MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
-90 | Every Different Way of Killing | 05/29/2024 | 07/23/2023 | 47
 91 | Reprieve from Chaos | 05/29/2024 | 02/03/2024 | 49
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
 77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
@@ -67,6 +65,8 @@ MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 MM3 | Blood, Lust, and Intrigue | 10/15/2024 | 3/9/2021 | 54
 MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
+90 | Every Different Way of Killing | 10/30/2024 | 07/23/2023 | 47
+82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 21 (Wed)
-60s | 6 | 9 (Wed)
-80s | 10 | 3 (Wed)
-70s | 10 | 2 (Tue)
-MM00s | 9 | 1 (Tue)
+60s | 6 | 10 (Wed)
+70s | 10 | 3 (Tue)
+MM00s | 9 | 2 (Tue)
 Other | 5 | 0 (Sat)
 MM10s | 10 | 0 (Sat)
+_90s_ | 2 | 0 (Wed)
+80s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -181,6 +181,7 @@ Latest Date | Video / Audio | Debut++
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+10/30/2024 | [𝘿𝙀𝙑𝙄𝙇'𝙎 𝙉𝙄𝙂𝙃𝙏 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 𝙎𝙏𝙍𝙀𝘼𝙈]
 09/27/2024 | new VCR says "BYE" to intro tape lol, eventually works
 09/14/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
 08/31/2024 | ...butt(on) dialed the VCR
