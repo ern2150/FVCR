@@ -24,7 +24,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 |
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
 MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
-91 | Reprieve from Chaos | 05/29/2024 | 02/03/2024 | 49
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
 77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
@@ -67,6 +66,7 @@ MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 90 | Every Different Way of Killing | 10/30/2024 | 07/23/2023 | 47
 82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
+91 | Reprieve from Chaos | 11/09/2024 | 02/03/2024 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -218,6 +218,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/09/2024 | VCR | ESCAPE with Herb Johnson
+11/09/2024 | VCR | (shoutout to Circa Records, VCR BYEs the first tape lol, mixtape in the meantime)
 10/24/2024 | VCR | Dirty Tennis [with Larry Bud Melman Couch Potato workout preview at end]
 10/24/2024 | VCR | Mega-man clamshell tape, all the trailers ever, and then ep 1 (save other eps for later)
 10/24/2024 | VCR | [Commercials during "The Big Fisherman" on STL channel 11] 
@@ -324,7 +326,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-10/30/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+11/09/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
