@@ -218,6 +218,10 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/13/2024 | VCR | Murphy's Laws of GOLF
+11/13/2024 | VCR | (rewinds to Last Chance Detectives ad)
+11/13/2024 | VCR | [Last Chance Detectives ad preceding] McGee n Me: Skate Expectations
+11/13/2024 | VCR | Failed "Gooben" tape, turns out it's just church
 11/09/2024 | VCR | ESCAPE with Herb Johnson
 11/09/2024 | VCR | (shoutout to Circa Records, VCR BYEs the first tape lol, mixtape in the meantime)
 10/24/2024 | VCR | Dirty Tennis [with Larry Bud Melman Couch Potato workout preview at end]
