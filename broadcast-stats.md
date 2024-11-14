@@ -95,6 +95,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+11/13/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/13/2024 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+11/13/2024 | FMW Opener / FMW Closer | 12/6/2020
+11/13/2024 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+11/13/2024 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+11/13/2024 | Wheres Da Schtuff / Original Audio | 11/28/2021
+11/13/2024 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+11/13/2024 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+11/13/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+11/13/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+11/13/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+11/13/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/09/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 11/09/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 11/09/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -106,9 +119,7 @@ Latest Date | Video / Audio | Debut++
 11/09/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 11/09/2024 | SHIT FUCK / (same as video) | 5/4/2021
 11/09/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-11/09/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/30/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-10/30/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/30/2024 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 10/30/2024 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 10/30/2024 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
@@ -167,17 +178,6 @@ Latest Date | Video / Audio | Debut++
 09/14/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 09/14/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 09/14/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-08/31/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-08/31/2024 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-08/31/2024 | FMW Opener / FMW Closer | 12/6/2020
-08/31/2024 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-08/31/2024 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-08/31/2024 | Wheres Da Schtuff / Original Audio | 11/28/2021
-08/31/2024 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-08/31/2024 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-08/31/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-08/31/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-08/31/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
