@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
-MM13 | Keep on Winning | 03/05/2024 | 8/22/2021 | 56
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 | 66
@@ -67,6 +66,7 @@ MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 90 | Every Different Way of Killing | 10/30/2024 | 07/23/2023 | 47
 82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
 91 | Reprieve from Chaos | 11/09/2024 | 02/03/2024 | 49
+MM13 | Keep on Winning | 11/13/2024 | 8/22/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,13 +74,13 @@ MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 10 (Wed)
-70s | 10 | 3 (Tue)
-MM00s | 9 | 2 (Tue)
-Other | 5 | 0 (Sat)
-MM10s | 10 | 0 (Sat)
-_90s_ | 2 | 0 (Wed)
-80s | 10 | 0 (Wed)
+60s | 6 | 11 (Wed)
+70s | 10 | 4 (Tue)
+MM00s | 9 | 3 (Tue)
+Other | 5 | 1 (Sat)
+80s | 10 | 1 (Wed)
+MM10s | 10 | 0 (Wed)
+_90s_ | 2 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -218,6 +218,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/13/2024 | VCR | THREAT RESPONSE SOLUTIONS: The Secrets of CAGE FIGHTERS Revealed
 11/13/2024 | VCR | Murphy's Laws of GOLF
 11/13/2024 | VCR | (rewinds to Last Chance Detectives ad)
 11/13/2024 | VCR | [Last Chance Detectives ad preceding] McGee n Me: Skate Expectations
