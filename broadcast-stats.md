@@ -18,13 +18,11 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 | | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
-MM17 | Ninja Challenge Card | 05/01/2024 | 1/2/2022 | 52
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/08/2024 | 11/14/2019 | 66
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
 MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
-77 | Ninja City | 06/01/2024 | 11/28/2021 | 49
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 MM6 | It's Your Turn to Die | 06/08/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 06/12/2024 | 02/20/2022 | 46
@@ -67,6 +65,8 @@ MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 91 | Reprieve from Chaos | 11/09/2024 | 02/03/2024 | 49
 MM13 | Keep on Winning | 11/13/2024 | 8/22/2021 | 56
 86 | The Passion and Death of their Struggle | 11/21/2024 | 12/22/2022 | 43
+MM17 | Ninja Challenge Card | 11/24/2024 | 1/2/2022 | 52
+77 | Ninja City | 11/24/2024 | 11/28/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,12 +75,12 @@ MM13 | Keep on Winning | 11/13/2024 | 8/22/2021 | 56
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 12 (Wed)
-70s | 10 | 5 (Tue)
 MM00s | 9 | 4 (Tue)
-Other | 5 | 2 (Sat)
-MM10s | 10 | 1 (Wed)
-_90s_ | 2 | 1 (Sat)
+Other | 5 | 3 (Sat)
+_90s_ | 2 | 2 (Sat)
 80s | 10 | 0 (Thu)
+MM10s | 10 | 0 (Sun)
+70s | 10 | 0 (Sun)
 
 
 Mixtapes with Updates (by Last Changed) 
