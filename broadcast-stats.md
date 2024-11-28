@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2023.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-| | _FORCED STEREO DELUXE_ | 06/08/2023 | 8/27/2020 | 46
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
