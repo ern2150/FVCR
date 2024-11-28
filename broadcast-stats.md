@@ -95,6 +95,23 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
+11/27/2024 | [Cyber Ninja Opening Battle](https://archive.org/details/CYBERNINJA_201812/CYBER+NINJA.ISO?start=109) / [Tony McAlpine - Tears of the Sahara](https://www.youtube.com/watch?v=aMvqc25AQik&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=83) | 7/14/2020
+11/27/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+11/27/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+11/27/2024 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+11/27/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+11/27/2024 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
+11/27/2024 | SoundMarket - Earthshine / (same as video) | 4/1/2021
+11/27/2024 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
+11/27/2024 | Drifting Women / Rainbo - Integra Type | 11/8/2020
+11/27/2024 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
+11/27/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+11/27/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+11/27/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+11/27/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+11/27/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/24/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 11/24/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/24/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
@@ -103,7 +120,6 @@ Latest Date | Video / Audio | Debut++
 11/24/2024 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 11/24/2024 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 11/24/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
-11/24/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/21/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 11/21/2024 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 11/21/2024 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
