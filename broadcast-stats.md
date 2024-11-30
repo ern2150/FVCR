@@ -94,6 +94,15 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+11/29/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+11/29/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+11/29/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+11/29/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+11/29/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+11/29/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+11/29/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
 11/27/2024 | [Cyber Ninja Opening Battle](https://archive.org/details/CYBERNINJA_201812/CYBER+NINJA.ISO?start=109) / [Tony McAlpine - Tears of the Sahara](https://www.youtube.com/watch?v=aMvqc25AQik&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=83) | 7/14/2020
@@ -110,9 +119,7 @@ Latest Date | Video / Audio | Debut++
 11/27/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
 11/27/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 11/27/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-11/27/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/24/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-11/24/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/24/2024 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 11/24/2024 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 11/24/2024 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -187,12 +194,6 @@ Latest Date | Video / Audio | Debut++
 09/18/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 09/18/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 09/18/2024 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-09/14/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-09/14/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-09/14/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-09/14/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-09/14/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-09/14/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
