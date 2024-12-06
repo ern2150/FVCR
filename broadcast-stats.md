@@ -234,6 +234,9 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/05/2024 | DVD | D4 the Trojan Dog
+12/05/2024 | VCR | Dress Right for Your Shape, 1999
+12/05/2024 | VCR | [2004 Marshmallow Marketing Corp] ARKADY LEOKUM's (kids explorer) TELL ME WHY: HOW THINGS WORK
 11/29/2024 | VCR | AV Mix: Toy Trains 2
 11/29/2024 | VCR | AV Mix: Cat TV
 11/21/2024 | VCR | BIKE HAVOC ONE
