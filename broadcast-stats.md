@@ -94,14 +94,19 @@ Intros
 [archive](broadcast-2023.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/05/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+12/05/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/05/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+12/05/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+12/05/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+12/05/2024 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+12/05/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-11/29/2024 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 11/29/2024 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 11/29/2024 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 11/29/2024 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 11/29/2024 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 11/29/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-11/29/2024 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
@@ -189,11 +194,6 @@ Latest Date | Video / Audio | Debut++
 09/27/2024 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 09/27/2024 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 09/27/2024 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-09/18/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-09/18/2024 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-09/18/2024 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-09/18/2024 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-09/18/2024 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
