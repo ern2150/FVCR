@@ -234,6 +234,7 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/11/2024 | VHS | TELL ME WHY: SCIENCE, SOUND, and ENERGY
 12/05/2024 | DVD | D4 the Trojan Dog
 12/05/2024 | VCR | Dress Right for Your Shape, 1999
 12/05/2024 | VCR | [2004 Marshmallow Marketing Corp] ARKADY LEOKUM's (kids explorer) TELL ME WHY: HOW THINGS WORK
