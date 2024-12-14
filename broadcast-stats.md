@@ -197,6 +197,7 @@ Latest Date | Video / Audio | Debut++
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+12/14/2024 | [𝘽𝙇𝘼𝙉𝙆 𝙏𝘼𝙋𝙀 𝘽𝘼𝘾𝙆𝙇𝙊𝙂]
 11/09/2024 | stream cuts out during intros, comes back
 10/30/2024 | [𝘿𝙀𝙑𝙄𝙇'𝙎 𝙉𝙄𝙂𝙃𝙏 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 𝙎𝙏𝙍𝙀𝘼𝙈]
 09/27/2024 | new VCR says "BYE" to intro tape lol, eventually works
@@ -234,6 +235,16 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/14/2024 | VHS | Tape 10: "SBK Superbike 2001" 
+12/14/2024 | VHS | Tape 09: (Blank label / orange sticker) Davey's Critter Hunt: Critters, then Turtles, then Snakes.
+12/14/2024 | VHS | Tape 08: (Blank label) Rocky II (audio buzz too much)
+12/14/2024 | VHS | Tape 07: (Blank label) AandE Cinema Matinee of Third Man (cable ads before)
+12/14/2024 | VHS | Tape 06: (Blank label) TNT's airing of Jack the Ripper (Michael Caine, tracking unfixable, stopping)
+12/14/2024 | VHS | Tape 05: "Waco, the Big Lie" (stops after weird conspiracy cowboy)
+12/14/2024 | VHS | Tape 04: "All My Children special anniversary" (Oprah controversial subtitles tape, stops immediately)
+12/14/2024 | VHS | Tape 03: "Magic of the Magic Castle" (tv special) - _World's Greatest Magicians... at the Magic Castle_
+12/14/2024 | VHS | Tape 02: "Leno" (tape broke, nvm)
+12/14/2024 | VHS | Tape 01: "𝙉𝘽𝘼 𝙋𝙇𝘼𝙔𝙊𝙁𝙁𝙎 1993"
 12/11/2024 | VHS | TELL ME WHY: SCIENCE, SOUND, and ENERGY
 12/05/2024 | DVD | D4 the Trojan Dog
 12/05/2024 | VCR | Dress Right for Your Shape, 1999
