@@ -24,7 +24,6 @@ MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
-87 | Win without Failing | 06/29/2024 | 02/12/2023 | 46
 81 | One Hell of a Nobody | 06/29/2024 | 03/27/2022 | 53
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 84 | Poor Doomed Humans | 07/11/2024 | 10/16/2022 | 51
@@ -66,6 +65,7 @@ MM17 | Ninja Challenge Card | 11/24/2024 | 1/2/2022 | 52
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 12/14/2024 | 02/20/2022 | 46
+87 | Win without Failing | 12/14/2024 | 02/12/2023 | 46
 
 
 "Decades" by Weeks Since Seen, descending
