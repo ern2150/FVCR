@@ -22,7 +22,6 @@ MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
 MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
-80 | Pass Through All Hard Times | 06/12/2024 | 02/20/2022 | 46
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
 87 | Win without Failing | 06/29/2024 | 02/12/2023 | 46
@@ -66,6 +65,7 @@ MM17 | Ninja Challenge Card | 11/24/2024 | 1/2/2022 | 52
 77 | Ninja City | 11/24/2024 | 11/28/2021 | 49
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
+80 | Pass Through All Hard Times | 12/14/2024 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 14 (Wed)
-Other | 5 | 4 (Sat)
-_90s_ | 2 | 3 (Sat)
-80s | 10 | 2 (Thu)
+Other | 5 | 5 (Sat)
+_90s_ | 2 | 4 (Sat)
 MM10s | 10 | 2 (Sun)
 70s | 10 | 2 (Sun)
 MM00s | 9 | 0 (Wed)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
