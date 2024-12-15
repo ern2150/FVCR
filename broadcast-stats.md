@@ -197,6 +197,7 @@ Latest Date | Video / Audio | Debut++
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 -- | -- | --
+12/14/2024 | [𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙎𝙀𝙎𝙎𝙄𝙊𝙉]
 12/14/2024 | [𝘽𝙇𝘼𝙉𝙆 𝙏𝘼𝙋𝙀 𝘽𝘼𝘾𝙆𝙇𝙊𝙂]
 11/09/2024 | stream cuts out during intros, comes back
 10/30/2024 | [𝘿𝙀𝙑𝙄𝙇'𝙎 𝙉𝙄𝙂𝙃𝙏 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 𝙎𝙏𝙍𝙀𝘼𝙈]
@@ -235,6 +236,12 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/14/2024 | PS3 | TEKKEN2
+12/14/2024 | PS3 | EINHANDER
+12/14/2024 | PS3 | TEST DRIVE OFF-ROAD (feat soundtrack by St Louis natives Gravity Kills and Bob narration)
+12/14/2024 | PS3 | BUST A GROOVE (disc stops after intro - "triple beep")
+12/14/2024 | PS3 | Peggle w/ Spotify in background
+12/14/2024 | PS3 | Peggle title w/ Spotify AI Wrapped
 12/14/2024 | VHS | Tape 10: "SBK Superbike 2001" 
 12/14/2024 | VHS | Tape 09: (Blank label / orange sticker) Davey's Critter Hunt: Critters, then Turtles, then Snakes.
 12/14/2024 | VHS | Tape 08: (Blank label) Rocky II (audio buzz too much)
