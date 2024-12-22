@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
-68 | Endless Chain of Duels and Killings | 04/25/2024 | 6/27/2021 | 54
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
 MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
@@ -66,6 +65,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 |
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 12/14/2024 | 02/20/2022 | 46
 87 | Win without Failing | 12/14/2024 | 02/12/2023 | 46
+68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 14 (Wed)
-Other | 5 | 5 (Sat)
-_90s_ | 2 | 4 (Sat)
-MM10s | 10 | 2 (Sun)
-70s | 10 | 2 (Sun)
-MM00s | 9 | 0 (Wed)
-80s | 10 | 0 (Sat)
+Other | 5 | 6 (Sat)
+_90s_ | 2 | 5 (Sat)
+MM10s | 10 | 3 (Sun)
+70s | 10 | 3 (Sun)
+MM00s | 9 | 1 (Wed)
+80s | 10 | 1 (Sat)
+60s | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -236,6 +236,8 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/21/2024 | VHS | (It's a Wonderful Life off-air recording holiday commercials) Hall n Oates Jinglebell Rock, Letterman open (19840103), Pilsbury, Panadol, Speaker n Stereo Store, LongJohnSilvers, DickFord News, Letterman returns with PeeWee and then Chris Elliot 
+12/21/2024 | VHS | SNOWMOTION the art of sledding
 12/14/2024 | PS3 | TEKKEN2
 12/14/2024 | PS3 | EINHANDER
 12/14/2024 | PS3 | TEST DRIVE OFF-ROAD (feat soundtrack by St Louis natives Gravity Kills and Bob narration)
@@ -372,7 +374,7 @@ Outros
 [archive](broadcast-2023.md#outros)
 Latest Date | Video / Audio
 -- | --
-12/14/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+12/21/2024 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
