@@ -25,11 +25,9 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
 81 | One Hell of a Nobody | 06/29/2024 | 03/27/2022 | 53
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
-84 | Poor Doomed Humans | 07/11/2024 | 10/16/2022 | 51
 70 | Take the Fight to the Enemy | 07/18/2024 | 7/11/2021 | 54
 67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
 75 | Never Show Emotion | 07/24/2024 | 11/07/2021 | 48
-85 | The Power You Are Seeking | 07/24/2024 | 11/13/2022 | 45
 72 | Who Is the Champion Now? | 07/31/2024 | 9/7/2021 | 53
 64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
@@ -66,6 +64,8 @@ MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 80 | Pass Through All Hard Times | 12/14/2024 | 02/20/2022 | 46
 87 | Win without Failing | 12/14/2024 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
+84 | Poor Doomed Humans | 12/26/2024 | 10/16/2022 | 51
+85 | The Power You Are Seeking | 12/26/2024 | 11/13/2022 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 6 (Sat)
 _90s_ | 2 | 5 (Sat)
-MM10s | 10 | 3 (Sun)
-70s | 10 | 3 (Sun)
-MM00s | 9 | 1 (Wed)
-80s | 10 | 1 (Sat)
+MM10s | 10 | 4 (Sun)
+70s | 10 | 4 (Sun)
+MM00s | 9 | 2 (Wed)
 60s | 6 | 0 (Sat)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
