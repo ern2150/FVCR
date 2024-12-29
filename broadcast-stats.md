@@ -17,8 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
-MM2 | Why Are You Playing Heroes? | 05/23/2024 | 2/23/2021 | 64
-MM15 | Don't Be Afraid of Me | 05/25/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 06/01/2024  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
@@ -66,6 +64,8 @@ MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
 84 | Poor Doomed Humans | 12/26/2024 | 10/16/2022 | 51
 85 | The Power You Are Seeking | 12/26/2024 | 11/13/2022 | 45
+MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
+MM15 | Don't Be Afraid of Me | 12/29/2024 | 12/05/2021 | 55
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 [archive](broadcast-2023.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 6 (Sat)
-_90s_ | 2 | 5 (Sat)
-MM10s | 10 | 4 (Sun)
-70s | 10 | 4 (Sun)
-MM00s | 9 | 2 (Wed)
-60s | 6 | 0 (Sat)
+Other | 5 | 7 (Sat)
+_90s_ | 2 | 6 (Sat)
+70s | 10 | 5 (Sun)
+60s | 6 | 1 (Sat)
 80s | 10 | 0 (Thu)
+MM00s | 9 | 0 (Sun)
+MM10s | 10 | 0 (Sun)
 
 
 Mixtapes with Updates (by Last Changed) 
