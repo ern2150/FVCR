@@ -12,7 +12,7 @@ Table of Contents
 
 Sorted by Last date (Most recent date), ascending 
 -----
-[archive](broadcast-2023.md)
+[archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
@@ -70,7 +70,7 @@ MM15 | Don't Be Afraid of Me | 12/29/2024 | 12/05/2021 | 55
 
 "Decades" by Weeks Since Seen, descending
 -----
-[archive](broadcast-2023.md#decades-by-last-seen-descending)
+[archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 8 (Sat)
@@ -84,14 +84,14 @@ MM10s | 10 | 0 (Sun)
 
 Mixtapes with Updates (by Last Changed) 
 -----
-[archive](broadcast-2023.md#mixtapes-with-updates-by-last-changed)
+[archive](broadcast-2024.md#mixtapes-with-updates-by-last-changed)
 Mixtape # | Title | Update | Last Changed
 -- | -- | -- | --
 
 
 Intros
 ------
-[archive](broadcast-2023.md#intros)
+[archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 01/04/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
@@ -196,35 +196,6 @@ Latest Date | Video / Audio | Debut++
 10/26/2024 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
--- | -- | --
-12/14/2024 | [𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙎𝙀𝙎𝙎𝙄𝙊𝙉]
-12/14/2024 | [𝘽𝙇𝘼𝙉𝙆 𝙏𝘼𝙋𝙀 𝘽𝘼𝘾𝙆𝙇𝙊𝙂]
-11/09/2024 | stream cuts out during intros, comes back
-10/30/2024 | [𝘿𝙀𝙑𝙄𝙇'𝙎 𝙉𝙄𝙂𝙃𝙏 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 𝙎𝙏𝙍𝙀𝘼𝙈]
-09/27/2024 | new VCR says "BYE" to intro tape lol, eventually works
-09/14/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀: 𝙀𝙉𝘿𝙐𝙍𝘼𝙉𝘾𝙀 𝙏𝙀𝙎𝙏]
-08/31/2024 | ...butt(on) dialed the VCR
-08/28/2024 | "LOCK" (mixtape 78 interrupted...)
-05/16/2024 | [NEW VCR]
-05/08/2024 | [new vcr eats Tigermask outro and refuses to do anything else]
-05/08/2024 | [𝙉𝙀𝙒 𝙑𝘾𝙍 𝙐𝙉𝘽𝙊𝙓𝙄𝙉𝙂 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
-03/21/2024 | encoder still being weird, improves after several stream restarts
-03/16/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
-03/16/2024 | intro interrupted by audio issues, resumes toward the end of fashion clip
-03/12/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
-02/20/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
-02/10/2024 | tape interrupted deliberately, swap from magnavox to sony, audio improves
-02/10/2024 | [𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝘼𝙏𝙄𝙉𝙀𝙀: 𝙏𝙀𝙎𝙏𝙄𝙉𝙂 𝙊𝙐𝙏 𝙏𝙃𝙀 𝙉𝙀𝙒 𝙑𝘾𝙍 𝘼𝙉𝘿 𝙎𝙀𝙏 𝙐𝙋]
-02/08/2024 | lol tiger tape falls apart
-02/08/2024 | [𝙁𝙊𝙍𝙂𝙊𝙏𝙏𝙀𝙉_𝘿𝙑𝘿 // 𝙄'𝙈 𝙔𝙊𝙐𝙍 𝙈𝘼𝙉: 𝙏𝙃𝙀 𝙁𝙄𝙍𝙎𝙏 𝙄𝙉𝙏𝙀𝙍𝘼𝘾𝙏𝙄𝙑𝙀 𝙈𝙊𝙑𝙄𝙀 𝙊𝙉 𝘿𝙑𝘿]
-02/03/2024 | [𝙉𝙀𝙒 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀 91: 𝙍𝙀𝙋𝙍𝙀𝙑𝙀 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙊𝙎]
-01/30/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
-01/23/2024 | [𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝙁𝙊𝙊𝙏𝘼𝙂𝙀]
-01/18/2024 | Toshiba is dead, long live block text
-01/13/2024 | (lollllshiiiibaaaaaaa)
-01/11/2024 | (lolshiba craps out during first intro)
-01/11/2024 | [𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙊𝙍'𝙎 𝙀𝘿𝙄𝙏𝙄𝙊𝙉]
-
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
@@ -233,148 +204,17 @@ Bonus Clips
 -----------
 (also includes things shown on-camera like VHS Covers)
 
-[archive](broadcast-2023.md#bonus-clips)
+[archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
 01/04/2025 | DVD | Max Magician and the Legend of the Rings (with Entermagic dot com ad at end)
 01/04/2025 | DVD | Rock N Learn: Colors, Shapes & Counting (enhanced)
 01/04/2025 | PS3 | (discussion of Stream-related DVDs, Tekken PSN Purchase Tips)
-12/21/2024 | VHS | (It's a Wonderful Life off-air recording holiday commercials) Hall n Oates Jinglebell Rock, Letterman open (19840103), Pilsbury, Panadol, Speaker n Stereo Store, LongJohnSilvers, DickFord News, Letterman returns with PeeWee and then Chris Elliot 
-12/21/2024 | VHS | SNOWMOTION the art of sledding
-12/14/2024 | PS3 | TEKKEN2
-12/14/2024 | PS3 | EINHANDER
-12/14/2024 | PS3 | TEST DRIVE OFF-ROAD (feat soundtrack by St Louis natives Gravity Kills and Bob narration)
-12/14/2024 | PS3 | BUST A GROOVE (disc stops after intro - "triple beep")
-12/14/2024 | PS3 | Peggle w/ Spotify in background
-12/14/2024 | PS3 | Peggle title w/ Spotify AI Wrapped
-12/14/2024 | VHS | Tape 10: "SBK Superbike 2001" 
-12/14/2024 | VHS | Tape 09: (Blank label / orange sticker) Davey's Critter Hunt: Critters, then Turtles, then Snakes.
-12/14/2024 | VHS | Tape 08: (Blank label) Rocky II (audio buzz too much)
-12/14/2024 | VHS | Tape 07: (Blank label) AandE Cinema Matinee of Third Man (cable ads before)
-12/14/2024 | VHS | Tape 06: (Blank label) TNT's airing of Jack the Ripper (Michael Caine, tracking unfixable, stopping)
-12/14/2024 | VHS | Tape 05: "Waco, the Big Lie" (stops after weird conspiracy cowboy)
-12/14/2024 | VHS | Tape 04: "All My Children special anniversary" (Oprah controversial subtitles tape, stops immediately)
-12/14/2024 | VHS | Tape 03: "Magic of the Magic Castle" (tv special) - _World's Greatest Magicians... at the Magic Castle_
-12/14/2024 | VHS | Tape 02: "Leno" (tape broke, nvm)
-12/14/2024 | VHS | Tape 01: "𝙉𝘽𝘼 𝙋𝙇𝘼𝙔𝙊𝙁𝙁𝙎 1993"
-12/11/2024 | VHS | TELL ME WHY: SCIENCE, SOUND, and ENERGY
-12/05/2024 | DVD | D4 the Trojan Dog
-12/05/2024 | VCR | Dress Right for Your Shape, 1999
-12/05/2024 | VCR | [2004 Marshmallow Marketing Corp] ARKADY LEOKUM's (kids explorer) TELL ME WHY: HOW THINGS WORK
-11/29/2024 | VCR | AV Mix: Toy Trains 2
-11/29/2024 | VCR | AV Mix: Cat TV
-11/21/2024 | VCR | BIKE HAVOC ONE
-11/13/2024 | VCR | THREAT RESPONSE SOLUTIONS: The Secrets of CAGE FIGHTERS Revealed
-11/13/2024 | VCR | Murphy's Laws of GOLF
-11/13/2024 | VCR | (rewinds to Last Chance Detectives ad)
-11/13/2024 | VCR | [Last Chance Detectives ad preceding] McGee n Me: Skate Expectations
-11/13/2024 | VCR | Failed "Gooben" tape, turns out it's just church
-11/09/2024 | VCR | ESCAPE with Herb Johnson
-11/09/2024 | VCR | (shoutout to Circa Records, VCR BYEs the first tape lol, mixtape in the meantime)
-10/24/2024 | VCR | Dirty Tennis [with Larry Bud Melman Couch Potato workout preview at end]
-10/24/2024 | VCR | Mega-man clamshell tape, all the trailers ever, and then ep 1 (save other eps for later)
-10/24/2024 | VCR | [Commercials during "The Big Fisherman" on STL channel 11] 
-10/08/2024 | VCR | [Halloween themed tapes] fhe's Bobby Goldsboro's LUMPKIN THE PUMPKIN
-09/27/2024 | VCR | Doug Henning's World of Magic VI [off air tape 👀] 
-09/27/2024 | VCR | John-Ring and Cards [VCR says "BYE", recovers]
-09/27/2024 | VCR | Steve Fearson's Original Floating Cigarette Routine (all 100 seconds of it)
-09/27/2024 | VCR | [bought VCR game based on Newsreel riffs purchased, but contained magic-related tapes instead]
-09/14/2024 | VCR | [(Job Title) Dave / Becky present the "There goes a (Vehicle)" series promo] , [Real Animals series promo] "i wish a were a ..." (tape dies)
-09/14/2024 | VCR | [Razor & Tie Direct disclaimer] Geo's Dance Party
-09/07/2024 | VCR | Kiteboarding: How to Rip
-08/28/2024 | VCR | I LOVE TOY TRAINS 5 AV MIX
-08/23/2024 | VCR | COLD STEEL
-08/21/2024 | VCR | (educational, 1992) Penn and Teller BeHind the Scenes 
-08/14/2024 | VCR | (educational) Star Scouts: Discover NASA: Gateways to Space 
-08/14/2024 | VCR | Videogroove Vol 11: California Dreamin
-07/26/2024 | VCR | ActionMax: Hydrosub 2021
-07/26/2024 | VCR | Off-air recording: lighter side of the news... Inappropriate gifts!
-07/26/2024 | VCR | Off-air recording: Garth Brooks special
-07/26/2024 | VCR | 20080916 - wallmart ... tv? like for employees?
-07/26/2024 | VCR | ActionMax: Rescue of Pops Ghostly
-07/26/2024 | VCR | In-Store loop tape for The Disney Store
-07/26/2024 | VCR | ActionMax: .38 Ambush Alley (came first in poll)
-07/26/2024 | VCR | Styles on Video - personalized hair superimposing!  Thanks Debbie.
-07/26/2024 | VCR | Off-air recording: Security footage from convenience store with blasted audio
-07/18/2024 | VCR | Rollerblade: InLineInLife!
-07/18/2024 | VCR | "Wonder of You"
-07/11/2024 | VCR | Rollerblade: Basics of Inline Skating
-07/11/2024 | VCR | Word Lifeware.  Orel Hershiser on Excellence (and ... Jesus?)
-06/18/2024 | VCR | (encore of) DOGGIE ADVENTURE 
-06/18/2024 | VCR | JOKE POKE - Humor Enhances Health
-06/13/2024 | VCR | JUGGLEBUG: JUGGLERCISE
-06/12/2024 | VCR | AAL presents: Together Forever
-06/05/2024 | DVD/PS3 | Black Belts Forever
-06/05/2024 | DVD/PS3 | Monsanto 2nd video audio is fine - Dueling Sitars
-06/05/2024 | PS3 | China IL ep testing audio
-06/05/2024 | DVD/PS3 | Monsanto Music Video DVD - Constant Changes (blown out audio)
-05/23/2024 | VCR | Green FBI, DIC.  Hulk's Rock n Wrestling
-05/16/2024 | VCR | Red Band FBI warning. Racing forum presents "Playing to Win" with Bob Neumeier.
-05/16/2024 | VCR | VCR Menu
-05/08/2024 | Cam | (after input button pushed reading manual) VHS cover back Tom Hanks face lol
-05/08/2024 | VCR(W528) | 0H00M33S > SLP.  Mazes and Monsters "pretty" cover plays to test A/V.
-05/08/2024 | null | (talking about rerouting outputs from W528)
-05/08/2024 | Cam | replacing input cords to capture box from base VCR, unplugs camera
-05/08/2024 | Cam | tv 003 shows Mazes and Monsters already in progress, displays HHMMSS. "does the remote work"? stream freezes
-05/08/2024 | Cam | W-528 hooked up via coax to tv 003.  VHS Covers: Life against Death, etc. but Mazes and Monsters is attempted first.
-05/08/2024 | Cam | VCR stack: old JVC, crappy "new" magnavox.  yeet magnavox, add W-528. Clock!
-05/08/2024 | Cam | Slatty.  Toshiba W-528 VCR box from estate sale.
-05/01/2024 | VCR | (rejects Track Freaks) (instead, from Time-Life) Wedding Bloopers
-05/01/2024 | Cam | security camera box, toshiba vcr box, "Track Freaks" VHS cover
-04/24/2024 | VCR | (from Time-Life video) News Bloopers
-04/25/2024 | VCR | (preparation for summer 1989 promotional tape) St. Martin's Island Pelican Resort Timeshare 
-04/13/2024 | VCR | Briefings - Becoming a Leader
-04/09/2024 | VCR | "Lefton Promotions" lululululu luf ton
-04/04/2024 | VCR | VideoTrack Interactive Video Trainer: New England (becomes AV mix halfway thru)
-03/29/2024 | VCR | Barbie Dance Club
-03/16/2024 | VCR | Threads v2 "Things that go Puff in the Dark" and "...Bean Wars"?!
-03/12/2024 | VCR | PJ Sparkles
-03/05/2024 | VCR | AV Mix - The Helicopter Line - New Zealand (feat. The Awesome Foursome, Kiwi Magic)
-02/27/2024 | VCR | Mystery Science Vol 1 - Dowsing
-02/27/2024 | VCR | Black n Decker bread sniffer
-02/25/2024 | VCR | Bigfoot Strikes Again
-02/25/2024 | VCR | Monster Madness
-02/25/2024 | VCR | Sonogram tape
-02/25/2024 | VCR | (off-air recording of Matlock labeled "Tuesday") Latuda commercial
-02/22/2024 | VCR | BULLDOG SECURITY
-02/22/2024 | VCR | Baqua Spa
-02/20/2024 | VCR | EcoQuest International Project Home
-02/20/2024 | VCR | Creative Features Number One 8/2-13/1993 (ff til vampire) "Creatures on Horror Island"
-02/20/2024 | VCR | Bow Master
-02/10/2024 | Cam | DVD covers: Bruce Li in "Blind Fist of Bruce", BLFBftG, Magnificent Warriors, Cool as Hell
-02/10/2024 | Cam | VHS front label for Megamix 6
-02/10/2024 | VCR | off-air recording about Beatles Anthology to test audio
-02/10/2024 | Cam | VCR/dongle setup, rip Toshiba.  Magnavox converts composite to HDMI, HDMI to USB, sound issues.
-02/08/2024 | PS3/DVD | I'm Your Man _INTERACTIVE_ (and special features!)
-01/30/2024 | VCR | TLC Presents: Sixth Sense
-01/25/2024 | VCR | I LOVE TOY TRAINS 2 AV
-01/23/2024 | VCR | (trailers before) The Making of Left Behind
-01/23/2024 | VCR | (intro to) Nutrisystem Body Breakthrough Activity Plan
-01/18/2024 | VCR | Demonstration of Toshiba's brokenness
-01/11/2024 | VCR | Trailer Mix: ministry of vengeance, rabid grannies, fatal skies, AIP logo, The Revenger, New Horizons logo, Babyface Nelson, Star Hunter, Operation Cobra, Dollman
-01/11/2024 | Cam | VHS Down Twisted
-01/11/2024 | Cam | VHS Future zone
-01/11/2024 | Cam | VHS SURVIVOR
-01/11/2024 | VCR | K.K. Girly Action Tour: band on a stage with a ... couch
-01/11/2024 | Cam | VHS K.K Girly Action Tour in Tokyo
-01/11/2024 | Cam | VHS Dollman vs Demonic Toys
-01/11/2024 | Cam | VHS Dollman
-01/11/2024 | Cam | VHS Alien Autopsy: (fact or fiction)
-01/11/2024 | Cam | VHS Women Warriors (mold)
-01/11/2024 | Cam | VHS Photoshop 4.0 tape 3
-01/11/2024 | Cam | VHS Spacehunter
-01/11/2024 | Cam | VHS Destroy All Monsters 
-01/11/2024 | Cam | VHS Star Hunter
-01/11/2024 | Cam | VHS Iron Warrior
-01/11/2024 | VCR | America the Beautiful: Reader's Digest logo, landscapes with patriotic music.
-01/11/2024 | Cam | VHS Musical Portrait of America the Beautiful
-01/11/2024 | Cam | Slatty the Table, Jane Ashen's Costume Book, unicorn keychain "Creamy Beast", Puppy boxcutter, tiny photo rpg slipcovers
-
 
 
 Outros
 ------
-[archive](broadcast-2023.md#outros)
+[archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
 01/04/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
