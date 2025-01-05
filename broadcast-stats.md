@@ -236,6 +236,9 @@ Bonus Clips
 [archive](broadcast-2023.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/04/2025 | DVD | Max Magician and the Legend of the Rings (with Entermagic dot com ad at end)
+01/04/2025 | DVD | Rock N Learn: Colors, Shapes & Counting (enhanced)
+01/04/2025 | PS3 | (discussion of Stream-related DVDs, Tekken PSN Purchase Tips)
 12/21/2024 | VHS | (It's a Wonderful Life off-air recording holiday commercials) Hall n Oates Jinglebell Rock, Letterman open (19840103), Pilsbury, Panadol, Speaker n Stereo Store, LongJohnSilvers, DickFord News, Letterman returns with PeeWee and then Chris Elliot 
 12/21/2024 | VHS | SNOWMOTION the art of sledding
 12/14/2024 | PS3 | TEKKEN2
