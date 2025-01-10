@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
-MM12 | Evil Is Never Invincible | 06/05/2024 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
 81 | One Hell of a Nobody | 06/29/2024 | 03/27/2022 | 53
@@ -66,6 +65,7 @@ MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
 MM15 | Don't Be Afraid of Me | 12/29/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 01/04/2025  | 3/14/2021 | 53
+MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,10 +75,10 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 8 (Sat)
 _90s_ | 2 | 7 (Sat)
-70s | 10 | 5 (Sun)
-80s | 10 | 1 (Thu)
-MM00s | 9 | 0 (Sun)
-MM10s | 10 | 0 (Sun)
+70s | 10 | 6 (Sun)
+80s | 10 | 2 (Thu)
+MM00s | 9 | 1 (Sun)
+MM10s | 10 | 0 (Thu)
 60s | 6 | 0 (Sat)
 
 
