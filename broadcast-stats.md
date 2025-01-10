@@ -207,6 +207,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/09/2025 | DVD | PresentTime ep 1: The Adventure Begins (glitches at retrieving Goliath)
+01/09/2025 | PS3 | (discussion of ep 2 on youtube)
 01/04/2025 | DVD | Max Magician and the Legend of the Rings (with Entermagic dot com ad at end)
 01/04/2025 | DVD | Rock N Learn: Colors, Shapes & Counting (enhanced)
 01/04/2025 | PS3 | (discussion of Stream-related DVDs, Tekken PSN Purchase Tips)
@@ -217,7 +219,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-01/04/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+01/09/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
