@@ -207,6 +207,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/11/2025 | DVD | PresentTime ep 3: The Lost Prophet
+01/11/2025 | DVD | PresentTime ep 2: The Fiery Stranger
+01/11/2025 | PS3 | (discussion of PresentTime ep 1 corruption)
 01/09/2025 | DVD | PresentTime ep 1: The Adventure Begins (glitches at retrieving Goliath)
 01/09/2025 | PS3 | (discussion of ep 2 on youtube)
 01/04/2025 | DVD | Max Magician and the Legend of the Rings (with Entermagic dot com ad at end)
