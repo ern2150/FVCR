@@ -65,7 +65,7 @@ MM15 | Don't Be Afraid of Me | 12/29/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 01/04/2025  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 75 | Never Show Emotion | 01/11/2025 | 11/07/2021 | 48
-78 | All for Revenge [interrupted...] | 01/15/2025 | 1/9/2022 | 50
+78 | All for Revenge | 01/15/2025 | 1/9/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
