@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+01/15/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+01/15/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+01/15/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+01/15/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+01/15/2025 | Knight of Justice Death Call / (same as video) | 5/6/2021
+01/15/2025 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+01/15/2025 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+01/15/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+01/15/2025 | SHIT FUCK / (same as video) | 5/4/2021
+01/15/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+01/15/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/11/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 01/11/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/11/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 01/11/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 01/11/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 01/11/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-01/11/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 01/09/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 01/09/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -111,7 +122,6 @@ Latest Date | Video / Audio | Debut++
 01/04/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 01/04/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 12/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-12/29/2024 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/29/2024 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 12/29/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 12/29/2024 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
@@ -177,16 +187,6 @@ Latest Date | Video / Audio | Debut++
 11/13/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 11/13/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 11/13/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-11/09/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-11/09/2024 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-11/09/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-11/09/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-11/09/2024 | Knight of Justice Death Call / (same as video) | 5/6/2021
-11/09/2024 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-11/09/2024 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-11/09/2024 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-11/09/2024 | SHIT FUCK / (same as video) | 5/4/2021
-11/09/2024 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 10/26/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 10/26/2024 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 10/26/2024 | Baki end whiteout / (same as video) | 4/13/2021
