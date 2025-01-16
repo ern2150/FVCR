@@ -27,7 +27,6 @@ MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
 64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 66 | Do You Really Have the Confidence? | 08/21/2024 | 5/23/2021 | 56
-78 | All for Revenge [interrupted...] | 08/28/2024 | 1/9/2022 | 50
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
 79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
@@ -66,6 +65,7 @@ MM15 | Don't Be Afraid of Me | 12/29/2024 | 12/05/2021 | 55
 61 | I Must Make Sure You Fail | 01/04/2025  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 75 | Never Show Emotion | 01/11/2025 | 11/07/2021 | 48
+78 | All for Revenge [interrupted...] | 01/15/2025 | 1/9/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 Other | 5 | 9 (Sat)
 _90s_ | 2 | 8 (Sat)
 80s | 10 | 2 (Thu)
-MM00s | 9 | 1 (Sun)
+MM00s | 9 | 2 (Sun)
 60s | 6 | 1 (Sat)
 MM10s | 10 | 0 (Thu)
-70s | 10 | 0 (Sat)
+70s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
