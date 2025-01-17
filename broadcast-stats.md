@@ -17,9 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
-MM14 | Fights the Evils with Great Power | 06/18/2024 | 9/26/2021 | 64
-73 | The Whirlpool of Battle | 06/25/2024 (interrupted by power outage) | 9/21/2021 | 62
-81 | One Hell of a Nobody | 06/29/2024 | 03/27/2022 | 53
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 70 | Take the Fight to the Enemy | 07/18/2024 | 7/11/2021 | 54
 67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
@@ -66,6 +63,9 @@ MM15 | Don't Be Afraid of Me | 12/29/2024 | 12/05/2021 | 55
 MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 75 | Never Show Emotion | 01/11/2025 | 11/07/2021 | 48
 78 | All for Revenge | 01/15/2025 | 1/9/2022 | 50
+MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
+73 | The Whirlpool of Battle | 01/16/2025 | 9/21/2021 | 62
+81 | One Hell of a Nobody | 01/16/2025 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 9 (Sat)
 _90s_ | 2 | 8 (Sat)
-80s | 10 | 2 (Thu)
 MM00s | 9 | 2 (Sun)
 60s | 6 | 1 (Sat)
 MM10s | 10 | 0 (Thu)
-70s | 10 | 0 (Wed)
+70s | 10 | 0 (Thu)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -196,6 +196,7 @@ Latest Date | Video / Audio | Debut++
 11/13/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
+
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
