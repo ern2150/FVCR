@@ -18,12 +18,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
-70 | Take the Fight to the Enemy | 07/18/2024 | 7/11/2021 | 54
 67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
-72 | Who Is the Champion Now? | 07/31/2024 | 9/7/2021 | 53
 64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
-66 | Do You Really Have the Confidence? | 08/21/2024 | 5/23/2021 | 56
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
 79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
@@ -66,6 +63,9 @@ MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 01/16/2025 | 9/21/2021 | 62
 81 | One Hell of a Nobody | 01/16/2025 | 03/27/2022 | 53
+70 | Take the Fight to the Enemy | 01/18/2025 | 7/11/2021 | 54
+72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
+66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 9 (Sat)
-_90s_ | 2 | 8 (Sat)
+Other | 5 | 10 (Sat)
+_90s_ | 2 | 9 (Sat)
 MM00s | 9 | 2 (Sun)
-60s | 6 | 1 (Sat)
 MM10s | 10 | 0 (Thu)
-70s | 10 | 0 (Thu)
 80s | 10 | 0 (Thu)
+70s | 10 | 0 (Sat)
+60s | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,15 +94,26 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+01/18/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/18/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+01/18/2025 | FMW Opener / FMW Closer | 12/6/2020
+01/18/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+01/18/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+01/18/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
+01/18/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+01/18/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+01/18/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+01/18/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+01/18/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+01/18/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/16/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-01/16/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/16/2025 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 01/16/2025 | Baki end whiteout / (same as video) | 4/13/2021
 01/16/2025 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
 01/16/2025 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 01/16/2025 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 01/16/2025 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-01/16/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 01/15/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 01/15/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -183,17 +194,6 @@ Latest Date | Video / Audio | Debut++
 11/24/2024 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 11/24/2024 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 11/24/2024 | TV Asahi interludes / (same as video?) | 01/17/2023
-11/13/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-11/13/2024 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-11/13/2024 | FMW Opener / FMW Closer | 12/6/2020
-11/13/2024 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-11/13/2024 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-11/13/2024 | Wheres Da Schtuff / Original Audio | 11/28/2021
-11/13/2024 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-11/13/2024 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-11/13/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-11/13/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-11/13/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 08/03/2024 | --
 08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 
@@ -224,7 +224,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-01/16/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+01/18/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
