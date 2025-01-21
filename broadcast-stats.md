@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/18/2025 | VCR | Superhuman Samurai Syber Squad "A Skorn in Their Side"
 01/15/2025 | VCR | (off-air recording of tv movie) Chance of a Lifetime
 01/11/2025 | DVD | PresentTime ep 3: The Lost Prophet
 01/11/2025 | DVD | PresentTime ep 2: The Fiery Stranger
