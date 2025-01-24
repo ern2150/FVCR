@@ -24,7 +24,6 @@ SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
 79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
-MM11 | I Can Stand the Pain | 09/07/2024 | 7/27/2021 | 65
 MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 71 | I Don't Belong Here | 09/18/2024 | 8/1/2021 | 54
 MM4 | I'm Glad to See You're Prepared to Die | 09/21/2024 | 4/4/2021 | 50
@@ -66,6 +65,7 @@ MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 70 | Take the Fight to the Enemy | 01/18/2025 | 7/11/2021 | 54
 72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
+MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,8 +76,8 @@ Decade | Available Tapes | Weeks since seen
 Other | 5 | 10 (Sat)
 _90s_ | 2 | 9 (Sat)
 MM00s | 9 | 2 (Sun)
+80s | 10 | 1 (Thu)
 MM10s | 10 | 0 (Thu)
-80s | 10 | 0 (Thu)
 70s | 10 | 0 (Sat)
 60s | 6 | 0 (Sat)
 
