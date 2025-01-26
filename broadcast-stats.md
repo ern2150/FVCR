@@ -19,7 +19,6 @@ MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
-64 | Hold You Close and Feel Things | 07/31/2024 | 4/18/2021 | 58
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
@@ -66,6 +65,7 @@ MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
+64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,12 +73,12 @@ MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 10 (Sat)
-_90s_ | 2 | 9 (Sat)
+Other | 5 | 11 (Sat)
+_90s_ | 2 | 10 (Sat)
 MM00s | 9 | 2 (Sun)
 80s | 10 | 1 (Thu)
+70s | 10 | 1 (Sat)
 MM10s | 10 | 0 (Thu)
-70s | 10 | 0 (Sat)
 60s | 6 | 0 (Sat)
 
 
