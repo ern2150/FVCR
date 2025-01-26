@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/25/2025 | VCR | 1996 Year in Sports (Illustrated)
+01/25/2025 | VCR | Dragonstrike
+01/25/2025 | VCR | Master Tsai's Protect Yourself  
 01/23/2025 | VCR | Grappler Baki
 01/23/2025 | VCR | WMAC Tape One (ep 1+2)
 01/18/2025 | VCR | Superhuman Samurai Syber Squad "A Skorn in Their Side"
