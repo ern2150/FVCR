@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/30/2025 | VCR | INFRAMAN
+01/30/2025 | VCR | (attempts at playing tapes are rebuffed by buzzing VCR)
 01/25/2025 | VCR | 1996 Year in Sports (Illustrated)
 01/25/2025 | VCR | Dragonstrike
 01/25/2025 | VCR | Master Tsai's Protect Yourself  
