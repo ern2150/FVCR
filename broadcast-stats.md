@@ -18,14 +18,12 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
 89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
-67 | Together We Will Smash Them | 07/20/2024 | 6/20/2021 | 53
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
 79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
 MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 71 | I Don't Belong Here | 09/18/2024 | 8/1/2021 | 54
-MM4 | I'm Glad to See You're Prepared to Die | 09/21/2024 | 4/4/2021 | 50
 MM19 | Ghost Shadow Squad | 09/21/2024 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 83 | I Don't Mind a Little Danger | 09/25/2024 | 06/12/2022 | 50
@@ -66,6 +64,8 @@ MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
+67 | Together We Will Smash Them | 01/30/2025 | 6/20/2021 | 53
+MM4 | I'm Glad to See You're Prepared to Die | 01/30/2025 | 4/4/2021 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 11 (Sat)
 _90s_ | 2 | 10 (Sat)
-MM00s | 9 | 2 (Sun)
-80s | 10 | 1 (Thu)
+80s | 10 | 2 (Thu)
 70s | 10 | 1 (Sat)
-MM10s | 10 | 0 (Thu)
-60s | 6 | 0 (Sat)
+MM10s | 10 | 1 (Thu)
+60s | 6 | 0 (Thu)
+MM00s | 9 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
