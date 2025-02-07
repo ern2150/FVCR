@@ -208,6 +208,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/06/2025 | VCR | Without Reservation rap
+02/06/2025 | VCR | TMNT The Making of the Coming Out of Their Shells Tour
+02/06/2025 | VCR | MEGAMAN ("super fighting robot") part tw--wait it's Boy Meets World instead?!
+02/06/2025 | VCR | Master Tsai's How to Protect Yourself against Weapons
 01/30/2025 | VCR | INFRAMAN
 01/30/2025 | VCR | (attempts at playing tapes are rebuffed by buzzing VCR)
 01/25/2025 | VCR | 1996 Year in Sports (Illustrated)
@@ -232,7 +236,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-01/30/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/06/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
