@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 MM9 | Hit Me Like You Mean It | 11/11/2023  | 7/8/2021 | 59
-89 | Don't You Know the State I'm In? | 05/16/2024 | 07/02/2023 | 47
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 67 | Together We Will Smash Them | 01/30/2025 | 6/20/2021 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 01/30/2025 | 4/4/2021 | 50
+89 | Don't You Know the State I'm In? | 02/08/2025 | 07/02/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 01/30/2025 | 4/4/2021 | 50
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 11 (Sat)
-_90s_ | 2 | 10 (Sat)
-80s | 10 | 2 (Thu)
-70s | 10 | 1 (Sat)
-MM10s | 10 | 1 (Thu)
-60s | 6 | 0 (Thu)
-MM00s | 9 | 0 (Thu)
+Other | 5 | 12 (Sat)
+_90s_ | 2 | 11 (Sat)
+70s | 10 | 2 (Sat)
+MM10s | 10 | 2 (Thu)
+60s | 6 | 1 (Thu)
+MM00s | 9 | 1 (Thu)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -208,6 +208,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/08/2025 | VCR | Techno Police 21C (the pinnacle of animation voice acting)
+02/08/2025 | VCR | (clip of Ninja's Force Trailer Voice)
+02/08/2025 | VCR | "Before They Were WWE Superstars No. 2" (first, ads for Best of Confidential 1, WWE Anthology CD, "Don't Try This at Home")
+02/08/2025 | --- | 𝙍𝙐𝙏𝙃𝙇𝙀𝙎𝙎 𝘼𝙂𝙂𝙍𝙀𝙎𝙎𝙄𝙊𝙉 𝙀𝙍𝘼 𝙋𝙍𝙊𝙋𝘼𝙂𝘼𝙉𝘿𝘼
 02/06/2025 | VCR | Without Reservation rap
 02/06/2025 | VCR | TMNT The Making of the Coming Out of Their Shells Tour
 02/06/2025 | VCR | MEGAMAN ("super fighting robot") part tw--wait it's Boy Meets World instead?!
@@ -236,7 +240,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-02/06/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/08/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
