@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
-88 | Under Attack in Hong Kong | 08/31/2024 | 06/18/2023 | 45
 79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
 MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 71 | I Don't Belong Here | 09/18/2024 | 8/1/2021 | 54
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
 MM4 | I'm Glad to See You're Prepared to Die | 01/30/2025 | 4/4/2021 | 50
 89 | Don't You Know the State I'm In? | 02/08/2025 | 07/02/2023 | 47
 MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
+88 | Under Attack in Hong Kong | 02/15/2025 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 12 (Sat)
-_90s_ | 2 | 11 (Sat)
-70s | 10 | 3 (Sat)
+Other | 5 | 13 (Sat)
+_90s_ | 2 | 12 (Sat)
+70s | 10 | 4 (Sat)
 MM10s | 10 | 3 (Thu)
 60s | 6 | 2 (Thu)
-80s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Thu)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,13 +94,19 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+02/15/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+02/15/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
+02/15/2025 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+02/15/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
+02/15/2025 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+02/15/2025 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+02/15/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-02/13/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 02/13/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 02/13/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 02/13/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 02/13/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-02/13/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/08/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 02/08/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/08/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
@@ -171,12 +177,6 @@ Latest Date | Video / Audio | Debut++
 01/04/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 01/04/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 01/04/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-12/29/2024 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-12/29/2024 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
-12/29/2024 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-12/29/2024 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
-12/29/2024 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-12/29/2024 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
@@ -208,6 +208,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/15/2025 | PS3 | JetMoto2
+02/15/2025 | PS3 | Parappa the Rapper
+02/15/2025 | PS3 | BUSHIDO BLADE
+02/15/2025 | --- | 𝙥𝙡𝙖𝙮𝙨𝙩𝙖𝙩𝙞𝙤𝙣 𝙤𝙣𝙚 𝙛𝙖𝙫𝙨 (PS1 + Stream playlist)
 02/13/2025 | VCR | Angela Lansbury's Positive Moves
 02/08/2025 | VCR | Techno Police 21C (the pinnacle of animation voice acting)
 02/08/2025 | VCR | (clip of Ninja's Force Trailer Voice)
@@ -241,7 +245,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-02/13/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/15/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
