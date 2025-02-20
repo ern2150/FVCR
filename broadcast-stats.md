@@ -18,13 +18,11 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
-79 | A Frightening Experience | 09/07/2024 | 1/16/2022 | 57
 MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 71 | I Don't Belong Here | 09/18/2024 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 09/21/2024 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 83 | I Don't Mind a Little Danger | 09/25/2024 | 06/12/2022 | 50
-76 | If I See Him, I'll Kill Him | 09/27/2024 | 11/21/2021 | 49
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
 MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
@@ -66,6 +64,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 01/30/2025 | 4/4/2021 | 50
 89 | Don't You Know the State I'm In? | 02/08/2025 | 07/02/2023 | 47
 MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 88 | Under Attack in Hong Kong | 02/15/2025 | 06/18/2023 | 45
+76 | If I See Him, I'll Kill Him | 02/19/2025 | 11/21/2021 | 49
+79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 13 (Sat)
 _90s_ | 2 | 12 (Sat)
-70s | 10 | 4 (Sat)
 MM10s | 10 | 3 (Thu)
 60s | 6 | 2 (Thu)
 MM00s | 9 | 0 (Thu)
 80s | 10 | 0 (Sat)
+70s | 10 | 4 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,6 +94,12 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
+02/19/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+02/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+02/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
+02/19/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+02/19/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 02/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 02/15/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 02/15/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -108,7 +114,6 @@ Latest Date | Video / Audio | Debut++
 02/13/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 02/13/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 02/08/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-02/08/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/08/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 02/08/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 02/08/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
@@ -172,11 +177,6 @@ Latest Date | Video / Audio | Debut++
 01/09/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 01/09/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 01/09/2025 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-01/04/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-01/04/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-01/04/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
-01/04/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-01/04/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
@@ -245,7 +245,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-02/15/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/19/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
