@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+02/23/2025 | VCR | Ben Vereen Sing Along feat. the Peter Pan Kids (stops after "This Old Man" starts)
 02/15/2025 | PS3 | JetMoto2
 02/15/2025 | PS3 | Parappa the Rapper
 02/15/2025 | PS3 | BUSHIDO BLADE
