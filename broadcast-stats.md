@@ -17,12 +17,10 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 69 | SUMMERTIME | 07/06/2024 | 7/4/2021 | 65
 SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
-MM8 | The Sword of Catastrophe | 08/31/2024 | 6/15/2021 | 58
 MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 71 | I Don't Belong Here | 09/18/2024 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 09/21/2024 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
-83 | I Don't Mind a Little Danger | 09/25/2024 | 06/12/2022 | 50
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
 MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
@@ -66,6 +64,8 @@ MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 88 | Under Attack in Hong Kong | 02/15/2025 | 06/18/2023 | 45
 76 | If I See Him, I'll Kill Him | 02/19/2025 | 11/21/2021 | 49
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
+MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
+83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,9 +77,9 @@ Other | 5 | 14 (Sat)
 _90s_ | 2 | 13 (Sat)
 MM10s | 10 | 4 (Thu)
 60s | 6 | 3 (Thu)
-MM00s | 9 | 1 (Thu)
-80s | 10 | 1 (Sat)
 70s | 10 | 0 (Wed)
+MM00s | 9 | 0 (Sun)
+80s | 10 | 0 (Sun)
 
 
 Mixtapes with Updates (by Last Changed) 
