@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 14 (Sat)
 _90s_ | 2 | 13 (Sat)
-MM10s | 10 | 4 (Thu)
-60s | 6 | 3 (Thu)
-70s | 10 | 0 (Wed)
+MM10s | 10 | 5 (Thu)
+70s | 10 | 1 (Wed)
 MM00s | 9 | 0 (Sun)
 80s | 10 | 0 (Sun)
+60s | 6 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
