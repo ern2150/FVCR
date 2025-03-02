@@ -28,11 +28,9 @@ MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 MM3 | Blood, Lust, and Intrigue | 10/15/2024 | 3/9/2021 | 54
 MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-90 | Every Different Way of Killing | 10/30/2024 | 07/23/2023 | 47
 82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
 91 | Reprieve from Chaos | 11/09/2024 | 02/03/2024 | 49
 MM13 | Keep on Winning | 11/13/2024 | 8/22/2021 | 56
-86 | The Passion and Death of their Struggle | 11/21/2024 | 12/22/2022 | 43
 MM17 | Ninja Challenge Card | 11/24/2024 | 1/2/2022 | 52
 77 | Ninja City | 11/24/2024 | 11/28/2021 | 49
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
@@ -66,6 +64,8 @@ MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
 69 | SUMMERTIME | 02/27/2025 | 7/4/2021 | 65
+86 | The Passion and Death of their Struggle | 03/01/2025 | 12/22/2022 | 43
+90 | Every Different Way of Killing | 03/01/2025 | 07/23/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 14 (Sat)
-_90s_ | 2 | 13 (Sat)
+Other | 5 | 15 (Sat)
 MM10s | 10 | 5 (Thu)
 70s | 10 | 1 (Wed)
 MM00s | 9 | 0 (Sun)
-80s | 10 | 0 (Sun)
 60s | 6 | 0 (Thu)
+80s | 10 | 0 (Sat)
+_90s_ | 2 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/01/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+03/01/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+03/01/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+03/01/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+03/01/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+03/01/2025 | Knight of Justice Death Call / (same as video) | 5/6/2021
+03/01/2025 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+03/01/2025 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+03/01/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+03/01/2025 | SHIT FUCK / (same as video) | 5/4/2021
+03/01/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+03/01/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 02/27/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/27/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 02/27/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 02/27/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 02/27/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-02/27/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/23/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 02/23/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 02/23/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -111,7 +122,6 @@ Latest Date | Video / Audio | Debut++
 02/19/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 02/19/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 02/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-02/15/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 02/15/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 02/15/2025 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 02/15/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
@@ -167,16 +177,6 @@ Latest Date | Video / Audio | Debut++
 01/16/2025 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 01/16/2025 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 01/16/2025 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-01/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-01/15/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-01/15/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-01/15/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-01/15/2025 | Knight of Justice Death Call / (same as video) | 5/6/2021
-01/15/2025 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-01/15/2025 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-01/15/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-01/15/2025 | SHIT FUCK / (same as video) | 5/4/2021
-01/15/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
@@ -247,7 +247,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-02/27/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+03/01/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
