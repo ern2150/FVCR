@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/05/2025 | VCR | Knots Lading Block Party
+03/05/2025 | VCR | Sally Jesse Raphael "Sally, Help Me Lose Weight" / News segment on "Internet Jobs" / back to Wall Street Week.
+03/05/2025 | --- | 𝙍𝙀𝘾𝙊𝙍𝘿𝙀𝘿 𝙑𝙃𝙎 𝙒𝙄𝙏𝙃 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇𝙎
 02/27/2025 | VCR | Eyewitness: Shell (AV Mix) - (rewinds to dolphin-man-milk, VCR BYEs lol, switches to other, sans music overdub)
 02/23/2025 | VCR | Ben Vereen Sing Along feat. the Peter Pan Kids (stops after "This Old Man" starts)
 02/15/2025 | PS3 | JetMoto2
