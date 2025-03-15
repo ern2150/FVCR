@@ -94,8 +94,16 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+03/15/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+03/15/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+03/15/2025 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+03/15/2025 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+03/15/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+03/15/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+03/15/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
+03/15/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-03/13/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/13/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 03/13/2025 | FMW Opener / FMW Closer | 12/6/2020
 03/13/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -106,7 +114,6 @@ Latest Date | Video / Audio | Debut++
 03/13/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 03/13/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 03/13/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-03/13/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 03/05/2025 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 03/05/2025 | Baki end whiteout / (same as video) | 4/13/2021
@@ -170,13 +177,6 @@ Latest Date | Video / Audio | Debut++
 01/25/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 01/25/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 01/25/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-01/23/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-01/23/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-01/23/2025 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-01/23/2025 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-01/23/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-01/23/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-01/23/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
