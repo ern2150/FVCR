@@ -208,7 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
-03/13/2025 | VCR | (Chicago sourced Salvation Army tape... a "kid city" news program run by attendees) "Chelsea 4:30" 
+03/15/2025 | PS3 | ExtremeDays, then the EXPN XBS junket
+03/15/2025 | PS3 | DVD Time! (Found in Chicago trip)  
+03/13/2025 | VCR | (Chicago sourced Salvation Army tape... a "kid city" news program run by attendees) "Chelsea 4:30" (Mundo de Adeveras Televisa)
 03/13/2025 | VCR | Joe Camp's Benji (Takes a Dive) at Marine Land
 03/05/2025 | VCR | Knots Lading Block Party
 03/05/2025 | VCR | Sally Jesse Raphael "Sally, Help Me Lose Weight" / News segment on "Internet Jobs" / back to Wall Street Week.
