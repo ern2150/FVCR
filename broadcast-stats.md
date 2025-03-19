@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-SMS1 | Saturday Morning Simulator | 08/03/2024 | 09/30/2023 | 117
 MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
@@ -66,6 +65,7 @@ MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 90 | Every Different Way of Killing | 03/01/2025 | 07/23/2023 | 47
 71 | I Don't Belong Here | 03/13/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
+SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/2023 | 117
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 17 (Sat)
-MM00s | 9 | 2 (Sun)
+MM00s | 9 | 3 (Sun)
 60s | 6 | 2 (Thu)
 80s | 10 | 2 (Sat)
 _90s_ | 2 | 2 (Sat)
 70s | 10 | 0 (Thu)
 MM10s | 10 | 0 (Sat)
+Other | 5 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,6 +94,9 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
+03/18/2025 | --
+03/18/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 03/15/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/15/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
@@ -102,7 +105,6 @@ Latest Date | Video / Audio | Debut++
 03/15/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 03/15/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 03/15/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
-03/15/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 03/13/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 03/13/2025 | FMW Opener / FMW Closer | 12/6/2020
@@ -194,8 +196,6 @@ Latest Date | Video / Audio | Debut++
 11/27/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
 11/27/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 11/27/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-08/03/2024 | --
-08/03/2024 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 
 
 ++ outside of a mixtape or bonus clip, as a stream opener
@@ -254,7 +254,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-03/15/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+03/18/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
