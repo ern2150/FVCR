@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-MM7 | I'd Like to See You Try and Hurt Me | 09/14/2024 | 6/6/2021 | 58
 MM5 | Danger Straight Ahead | 09/25/2024 | 4/4/2021 | 57
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
 MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
@@ -66,6 +65,7 @@ MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 71 | I Don't Belong Here | 03/13/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
 SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/2023 | 117
+MM7 | I'd Like to See You Try and Hurt Me | 03/22/2025 | 6/6/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/20
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-MM00s | 9 | 3 (Sun)
-60s | 6 | 2 (Thu)
-80s | 10 | 2 (Sat)
-_90s_ | 2 | 2 (Sat)
-70s | 10 | 0 (Thu)
-MM10s | 10 | 0 (Sat)
+60s | 6 | 3 (Thu)
+80s | 10 | 3 (Sat)
+_90s_ | 2 | 3 (Sat)
+70s | 10 | 1 (Thu)
+MM10s | 10 | 1 (Sat)
 Other | 5 | 0 (Tue)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
