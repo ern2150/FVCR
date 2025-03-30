@@ -208,6 +208,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/27/2025 | PS3 | (Back on the horse)
+03/27/2025 | VHS | CBS Presents: Unforgettable People with Charles Kuralt
+03/27/2025 | VHS | realAge with Dr. Mike Roizen from WTTW (up until we could decipher the floating words)
+03/27/2025 | PS3 | "A PS2 GAME I FOUND ON THE GROUND": Gallop Racer 2001
 03/22/2025 | VHS | Totaled! 
 03/15/2025 | PS3 | ExtremeDays, then the EXPN XBS junket
 03/15/2025 | PS3 | DVD Time! (Found in Chicago trip)  
