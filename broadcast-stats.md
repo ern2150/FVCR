@@ -94,13 +94,17 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+04/05/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+04/05/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+04/05/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+04/05/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/03/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 04/03/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 04/03/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 04/03/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 04/03/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 04/03/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-04/03/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 03/27/2025 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 03/27/2025 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -175,10 +179,6 @@ Latest Date | Video / Audio | Debut++
 02/13/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 02/13/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 02/13/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-02/08/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-02/08/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-02/08/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-02/08/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/05/2025 | VHS | MORE DINOSAURS! (starring Gary Owens)
+04/05/2025 | VHS | Yamaha's Music and the Brain 
+04/05/2025 | VHS | Point of Impact (vehicles crashin' 'n' shit)
 04/03/2025 | VHS | Timeless Tales by Hallmark with Olivia-Newton-John
 04/03/2025 | VHS | Ocean Video Maui
 04/03/2025 | PS2 | PaRappaTheRapper 2
@@ -263,7 +266,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-04/03/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+04/05/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
