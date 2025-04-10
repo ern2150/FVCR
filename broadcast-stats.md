@@ -208,6 +208,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/09/2025 | PS2 | Soul Caliber 2 - Demo Disc for Namco Transmission vol 1.3 (2003): Pac Man World 2 (video), Tekken 4 (play), Kill Switch (play),  
+04/09/2025 | VHS | World Class Memories - Imperial Majesty vacation sales tape
+04/09/2025 | VHS | Ultimate Knockout Training... or is it Tractor Train-ing? (stops after several Farm Reports)
+04/09/2025 | PS2 | PaRappaTheRapper 2
 04/05/2025 | VHS | MORE DINOSAURS! (starring Gary Owens)
 04/05/2025 | VHS | Yamaha's Music and the Brain 
 04/05/2025 | VHS | Point of Impact (vehicles crashin' 'n' shit)
