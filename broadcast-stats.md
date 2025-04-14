@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
-MM18 | Fought Against All Evils | 10/02/2024  | 1/23/2022 | 51
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
@@ -66,6 +65,7 @@ SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/20
 MM7 | I'd Like to See You Try and Hurt Me | 03/22/2025 | 6/6/2021 | 58
 MM5 | Danger Straight Ahead | 04/03/2025 | 4/4/2021 | 57
 91 | Reprieve from Chaos | 04/09/2025 | 02/03/2024 | 49
+MM18 | Fought Against All Evils | 04/12/2025  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
