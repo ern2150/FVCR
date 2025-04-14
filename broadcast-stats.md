@@ -94,14 +94,19 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/12/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+04/12/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+04/12/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+04/12/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+04/12/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+04/12/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+04/12/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-04/09/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/09/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 04/09/2025 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 04/09/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 04/09/2025 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 04/09/2025 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-04/09/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 04/05/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 04/05/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -123,8 +128,8 @@ Latest Date | Video / Audio | Debut++
 03/22/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 03/22/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 03/22/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 03/18/2025 | --
+03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 03/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 03/15/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 03/15/2025 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -174,11 +179,6 @@ Latest Date | Video / Audio | Debut++
 02/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 02/19/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 02/19/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-02/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-02/13/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-02/13/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-02/13/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-02/13/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
 11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
