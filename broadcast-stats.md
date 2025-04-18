@@ -24,7 +24,6 @@ MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
 MM13 | Keep on Winning | 11/13/2024 | 8/22/2021 | 56
-MM17 | Ninja Challenge Card | 11/24/2024 | 1/2/2022 | 52
 77 | Ninja City | 11/24/2024 | 11/28/2021 | 49
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
@@ -66,6 +65,7 @@ MM7 | I'd Like to See You Try and Hurt Me | 03/22/2025 | 6/6/2021 | 58
 MM5 | Danger Straight Ahead | 04/03/2025 | 4/4/2021 | 57
 91 | Reprieve from Chaos | 04/09/2025 | 02/03/2024 | 49
 MM18 | Fought Against All Evils | 04/12/2025  | 1/23/2022 | 51
+MM17 | Ninja Challenge Card | 04/17/2025 | 1/2/2022 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM18 | Fought Against All Evils | 04/12/2025  | 1/23/2022 | 51
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 4 (Thu)
-80s | 10 | 5 (Sat)
-70s | 10 | 2 (Thu)
-MM10s | 10 | 3 (Sat)
-Other | 5 | 2 (Tue)
-MM00s | 9 | 0 (Thu)
-_90s_ | 2 | 0 (Wed)
+60s | 6 | 7 (Thu)
+80s | 10 | 6 (Sat)
+70s | 10 | 4 (Thu)
+Other | 5 | 4 (Tue)
+MM00s | 9 | 2 (Thu)
+_90s_ | 2 | 1 (Wed)
+MM10s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,13 +94,13 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/17/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/12/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 04/12/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/12/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 04/12/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 04/12/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 04/12/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-04/12/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 04/09/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 04/09/2025 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/17/2025 | Wii | Muscle March
+04/17/2025 | Wii | Trauma Center: Second Opinion (Discussion of Pepsi Wii dollars and Homebrew first)
 04/12/2025 | VHS | "Life of the Party" - QVC Dance Grooves with Karen and Chris
 04/12/2025 | VHS | "How to Keep Your Pet Healthy" - Science Diet infomercial
 04/12/2025 | VHS | "An Important Message" - Remington Firearm Safety
@@ -273,7 +275,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-04/12/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+04/17/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
