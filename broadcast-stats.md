@@ -19,7 +19,6 @@ MM10 | The Splatter and Gore Department | 10/02/2024 | 7/15/2021 | 59
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
-MM3 | Blood, Lust, and Intrigue | 10/15/2024 | 3/9/2021 | 54
 MM16 | Today We Shall Kill Each Other | 10/26/2024 | 12/21/2021 | 52
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
@@ -66,6 +65,7 @@ MM5 | Danger Straight Ahead | 04/03/2025 | 4/4/2021 | 57
 91 | Reprieve from Chaos | 04/09/2025 | 02/03/2024 | 49
 MM18 | Fought Against All Evils | 04/12/2025  | 1/23/2022 | 51
 MM17 | Ninja Challenge Card | 04/17/2025 | 1/2/2022 | 52
+MM3 | Blood, Lust, and Intrigue | 04/19/2025 | 3/9/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM17 | Ninja Challenge Card | 04/17/2025 | 1/2/2022 | 52
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 7 (Thu)
-80s | 10 | 6 (Sat)
+80s | 10 | 7 (Sat)
 70s | 10 | 4 (Thu)
 Other | 5 | 4 (Tue)
-MM00s | 9 | 2 (Thu)
 _90s_ | 2 | 1 (Wed)
 MM10s | 10 | 0 (Thu)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
