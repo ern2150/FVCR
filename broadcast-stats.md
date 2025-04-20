@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/19/2025 | VHS | Tiffany Stories: How to Buy a Diamond
 04/17/2025 | Wii | Muscle March
 04/17/2025 | Wii | Trauma Center: Second Opinion (Discussion of Pepsi Wii dollars and Homebrew first)
 04/12/2025 | VHS | "Life of the Party" - QVC Dance Grooves with Karen and Chris
