@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/19/2025 | VHS | 𝘼𝙉𝙄𝙈𝙀 𝙊𝙉 𝙑𝙃𝙎 - 𝘽𝙐𝙍𝙉𝙄𝙉𝙂 𝙉𝙄𝙂𝙃𝙏 𝙊𝙑𝘼 1991 (𝘿𝙐𝘽𝘽𝙀𝘿)
 04/19/2025 | VHS | Tiffany Stories: How to Buy a Diamond
 04/17/2025 | Wii | Muscle March
 04/17/2025 | Wii | Trauma Center: Second Opinion (Discussion of Pepsi Wii dollars and Homebrew first)
@@ -276,7 +277,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-04/17/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+04/19/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
