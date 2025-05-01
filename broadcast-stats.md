@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/30/2025 | VHS | The World of Volcanoes presents KILLER VOLCANOES
+04/30/2025 | VHS | Power Basics of Sports: Soccer
+04/30/2025 | VHS | 𝙂𝙊𝘿'𝙎 𝙏𝙊𝙋 𝙏𝙀𝙉
 04/19/2025 | VHS | 𝘼𝙉𝙄𝙈𝙀 𝙊𝙉 𝙑𝙃𝙎 - 𝘽𝙐𝙍𝙉𝙄𝙉𝙂 𝙉𝙄𝙂𝙃𝙏 𝙊𝙑𝘼 1991 (𝘿𝙐𝘽𝘽𝙀𝘿)
 04/19/2025 | VHS | Tiffany Stories: How to Buy a Diamond
 04/17/2025 | Wii | Muscle March
