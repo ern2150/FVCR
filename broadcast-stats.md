@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/01/2025 | VHS | Danny Gans
+05/01/2025 | VHS | Jellies: Phantoms of the Deep (AV Mix)
 04/30/2025 | VHS | The World of Volcanoes presents KILLER VOLCANOES
 04/30/2025 | VHS | Power Basics of Sports: Soccer
 04/30/2025 | VHS | 𝙂𝙊𝘿'𝙎 𝙏𝙊𝙋 𝙏𝙀𝙉
