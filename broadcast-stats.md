@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/08/2024 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
@@ -23,7 +22,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 77 | Ninja City | 11/24/2024 | 11/28/2021 | 49
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
-80 | Pass Through All Hard Times | 12/14/2024 | 02/20/2022 | 46
 87 | Win without Failing | 12/14/2024 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
 84 | Poor Doomed Humans | 12/26/2024 | 10/16/2022 | 51
@@ -66,6 +64,8 @@ MM3 | Blood, Lust, and Intrigue | 04/19/2025 | 3/9/2021 | 54
 MM10 | The Splatter and Gore Department | 04/24/2025 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 04/24/2025 | 12/21/2021 | 52
 MM13 | Keep on Winning | 05/01/2025 | 8/22/2021 | 56
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/03/2025 | 10/10/2021 | 52
+80 | Pass Through All Hard Times | 05/03/2025 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM13 | Keep on Winning | 05/01/2025 | 8/22/2021 | 56
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 9 (Thu)
-80s | 10 | 8 (Sat)
-70s | 10 | 7 (Thu)
 Other | 5 | 6 (Tue)
 _90s_ | 2 | 3 (Wed)
-MM00s | 9 | 1 (Sat)
+MM00s | 9 | 2 (Sat)
 MM10s | 10 | 0 (Thu)
+70s | 10 | 0 (Sat)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
