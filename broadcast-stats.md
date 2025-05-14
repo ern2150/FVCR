@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-82 | Are You Looking for Death? | 10/30/2024 | 05/15/2022 | 50
 77 | Ninja City | 11/24/2024 | 11/28/2021 | 49
 MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
@@ -66,6 +65,7 @@ MM16 | Today We Shall Kill Each Other | 04/24/2025 | 12/21/2021 | 52
 MM13 | Keep on Winning | 05/01/2025 | 8/22/2021 | 56
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/03/2025 | 10/10/2021 | 52
 80 | Pass Through All Hard Times | 05/03/2025 | 02/20/2022 | 46
+82 | Are You Looking for Death? | 05/13/2025 | 05/15/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM13 | Keep on Winning | 05/01/2025 | 8/22/2021 | 56
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 9 (Thu)
-Other | 5 | 6 (Tue)
-_90s_ | 2 | 3 (Wed)
-MM00s | 9 | 2 (Sat)
-MM10s | 10 | 0 (Thu)
-70s | 10 | 0 (Sat)
-80s | 10 | 0 (Sat)
+60s | 6 | 10 (Thu)
+Other | 5 | 7 (Tue)
+_90s_ | 2 | 4 (Wed)
+MM00s | 9 | 3 (Sat)
+MM10s | 10 | 1 (Thu)
+70s | 10 | 1 (Sat)
+80s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -208,7 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
-05/13/2025 | VHS | (student-submitted tapes) Yakov Smirnov in Branson - American Audience Interviews You!
+05/13/2025 | VHS | (student-submitted tapes) "JOKES FROM THE FOLKS" Yakov Smirnov in Branson - American Audience Interviews You!
 05/01/2025 | VHS | Danny Gans
 05/01/2025 | VHS | Jellies: Phantoms of the Deep (AV Mix)
 04/30/2025 | VHS | The World of Volcanoes presents KILLER VOLCANOES
