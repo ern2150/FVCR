@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/13/2025 | VHS | (student-submitted tapes) Yakov Smirnov in Branson - American Audience Interviews You!
 05/01/2025 | VHS | Danny Gans
 05/01/2025 | VHS | Jellies: Phantoms of the Deep (AV Mix)
 04/30/2025 | VHS | The World of Volcanoes presents KILLER VOLCANOES
