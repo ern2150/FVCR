@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+05/15/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/15/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+05/15/2025 | FMW Opener / FMW Closer | 12/6/2020
+05/15/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+05/15/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+05/15/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
+05/15/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+05/15/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+05/15/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+05/15/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+05/15/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+05/15/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-05/13/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/13/2025 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 05/13/2025 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 05/13/2025 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 05/13/2025 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-05/13/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/03/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 05/03/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 05/03/2025 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -161,17 +172,6 @@ Latest Date | Video / Audio | Debut++
 03/22/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 03/18/2025 | --
 03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
-03/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-03/13/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-03/13/2025 | FMW Opener / FMW Closer | 12/6/2020
-03/13/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-03/13/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-03/13/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
-03/13/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-03/13/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-03/13/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-03/13/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-03/13/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 03/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 03/05/2025 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 03/05/2025 | Baki end whiteout / (same as video) | 4/13/2021
