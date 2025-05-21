@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-MM1 | Get Rich Regardless of the Means (End of 2019) | 11/27/2024 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 12/11/2024 | 5/20/2021 | 73
 87 | Win without Failing | 12/14/2024 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
@@ -66,6 +65,7 @@ MM13 | Keep on Winning | 05/01/2025 | 8/22/2021 | 56
 MM15 | Don't Be Afraid of Me | 05/15/2025 | 12/05/2021 | 55
 77 | Ninja City | 05/17/2025 | 11/28/2021 | 49
 84 | Poor Doomed Humans | 05/17/2025 | 10/16/2022 | 51
+MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM15 | Don't Be Afraid of Me | 05/15/2025 | 12/05/2021 | 55
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 60s | 6 | 11 (Thu)
-Other | 5 | 7 (Tue)
+Other | 5 | 8 (Tue)
 _90s_ | 2 | 5 (Wed)
-MM00s | 9 | 4 (Sat)
-70s | 10 | 0 (Sat)
-80s | 10 | 0 (Tue)
 MM10s | 10 | 0 (Thu)
+70s | 10 | 0 (Sat)
+80s | 10 | 0 (Sat)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
