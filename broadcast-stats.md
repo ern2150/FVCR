@@ -94,13 +94,19 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/20/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+05/20/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/20/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+05/20/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+05/20/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+05/20/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+05/20/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+05/20/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/17/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-05/17/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/17/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 05/17/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 05/17/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 05/17/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-05/17/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 05/15/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 05/15/2025 | FMW Opener / FMW Closer | 12/6/2020
@@ -164,12 +170,6 @@ Latest Date | Video / Audio | Debut++
 04/05/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 04/05/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 04/05/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-03/22/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-03/22/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-03/22/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-03/22/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-03/22/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-03/22/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 03/18/2025 | --
 03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 03/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
