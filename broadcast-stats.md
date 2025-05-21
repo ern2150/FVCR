@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/20/2025 | VHS | Sweet Sea
 05/15/2025 | VHS | Las Vegas Video Postcard: 100 Years
 05/13/2025 | VHS | (student-submitted tapes) "JOKES FROM THE FOLKS" Yakov Smirnov in Branson - American Audience Interviews You!
 05/01/2025 | VHS | Danny Gans
