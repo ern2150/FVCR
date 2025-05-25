@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/24/2025 | VHS | "Weird nature tape I found while I go find the mixtape" (soft focus ficus and piano tinkling) DINO MAJESTIC PEACE
+05/24/2025 | VHS | Macron-1: Fighting for Truth and Justi--NOPE, TAPE BROKE
+05/24/2025 | VHS | "ADV Two Ep Anime" 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝘼𝙉𝙄𝙈𝙀 𝙉𝙄𝙂𝙃𝙏: 801 𝙏.𝙏.𝙎. 𝘼𝙄𝙍𝘽𝘼𝙏𝙎 3𝙍𝘿 𝙎𝙏𝙍𝙄𝙆𝙀 (episode 6 only)
 05/20/2025 | VHS | Sweet Sea
 05/15/2025 | VHS | Las Vegas Video Postcard: 100 Years
 05/13/2025 | VHS | (student-submitted tapes) "JOKES FROM THE FOLKS" Yakov Smirnov in Branson - American Audience Interviews You!
