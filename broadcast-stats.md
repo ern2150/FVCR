@@ -94,6 +94,12 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/29/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+05/29/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+05/29/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+05/29/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+05/29/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+05/29/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/24/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 05/24/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 05/24/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -101,9 +107,7 @@ Latest Date | Video / Audio | Debut++
 05/24/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 05/24/2025 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 05/24/2025 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-05/24/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/20/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-05/20/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 05/20/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 05/20/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 05/20/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
@@ -166,10 +170,6 @@ Latest Date | Video / Audio | Debut++
 04/12/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 04/12/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 04/12/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-04/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-04/05/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-04/05/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-04/05/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 03/18/2025 | --
 03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 03/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
