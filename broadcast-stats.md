@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 12 (Thu)
-Other | 5 | 8 (Tue)
-_90s_ | 2 | 6 (Wed)
-MM10s | 10 | 1 (Thu)
+60s | 6 | 13 (Thu)
+Other | 5 | 9 (Tue)
+_90s_ | 2 | 7 (Wed)
+MM10s | 10 | 2 (Thu)
 70s | 10 | 1 (Sat)
-80s | 10 | 1 (Sat)
 MM00s | 9 | 0 (Sat)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -290,7 +290,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-05/24/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+05/29/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
