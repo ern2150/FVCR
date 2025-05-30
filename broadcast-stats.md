@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/29/2025 | PS2 | (gifted game) INIDGO PROPHECY
+05/29/2025 | PS2 | (dollar bin PS2 games) SUPER TRUCKS
 05/24/2025 | VHS | "Weird nature tape I found while I go find the mixtape" (soft focus ficus and piano tinkling) DINO MAJESTIC PEACE
 05/24/2025 | VHS | Macron-1: Fighting for Truth and Justi--NOPE, TAPE BROKE
 05/24/2025 | VHS | "ADV Two Ep Anime" 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝘼𝙉𝙄𝙈𝙀 𝙉𝙄𝙂𝙃𝙏: 801 𝙏.𝙏.𝙎. 𝘼𝙄𝙍𝘽𝘼𝙏𝙎 3𝙍𝘿 𝙎𝙏𝙍𝙄𝙆𝙀 (episode 6 only)
@@ -226,7 +228,7 @@ Latest Date | Cam / Video / Audio | Stuff
 04/12/2025 | VHS | "Life of the Party" - QVC Dance Grooves with Karen and Chris
 04/12/2025 | VHS | "How to Keep Your Pet Healthy" - Science Diet infomercial
 04/12/2025 | VHS | "An Important Message" - Remington Firearm Safety
-04/09/2025 | PS2 | Soul Caliber 2 - Demo Disc for Namco Transmission vol 1.3 (2003): Pac Man World 2 (video), Tekken 4 (play), Kill Switch (play),  
+04/09/2025 | PS2 | Soul Caliber 2 - Demo Disc for Namco Transmission vol 1.3 (2003): Pac Man World 2 (video), Tekken 4 (play), Kill Switch (play)  
 04/09/2025 | VHS | World Class Memories - Imperial Majesty vacation sales tape
 04/09/2025 | VHS | Ultimate Knockout Training... or is it Tractor Train-ing? (stops after several Farm Reports)
 04/09/2025 | PS2 | PaRappaTheRapper 2
