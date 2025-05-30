@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-87 | Win without Failing | 12/14/2024 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
 85 | The Power You Are Seeking | 12/26/2024 | 11/13/2022 | 45
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
@@ -66,6 +65,7 @@ MM15 | Don't Be Afraid of Me | 05/15/2025 | 12/05/2021 | 55
 84 | Poor Doomed Humans | 05/17/2025 | 10/16/2022 | 51
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
+87 | Win without Failing | 05/29/2025 | 02/12/2023 | 46
 
 
 "Decades" by Weeks Since Seen, descending
