@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-68 | Endless Chain of Duels and Killings | 12/21/2024 | 6/27/2021 | 54
 85 | The Power You Are Seeking | 12/26/2024 | 11/13/2022 | 45
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
 61 | I Must Make Sure You Fail | 01/04/2025  | 3/14/2021 | 53
@@ -66,6 +65,7 @@ MM15 | Don't Be Afraid of Me | 05/15/2025 | 12/05/2021 | 55
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 87 | Win without Failing | 05/29/2025 | 02/12/2023 | 46
+68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 13 (Thu)
 Other | 5 | 9 (Tue)
 _90s_ | 2 | 7 (Wed)
 MM10s | 10 | 2 (Thu)
-70s | 10 | 1 (Sat)
-MM00s | 9 | 0 (Sat)
-80s | 10 | 0 (Sat)
+70s | 10 | 2 (Sat)
+MM00s | 9 | 1 (Sat)
+80s | 10 | 0 (Thu)
+60s | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -208,7 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
-05/31/2025 | VHS | 𝙍𝙀𝘼𝘿𝙔, 𝙎𝙀𝙏... 𝙍𝙊𝙇𝙇! 
+05/31/2025 | VHS | (bonus clip while finding mixtape) MAGIC EYE II (Last Seen 12/23/2023)
+05/31/2025 | VHS | Rollerblade: Basics of Inline Skating "𝙍𝙀𝘼𝘿𝙔, 𝙎𝙀𝙏... 𝙍𝙊𝙇𝙇!" (Last Seen 07/11/2024) 
 05/31/2025 | VHS | Rollerblade: InLineInLife! (Last Seen 07/18/2024)
 05/29/2025 | PS2 | (gifted game) INIDGO PROPHECY
 05/29/2025 | PS2 | (dollar bin PS2 games) SUPER TRUCKS
