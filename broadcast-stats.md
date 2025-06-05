@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/05/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 1: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙈𝘼𝙈𝙈𝘼𝙇𝙎 (𝙑𝙃𝙎 1995)
 05/31/2025 | VHS | (bonus clip while finding mixtape) MAGIC EYE II (Last Seen 12/23/2023)
 05/31/2025 | VHS | Rollerblade: Basics of Inline Skating "𝙍𝙀𝘼𝘿𝙔, 𝙎𝙀𝙏... 𝙍𝙊𝙇𝙇!" (Last Seen 07/11/2024) 
 05/31/2025 | VHS | Rollerblade: InLineInLife! (Last Seen 07/18/2024)
