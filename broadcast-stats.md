@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 85 | The Power You Are Seeking | 12/26/2024 | 11/13/2022 | 45
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
-61 | I Must Make Sure You Fail | 01/04/2025  | 3/14/2021 | 53
 MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 75 | Never Show Emotion | 01/11/2025 | 11/07/2021 | 48
 78 | All for Revenge | 01/15/2025 | 1/9/2022 | 50
@@ -66,6 +65,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 |
 MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 87 | Win without Failing | 05/29/2025 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
+61 | I Must Make Sure You Fail | 06/05/2025  | 3/14/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 9 (Tue)
-_90s_ | 2 | 7 (Wed)
-MM10s | 10 | 2 (Thu)
+Other | 5 | 10 (Tue)
+_90s_ | 2 | 8 (Wed)
+MM10s | 10 | 3 (Thu)
 70s | 10 | 2 (Sat)
 MM00s | 9 | 1 (Sat)
-80s | 10 | 0 (Thu)
-60s | 6 | 0 (Sat)
+80s | 10 | 1 (Thu)
+60s | 6 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
