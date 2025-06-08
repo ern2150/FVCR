@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-85 | The Power You Are Seeking | 12/26/2024 | 11/13/2022 | 45
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
 MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 75 | Never Show Emotion | 01/11/2025 | 11/07/2021 | 48
@@ -66,6 +65,7 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 87 | Win without Failing | 05/29/2025 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 61 | I Must Make Sure You Fail | 06/05/2025  | 3/14/2021 | 53
+85 | The Power You Are Seeking | 06/07/2025 | 11/13/2022 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 Other | 5 | 10 (Tue)
 _90s_ | 2 | 8 (Wed)
 MM10s | 10 | 3 (Thu)
-70s | 10 | 2 (Sat)
-MM00s | 9 | 1 (Sat)
-80s | 10 | 1 (Thu)
+70s | 10 | 3 (Sat)
+MM00s | 9 | 2 (Sat)
 60s | 6 | 0 (Thu)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
