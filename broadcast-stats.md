@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/19/2025 | VHS | Kelly the Hero (first VCR don't like it, switches to Sony, plays one ep)
+06/19/2025 | VHS | McGee and Me: A Star in the Breaking
 06/07/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 2: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙋𝙍𝙀𝘿𝘼𝙏𝙊𝙍𝙎 (𝙑𝙃𝙎 1995)
 06/05/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 1: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙈𝘼𝙈𝙈𝘼𝙇𝙎 (𝙑𝙃𝙎 1995)
 05/31/2025 | VHS | (bonus clip while finding mixtape) MAGIC EYE II (Last Seen 12/23/2023)
