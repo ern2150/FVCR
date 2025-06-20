@@ -22,7 +22,6 @@ MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
 MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 01/16/2025 | 9/21/2021 | 62
-81 | One Hell of a Nobody | 01/16/2025 | 03/27/2022 | 53
 70 | Take the Fight to the Enemy | 01/18/2025 | 7/11/2021 | 54
 72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
@@ -66,6 +65,7 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 85 | The Power You Are Seeking | 06/07/2025 | 11/13/2022 | 45
 75 | Never Show Emotion | 06/12/2025 | 11/07/2021 | 48
 78 | All for Revenge | 06/12/2025 | 1/9/2022 | 50
+81 | One Hell of a Nobody | 06/19/2025 | 03/27/2022 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 11 (Tue)
-_90s_ | 2 | 9 (Wed)
-MM10s | 10 | 4 (Thu)
-MM00s | 9 | 2 (Sat)
-60s | 6 | 1 (Thu)
-80s | 10 | 0 (Sat)
-70s | 10 | 0 (Thu)
+Other | 5 | 12 (Tue)
+_90s_ | 2 | 10 (Wed)
+MM10s | 10 | 5 (Thu)
+MM00s | 9 | 3 (Sat)
+60s | 6 | 2 (Thu)
+70s | 10 | 1 (Thu)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
