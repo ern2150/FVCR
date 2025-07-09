@@ -19,10 +19,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
-MM12 | Evil Is Never Invincible | 01/09/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 01/16/2025 | 9/21/2021 | 62
-70 | Take the Fight to the Enemy | 01/18/2025 | 7/11/2021 | 54
 72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
@@ -66,6 +64,8 @@ MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 MM4 | I'm Glad to See You're Prepared to Die | 06/21/2025 | 4/4/2021 | 50
 88 | Under Attack in Hong Kong | 06/28/2025 | 06/18/2023 | 45
 89 | Don't You Know the State I'm In? | 06/28/2025 | 07/02/2023 | 47
+70 | Take the Fight to the Enemy | 07/08/2025 | 7/11/2021 | 54
+MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 06/21/2025 | 4/4/2021 | 50
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 13 (Tue)
-_90s_ | 2 | 11 (Wed)
-MM10s | 10 | 6 (Thu)
-60s | 6 | 3 (Thu)
-70s | 10 | 2 (Thu)
-MM00s | 9 | 1 (Sat)
-80s | 10 | 0 (Sat)
+Other | 5 | 14 (Tue)
+_90s_ | 2 | 12 (Wed)
+60s | 6 | 4 (Thu)
+MM00s | 9 | 2 (Sat)
+80s | 10 | 1 (Sat)
+70s | 10 | 0 (Tue)
+MM10s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
