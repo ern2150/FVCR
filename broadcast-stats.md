@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
-MM14 | Fights the Evils with Great Power | 01/16/2025 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 01/16/2025 | 9/21/2021 | 62
 72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
@@ -32,7 +31,6 @@ MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
 69 | SUMMERTIME | 02/27/2025 | 7/4/2021 | 65
-86 | The Passion and Death of their Struggle | 03/01/2025 | 12/22/2022 | 43
 90 | Every Different Way of Killing | 03/01/2025 | 07/23/2023 | 47
 71 | I Don't Belong Here | 03/13/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
@@ -66,6 +64,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 06/21/2025 | 4/4/2021 | 50
 89 | Don't You Know the State I'm In? | 06/28/2025 | 07/02/2023 | 47
 70 | Take the Fight to the Enemy | 07/08/2025 | 7/11/2021 | 54
 MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
+MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
+86 | The Passion and Death of their Struggle | 07/09/2025 | 12/22/2022 | 43
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 14 (Tue)
-_90s_ | 2 | 12 (Wed)
+_90s_ | 2 | 13 (Wed)
 60s | 6 | 4 (Thu)
 MM00s | 9 | 2 (Sat)
-80s | 10 | 1 (Sat)
 70s | 10 | 0 (Tue)
-MM10s | 10 | 0 (Tue)
+MM10s | 10 | 0 (Wed)
+80s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
