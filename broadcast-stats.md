@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/11/2025 | VHS | Fun, Incorporated: Amazing Magic Tricks with Money
+07/11/2025 | VHS | Nikken Magnetic Health
+07/11/2025 | VHS | Pinocchio in School? (clips with page-turned written text between with duh adages, stops after first instance lol)
 06/21/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎: 𝙎𝙃𝙊𝙋𝙋𝙄𝙉𝙂 𝙒𝙄𝙏𝙃 𝙎𝙐𝙎𝘼𝙉 (1993)
 06/19/2025 | VHS | Kelly the Hero (first VCR don't like it, switches to Sony, plays one ep)
 06/19/2025 | VHS | McGee and Me: A Star in the Breaking
