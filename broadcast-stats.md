@@ -31,7 +31,6 @@ MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
 69 | SUMMERTIME | 02/27/2025 | 7/4/2021 | 65
-90 | Every Different Way of Killing | 03/01/2025 | 07/23/2023 | 47
 71 | I Don't Belong Here | 03/13/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
 SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/2023 | 117
@@ -66,6 +65,7 @@ MM4 | I'm Glad to See You're Prepared to Die | 06/21/2025 | 4/4/2021 | 50
 MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
 86 | The Passion and Death of their Struggle | 07/09/2025 | 12/22/2022 | 43
+90 | Every Different Way of Killing | 07/11/2025 | 07/23/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 14 (Tue)
-_90s_ | 2 | 13 (Wed)
-60s | 6 | 4 (Thu)
+60s | 6 | 5 (Thu)
 MM00s | 9 | 2 (Sat)
 70s | 10 | 0 (Tue)
 MM10s | 10 | 0 (Wed)
 80s | 10 | 0 (Wed)
+_90s_ | 2 | 0 (Fri)
 
 
 Mixtapes with Updates (by Last Changed) 
