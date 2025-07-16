@@ -24,9 +24,7 @@ MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 MM11 | I Can Stand the Pain | 01/23/2025 | 7/27/2021 | 65
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
-67 | Together We Will Smash Them | 01/30/2025 | 6/20/2021 | 53
 MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
-76 | If I See Him, I'll Kill Him | 02/19/2025 | 11/21/2021 | 49
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
 MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
@@ -66,6 +64,8 @@ MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
 86 | The Passion and Death of their Struggle | 07/09/2025 | 12/22/2022 | 43
 90 | Every Different Way of Killing | 07/11/2025 | 07/23/2023 | 47
+67 | Together We Will Smash Them | 07/15/2025 | 6/20/2021 | 53
+76 | If I See Him, I'll Kill Him | 07/15/2025 | 11/21/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 14 (Tue)
-60s | 6 | 5 (Thu)
-MM00s | 9 | 2 (Sat)
-70s | 10 | 0 (Tue)
+Other | 5 | 15 (Tue)
+MM00s | 9 | 3 (Sat)
 MM10s | 10 | 0 (Wed)
 80s | 10 | 0 (Wed)
 _90s_ | 2 | 0 (Fri)
+60s | 6 | 0 (Tue)
+70s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
