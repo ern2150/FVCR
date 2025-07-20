@@ -208,6 +208,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/19/2025 | VHS | Vincent LaRusso - Just a Chance
+07/19/2025 | VHS | 801 TTS AIRBATS THIRD STRIKE EP 2 (... stops immediately to consider "Naked Dance")
+07/19/2025 | VHS | Ride Safe, Ride Smart from Honda
+07/19/2025 | VHS | EastMAN Outdoors: Outdoor Cooking
 07/11/2025 | VHS | Fun, Incorporated: Amazing Magic Tricks with Money
 07/11/2025 | VHS | Nikken Magnetic Health
 07/11/2025 | VHS | Pinocchio in School? (clips with page-turned written text between with duh adages, stops after first instance lol)
