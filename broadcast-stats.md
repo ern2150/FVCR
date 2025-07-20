@@ -94,12 +94,23 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+07/19/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+07/19/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+07/19/2025 | FMW Opener / FMW Closer | 12/6/2020
+07/19/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+07/19/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+07/19/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
+07/19/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+07/19/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+07/19/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+07/19/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+07/19/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+07/19/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-07/15/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/15/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 07/15/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 07/15/2025 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-07/15/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/11/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 07/11/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/11/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -154,17 +165,6 @@ Latest Date | Video / Audio | Debut++
 05/17/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 05/17/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 05/17/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
-05/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-05/15/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-05/15/2025 | FMW Opener / FMW Closer | 12/6/2020
-05/15/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-05/15/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-05/15/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
-05/15/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-05/15/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-05/15/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-05/15/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-05/15/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
