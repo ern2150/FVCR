@@ -94,8 +94,14 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/24/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+07/24/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+07/24/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+07/24/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+07/24/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+07/24/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
+07/24/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-07/19/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/19/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 07/19/2025 | FMW Opener / FMW Closer | 12/6/2020
 07/19/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -106,7 +112,6 @@ Latest Date | Video / Audio | Debut++
 07/19/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 07/19/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 07/19/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-07/19/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 07/15/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 07/15/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -160,11 +165,6 @@ Latest Date | Video / Audio | Debut++
 05/20/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 05/20/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 05/20/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-05/17/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-05/17/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-05/17/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-05/17/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-05/17/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
