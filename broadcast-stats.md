@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/24/2025 | DVD | Mass Destruction - Don "the Dragon" Wilson returns to the ring.  Intro, Main Event
+07/24/2025 | DVD | Devil Killer - Alex Lo, Jackie Chiang.  Special features: Hsiao interview, Weapons Form, Gung Fu Form, Insta-Action (multiple fights back-to-back)
+07/24/2025 | DVD | Arts Attack vol 2 - Kindergarten. Lesson 5: Clowns
 07/19/2025 | VHS | Vincent LaRusso - Just a Chance
 07/19/2025 | VHS | 801 TTS AIRBATS THIRD STRIKE EP 2 (... stops immediately to consider "Naked Dance")
 07/19/2025 | VHS | Ride Safe, Ride Smart from Honda
