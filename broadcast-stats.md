@@ -22,7 +22,6 @@ MM2 | Why Are You Playing Heroes? | 12/29/2024 | 2/23/2021 | 64
 72 | Who Is the Champion Now? | 01/18/2025 | 9/7/2021 | 53
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
-MM9 | Hit Me Like You Mean It | 02/13/2025  | 7/8/2021 | 59
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
 MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
@@ -66,6 +65,7 @@ MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
 73 | The Whirlpool of Battle | 07/26/2025 | 9/21/2021 | 62
 MM11 | I Can Stand the Pain | 07/26/2025 | 7/27/2021 | 65
 69 | SUMMERTIME | 07/26/2025 | 7/4/2021 | 65
+MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM11 | I Can Stand the Pain | 07/26/2025 | 7/27/2021 | 65
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 17 (Tue)
-MM00s | 9 | 4 (Sat)
+Other | 5 | 18 (Tue)
 80s | 10 | 2 (Wed)
 _90s_ | 2 | 2 (Fri)
 70s | 10 | 0 (Sat)
 MM10s | 10 | 0 (Sat)
 60s | 6 | 0 (Sat)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,14 +94,19 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/29/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+07/29/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+07/29/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+07/29/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+07/29/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+07/29/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+07/29/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/26/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-07/26/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 07/26/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 07/26/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 07/26/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/26/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/26/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-07/26/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/24/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 07/24/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 07/24/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
@@ -160,11 +165,6 @@ Latest Date | Video / Audio | Debut++
 06/19/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 06/19/2025 | SHIT FUCK / (same as video) | 5/4/2021
 06/19/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-06/12/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-06/12/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-06/12/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-06/12/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-06/12/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/29/2025 | DVD | Arts Attack vol 2 - Kindergarten. 2 Cats and a Dog, Clay Animals.
 07/24/2025 | DVD | Mass Destruction - Don "the Dragon" Wilson returns to the ring.  Intro, Main Event
 07/24/2025 | DVD | Devil Killer - Alex Lo, Jackie Chiang.  Special features: Hsiao interview, Weapons Form, Gung Fu Form, Insta-Action (multiple fights back-to-back)
 07/24/2025 | DVD | Arts Attack vol 2 - Kindergarten. Lesson 5: Clowns
@@ -308,7 +309,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-07/26/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+07/29/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
