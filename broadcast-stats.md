@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
-MM8 | The Sword of Catastrophe | 02/23/2025 | 6/15/2021 | 58
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
 71 | I Don't Belong Here | 03/13/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 07/26/2025 | 7/27/2021 | 65
 MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 72 | Who Is the Champion Now? | 08/02/2025 | 9/7/2021 | 53
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
+MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,7 +79,7 @@ _90s_ | 2 | 3 (Fri)
 MM10s | 10 | 1 (Sat)
 60s | 6 | 1 (Sat)
 70s | 10 | 0 (Sat)
-MM00s | 9 | 0 (Sat)
+MM00s | 9 | 0 (Mon)
 
 
 Mixtapes with Updates (by Last Changed) 
