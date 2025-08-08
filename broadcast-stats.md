@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/07/2025 | VHS | Zap! the Magical Computer - the Wizard of Odd (a new pinnacle in CGI quality)
+08/07/2025 | VHS | (DiC Toontime) Wish Kid ep "A Matter of Principal"
 08/04/2025 | PS2 | 𝙒𝙊𝙍𝙇𝘿 𝘿𝙀𝙎𝙏𝙍𝙐𝘾𝙏𝙄𝙊𝙉 𝙇𝙀𝘼𝙂𝙐𝙀: 𝙏𝙃𝙐𝙉𝘿𝙀𝙍 𝙏𝘼𝙉𝙆𝙎 (𝙋𝙎2, 2000) - Watching some cinematics from the menu first, then cheat codes
 08/04/2025 | PS2 | 𝙎𝙐𝙋𝙀𝙍𝙎𝙏𝘼𝙍 𝘿𝘼𝙉𝘾𝙀 𝘾𝙇𝙐𝘽 (2002)
 08/04/2025 | PS2 | 𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝘽𝘼𝘾𝙆 𝙇𝙊𝙂: 𝙎𝙆𝙔𝘿𝙄𝙑𝙄𝙉𝙂 𝙀𝙓𝙏𝙍𝙀𝙈𝙀 (𝙉𝘼𝙏𝙎𝙐𝙈𝙀, 2000)
