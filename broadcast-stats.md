@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
-66 | Do You Really Have the Confidence? | 01/18/2025 | 5/23/2021 | 56
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
 83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
@@ -66,6 +65,7 @@ MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 72 | Who Is the Champion Now? | 08/02/2025 | 9/7/2021 | 53
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
 MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
+66 | Do You Really Have the Confidence? | 08/07/2025 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 18 (Tue)
-80s | 10 | 3 (Wed)
+Other | 5 | 19 (Tue)
+80s | 10 | 4 (Wed)
 _90s_ | 2 | 3 (Fri)
 MM10s | 10 | 1 (Sat)
-60s | 6 | 1 (Sat)
 70s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Mon)
+60s | 6 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
