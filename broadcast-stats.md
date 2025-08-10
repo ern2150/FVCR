@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
-83 | I Don't Mind a Little Danger | 02/23/2025 | 06/12/2022 | 50
 71 | I Don't Belong Here | 03/13/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 03/15/2025 | 02/06/2022 | 55
 SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/2023 | 117
@@ -66,6 +65,7 @@ MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
 MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 08/07/2025 | 5/23/2021 | 56
+83 | I Don't Mind a Little Danger | 08/09/2025 | 06/12/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 19 (Tue)
-80s | 10 | 4 (Wed)
-_90s_ | 2 | 3 (Fri)
-MM10s | 10 | 1 (Sat)
+_90s_ | 2 | 4 (Fri)
+MM10s | 10 | 2 (Sat)
 70s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Mon)
 60s | 6 | 0 (Thu)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -315,7 +315,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-08/07/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/09/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
