@@ -94,15 +94,20 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+08/19/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+08/19/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+08/19/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+08/19/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+08/19/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+08/19/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 08/09/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/09/2025 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 08/09/2025 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 08/09/2025 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 06/09/2025 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-08/09/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/07/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-08/07/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 08/07/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 08/07/2025 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 08/07/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
@@ -150,11 +155,6 @@ Latest Date | Video / Audio | Debut++
 07/11/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/11/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 07/11/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-07/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-07/09/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-07/09/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-07/09/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-07/09/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 06/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 06/19/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 06/19/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
