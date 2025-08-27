@@ -94,13 +94,23 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/26/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+08/26/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+08/26/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+08/26/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+08/26/2025 | Knight of Justice Death Call / (same as video) | 5/6/2021
+08/26/2025 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+08/26/2025 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+08/26/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+08/26/2025 | SHIT FUCK / (same as video) | 5/4/2021
+08/26/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+08/26/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 08/19/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 08/19/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 08/19/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 08/19/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 08/19/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-08/19/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 08/09/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 08/09/2025 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
@@ -155,16 +165,6 @@ Latest Date | Video / Audio | Debut++
 07/11/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/11/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 07/11/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-06/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-06/19/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-06/19/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-06/19/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-06/19/2025 | Knight of Justice Death Call / (same as video) | 5/6/2021
-06/19/2025 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-06/19/2025 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-06/19/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-06/19/2025 | SHIT FUCK / (same as video) | 5/4/2021
-06/19/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
