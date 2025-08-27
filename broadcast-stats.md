@@ -95,6 +95,7 @@ Intros
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 08/26/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+08/26/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 08/26/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 08/26/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 08/26/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -106,7 +107,6 @@ Latest Date | Video / Audio | Debut++
 08/26/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 08/26/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-08/19/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 08/19/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 08/19/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 08/19/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/26/2025 | VHS | Hong Kong: A City in Motion (1987)
+08/26/2025 | VHS | Movie Magic (1990)
 08/09/2025 | VHS | 𝘽-𝘽𝙊𝙔 𝙎𝙐𝙈𝙈𝙄𝙏 2000 𝙑𝙊𝙇 2
 08/07/2025 | VHS | Zap! the Magical Computer - the Wizard of Odd (a new pinnacle in CGI quality)
 08/07/2025 | VHS | (DiC Toontime) Wish Kid ep "A Matter of Principal"
