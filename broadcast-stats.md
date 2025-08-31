@@ -208,6 +208,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/30/2025 | VHS | 1992 𝙐-𝙁𝙀𝙎𝙏𝙄𝙑𝘼𝙇: 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 𝙁𝙄𝙇𝙈𝙎
 08/26/2025 | VHS | Hong Kong: A City in Motion (1987)
 08/26/2025 | VHS | Movie Magic (1990)
 08/09/2025 | VHS | 𝘽-𝘽𝙊𝙔 𝙎𝙐𝙈𝙈𝙄𝙏 2000 𝙑𝙊𝙇 2
