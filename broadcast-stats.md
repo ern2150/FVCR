@@ -23,7 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/2023 | 117
 MM7 | I'd Like to See You Try and Hurt Me | 03/22/2025 | 6/6/2021 | 58
 MM5 | Danger Straight Ahead | 04/03/2025 | 4/4/2021 | 57
-MM18 | Fought Against All Evils | 04/12/2025  | 1/23/2022 | 51
 MM3 | Blood, Lust, and Intrigue | 04/19/2025 | 3/9/2021 | 54
 MM10 | The Splatter and Gore Department | 04/24/2025 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 04/24/2025 | 12/21/2021 | 52
@@ -66,6 +65,7 @@ MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 91 | Reprieve from Chaos | 08/19/2025 | 02/03/2024 | 49
 MM19 | Ghost Shadow Squad | 08/19/2025 | 02/06/2022 | 55
 MM17 | Ninja Challenge Card | 08/26/2025 | 1/2/2022 | 52
+MM18 | Fought Against All Evils | 08/30/2025  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 22 (Tue)
 MM00s | 9 | 3 (Mon)
-60s | 6 | 2 (Thu)
-80s | 10 | 2 (Sat)
+60s | 6 | 3 (Thu)
+80s | 10 | 3 (Sat)
 70s | 10 | 1 (Tue)
 _90s_ | 2 | 1 (Tue)
-MM10s | 10 | 0 (Tue)
+MM10s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
