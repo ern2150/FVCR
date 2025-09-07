@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
-SMS1 | Saturday Morning Simulator (feat ProScan Timeout) | 03/18/2025 | 09/30/2023 | 117
 MM5 | Danger Straight Ahead | 04/03/2025 | 4/4/2021 | 57
 MM10 | The Splatter and Gore Department | 04/24/2025 | 7/15/2021 | 59
 MM16 | Today We Shall Kill Each Other | 04/24/2025 | 12/21/2021 | 52
@@ -66,6 +65,7 @@ MM17 | Ninja Challenge Card | 08/26/2025 | 1/2/2022 | 52
 MM18 | Fought Against All Evils | 08/30/2025  | 1/23/2022 | 51
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
 MM3 | Blood, Lust, and Intrigue | 09/02/2025 | 3/9/2021 | 54
+SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM3 | Blood, Lust, and Intrigue | 09/02/2025 | 3/9/2021 | 54
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 23 (Tue)
-60s | 6 | 3 (Thu)
-80s | 10 | 3 (Sat)
+60s | 6 | 4 (Thu)
+80s | 10 | 4 (Sat)
 70s | 10 | 2 (Tue)
 _90s_ | 2 | 2 (Tue)
-MM10s | 10 | 0 (Sat)
+MM10s | 10 | 1 (Sat)
 MM00s | 9 | 0 (Tue)
+Other | 5 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,12 +94,14 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/06/2025 | --
+09/06/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
+09/06/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/02/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 09/02/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/02/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 09/02/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 09/02/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-09/02/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/30/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 08/30/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 08/30/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -170,8 +172,6 @@ Latest Date | Video / Audio | Debut++
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 04/19/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 04/19/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-03/18/2025 | --
-03/18/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 03/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
 03/05/2025 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 03/05/2025 | Baki end whiteout / (same as video) | 4/13/2021
@@ -318,7 +318,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-09/02/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+09/06/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
