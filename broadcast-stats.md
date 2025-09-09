@@ -94,9 +94,14 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+09/09/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+09/09/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+09/09/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+09/09/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+09/09/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/06/2025 | --
 09/06/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
-09/06/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/02/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 09/02/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/02/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
@@ -140,11 +145,6 @@ Latest Date | Video / Audio | Debut++
 08/02/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 08/02/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 08/02/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
-07/29/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-07/29/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-07/29/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-07/29/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-07/29/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 07/26/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 07/26/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 07/26/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
