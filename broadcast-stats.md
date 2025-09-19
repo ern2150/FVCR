@@ -23,14 +23,12 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM10 | The Splatter and Gore Department | 04/24/2025 | 7/15/2021 | 59
 MM13 | Keep on Winning | 05/01/2025 | 8/22/2021 | 56
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/03/2025 | 10/10/2021 | 52
-80 | Pass Through All Hard Times | 05/03/2025 | 02/20/2022 | 46
 82 | Are You Looking for Death? | 05/13/2025 | 05/15/2022 | 50
 MM15 | Don't Be Afraid of Me | 05/15/2025 | 12/05/2021 | 55
 77 | Ninja City | 05/17/2025 | 11/28/2021 | 49
 84 | Poor Doomed Humans | 05/17/2025 | 10/16/2022 | 51
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
-87 | Win without Failing | 05/29/2025 | 02/12/2023 | 46
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 61 | I Must Make Sure You Fail | 06/05/2025  | 3/14/2021 | 53
 85 | The Power You Are Seeking | 06/07/2025 | 11/13/2022 | 45
@@ -66,6 +64,8 @@ MM3 | Blood, Lust, and Intrigue | 09/02/2025 | 3/9/2021 | 54
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 MM16 | Today We Shall Kill Each Other | 09/09/2025 | 12/21/2021 | 52
 MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
+87 | Win without Failing | 09/18/2025 | 02/12/2023 | 46
+80 | Pass Through All Hard Times | 09/18/2025 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-60s | 6 | 4 (Thu)
-80s | 10 | 4 (Sat)
-70s | 10 | 3 (Tue)
-_90s_ | 2 | 3 (Tue)
-Other | 5 | 0 (Sat)
-MM10s | 10 | 0 (Tue)
-MM00s | 9 | 0 (Tue)
+60s | 6 | 5 (Thu)
+70s | 10 | 4 (Tue)
+_90s_ | 2 | 4 (Tue)
+Other | 5 | 1 (Sat)
+MM10s | 10 | 1 (Tue)
+MM00s | 9 | 1 (Tue)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
