@@ -94,13 +94,18 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+09/18/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+09/18/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+09/18/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+09/18/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+09/18/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
+09/18/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-09/09/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/09/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 09/09/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 09/09/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 09/09/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-09/09/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/06/2025 | --
 09/06/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 09/02/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
@@ -151,11 +156,6 @@ Latest Date | Video / Audio | Debut++
 07/26/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/26/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/26/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-07/24/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-07/24/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-07/24/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-07/24/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-07/24/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/2021
 07/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 07/19/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 07/19/2025 | FMW Opener / FMW Closer | 12/6/2020
