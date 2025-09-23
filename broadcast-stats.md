@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/23/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+09/23/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+09/23/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+09/23/2025 | FMW Opener / FMW Closer | 12/6/2020
+09/23/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+09/23/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+09/23/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
+09/23/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+09/23/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+09/23/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+09/23/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+09/23/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+09/23/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-09/18/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/18/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 09/18/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 09/18/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 09/18/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
-09/18/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 09/09/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 09/09/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -156,17 +167,6 @@ Latest Date | Video / Audio | Debut++
 07/26/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/26/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/26/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-07/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-07/19/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-07/19/2025 | FMW Opener / FMW Closer | 12/6/2020
-07/19/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-07/19/2025 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-07/19/2025 | Wheres Da Schtuff / Original Audio | 11/28/2021
-07/19/2025 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-07/19/2025 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-07/19/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-07/19/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-07/19/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
