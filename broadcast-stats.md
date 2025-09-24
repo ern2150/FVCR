@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+09/23/2025 | VHS | Waltzing Waters: Frederick and the Fountains of Forever
+09/23/2025 | VHS | A Day at the Magic Kingdom
+09/23/2025 | VHS | Ready to Know: A Parent's Guide
 08/30/2025 | VHS | 1992 𝙐-𝙁𝙀𝙎𝙏𝙄𝙑𝘼𝙇: 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 𝙁𝙄𝙇𝙈𝙎
 08/26/2025 | VHS | Hong Kong: A City in Motion (1987)
 08/26/2025 | VHS | Movie Magic (1990)
