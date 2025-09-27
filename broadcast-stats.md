@@ -94,8 +94,16 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+09/27/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+09/27/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+09/27/2025 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+09/27/2025 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+09/27/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+09/27/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+09/27/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
+09/27/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/23/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-09/23/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 09/23/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 09/23/2025 | FMW Opener / FMW Closer | 12/6/2020
 09/23/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -106,7 +114,6 @@ Latest Date | Video / Audio | Debut++
 09/23/2025 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 09/23/2025 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 09/23/2025 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-09/23/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 09/18/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 09/18/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
@@ -154,13 +161,6 @@ Latest Date | Video / Audio | Debut++
 08/07/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 08/07/2025 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 08/07/2025 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-08/02/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-08/02/2025 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-08/02/2025 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-08/02/2025 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-08/02/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-08/02/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-08/02/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
 07/26/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 07/26/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 07/26/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
