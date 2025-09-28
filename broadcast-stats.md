@@ -208,6 +208,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+09/27/2025 | VHS | Creation Adventure Team: a Jurassic Ark Mystery
+09/27/2025 | VHS | Repeat Performance: You Can't Outrun the Truth
+09/27/2025 | VHS | Leo the Lion: the Blue Lion 
 09/23/2025 | VHS | Waltzing Waters: Frederick and the Fountains of Forever
 09/23/2025 | VHS | A Day at the Magic Kingdom
 09/23/2025 | VHS | Ready to Know: A Parent's Guide
