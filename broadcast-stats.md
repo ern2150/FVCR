@@ -208,6 +208,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+09/30/2025 | VHS | BabySitters Club: the Babysitters and the Boysitters  
+09/30/2025 | PS2 | DVD 𝙂𝙄𝙈𝙈𝙀 𝙂𝙄𝙈𝙈𝙀 𝙊𝘾𝙏𝙊𝙋𝙐𝙎 (1973) PS2 rejects it after 5 minutes lol
 09/27/2025 | VHS | Creation Adventure Team: a Jurassic Ark Mystery
 09/27/2025 | VHS | Repeat Performance: You Can't Outrun the Truth
 09/27/2025 | VHS | Leo the Lion: the Blue Lion 
