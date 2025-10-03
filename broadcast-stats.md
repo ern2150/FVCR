@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
-79 | A Frightening Experience | 02/19/2025 | 1/16/2022 | 57
 MM10 | The Splatter and Gore Department | 04/24/2025 | 7/15/2021 | 59
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/03/2025 | 10/10/2021 | 52
 82 | Are You Looking for Death? | 05/13/2025 | 05/15/2022 | 50
@@ -66,6 +65,7 @@ MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
 80 | Pass Through All Hard Times | 09/18/2025 | 02/20/2022 | 46
 77 | Ninja City | 09/23/2025 | 11/28/2021 | 49
 MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
+79 | A Frightening Experience | 10/02/2025 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 6 (Tue)
-60s | 6 | 5 (Thu)
+60s | 6 | 6 (Thu)
 MM00s | 9 | 3 (Tue)
 Other | 5 | 2 (Sat)
-70s | 10 | 1 (Tue)
-80s | 10 | 0 (Thu)
+80s | 10 | 1 (Thu)
 MM10s | 10 | 0 (Tue)
+70s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
