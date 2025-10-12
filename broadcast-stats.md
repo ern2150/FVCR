@@ -15,13 +15,11 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-  | Evil Is Excusable 2021 Halloween Vol 1 | 10/10/2024 | 10/3/2021 | 45
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 MM10 | The Splatter and Gore Department | 04/24/2025 | 7/15/2021 | 59
 82 | Are You Looking for Death? | 05/13/2025 | 05/15/2022 | 50
-84 | Poor Doomed Humans | 05/17/2025 | 10/16/2022 | 51
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
@@ -66,6 +64,8 @@ MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
 79 | A Frightening Experience | 10/02/2025 | 1/16/2022 | 57
 MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/09/2025 | 10/10/2021 | 52
+84 | Poor Doomed Humans | 10/11/2025 | 10/16/2022 | 51
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/11/2025 | 10/3/2021 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 2 | 7 (Tue)
 60s | 6 | 7 (Thu)
 MM00s | 9 | 4 (Tue)
-Other | 5 | 3 (Sat)
-80s | 10 | 2 (Thu)
 MM10s | 10 | 0 (Thu)
 70s | 10 | 0 (Thu)
+80s | 10 | 0 (Sat)
+Other | 5 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,7 +94,11 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-10/11/2025 | Halloween 2020 music videos including countdown clock and Rydeen-heavy stream theme!
+10/11/2025 | (2020 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙄𝙉𝙏𝙍𝙊)
+10/11/2025 | THEN 2020 version (more Rydeen) / Doktor Plekter - Kavo | 10/4/2020
+10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
+10/11/2025 | Goathorn - Rotten Roll | 10/4/2020
+10/11/2025 | RED TIMECLOCK TOP RIGHT 9:59 | 10/4/2020 
 10/11/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 10/09/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
@@ -209,6 +213,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+10/11/2025 | VHS | Spooky World (last seen 10/12/2023)
+10/11/2025 | VHS | Reel continues... (Shredder, From Beyond, Mausoleum, Mazes and Monsters)
+10/11/2025 | VHS | Reel of Halloween Trailers (BOA, Hunter's Blood, MOM, Leprechaun 3, the CAR, One Hour Photo) (last seen 10/13/2022)
 10/02/2025 | VHS | Ben & Eddie: Nightmare - Facing Fear
 10/02/2025 | VHS | 𝙄𝙎𝙐𝙕𝙐: 𝙏𝙃𝙀 𝙍𝙄𝘿𝙀 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙇𝙄𝙁𝙀
 09/30/2025 | VHS | BabySitters Club: the Babysitters and the Boysitters  
