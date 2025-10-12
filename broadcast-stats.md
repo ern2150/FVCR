@@ -94,6 +94,8 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/11/2025 | Halloween 2020 music videos including countdown clock and Rydeen-heavy stream theme!
+10/11/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 10/09/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/09/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
@@ -101,7 +103,6 @@ Latest Date | Video / Audio | Debut++
 10/09/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 10/09/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 10/09/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-10/09/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/30/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 09/30/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 09/30/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
