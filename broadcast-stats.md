@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
-82 | Are You Looking for Death? | 05/13/2025 | 05/15/2022 | 50
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 MM6 | It's Your Turn to Die | 05/24/2025 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
@@ -66,6 +65,7 @@ MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
 84 | Poor Doomed Humans | 10/11/2025 | 10/16/2022 | 51
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/11/2025 | 10/3/2021 | 45
 MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
+82 | Are You Looking for Death? | 10/16/2025 | 05/15/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 8 (Tue)
-60s | 6 | 7 (Thu)
+60s | 6 | 8 (Thu)
 MM00s | 9 | 5 (Tue)
-70s | 10 | 0 (Thu)
-80s | 10 | 0 (Sat)
+70s | 10 | 1 (Thu)
 Other | 5 | 0 (Sat)
 MM10s | 10 | 0 (Tue)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
