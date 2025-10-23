@@ -1,2956 +1,2909 @@
-1
-00:00:13,500 --> 00:00:16,800
-公子,雨下这么大,我们找个地方躲雨吧 The rain is so heavy, let's find a place to hide from the rain.
+﻿1
+00:00:13,520 --> 00:00:16,780
+The rain is so heavy, let's find a place to hide from the rain.
 
 2
-00:00:16,840 --> 00:00:17,300
-好 OK
+00:00:16,780 --> 00:00:19,369
+OK. OK.
 
 3
-00:00:30,000 --> 00:01:29,180
-公子,雨下这么大,我们找个地方躲雨吧 The rain is so heavy, let's find a place to hide from the rain.
+00:01:29,373 --> 00:01:30,180
+Why is it raining suddenly?
 
 4
-00:01:29,180 --> 00:01:30,460
-怎么突然来的这大雨啊 Why is it raining so heavy?
+00:01:30,500 --> 00:01:34,660
+Yes, it's raining. It's not small at all.
 
 5
-00:01:30,580 --> 00:01:33,620
-是啊,雨下的,雨真不小 It's raining so heavy, the rain is so heavy.
+00:01:35,000 --> 00:01:39,300
+The clothes are wet. Fortunately, there's a temple here.
 
 6
-00:01:34,980 --> 00:01:36,460
-衣服都湿了 My clothes are wet.
+00:01:47,100 --> 00:01:49,400
+If this Bodhisattva was a real person, that would be great.
 
 7
-00:01:38,420 --> 00:01:39,500
-还好这儿有个庙 Fortunately, there's a temple here.
+00:01:49,860 --> 00:01:53,080
+How can a Bodhisattva be a real person?
 
 8
-00:01:47,060 --> 00:01:49,660
-要是这个菩萨是个真人那该多好啊 It would be great if this Bodhisattva is a real person.
+00:01:54,600 --> 00:01:59,780
+When there are so many beautiful women in the world, why do you have to have a daydream?
 
 9
-00:01:49,880 --> 00:01:52,660
-你做的菩萨怎么会是真人呢 How can a Bodhisattva made by you be a real person?
+00:02:01,340 --> 00:02:04,080
+The rain has stopped, let's get on the road.
 
 10
-00:01:55,000 --> 00:01:59,780
-等你娶了功名啊,天下美女多得是,何必做白日梦呢 When you get married, there are so many beautiful women in the world, why do you have to have a daydream?
+00:02:15,180 --> 00:02:17,420
+Xu Gui, give me the brush.
 
 11
-00:02:01,180 --> 00:02:03,720
-雨夜已停了,我们还是上路吧 The rain has stopped, let's get on the road.
+00:02:17,760 --> 00:02:21,220
+Yes.
 
 12
-00:02:15,200 --> 00:02:17,440
-雪冠,把毛笔拿给我 Snowman, give me the毛笔.
+00:02:39,510 --> 00:02:44,550
+The durian ripples, the gold ripples, who can wash my heart?
 
 13
-00:02:17,800 --> 00:02:18,720
-是 Yes
+00:02:45,170 --> 00:02:50,070
+If a fairy gives it to you, it will last forever.
 
 14
-00:02:38,970 --> 00:02:44,450
-榴莲徘徊,金黄辉,谁能洗我此时心? The durian rips and turns into gold. Who can wash my heart?
+00:03:51,782 --> 00:03:53,340
+Yue Lang, why are you here as well?
 
 15
-00:02:45,530 --> 00:02:49,670
-若得仙子花下刺,今生今世永不分 If the star is pierced, this life and this world will never part.
+00:03:53,960 --> 00:03:57,500
+There is a chance to meet a thousand miles away, but not here.
 
 16
-00:03:38,470 --> 00:03:53,400
-月朗,你怎么也来了 Yue Lang, why are you here too?
+00:03:59,720 --> 00:04:02,900
+Don't be angry, look at this love story.
 
 17
-00:03:53,980 --> 00:03:57,460
-有缘千里来相会,无缘对面不相逢 There is a chance to meet, but no chance to meet.
+00:04:03,560 --> 00:04:05,080
+I don't want to look at it.
 
 18
-00:03:59,740 --> 00:04:03,020
-你别生气啊,你看看这姻缘谱 Don't be angry, look at this love story.
+00:04:05,880 --> 00:04:08,260
+Marriage is not a child's play.
 
 19
-00:04:03,560 --> 00:04:05,100
-我不要看 I don't want to look at it.
+00:04:08,480 --> 00:04:15,260
+I'll read it to you.
 
 20
-00:04:05,940 --> 00:04:08,240
-婚姻大事岂可当作儿戏啊 Marriage is not a child's play.
+00:04:28,360 --> 00:04:30,700
+How is it? Not bad, isn't it?
 
 21
-00:04:08,480 --> 00:04:09,340
-我念你听啊 I'll read it to you.
+00:04:35,240 --> 00:04:36,660
+Sir
 
 22
-00:04:11,220 --> 00:04:15,400
-许媛润娶玉仙女,两人有一夜之缘夜 Xu Yuan Run marries Yu Xian Nu, they have one night.
+00:04:40,840 --> 00:04:44,560
+Under the light of the day, what are you doing here?
 
 23
-00:04:28,450 --> 00:04:30,730
-怎么,还不错吧 How is it? Not bad?
+00:04:46,280 --> 00:04:48,400
+We are here to register.
 
 24
-00:04:35,270 --> 00:04:37,610
-大老爷 Master
+00:04:48,820 --> 00:04:51,940
+This is not a inn, you've gone to the wrong place.
 
 25
-00:04:40,710 --> 00:04:44,530
-光天化日之下,私闯民宅,作何企图 Under the bright sun, why did you break into the house?
+00:04:51,940 --> 00:04:57,120
+Sir, I'm Xu Yuan Ren, I'm here to take the exam.
 
 26
-00:04:46,290 --> 00:04:48,410
-我们是来投诉的 We are here to make a complaint.
+00:04:58,780 --> 00:05:02,720
+Oh, since it's the exam, I won't be late. Please pay.
 
 27
-00:04:48,770 --> 00:04:49,890
-我这又不是客栈 I am not a guest house.
+00:05:04,460 --> 00:05:08,240
+Sir, your hall is empty.
 
 28
-00:04:49,890 --> 00:04:52,590
-你们走错地方了 You've come to the wrong place.
+00:05:08,360 --> 00:05:11,020
+Just let us stay here for a night.
 
 29
-00:04:52,590 --> 00:04:57,150
-在下许媛润,与家仆许贵上京赶考 I am Xu Yuan Run, and I am here to take the exam.
+00:05:11,780 --> 00:05:12,780
+Stay here for a night?
 
 30
-00:04:58,690 --> 00:05:02,690
-既然是赶考,那就不耽误了,请出吧 Since it's the exam, I won't be late. Please leave.
+00:05:15,620 --> 00:05:20,920
+It's not a big deal, we can do it during the day, but not at night.
 
 31
-00:05:04,490 --> 00:05:08,110
-大老爷,你的厅堂空着也是空着 Master, your hall is empty as well.
+00:05:22,480 --> 00:05:24,380
+Why not?
 
 32
-00:05:08,670 --> 00:05:11,030
-就让我们借住一宿嘛 Just let us stay here for one night.
+00:05:25,980 --> 00:05:30,200
+My daughter has never met a man.
 
 33
-00:05:11,790 --> 00:05:12,850
-借住一宿? Stay here for one night?
+00:05:31,480 --> 00:05:36,460
+Nothing but eating and sleeping.
 
 34
-00:05:15,650 --> 00:05:19,190
-小意思,白天可以 It's a small thing.
+00:05:36,720 --> 00:05:38,840
+I'm not interested in anything.
 
 35
-00:05:19,930 --> 00:05:21,450
-晚上不行 It's not allowed at night.
+00:05:39,300 --> 00:05:41,220
+I think you're a good guy.
 
 36
-00:05:22,550 --> 00:05:24,290
-为什么不行啊 Why not?
+00:05:45,720 --> 00:05:48,180
+This guy is...
 
 37
-00:05:25,930 --> 00:05:30,150
-我家有个美娇女,从来没见过男人 I have a beautiful girl, but I've never seen a man.
+00:05:50,310 --> 00:05:57,370
+Don't worry, I'm a scholar, I only want to get my name
 
 38
-00:05:31,490 --> 00:05:36,310
-算了吧,就凭我,除了吃跟睡觉之外, I don't care, except for eating and sleeping.
+00:05:57,370 --> 00:05:59,590
+I don't have any other thoughts
 
 39
-00:05:36,770 --> 00:05:38,610
-什么都没有兴趣 I'm not interested in anything.
+00:06:00,110 --> 00:06:05,190
+But I'd like to ask you to go in and have a rest
 
 40
-00:05:39,010 --> 00:05:41,170
-我看你呀,就是太乖了 I think you are too good.
+00:06:05,190 --> 00:06:07,810
+It's a good deed
 
 41
-00:05:45,710 --> 00:05:47,170
-这小子嘛 This guy...
+00:06:09,250 --> 00:06:13,610
+That sounds good, but I don't know what you're thinking
 
 42
-00:05:51,330 --> 00:05:55,430
-老大爷,请放心,晚辈一介书生,知书达理 Please don't worry, I'm a scholar.
+00:06:13,610 --> 00:06:16,670
+Forgive me for being bold
 
 43
-00:05:55,450 --> 00:05:59,650
-一心只想求取功名,没有别的杂念 I just want to get fame. I have no other thoughts.
+00:06:16,670 --> 00:06:19,010
+even if it's a fairy, it can't touch my heart.
 
 44
-00:06:00,450 --> 00:06:04,890
-但求老大爷,让晚辈跟家谱进去打个盹 But please let me have a chat with my family.
+00:06:19,010 --> 00:06:23,710
+You can't touch me even if you want to
 
 45
-00:06:05,390 --> 00:06:08,890
-歇一会儿,也算做做好事,及个因得 It's a good thing to have a rest.
+00:06:23,710 --> 00:06:27,330
+With your words, I'll let you go
 
 46
-00:06:09,650 --> 00:06:13,130
-话说得好听,谁知道你心里像什么 It sounds good. Who knows what you're thinking?
+00:06:27,330 --> 00:06:29,490
+Have a rest
 
 47
-00:06:14,490 --> 00:06:19,590
-恕晚辈斗胆之说,只要一书在手,就是仙女下凡 Please forgive me, as long as I have a book, I'm a fairy.
+00:06:30,580 --> 00:06:32,230
+Thank you, sir
 
 48
-00:06:20,210 --> 00:06:22,570
-也不能打动晚辈的心 I can't touch the heart of the younger generation.
+00:06:32,740 --> 00:06:36,530
+Be polite, there's a room next door
 
 49
-00:06:23,230 --> 00:06:26,790
-就凭你这句话,我就放你一马 I'll let you go with your words.
+00:06:36,530 --> 00:06:38,050
+Come with me
 
 50
-00:06:28,650 --> 00:06:29,590
-歇着吧 Take a rest.
+00:08:11,560 --> 00:08:14,300
+I've caught you this time
 
 51
-00:06:31,050 --> 00:06:32,850
-多谢老大爷,多谢老大爷 Thank you, sir.
+00:08:14,300 --> 00:08:16,120
+What else do you want to say?
 
 52
-00:06:33,130 --> 00:06:54,830
-要规矩一点,隔壁有一间房间,跟我去 Please follow the rules. There's a room next door.
+00:08:17,760 --> 00:08:20,060
+Forgive me, sir, I didn't mean to
 
 53
-00:08:12,020 --> 00:08:15,660
-这回可给我逮住了吧,还什么话说 You've caught me this time. What else do you want to say?
+00:08:20,060 --> 00:08:23,320
+You broke into the girl's room for no reason
 
 54
-00:08:17,940 --> 00:08:19,880
-老大爷,原谅我,我不是有意的 Sir, forgive me, I didn't mean it.
+00:08:23,320 --> 00:08:27,600
+And you've forgotten what you said just now
 
 55
-00:08:20,740 --> 00:08:24,860
-你无故闯进娇女的闺房,动手动脚,还有礼呀 You broke into Jiao Nui's room for no reason, and now you're doing it.
+00:08:28,920 --> 00:08:31,340
+I won't forgive you for being a hypocrite
 
 56
-00:08:25,220 --> 00:08:27,420
-刚才说的话现在就忘了 I've forgotten what I said just now.
+00:08:31,340 --> 00:08:36,780
+Please forgive me, sir
 
 57
-00:08:27,760 --> 00:08:31,400
-像你这种蛮口仁义道德的伪君子,我饶不了你 I can't forgive you for being such a manly man.
+00:08:36,780 --> 00:08:38,400
+Dad
 
 58
-00:08:32,060 --> 00:08:34,700
-老大爷饶命,老大爷饶命啊 Sir, please forgive me.
+00:08:38,400 --> 00:08:43,860
+This kind of person doesn't know anything
 
 59
-00:08:37,960 --> 00:08:38,840
-爹 Dad
+00:08:44,360 --> 00:08:45,880
+It's no use talking to you
 
 60
-00:08:39,840 --> 00:08:44,140
-这种人,不给他点颜色看看,不知道天高地厚 Don't you know he's a grown man.
+00:08:46,780 --> 00:08:48,360
+Let's go to the yard
 
 61
-00:08:45,280 --> 00:08:48,620
-跟你多说也没用,走,到衙门去讲话 I don't want to talk to you. Go on, go to the yamen.
+00:08:48,360 --> 00:08:51,100
+I can't do that
 
 62
-00:08:49,860 --> 00:08:53,060
-这,这,这千万使不得,老大爷您开恩啊 This, this, it's not right. Sir, please forgive me.
+00:08:51,100 --> 00:08:53,540
+Please forgive me, sir
 
 63
-00:08:57,060 --> 00:09:02,800
-Are you afraid that Zhang Yang will ruin your future?
+00:08:53,540 --> 00:08:54,240
+Forgive you?
 
 64
-00:09:03,960 --> 00:09:06,480
-Master, please forgive me
+00:08:55,220 --> 00:08:58,980
+You're a man, you dare to do this?
 
 65
-00:09:06,480 --> 00:09:08,160
-Please leave me a way out
+00:08:59,980 --> 00:09:03,240
+Are you afraid that Zhang Yang will ruin your future?
 
 66
-00:09:08,160 --> 00:09:09,780
-You're a man of your word
+00:09:03,240 --> 00:09:07,620
+Please forgive me, sir
 
 67
-00:09:09,780 --> 00:09:11,740
+00:09:07,620 --> 00:09:09,880
 Why did you have to do this?
 
 68
-00:09:12,580 --> 00:09:17,520
-Master, please let me kneel down
+00:09:12,460 --> 00:09:17,160
+Please forgive me, sir
 
 69
-00:09:17,520 --> 00:09:20,580
-All right, I'll forgive you this time
+00:09:17,160 --> 00:09:20,540
+I forgive you this time
 
 70
-00:09:20,580 --> 00:09:21,460
+00:09:20,540 --> 00:09:22,240
 Get up
 
 71
-00:09:22,280 --> 00:09:23,040
-Master, please forgive me
-
-72
-00:09:24,040 --> 00:09:26,260
+00:09:24,160 --> 00:09:26,400
 We're here to rent a room
 
+72
+00:09:26,400 --> 00:09:30,740
+Not at home, not in the inn
+
 73
-00:09:26,260 --> 00:09:28,960
-We're not here to stay
+00:09:30,740 --> 00:09:33,760
+If you don't follow the rules, you'll be kicked out
 
 74
-00:09:28,960 --> 00:09:31,100
-We're not here to stay in a hotel
+00:09:33,760 --> 00:09:35,900
+There's no place to rest
 
 75
-00:09:31,100 --> 00:09:33,780
-If we don't follow the rules, we'll be kicked out
-
-76
-00:09:33,780 --> 00:09:35,920
-We don't even have a place to rest
-
-77
-00:09:37,000 --> 00:09:38,020
+00:09:36,740 --> 00:09:38,060
 Who are you talking to?
 
-78
-00:09:39,700 --> 00:09:41,140
+76
+00:09:39,080 --> 00:09:41,040
 I'm talking to myself
 
-79
-00:09:41,140 --> 00:09:43,740
-Didn't I tell you not to worry about your health?
+77
+00:09:41,480 --> 00:09:43,180
+I told you not to worry
 
-80
-00:09:44,260 --> 00:09:47,380
+78
+00:09:43,740 --> 00:09:47,420
 Don't say that to me
 
-81
-00:09:48,800 --> 00:09:49,160
+79
+00:09:48,380 --> 00:09:49,220
 Why?
+
+80
+00:09:51,860 --> 00:09:53,240
+You've forgotten about the fairy temple
+
+81
+00:09:54,400 --> 00:09:59,040
+That's a fairy, I was joking with her
 
 82
-00:09:50,500 --> 00:09:52,700
-Did you forget what the fairy told you?
+00:09:59,040 --> 00:10:01,080
+I just don't dare
 
 83
-00:09:54,700 --> 00:09:58,060
-She's a fairy, I was just joking with her
+00:10:01,080 --> 00:10:03,640
+Then why did you go to someone else's room?
 
 84
-00:09:58,060 --> 00:09:59,580
-She's a real person now
+00:10:07,920 --> 00:10:08,660
+I don't know
 
 85
-00:09:59,580 --> 00:10:01,300
-I don't dare to even think about it
-
-86
-00:10:01,300 --> 00:10:03,640
-Then why did you go into someone else's room?
-
-87
-00:10:07,880 --> 00:10:09,160
-I don't know either
-
-88
-00:10:09,160 --> 00:10:11,460
+00:10:08,660 --> 00:10:11,660
 I think someone pushed me in
 
-89
-00:10:11,460 --> 00:10:12,800
+86
+00:10:11,660 --> 00:10:13,160
 You're the one with the feet
 
-90
-00:10:12,800 --> 00:10:15,740
-If you don't leave, will she not be able to move?
+87
+00:10:13,160 --> 00:10:15,420
+If you don't leave, will they be able to move?
 
-91
-00:10:18,040 --> 00:10:19,980
+88
+00:10:18,000 --> 00:10:20,180
 That's strange
 
+89
+00:10:21,900 --> 00:10:27,680
+Right, unless we sleep together tonight
+
+90
+00:10:28,680 --> 00:10:30,020
+You were kneeling just now
+
+91
+00:10:30,020 --> 00:10:42,600
+I can't run away from the monk
+
 92
-00:10:21,500 --> 00:10:25,220
-By the way, unless we sleep at night
-
-93
-00:10:25,220 --> 00:10:28,640
-We'll be tied up together
-
-94
-00:10:28,640 --> 00:10:31,620
-You were kneeling just now, why don't you just be tied up?
-
-95
-00:10:35,660 --> 00:10:40,560
-I can run to the monk, but I can't run to the temple
-
-96
-00:10:46,450 --> 00:10:48,650
+00:10:46,140 --> 00:10:48,680
 What I said was right
 
-97
-00:10:48,650 --> 00:10:51,990
-If it weren't for me, you'd have to kneel down again
+93
+00:10:48,680 --> 00:10:55,700
+If it weren't for me, you'd have to kneel again
 
-98
-00:10:52,470 --> 00:10:56,910
+94
+00:10:55,700 --> 00:10:56,860
 I was wronged
 
-99
-00:10:56,910 --> 00:10:58,310
+95
+00:10:57,180 --> 00:10:58,380
 What wronged?
 
-100
-00:10:58,750 --> 00:11:00,370
-You must have been possessed by her
+96
+00:10:58,380 --> 00:11:01,160
+You must have fallen in love with her
 
-101
-00:11:01,750 --> 00:11:04,630
+97
+00:11:01,160 --> 00:11:05,380
 I was kneeling just like you
 
-102
-00:11:13,080 --> 00:11:14,920
+98
+00:11:12,440 --> 00:11:16,040
 You're mistaken, I'm reading
 
-103
-00:11:42,940 --> 00:11:44,140
+99
+00:11:33,020 --> 00:11:34,420
+Help
+
+100
+00:11:42,370 --> 00:11:44,130
 Good boy
 
+101
+00:11:44,130 --> 00:11:47,450
+Master, I didn't mean to do this
+
+102
+00:11:47,450 --> 00:11:49,630
+You didn't mean to do this?
+
+103
+00:11:49,970 --> 00:11:51,330
+Did my daughter send you here?
+
 104
-00:11:44,140 --> 00:11:47,000
-Boss, this isn't my intention
+00:11:52,930 --> 00:11:55,390
+No, my master sent me here
 
 105
-00:11:47,940 --> 00:11:49,380
-It's not your intention?
+00:11:56,470 --> 00:11:59,970
+I didn't mean to do this
 
 106
-00:11:50,240 --> 00:11:51,360
-Are you saying that my daughter sent you here?
+00:11:59,970 --> 00:12:03,210
+You'll have to kneel twice tonight
 
 107
-00:11:52,920 --> 00:11:56,100
-No, it was my son who brought me here
+00:12:03,210 --> 00:12:05,130
+Master, please spare me
 
 108
-00:11:56,100 --> 00:11:58,980
-I didn't do it on purpose
+00:12:06,170 --> 00:12:07,430
+Spare you?
 
 109
-00:12:00,600 --> 00:12:03,020
-You went to see my daughter twice that night
+00:12:07,630 --> 00:12:09,110
+You're wronged again
 
 110
-00:12:03,020 --> 00:12:03,300
-You went to see her twice that night
+00:12:09,110 --> 00:12:11,190
+I'll have to take you to the government
 
 111
-00:12:03,300 --> 00:12:05,300
-Boss, please forgive me
+00:12:11,190 --> 00:12:11,730
+You can't go
 
 112
-00:12:06,360 --> 00:12:07,420
-Forgive you?
+00:12:12,830 --> 00:12:14,410
+It's a small matter
 
 113
-00:12:07,800 --> 00:12:09,060
-You're wrong again
+00:12:16,130 --> 00:12:17,650
+You can't send me to the government
 
 114
-00:12:09,060 --> 00:12:11,630
-I had to take you to the temple today
+00:12:17,650 --> 00:12:20,290
+Forget it
 
 115
-00:12:13,340 --> 00:12:14,320
-It's not a big deal
+00:12:20,970 --> 00:12:22,230
+What do you mean?
 
 116
-00:12:14,320 --> 00:12:15,920
-It's not a big deal
+00:12:22,470 --> 00:12:23,530
+Men and women don't get along
 
 117
-00:12:18,420 --> 00:12:20,280
-It's not a big deal
+00:12:23,950 --> 00:12:26,170
+I'm going to the government to sue
 
 118
-00:12:20,280 --> 00:12:23,660
-Men and women are not related
+00:12:26,170 --> 00:12:29,610
+Don't mind me
 
 119
-00:12:23,660 --> 00:12:25,550
-I'm going to the temple to sue her
+00:12:29,930 --> 00:12:33,650
+Master, it's not easy for you to leave
 
 120
-00:12:26,880 --> 00:12:29,700
-It's not my fault
+00:12:33,650 --> 00:12:36,030
+...
 
 121
-00:12:29,700 --> 00:12:32,560
-It's not easy for you to live at this age
-
-122
-00:12:33,300 --> 00:12:35,500
-It's not easy for you to live at this age
-
-123
-00:12:35,500 --> 00:12:37,180
+00:12:36,030 --> 00:12:37,190
 What if you die?
 
-124
-00:12:38,160 --> 00:12:39,040
+122
+00:12:37,970 --> 00:12:39,130
 What?
+
+123
+00:12:40,170 --> 00:12:42,150
+You're cursing me before I die?
+
+124
+00:12:42,750 --> 00:12:45,290
+Do you want to take my daughter away?
 
 125
-00:12:40,240 --> 00:12:42,220
-You're going to sue me before I die?
+00:12:45,870 --> 00:12:46,770
+Let's go
 
 126
-00:12:42,760 --> 00:12:44,840
-Do you want to get rid of my daughter after I die?
+00:12:46,770 --> 00:12:50,450
+Master, it's him, not me
 
 127
-00:12:45,720 --> 00:12:46,600
-Let's go
+00:12:55,410 --> 00:12:58,630
+Master, please spare me
 
 128
-00:12:46,600 --> 00:12:49,300
-Boss, it's her, not me
-
-129
-00:12:55,380 --> 00:12:58,600
-Boss, as long as you forgive me
-
-130
-00:12:58,600 --> 00:13:02,220
+00:12:58,630 --> 00:13:01,280
 I'll listen to you
 
-131
-00:13:03,300 --> 00:13:04,700
-It's not that easy
+129
+00:13:02,170 --> 00:13:05,130
+It's not that cheap
 
-132
-00:13:08,160 --> 00:13:09,540
+130
+00:13:07,910 --> 00:13:09,570
 I'm so angry
 
+131
+00:13:12,410 --> 00:13:16,590
+Father, please spare him
+
+132
+00:13:16,590 --> 00:13:22,530
+What? You're speaking for him too?
+
 133
-00:13:13,500 --> 00:13:16,720
-I think you should forgive her
-
-134
-00:13:16,720 --> 00:13:19,040
-What? You're going to help her?
-
-135
-00:13:24,460 --> 00:13:27,000
+00:13:25,170 --> 00:13:26,990
 So you two have agreed
 
+134
+00:14:15,320 --> 00:14:19,860
+Come, sit down
+
+135
+00:14:19,860 --> 00:14:25,340
+You too
+
 136
-00:14:15,150 --> 00:14:19,870
-Come on, sit down
+00:14:42,220 --> 00:14:45,080
+Today is a good day
 
 137
-00:14:19,870 --> 00:14:22,030
-Sit down
-
-138
-00:14:22,030 --> 00:14:25,150
-Sit down
-
-139
-00:14:25,150 --> 00:14:26,150
-Sit down
-
-140
-00:14:42,800 --> 00:14:46,660
-Today is a good day for you
-
-141
-00:14:46,660 --> 00:14:47,580
+00:14:45,080 --> 00:14:47,240
 Let's have a good drink
 
+138
+00:14:47,240 --> 00:14:49,200
+Cheers
+
+139
+00:15:06,550 --> 00:15:11,560
+I'm sorry
+
+140
+00:15:12,760 --> 00:15:15,080
+Xu Gui, this is a good time
+
+141
+00:15:15,080 --> 00:15:19,300
+It's a good time to drink
+
 142
-00:14:47,580 --> 00:14:49,100
-Come on, cheers
-
-143
-00:15:05,450 --> 00:15:06,490
-Sorry
-
-144
-00:15:12,670 --> 00:15:14,070
-Xu Gui
-
-145
-00:15:14,070 --> 00:15:15,010
-Good for you
-
-146
-00:15:15,010 --> 00:15:18,570
-This is called a moment of happiness
-
-147
-00:15:20,790 --> 00:15:21,420
+00:15:21,180 --> 00:15:22,040
 Drink
 
-148
-00:16:09,000 --> 00:16:10,260
-Boss
+143
+00:16:09,070 --> 00:16:10,130
+Master
 
-149
-00:16:20,500 --> 00:16:22,540
-I, Xu Gui
+144
+00:16:21,090 --> 00:16:21,810
+Master
 
-150
-00:16:22,540 --> 00:16:25,700
-I'm not drunk
+145
+00:16:21,810 --> 00:16:26,030
+I, Xu Gui, am not drunk
 
-151
-00:16:30,280 --> 00:16:32,780
-I've never asked you to drink so much
+146
+00:16:29,990 --> 00:16:32,870
+I've never made you drink so much
 
-152
-00:16:32,780 --> 00:16:34,700
+147
+00:16:32,870 --> 00:16:34,550
 I'll give you a drink
 
-153
-00:17:15,060 --> 00:17:24,760
+148
+00:16:51,410 --> 00:16:52,810
+Master
+
+149
+00:17:06,160 --> 00:17:18,380
 Xu Gui
 
-154
-00:17:48,200 --> 00:17:57,190
+150
+00:17:47,780 --> 00:17:49,780
+Xu Gui
+
+151
+00:17:54,670 --> 00:17:57,930
 Xu Gui, why are you sleeping here?
 
-155
-00:18:17,060 --> 00:18:17,520
-Dad
+152
+00:18:16,910 --> 00:18:17,950
+Father
 
-156
-00:18:21,600 --> 00:18:23,740
+153
+00:18:21,470 --> 00:18:23,610
 Your son-in-law is half a son
 
-157
-00:18:23,740 --> 00:18:25,060
-Why do you call him dad?
+154
+00:18:23,610 --> 00:18:27,970
+Why is your daughter seeing a stranger?
 
-158
-00:18:25,260 --> 00:18:27,660
-Why do you call your daughter an outsider?
+155
+00:18:31,010 --> 00:18:32,050
+Father
 
-159
-00:18:32,680 --> 00:18:33,600
-Dad
-
-160
-00:18:37,360 --> 00:18:38,740
+156
+00:18:37,620 --> 00:18:38,590
 My wife
 
-161
-00:18:39,740 --> 00:18:41,580
+157
+00:18:39,900 --> 00:18:41,630
 My husband
 
-162
-00:18:45,890 --> 00:18:48,510
-Today is a good day for us
+158
+00:18:45,800 --> 00:18:48,880
+Today is our wedding day
 
-163
-00:18:48,530 --> 00:18:50,660
+159
+00:18:48,880 --> 00:18:50,360
 Why are you sighing?
 
-164
-00:18:51,090 --> 00:18:53,830
-Husband, you don't know
+160
+00:18:51,760 --> 00:18:53,840
+My husband, you don't know
 
-165
-00:18:54,530 --> 00:18:56,530
+161
+00:18:54,730 --> 00:18:57,100
 I'm just...
 
-166
-00:18:57,110 --> 00:18:59,530
-You're just an ordinary woman, aren't you?
+162
+00:18:57,100 --> 00:18:58,320
+You're just an ordinary woman
 
-167
-00:19:01,110 --> 00:19:02,330
+163
+00:19:00,850 --> 00:19:02,580
 No matter how ordinary you are
 
-168
-00:19:02,330 --> 00:19:03,890
+164
+00:19:02,690 --> 00:19:04,460
 I only love you
 
-169
-00:19:04,530 --> 00:19:06,230
+165
+00:19:05,120 --> 00:19:06,900
 Oh my God
 
-170
-00:19:07,410 --> 00:19:08,770
-What do you want me to say?
+166
+00:19:06,900 --> 00:19:08,800
+What am I going to say?
 
-171
-00:19:09,530 --> 00:19:11,150
+167
+00:19:08,800 --> 00:19:10,920
 Don't say anything
 
-172
-00:19:11,150 --> 00:19:13,110
-When I get married
+168
+00:19:10,920 --> 00:19:13,200
+Now that we're married
 
-173
-00:19:13,110 --> 00:19:20,460
+169
+00:19:13,200 --> 00:19:20,440
 I'll come back to pick you up
 
+170
+00:19:20,440 --> 00:19:21,640
+"At that time...
+
+171
+00:19:21,640 --> 00:19:23,180
+"...We were in love..."
+
+172
+00:19:23,180 --> 00:19:24,640
+"...We were close..."
+
+173
+00:19:25,240 --> 00:19:28,440
+"...We were rich..."
+
 174
-00:19:20,460 --> 00:19:21,740
-At that time
+00:19:29,380 --> 00:19:32,760
+Enough, don't say any more
 
 175
-00:19:21,740 --> 00:19:23,200
-We loved each other
+00:19:33,380 --> 00:19:34,140
+What?
 
 176
-00:19:23,200 --> 00:19:25,100
-We loved each other
+00:19:34,940 --> 00:19:38,820
+The more you say, the more I feel sad
 
 177
-00:19:25,100 --> 00:19:26,720
-We had so much wealth
+00:19:39,260 --> 00:19:41,160
+Because I'm going to the exam?
 
 178
-00:19:26,720 --> 00:19:28,640
-We had so much glory
-
-179
-00:19:29,460 --> 00:19:31,100
-All right, all right
-
-180
-00:19:31,100 --> 00:19:32,860
-Don't say it anymore
-
-181
-00:19:33,560 --> 00:19:34,180
-Why?
-
-182
-00:19:35,000 --> 00:19:36,380
-The more you say it
-
-183
-00:19:36,380 --> 00:19:38,220
-The more I feel sad
-
-184
-00:19:39,420 --> 00:19:41,540
-Are you reluctant to leave me?
-
-185
-00:19:42,220 --> 00:19:44,700
-How can I?
-
-186
-00:19:44,700 --> 00:19:46,040
+00:19:41,160 --> 00:19:45,640
 How can you leave me?
 
-187
-00:19:47,560 --> 00:19:50,520
+179
+00:19:47,180 --> 00:19:50,500
 Don't you want fame and wealth?
 
-188
-00:19:52,400 --> 00:19:54,040
+180
+00:19:52,060 --> 00:19:54,040
 I'm just a poor woman
 
-189
-00:19:54,040 --> 00:19:58,580
-How can I have the fortune to enjoy this glory?
+181
+00:19:54,040 --> 00:19:58,160
+I don't have the fortune to enjoy this fame
 
-190
-00:20:01,360 --> 00:20:02,980
+182
+00:20:01,160 --> 00:20:02,940
 If that's the case
 
-191
-00:20:02,980 --> 00:20:04,200
+183
+00:20:02,940 --> 00:20:04,200
 Why should I go to the exam?
 
-192
-00:20:05,340 --> 00:20:12,750
-I don't want fame or glory
+184
+00:20:05,340 --> 00:20:09,440
+I don't want fame or wealth
 
-193
-00:20:13,210 --> 00:20:15,530
+185
+00:20:13,240 --> 00:20:15,480
 I only want you
 
-194
-00:20:15,530 --> 00:20:17,410
+186
+00:20:15,480 --> 00:20:17,360
 As long as you're with me
 
-195
-00:20:17,410 --> 00:20:19,070
-We'll be together
+187
+00:20:17,360 --> 00:20:19,540
+We'll be together forever
 
-196
-00:20:19,070 --> 00:20:22,830
-Till death do us part
+188
+00:20:19,540 --> 00:20:22,020
+From old age to death
 
-197
-00:20:22,830 --> 00:20:25,050
-Even if I have no name in my life
+189
+00:20:22,020 --> 00:20:25,040
+Even if I don't have fame or wealth
 
-198
-00:20:25,050 --> 00:20:33,400
+190
+00:20:25,040 --> 00:20:32,560
 I'm willing to do it
 
-199
-00:21:06,580 --> 00:21:07,580
+191
+00:21:07,450 --> 00:21:08,670
 Look
 
-200
-00:21:11,420 --> 00:21:15,820
+192
+00:21:11,850 --> 00:21:14,900
 How happy they are together
 
-201
-00:21:16,580 --> 00:21:18,300
-They're just separated
+193
+00:21:16,170 --> 00:21:18,310
+They're just a couple
 
-202
-00:21:18,300 --> 00:21:20,960
+194
+00:21:18,310 --> 00:21:20,510
 They won't last long
 
-203
-00:21:20,960 --> 00:21:23,060
+195
+00:21:21,030 --> 00:21:22,990
 We're a loving couple
 
-204
-00:21:23,580 --> 00:21:28,940
+196
+00:21:23,510 --> 00:21:30,050
 We'll be happier than them
 
-205
-00:21:29,580 --> 00:21:31,580
+197
+00:21:30,050 --> 00:21:31,510
 I hope so
 
-206
-00:21:45,920 --> 00:21:48,260
+198
+00:21:45,700 --> 00:21:48,240
 Dad, I don't want to go to the exam
 
-207
-00:21:48,260 --> 00:21:51,260
+199
+00:21:48,240 --> 00:21:51,880
 I want to be with my wife forever
 
-208
-00:21:51,260 --> 00:21:53,060
-How can you?
+200
+00:21:51,880 --> 00:21:52,920
+How can that be?
 
-209
-00:21:53,280 --> 00:21:55,560
-You've made me suffer
+201
+00:21:53,340 --> 00:21:55,480
+You made me suffer
 
-210
-00:21:58,800 --> 00:22:01,020
-I mean, men are wise
+202
+00:21:58,640 --> 00:22:00,020
+I mean
 
-211
-00:22:01,020 --> 00:22:03,520
-They should value fame and wealth
+203
+00:22:00,020 --> 00:22:03,380
+Men should value fame and wealth
 
-212
-00:22:03,520 --> 00:22:05,560
-How can they be so short-tempered?
+204
+00:22:03,380 --> 00:22:09,500
+How can they be so short-sighted?
 
-213
-00:22:06,820 --> 00:22:07,560
-I don't want to go to the exam
+205
+00:22:09,620 --> 00:22:11,500
+I'm leaving
 
-214
-00:22:09,280 --> 00:22:11,800
-Honey, I'm leaving
-
-215
-00:22:11,800 --> 00:22:15,800
+206
+00:22:12,460 --> 00:22:15,780
 Take good care of your father
 
-216
-00:22:15,800 --> 00:22:16,820
-Honey
+207
+00:22:15,780 --> 00:22:17,360
+My husband
 
-217
-00:22:20,910 --> 00:22:23,410
+208
+00:22:21,050 --> 00:22:23,150
 I'll be back when I have fame
 
-218
-00:22:23,410 --> 00:22:26,530
+209
+00:22:24,290 --> 00:22:26,370
 Don't cry
 
-219
-00:22:26,530 --> 00:22:29,230
-Don't cry, silly woman
+210
+00:22:27,210 --> 00:22:28,890
+Silly woman
 
-220
-00:22:29,230 --> 00:22:31,690
+211
+00:22:28,890 --> 00:22:31,470
 Sir, can we not leave?
 
-221
-00:22:33,650 --> 00:22:37,430
+212
+00:22:33,410 --> 00:22:36,210
 If I can stay with my wife forever
 
-222
-00:22:37,430 --> 00:22:38,930
-I'll stay here forever
+213
+00:22:36,930 --> 00:22:38,510
+Even if I have to stay here forever
 
-223
-00:22:39,850 --> 00:22:41,670
+214
+00:22:38,510 --> 00:22:40,690
+I'm willing to
+
+215
+00:22:40,690 --> 00:22:41,830
 Then let's not leave
 
-224
-00:22:43,430 --> 00:22:44,310
-Sir
+216
+00:22:45,370 --> 00:22:47,490
+My wife
 
-225
-00:22:46,370 --> 00:22:47,250
-Honey
-
-226
-00:22:47,930 --> 00:22:49,950
+217
+00:22:47,490 --> 00:22:49,400
 Your future is important
 
-227
-00:22:49,950 --> 00:22:52,990
-I should encourage you to go to the exam
+218
+00:22:49,830 --> 00:22:53,050
+I should encourage you to seek fame
 
-228
-00:22:52,990 --> 00:22:54,950
+219
+00:22:53,050 --> 00:22:55,470
 I shouldn't hinder your future
 
-229
-00:23:03,290 --> 00:23:03,730
-Honey
+220
+00:23:01,610 --> 00:23:03,930
+My husband
 
-230
-00:23:06,450 --> 00:23:07,330
-Honey
+221
+00:23:03,930 --> 00:23:06,090
+My wife
 
-231
-00:23:07,330 --> 00:23:08,990
-There's always a chance
+222
+00:23:06,090 --> 00:23:09,060
+There's no such thing as a never-ending feast
 
-232
-00:23:08,990 --> 00:23:10,990
-You can't avoid it
+223
+00:23:09,590 --> 00:23:11,190
+You can't escape from it
 
-233
-00:23:10,990 --> 00:23:12,410
+224
+00:23:11,190 --> 00:23:12,310
 You can't stay
 
-234
-00:23:14,330 --> 00:23:15,850
+225
+00:23:13,650 --> 00:23:15,770
 Even if you're an immortal
 
-235
-00:23:15,850 --> 00:23:17,970
-You can't avoid it
+226
+00:23:15,770 --> 00:23:17,670
+You can't just stay
 
-236
-00:23:17,970 --> 00:23:19,930
+227
+00:23:17,670 --> 00:23:19,830
 You're right
 
-237
-00:23:20,970 --> 00:23:22,890
-You should ask for fame
+228
+00:23:20,670 --> 00:23:22,810
+You should seek fame
 
-238
-00:23:22,890 --> 00:23:26,450
-Don't waste your future
+229
+00:23:22,810 --> 00:23:26,630
+I shouldn't hinder our future
 
-239
-00:23:26,450 --> 00:23:30,810
-I'll never forget your kindness
+230
+00:23:26,630 --> 00:23:27,730
+My wife
 
-240
-00:23:31,330 --> 00:23:33,970
+231
+00:23:28,410 --> 00:23:31,190
+I'll never forget you
+
+232
+00:23:31,190 --> 00:23:34,010
 We have to say goodbye
 
-241
-00:23:33,970 --> 00:23:36,530
+233
+00:23:34,010 --> 00:23:40,010
 Let's go
+
+234
+00:23:40,010 --> 00:23:40,730
+Yes
+
+235
+00:23:54,230 --> 00:25:33,617
+Brother-in-law, you're here
+
+236
+00:25:33,617 --> 00:25:33,650
+Brother-in-law
+Brother-in-law, you're here
+
+237
+00:25:33,650 --> 00:25:35,000
+Brother-in-law, you're here
+
+238
+00:25:35,000 --> 00:25:36,140
+That's great
+
+239
+00:25:36,980 --> 00:25:39,060
+Hsuan, be polite
+
+240
+00:25:39,620 --> 00:25:41,360
+Don't touch my wife
+
+241
+00:25:42,000 --> 00:25:43,620
+I'm calling you brother-in-law
 
 242
-00:23:38,090 --> 00:23:39,970
-Let's go
+00:25:43,620 --> 00:25:44,680
+It's my honor
 
 243
-00:23:39,970 --> 00:23:40,870
-Yes
+00:25:44,680 --> 00:25:52,080
+Otherwise, you're going to be a father
 
 244
-00:24:41,200 --> 00:24:43,800
-Let's go
-
-245
-00:25:33,610 --> 00:25:38,070
-Uncle, it's good that you're here
-
-246
-00:25:38,070 --> 00:25:39,450
-Don't be so polite
-
-247
-00:25:39,450 --> 00:25:40,910
-Don't touch my second son
-
-248
-00:25:41,750 --> 00:25:43,350
-Calling you uncle
-
-249
-00:25:43,350 --> 00:25:45,090
-That's a good thing
-
-250
-00:25:45,090 --> 00:25:49,990
-Otherwise, you're going to get married
-
-251
-00:25:49,990 --> 00:25:52,350
-You're going to get married
-
-252
-00:25:52,350 --> 00:25:54,610
+00:25:52,740 --> 00:25:54,520
 What did you say?
 
-253
-00:25:56,330 --> 00:25:58,610
+245
+00:25:56,220 --> 00:26:02,100
 If you don't believe me, go and see for yourself
 
-254
-00:26:33,810 --> 00:26:34,490
-Go
+246
+00:26:10,830 --> 00:26:11,930
+Let's go
 
-255
-00:26:34,490 --> 00:26:35,930
+247
+00:26:33,830 --> 00:26:35,930
 How dare you talk to me
 
-256
-00:26:37,710 --> 00:26:39,070
+248
+00:26:37,610 --> 00:26:39,050
 You bitch
 
-257
-00:26:39,070 --> 00:26:41,250
+249
+00:26:39,050 --> 00:26:41,270
 If I don't kill you today
 
-258
-00:26:41,250 --> 00:26:43,210
-You won't find out what's on my mind
+250
+00:26:41,270 --> 00:26:43,310
+You won't know how much I hate you
 
-259
-00:26:43,210 --> 00:26:44,270
-Brother
+251
+00:26:44,450 --> 00:26:45,890
+Husband
 
-260
-00:26:45,530 --> 00:26:47,090
+252
+00:26:45,890 --> 00:26:47,090
 Please listen to me
 
-261
-00:26:47,090 --> 00:26:49,190
-I asked the old man to get me a marriage certificate
+253
+00:26:47,090 --> 00:26:49,330
+It's because the old man took out the marriage certificate
 
-262
-00:26:49,190 --> 00:26:52,190
-He said that Xu Yun Rui and I have a father and a daughter
+254
+00:26:49,330 --> 00:26:52,170
+He said that Xu Yun-rui and I have a father-in-law
 
-263
-00:26:52,190 --> 00:26:52,970
+255
+00:26:52,170 --> 00:26:53,590
 So...
 
-264
-00:26:53,510 --> 00:26:54,030
+256
+00:26:53,590 --> 00:26:54,030
 What?
 
-265
-00:26:56,390 --> 00:26:58,290
+257
+00:26:56,330 --> 00:26:58,350
 So I promised him
 
-266
-00:26:59,190 --> 00:26:59,970
-What?
-
-267
+258
 00:27:01,350 --> 00:27:04,350
-So it was that old fool who came up with the bad idea
+So it was the old fool's bad idea
 
-268
-00:27:04,970 --> 00:27:06,230
-And that old fool
+259
+00:27:05,090 --> 00:27:07,590
+And the old man's bad idea
 
-269
-00:27:06,970 --> 00:27:09,670
-Now it's a storm
+260
+00:27:07,590 --> 00:27:09,390
+Now it's all over
 
-270
-00:27:10,730 --> 00:27:12,290
-I'll go and get that old fool
+261
+00:27:10,770 --> 00:27:12,290
+I'll go to the old fool
 
-271
-00:27:16,910 --> 00:27:17,690
+262
+00:27:17,130 --> 00:27:17,770
 Wait
 
-272
-00:27:17,690 --> 00:27:20,030
-I don't dare to trouble you
+263
+00:27:17,770 --> 00:27:20,210
+I don't dare to bother you
 
-273
-00:27:20,030 --> 00:27:22,170
-I found it myself
+264
+00:27:20,210 --> 00:27:22,170
+I'll do it myself
 
-274
-00:27:22,170 --> 00:27:24,200
-You're still so stubborn
+265
+00:27:22,170 --> 00:27:24,090
+You're so stubborn
 
-275
-00:27:26,890 --> 00:27:28,510
+266
+00:27:27,090 --> 00:27:28,610
 Please calm down
 
-276
-00:27:29,990 --> 00:27:31,690
+267
+00:27:30,130 --> 00:27:31,650
 It clearly says
 
-277
-00:27:31,690 --> 00:27:33,810
-Xu Yun Rui will marry the fairy
+268
+00:27:31,650 --> 00:27:33,790
+Xu Yun-rui will marry the fairy
 
-278
-00:27:35,550 --> 00:27:36,190
+269
+00:27:35,630 --> 00:27:36,190
 Look
 
-279
-00:27:44,950 --> 00:27:46,950
+270
+00:27:45,040 --> 00:27:46,960
 You old fool
 
-280
-00:27:46,950 --> 00:27:48,390
-It clearly says
+271
+00:27:46,960 --> 00:27:50,160
+...
 
-281
-00:27:48,390 --> 00:27:50,170
-Xu Yun Rui will marry the fairy
+272
+00:27:50,160 --> 00:27:52,400
+Why did you say Xu Yun-rui will marry the fairy?
 
-282
-00:27:50,170 --> 00:27:52,450
-Why did you say Xu Yun Rui will marry the fairy?
-
-283
-00:27:59,110 --> 00:27:59,750
+273
+00:27:53,560 --> 00:27:54,120
 Look
 
-284
-00:27:59,750 --> 00:28:00,750
+274
+00:27:59,430 --> 00:28:00,730
 It's the fairy
 
-285
-00:28:00,750 --> 00:28:02,010
+275
+00:28:00,730 --> 00:28:02,070
 How can it be the fairy?
 
-286
-00:28:06,770 --> 00:28:09,810
-So this is a dead ant
+276
+00:28:05,390 --> 00:28:09,970
+It turns out that this is a dead ant
 
-287
-00:28:10,270 --> 00:28:13,470
+277
+00:28:11,070 --> 00:28:13,150
 Ridiculous
 
-288
-00:28:13,470 --> 00:28:16,910
+278
+00:28:13,150 --> 00:28:17,930
 I deserve to die
 
-289
-00:28:16,910 --> 00:28:17,970
-I deserve to die
-
-290
-00:28:17,970 --> 00:28:19,270
+279
+00:28:17,930 --> 00:28:20,210
 Please forgive me
 
-291
-00:28:20,070 --> 00:28:21,870
+280
+00:28:20,210 --> 00:28:21,890
 It's all my fault
 
-292
-00:28:21,870 --> 00:28:23,650
-It's none of your business
+281
+00:28:21,890 --> 00:28:23,710
+It's not your fault
 
-293
-00:28:23,890 --> 00:28:25,450
-Stay away from me
+282
+00:28:23,710 --> 00:28:25,430
+Stand away from me
 
-294
-00:28:25,450 --> 00:28:27,110
+283
+00:28:25,430 --> 00:28:27,090
 Don't make me angry
 
-295
-00:28:27,110 --> 00:28:46,180
+284
+00:28:27,090 --> 00:28:28,630
 The imperial edict has arrived
+
+285
+00:28:45,200 --> 00:28:48,000
+There is a fairy
+
+286
+00:28:48,000 --> 00:28:50,280
+She is not a fairy
+
+287
+00:28:50,280 --> 00:28:52,200
+She is a mortal
+
+288
+00:28:52,200 --> 00:28:55,700
+She is pregnant with Xu Yun-rui
+
+289
+00:28:55,700 --> 00:28:58,660
+This case is related to the heaven
+
+290
+00:28:58,660 --> 00:29:01,160
+Except the fairy's baby
+
+291
+00:29:01,160 --> 00:29:02,880
+She is not a fairy
+
+292
+00:29:02,880 --> 00:29:04,720
+The old man under the moon
+
+293
+00:29:04,720 --> 00:29:05,720
+Should be punished
+
+294
+00:29:06,780 --> 00:29:09,680
+...
+
+295
+00:29:09,680 --> 00:29:13,340
+She is not allowed to meet Xu Yun-rui
 
 296
-00:28:46,180 --> 00:28:47,840
-The fairy
+00:29:13,340 --> 00:29:15,560
+...
 
 297
-00:28:49,100 --> 00:28:49,820
-The fairy
+00:29:15,560 --> 00:29:17,600
+Thank you, Your Majesty
 
 298
-00:28:49,820 --> 00:28:50,260
-will be held up by the fairy
+00:29:29,760 --> 00:29:32,260
+I have been a matchmaker all my life
 
 299
-00:28:50,540 --> 00:28:52,380
-and will be buried in the mortal world
+00:29:32,260 --> 00:29:34,260
+But it's not my turn
 
 300
-00:28:52,380 --> 00:28:55,220
-She and Xu Yun Rui will have a baby
-
-301
-00:28:55,220 --> 00:28:57,720
-This case is to be found
-
-302
-00:28:57,720 --> 00:28:58,720
-by the court
-
-303
-00:28:58,720 --> 00:29:01,280
+00:29:34,260 --> 00:29:36,000
 The fairy will give birth to a baby
 
-304
-00:29:01,280 --> 00:29:02,880
+301
+00:29:40,610 --> 00:29:41,470
 and will be buried in the mortal world
 
+302
+00:30:08,000 --> 00:30:09,620
+Young master, it's not
+
+303
+00:30:09,620 --> 00:30:24,470
+Young master, please ask
+
+304
+00:30:27,150 --> 00:30:28,750
+Please ask the old man
+
 305
-00:29:02,880 --> 00:29:04,420
-the old man below the moon
+00:30:28,750 --> 00:30:31,970
+What's the matter?
 
 306
-00:29:04,420 --> 00:29:05,480
-will be killed
+00:30:35,150 --> 00:30:37,190
+There used to be a family here
 
 307
-00:29:05,480 --> 00:29:07,560
-with a sword in his hand
+00:30:37,190 --> 00:30:39,190
+I don't know where they moved
 
 308
-00:29:07,560 --> 00:29:10,040
-The fairy will be buried in the fairy's cave
+00:30:40,810 --> 00:30:43,070
+I've been living here for decades
 
 309
-00:29:10,040 --> 00:29:13,220
-and will never meet with Xu Yun Rui
+00:30:43,070 --> 00:30:45,930
+I've never found a family
 
 310
-00:29:13,220 --> 00:29:15,620
-The imperial edict has arrived
+00:31:30,150 --> 00:31:31,010
+Father
 
 311
-00:29:15,620 --> 00:29:17,120
-Thank you your majesty
+00:31:34,120 --> 00:31:34,980
+Madam
 
 312
-00:29:30,260 --> 00:29:36,020
-I've been a matchmaker all my life, but good things don't come to me, bad things come to the bad.
+00:31:37,280 --> 00:31:38,960
+She is not here
 
 313
-00:29:40,690 --> 00:29:41,030
-Fairy.
+00:31:42,690 --> 00:31:44,510
+I've been living here for decades
 
 314
-00:30:08,660 --> 00:30:09,740
-Young Master, there's no match.
+00:31:44,510 --> 00:31:46,690
+Now I'm married
 
 315
-00:30:22,410 --> 00:30:24,670
-Young Master, please ask him.
+00:31:48,230 --> 00:31:51,290
+I want to take my father and my wife
 
 316
-00:30:27,430 --> 00:30:28,490
-Please ask Lao Bo.
+00:31:51,290 --> 00:31:53,970
+To enjoy the wealth and glory
 
 317
-00:30:29,210 --> 00:30:30,730
-My dear husband, what's the matter?
-
-318
-00:30:30,730 --> 00:30:39,820
-There used to be a family here. I don't know where they moved to.
-
-319
-00:30:41,080 --> 00:30:45,480
-I've lived here for decades, but I've never found a family.
-
-320
-00:31:30,460 --> 00:31:31,100
-Father.
-
-321
-00:31:34,620 --> 00:31:34,940
-Wife.
-
-322
-00:31:37,540 --> 00:31:38,780
-She's not here.
-
-323
-00:31:42,910 --> 00:31:44,530
-I've been a matchmaker for ten years.
-
-324
-00:31:45,610 --> 00:31:46,770
-Now I've got a name.
-
-325
-00:31:48,490 --> 00:31:53,030
-I want to take my father and wife back to enjoy a luxurious life.
-
-326
-00:31:56,610 --> 00:31:58,590
+00:31:55,720 --> 00:31:58,140
 Why doesn't she want to see me?
 
+318
+00:31:59,780 --> 00:32:01,240
+I have to find her
+
+319
+00:32:01,240 --> 00:32:04,380
+She can't enjoy your wealth and glory
+
+320
+00:32:04,380 --> 00:32:06,680
+And she is suffering
+
+321
+00:32:06,680 --> 00:32:08,900
+You can't see her
+
+322
+00:32:08,900 --> 00:32:11,100
+I'm a man now
+
+323
+00:32:11,100 --> 00:32:12,640
+I have to see her
+
+324
+00:32:14,220 --> 00:32:15,700
+This child
+
+325
+00:32:15,700 --> 00:32:19,120
+She asked me to give it to you.
+
+326
+00:32:25,330 --> 00:32:27,530
+She wants you to raise it well.
+
 327
-00:31:59,570 --> 00:32:01,170
-I have to find her.
+00:32:27,530 --> 00:32:30,670
+She asked you to forget her
 
 328
-00:32:01,550 --> 00:32:03,470
-She can't enjoy your luxurious life.
+00:32:30,670 --> 00:32:32,370
+And marry another
 
 329
-00:32:05,170 --> 00:32:08,750
-Besides, she's suffering. You can't see her.
+00:32:53,280 --> 00:33:00,170
+Father, you go back with me
 
 330
-00:32:08,990 --> 00:32:13,330
-I'm a great man now. I have to see her even if I can't.
+00:33:00,170 --> 00:33:04,550
+I can't enjoy your wealth and glory
 
 331
-00:32:14,630 --> 00:32:18,290
-This child, she asked me to give her to you.
+00:33:04,550 --> 00:33:05,570
+I have to suffer
 
 332
-00:32:25,420 --> 00:32:27,740
-She wants you to raise her well.
+00:33:06,770 --> 00:33:08,570
+I'm leaving
 
 333
-00:32:27,960 --> 00:32:30,120
-She wants you to forget her.
+00:33:42,150 --> 00:33:42,870
+Later
 
 334
-00:32:30,780 --> 00:32:31,860
-She wants another one.
+00:33:43,370 --> 00:33:46,710
+Xu Yuanyuan married Zhang Shanshu's daughter
 
 335
-00:32:53,740 --> 00:32:55,920
-Father, you go back with me.
+00:33:46,710 --> 00:33:47,610
+Zhang Huiyuan
 
 336
-00:33:00,280 --> 00:33:02,960
-I can't enjoy your luxurious life.
+00:33:48,370 --> 00:33:50,910
+Zhang Huiyuan had a son
 
 337
-00:33:04,140 --> 00:33:05,780
-I have to suffer too.
+00:33:50,910 --> 00:33:52,450
+His name was Xu Qingshan
 
 338
-00:33:07,240 --> 00:33:07,820
-I'm leaving.
+00:33:52,890 --> 00:33:56,270
+He married Xu Pingyuan
 
 339
-00:33:42,660 --> 00:33:46,700
-Later, Xu Yuanyuan married Zhang Huijuan's daughter.
+00:33:56,270 --> 00:33:56,770
+Xu Pingyuan
 
 340
-00:33:48,740 --> 00:33:52,800
-Zhang Huijuan had a son named Xu Qingshan.
+00:33:56,770 --> 00:33:58,790
+They lived together
 
 341
-00:33:53,260 --> 00:33:56,620
-He married Xu Pingyuan, the daughter of Yu Xiannv.
+00:33:58,790 --> 00:34:02,710
+They were closer than brothers
 
 342
-00:33:56,820 --> 00:33:58,020
-They were brothers.
+00:34:02,710 --> 00:34:04,110
+Xu Yuanyuan and his wife
 
 343
-00:33:59,500 --> 00:34:00,820
-They were closer than brothers.
+00:34:04,110 --> 00:34:06,330
+Loved each other
 
 344
-00:34:03,120 --> 00:34:05,740
-Xu Yuanyuan and his wife loved each other very much.
+00:34:06,330 --> 00:34:07,690
+Time flies
 
 345
-00:34:06,620 --> 00:34:07,620
-Time flies.
+00:34:07,690 --> 00:34:10,950
+Ten years have passed
 
 346
-00:34:08,100 --> 00:34:09,860
-Ten years have passed.
+00:34:10,950 --> 00:34:13,730
+Xu Pingyuan and Xu Qingshan
 
 347
-00:34:10,960 --> 00:34:14,660
-Xu Pingyuan and Xu Qingshan were brothers.
+00:34:13,730 --> 00:34:16,550
+They studied in the same private school
 
 348
-00:34:14,860 --> 00:34:15,960
-They studied in the same private school.
+00:34:16,550 --> 00:34:20,970
+They admired each other
 
 349
-00:34:18,200 --> 00:34:21,580
-They admired each other very much.
+00:34:20,970 --> 00:34:22,310
+They loved each other
 
 350
-00:34:22,300 --> 00:34:28,620
-Even Qin Taishi's son, Qin Guanbao, was afraid of them.
+00:34:22,310 --> 00:34:23,550
+Even Qin Taishi
 
 351
-00:34:30,760 --> 00:34:35,180
-One day, Qin Guanbao was angry with his teacher.
+00:34:24,060 --> 00:34:25,470
+His son
 
 352
-00:34:36,300 --> 00:34:40,220
-Xu Pingyuan was angry with Qin Guanbao.
+00:34:25,860 --> 00:34:27,290
+Qin Guanbao
 
 353
-00:34:41,580 --> 00:34:46,780
-Qin Guanbao insulted Xu Pingyuan.
+00:34:27,290 --> 00:34:28,870
+He was afraid of them
 
 354
-00:34:46,860 --> 00:34:49,030
-He was a scoundrel.
+00:34:30,010 --> 00:34:31,790
+One day
 
 355
-00:34:49,880 --> 00:34:53,160
-His brother, Xu Qingshan, admired his brother.
+00:34:31,790 --> 00:34:33,910
+Qin Guanbao
 
 356
-00:34:54,020 --> 00:34:56,880
-In the chaos, he fought with Qin Guanbao.
+00:34:33,910 --> 00:34:35,350
+He was angry
 
 357
-00:34:59,710 --> 00:35:01,240
-Madam, bad news.
+00:34:35,350 --> 00:34:37,350
+Xu Pingyuan
 
 358
-00:35:03,060 --> 00:35:04,260
-What is it, Xu Gui?
+00:34:37,350 --> 00:34:38,510
+He was angry
 
 359
-00:35:05,160 --> 00:35:06,120
-Bad news.
+00:34:38,510 --> 00:34:41,790
+He argued with Qin Guanbao
 
 360
-00:35:07,280 --> 00:35:07,940
-Tell me.
+00:34:41,790 --> 00:34:43,050
+Qin Guanbao
 
 361
-00:35:08,580 --> 00:35:10,640
-What happened, Xu Gui?
+00:34:43,050 --> 00:34:44,810
+...
 
 362
-00:35:10,960 --> 00:35:18,580
-Master and Second Master fought with one man in the school hall.
+00:34:44,810 --> 00:34:46,850
+He scolded Xu Pingyuan
 
 363
-00:35:18,580 --> 00:35:20,540
-Qin Guanbao was killed.
+00:34:46,850 --> 00:34:49,690
+He was a bad person
 
 364
-00:35:20,940 --> 00:35:22,940
-What? Qin Guanbao was killed?
+00:34:49,690 --> 00:34:50,350
+His brother
 
 365
-00:35:26,200 --> 00:35:26,960
-Madam...
+00:34:50,350 --> 00:34:53,250
+He admired his brother
 
 366
-00:35:32,180 --> 00:35:41,800
-Madam, are you all right?
+00:34:53,790 --> 00:34:54,850
+In the chaos
 
 367
-00:35:42,720 --> 00:35:46,160
-I beat Qin Guan Bao to death
+00:34:55,790 --> 00:34:58,170
+He fought with Qin Guanbao
 
 368
-00:35:47,640 --> 00:35:49,500
-You ungrateful thing
+00:34:58,170 --> 00:34:59,450
+It's bad
 
 369
-00:35:49,500 --> 00:35:51,480
-I sent you to school to study
+00:34:59,450 --> 00:35:01,470
+Madam, it's bad
 
 370
-00:35:51,480 --> 00:35:52,820
-Not only did you not study well
+00:35:01,470 --> 00:35:03,070
+It's bad
 
 371
-00:35:52,820 --> 00:35:54,000
-But you brought your brother down
+00:35:03,070 --> 00:35:03,810
+What's the matter?
 
 372
-00:35:54,620 --> 00:35:56,060
-and caused such a disaster
+00:35:04,510 --> 00:35:06,310
+It's bad
 
 373
-00:35:58,140 --> 00:36:00,480
-Come with me to Qin's mansion
-
-374
-00:36:01,620 --> 00:36:04,440
-Father, I beat Qin Guan Bao to death
-
-375
-00:36:04,440 --> 00:36:06,440
-Master, if you don't want to know
-
-376
-00:36:06,440 --> 00:36:08,980
-just do as you please
-
-377
-00:36:12,520 --> 00:36:14,540
-Come here, my child
-
-378
-00:36:15,340 --> 00:36:15,940
-Mother
-
-379
-00:36:16,600 --> 00:36:20,980
-Tell me, who beat Qin Guan Bao to death?
-
-380
-00:36:22,320 --> 00:36:22,740
-It was my son
-
-381
-00:36:27,250 --> 00:36:30,070
-Why don't you tell me the truth, my child?
-
-382
-00:36:30,290 --> 00:36:31,890
-Qin Guan Bao humiliated Master
-
-383
-00:36:31,890 --> 00:36:34,570
-I can't stand it, I beat him to death
-
-384
-00:36:34,570 --> 00:36:37,130
-No, Qin Guan Bao scolded my brother
-
-385
-00:36:37,130 --> 00:36:38,330
-because he was raised by Meiniang
-
-386
-00:36:39,150 --> 00:36:42,010
-I was angry, so I beat him to death
-
-387
-00:36:50,600 --> 00:36:52,000
-You are my brother
-
-388
-00:36:52,000 --> 00:36:53,480
-You are responsible for everything
-
-389
-00:36:53,480 --> 00:36:55,640
-You must have caused the disaster
-
-390
-00:36:55,640 --> 00:36:56,760
-Father
-
-391
-00:36:57,860 --> 00:36:59,980
-You were naughty and disobedient
-
-392
-00:36:59,980 --> 00:37:01,640
-You were beaten to death
-
-393
-00:37:01,640 --> 00:37:04,100
-You must have beaten Qin Guan Bao to death
-
-394
-00:37:04,100 --> 00:37:05,820
-Yes, mother
-
-395
-00:37:05,820 --> 00:37:07,520
-Ping Yuan is always smart
-
-396
-00:37:07,520 --> 00:37:09,580
-He would never do such a thing
-
-397
-00:37:09,580 --> 00:37:12,380
-Master, don't blame him
-
-398
-00:37:12,380 --> 00:37:13,760
-He is still young
-
-399
-00:37:13,760 --> 00:37:15,680
-He wouldn't do such a thing
-
-400
-00:37:15,680 --> 00:37:17,660
-How could you wrong him?
-
-401
-00:37:17,660 --> 00:37:20,040
-You can't slander Meiniang's brother
-
-402
-00:37:21,820 --> 00:37:25,720
-Mother, isn't your brother your biological son?
-
-403
-00:37:26,520 --> 00:37:29,120
-Mother, don't you believe it?
-
-404
-00:37:29,580 --> 00:37:33,060
-Father, I am really not your biological son
-
-405
-00:37:33,060 --> 00:37:34,480
-Mother
-
-406
-00:37:43,480 --> 00:37:44,000
-Stop
-
-407
-00:37:47,660 --> 00:37:50,120
-Go, kill him
-
-408
-00:37:51,620 --> 00:37:54,020
-He beat me to death
-
-409
-00:37:54,020 --> 00:37:54,960
-He is here
-
-410
-00:37:54,960 --> 00:37:55,860
-Go
-
-411
-00:37:56,960 --> 00:37:57,660
-Father
-
-412
-00:38:11,540 --> 00:38:16,090
+00:35:07,290 --> 00:35:08,250
 Tell me
 
-413
-00:38:16,090 --> 00:38:18,690
-My son was killed for you
+374
+00:35:08,250 --> 00:35:09,710
+What happened?
 
-414
-00:38:18,690 --> 00:38:20,410
-Tell me the truth
-
-415
-00:38:20,410 --> 00:38:21,330
-Yes
-
-416
-00:38:21,330 --> 00:38:23,770
-No, I beat him to death
-
-417
-00:38:23,770 --> 00:38:25,370
-It's not him, it's me
-
-418
-00:38:25,370 --> 00:38:26,550
-It's me
-
-419
-00:38:26,550 --> 00:38:29,450
-Which one of you beat him to death?
-
-420
-00:38:29,890 --> 00:38:31,410
-It's me
-
-421
-00:38:31,410 --> 00:38:33,990
-It's not him, it's me
-
-422
-00:38:34,930 --> 00:38:37,690
-There is only one who is afraid of death
-
-423
-00:38:37,690 --> 00:38:39,770
-There is no one who wants to die
-
-424
-00:38:39,770 --> 00:38:42,370
-You two beat my son to death
-
-425
-00:38:42,370 --> 00:38:45,550
-Since you want to die, I will let you die together
-
-426
-00:38:45,550 --> 00:38:46,610
-I killed him
-
-427
-00:38:46,610 --> 00:38:47,890
-It has nothing to do with my brother
-
-428
-00:38:47,890 --> 00:38:50,030
-No, I killed him
-
-429
-00:38:52,390 --> 00:38:54,190
-I have a way to stop you
-
-430
-00:38:57,380 --> 00:39:00,600
-The one who takes the body, the one who takes the body will die
-
-431
-00:39:03,000 --> 00:39:04,800
-I am dead
-
-432
-00:39:09,240 --> 00:39:11,020
-I am dead
-
-433
-00:39:11,020 --> 00:39:14,300
-I am dead
-
-434
-00:39:14,300 --> 00:39:16,400
-I am dead
-
-435
-00:39:16,400 --> 00:39:20,060
-You two want to die, I will let you die together
-
-436
-00:39:22,700 --> 00:39:23,900
+375
+00:35:11,190 --> 00:35:11,650
 Master
 
-437
-00:39:23,900 --> 00:39:24,420
+376
+00:35:13,010 --> 00:35:14,990
+The eldest son and the second son
+
+377
+00:35:14,990 --> 00:35:17,110
+They had a fight with Qin Guanbao
+
+378
+00:35:17,110 --> 00:35:20,850
+They beat Qin Guanbao to death
+
+379
+00:35:20,850 --> 00:35:21,610
 What?
 
-438
-00:39:25,140 --> 00:39:26,420
-Did he not die?
+380
+00:35:21,810 --> 00:35:22,950
+They beat Qin Guanbao to death?
 
-439
-00:39:28,400 --> 00:39:29,920
-Master, he is gone
+381
+00:35:23,770 --> 00:35:24,690
+No
 
-440
-00:39:29,920 --> 00:39:30,880
+382
+00:35:25,350 --> 00:35:26,770
+Madam
+
+383
+00:35:30,790 --> 00:35:32,110
+Madam
+
+384
+00:35:40,030 --> 00:35:42,070
+Madam, are you alright?
+
+385
+00:35:42,950 --> 00:35:45,650
+They beat Qin Guanbao to death
+
+386
+00:35:45,650 --> 00:35:46,470
+...
+
+387
+00:35:46,470 --> 00:35:47,310
 What?
 
-441
-00:39:32,280 --> 00:39:33,640
-You are so clever
+388
+00:35:47,990 --> 00:35:49,450
+You ungrateful thing
 
-442
-00:39:33,640 --> 00:39:35,300
-Could it be a monster?
+389
+00:35:49,450 --> 00:35:50,730
+I sent you to school
 
-443
-00:39:37,300 --> 00:39:39,380
-Go, go and get him
+390
+00:35:50,730 --> 00:35:52,650
+You didn't study well
 
-444
-00:39:39,380 --> 00:39:40,220
-Yes
+391
+00:35:52,650 --> 00:35:54,370
+You brought your brother down
 
-445
-00:39:40,220 --> 00:39:42,420
-Let's go
+392
+00:35:54,370 --> 00:35:56,050
+You brought such a big trouble
 
-446
-00:39:54,630 --> 00:39:55,370
-Brother
-
-447
-00:39:57,410 --> 00:39:58,610
-Let's go
-
-448
-00:39:58,610 --> 00:40:01,750
-Let's go
-
-449
-00:40:02,270 --> 00:40:02,290
-Let's go
-
-450
-00:40:22,880 --> 00:40:24,210
-Xu Yuanren
-
-451
-00:40:24,210 --> 00:40:27,110
-You are so bold
-
-452
-00:40:27,110 --> 00:40:29,110
-You are so arrogant
-
-453
-00:40:29,110 --> 00:40:34,760
-You beat my son to death
-
-454
-00:40:34,760 --> 00:40:35,820
-Where is the body?
-
-455
-00:40:40,480 --> 00:40:42,660
-I can't even take the body
-
-456
-00:40:44,310 --> 00:40:46,380
-Your son is a monster
-
-457
-00:40:46,380 --> 00:40:48,400
-He was beaten to death at a young age
-
-458
-00:40:48,400 --> 00:40:51,680
-I caught him and I have a way to escape
-
-459
-00:40:51,680 --> 00:40:54,760
-If I don't ask you for the body, you ask me for the body
-
-460
-00:40:54,760 --> 00:40:57,700
-How dare you?
-
-461
-00:40:57,860 --> 00:41:00,000
-Master Qin
-
-462
-00:41:02,100 --> 00:41:06,320
-Where is he?
-
-463
-00:41:10,190 --> 00:41:11,150
-Go after him
-
-464
-00:41:20,910 --> 00:41:21,710
-Hurry
-
-465
-00:41:52,160 --> 00:41:54,320
-Oh no
-
-466
-00:41:54,320 --> 00:41:55,800
-Oh no
-
-467
-00:41:55,800 --> 00:41:58,080
-Master, Madam
-
-468
-00:41:58,080 --> 00:42:01,360
-I saw him run away again
-
-469
-00:42:01,360 --> 00:42:01,920
-Go and get them
-
-470
-00:42:01,920 --> 00:42:02,940
-Yes
-
-471
-00:42:29,220 --> 00:42:32,880
-I saw him run away again
-
-472
-00:42:32,880 --> 00:42:33,280
+393
+00:35:58,170 --> 00:35:58,590
 Go
 
+394
+00:35:58,590 --> 00:36:00,470
+Go to Qin's house
+
+395
+00:36:00,470 --> 00:36:04,450
+I beat Qin Guanbao to death
+
+396
+00:36:04,450 --> 00:36:05,250
+Master
+
+397
+00:36:05,250 --> 00:36:06,250
+If you don't ask
+
+398
+00:36:12,230 --> 00:36:13,490
+Come here
+
+399
+00:36:14,730 --> 00:36:15,570
+Mother
+
+400
+00:36:16,370 --> 00:36:17,610
+Tell me
+
+401
+00:36:17,610 --> 00:36:20,370
+Who beat Qin Guanbao to death?
+
+402
+00:36:21,830 --> 00:36:24,290
+I beat him to death
+
+403
+00:36:25,760 --> 00:36:29,300
+Why don't you tell me the truth?
+
+404
+00:36:30,240 --> 00:36:31,880
+Qin Guanbao insulted Master
+
+405
+00:36:31,880 --> 00:36:33,840
+I beat him to death
+
+406
+00:36:34,600 --> 00:36:35,280
+No
+
+407
+00:36:35,280 --> 00:36:37,180
+Qin Guanbao scolded my brother
+
+408
+00:36:37,180 --> 00:36:38,300
+He was raised by my mother
+
+409
+00:36:38,300 --> 00:36:40,160
+I was angry
+
+410
+00:36:40,160 --> 00:36:51,060
+So I beat him to death
+
+411
+00:36:51,060 --> 00:36:52,220
+You're his brother
+
+412
+00:36:52,580 --> 00:36:53,520
+You brought him down
+
+413
+00:36:53,520 --> 00:36:55,420
+You must have brought this trouble
+
+414
+00:36:55,420 --> 00:36:56,720
+Father
+
+415
+00:36:57,520 --> 00:36:59,900
+You're naughty and disobedient
+
+416
+00:36:59,900 --> 00:37:01,340
+You fight with others
+
+417
+00:37:01,340 --> 00:37:03,940
+You beat Qin Guanbao to death
+
+418
+00:37:03,940 --> 00:37:05,820
+Yes, mother
+
+419
+00:37:05,820 --> 00:37:07,260
+Pingyuan is smart
+
+420
+00:37:07,260 --> 00:37:09,620
+He won't do such a thing
+
+421
+00:37:09,620 --> 00:37:12,340
+Master, don't blame him
+
+422
+00:37:12,340 --> 00:37:13,540
+He's young
+
+423
+00:37:13,540 --> 00:37:15,700
+He won't do such a thing
+
+424
+00:37:15,700 --> 00:37:17,740
+How can you wrong him?
+
+425
+00:37:18,160 --> 00:37:19,900
+You can't slander my brother
+
+426
+00:37:21,440 --> 00:37:22,060
+Father
+
+427
+00:37:22,680 --> 00:37:24,980
+Isn't my brother your brother?
+
+428
+00:37:26,260 --> 00:37:26,940
+Mother
+
+429
+00:37:26,940 --> 00:37:28,860
+Isn't he?
+
+430
+00:37:29,600 --> 00:37:30,220
+Father
+
+431
+00:37:30,220 --> 00:37:32,420
+I'm not his mother
+
+432
+00:37:43,360 --> 00:37:43,980
+Stop
+
+433
+00:37:46,420 --> 00:37:53,410
+...
+
+434
+00:37:53,870 --> 00:37:54,550
+Here
+
+435
+00:37:54,550 --> 00:37:57,030
+Let's go
+
+436
+00:37:57,030 --> 00:37:57,710
+Father
+
+437
+00:38:00,230 --> 00:38:02,230
+...
+
+438
+00:38:02,230 --> 00:38:03,190
+Father
+
+439
+00:38:03,190 --> 00:38:04,890
+...
+
+440
+00:38:04,890 --> 00:38:05,310
+Father
+
+441
+00:38:05,310 --> 00:38:10,690
+...
+
+442
+00:38:10,690 --> 00:38:16,210
+Tell me
+
+443
+00:38:16,210 --> 00:38:18,070
+My son was killed by you
+
+444
+00:38:18,070 --> 00:38:20,150
+Tell me the truth
+
+445
+00:38:20,150 --> 00:38:21,310
+Yes
+
+446
+00:38:21,790 --> 00:38:23,770
+No, I beat him to death
+
+447
+00:38:23,770 --> 00:38:25,350
+It's not him, it's me
+
+448
+00:38:25,350 --> 00:38:26,510
+It's me
+
+449
+00:38:26,510 --> 00:38:29,290
+Which one of you beat him to death?
+
+450
+00:38:29,850 --> 00:38:31,290
+It's me
+
+451
+00:38:32,070 --> 00:38:34,050
+It's not him, it's me
+
+452
+00:38:34,050 --> 00:38:35,590
+In this world
+
+453
+00:38:35,590 --> 00:38:37,410
+Only those who are afraid of death
+
+454
+00:38:38,010 --> 00:38:39,650
+can ask for death
+
+455
+00:38:39,650 --> 00:38:42,310
+You beat my son to death
+
+456
+00:38:42,310 --> 00:38:43,330
+Since you want to die
+
+457
+00:38:43,330 --> 00:38:45,610
+I'll let you die together
+
+458
+00:38:45,610 --> 00:38:46,590
+I killed him
+
+459
+00:38:46,590 --> 00:38:48,070
+It has nothing to do with my brother
+
+460
+00:38:48,070 --> 00:38:51,330
+No, I killed him
+
+461
+00:38:52,390 --> 00:38:55,610
+I have a way to stop you
+
+462
+00:38:57,450 --> 00:38:58,890
+Which one of you is alive?
+
+463
+00:38:59,490 --> 00:39:00,470
+Which one of you is dead?
+
+464
+00:39:03,360 --> 00:39:04,830
+I'm dead
+
+465
+00:39:09,300 --> 00:39:11,000
+I'm dead
+
+466
+00:39:16,580 --> 00:39:18,070
+Both of you want to die
+
+467
+00:39:18,070 --> 00:39:19,770
+...
+
+468
+00:39:22,770 --> 00:39:23,890
+Master
+
+469
+00:39:23,890 --> 00:39:26,650
+Is he still alive?
+
+470
+00:39:28,510 --> 00:39:29,890
+Master, he's gone
+
+471
+00:39:30,270 --> 00:39:30,970
+What?
+
+472
+00:39:32,270 --> 00:39:33,530
+That's ridiculous
+
 473
-00:42:52,640 --> 00:42:54,400
-Get him
+00:39:33,530 --> 00:39:35,270
+Could it be a monster?
 
 474
-00:42:56,580 --> 00:42:57,740
-Yes
+00:39:37,230 --> 00:39:38,630
+Go
 
 475
-00:42:57,740 --> 00:42:59,200
-Take him back
+00:39:38,630 --> 00:39:39,550
+Go get him
 
 476
-00:42:59,200 --> 00:43:00,080
-Wait
+00:39:39,550 --> 00:39:40,330
+Yes
 
 477
-00:43:00,080 --> 00:43:01,280
-He is a monster
-
-478
-00:43:01,280 --> 00:43:03,100
-Let's throw him into the valley
-
-479
-00:43:11,900 --> 00:43:13,060
-Yes
-
-480
-00:43:13,720 --> 00:43:14,960
+00:39:55,020 --> 00:39:55,720
 Brother
 
+478
+00:39:57,660 --> 00:40:02,000
+Let's go
+
+479
+00:40:10,960 --> 00:40:12,960
+Let's go
+
+480
+00:40:22,210 --> 00:40:24,110
+Xu Yuanren
+
 481
-00:43:14,960 --> 00:43:16,180
-Throw him
+00:40:24,110 --> 00:40:28,750
+You're a coward
 
 482
-00:43:16,180 --> 00:43:16,760
-Yes
+00:40:32,870 --> 00:40:34,740
+You executed my son
 
 483
-00:43:53,640 --> 00:43:58,790
-Throw him
+00:40:34,740 --> 00:40:35,940
+Where's his body?
 
 484
-00:44:01,930 --> 00:44:02,490
-Master
+00:40:40,730 --> 00:40:43,200
+You don't even let me take your life
 
 485
-00:44:03,110 --> 00:44:05,630
-You are so smart
+00:40:44,370 --> 00:40:46,240
+Your son is a monster
 
 486
-00:44:05,650 --> 00:44:10,350
-In such a short time, you have mastered a good martial art
+00:40:46,770 --> 00:40:48,400
+He was beaten to death at a young age
 
 487
-00:44:10,350 --> 00:44:12,370
-You are really extraordinary
+00:40:48,400 --> 00:40:49,700
+I caught him
 
 488
-00:44:12,370 --> 00:44:14,410
-I am flattered
+00:40:49,700 --> 00:40:51,660
+I have a way to escape
 
 489
-00:44:15,870 --> 00:44:20,170
-You want to go down the mountain again
+00:40:51,660 --> 00:40:52,960
+I don't ask you for help
 
 490
-00:44:20,170 --> 00:44:21,050
-Master
+00:40:52,960 --> 00:40:54,820
+You ask me for help
 
 491
-00:44:21,050 --> 00:44:22,350
-I am very bold
+00:40:54,820 --> 00:40:57,680
+How dare you
 
 492
-00:44:22,350 --> 00:44:24,390
-I beg you to help me
+00:40:57,680 --> 00:40:58,500
+Qin Pai
 
 493
-00:44:24,570 --> 00:44:26,450
-I want to see my mother
+00:41:00,940 --> 00:41:05,860
+Where is he?
 
 494
-00:44:26,450 --> 00:44:27,950
-I beg you to help me
+00:41:10,280 --> 00:41:12,740
+Go after him
 
 495
-00:44:27,950 --> 00:44:32,030
-The place where your mother is is very dangerous
+00:41:53,020 --> 00:41:54,080
+Go after him
 
 496
-00:44:32,030 --> 00:44:36,450
-It is not easy for an ordinary person to get there
+00:41:54,080 --> 00:41:55,300
+Good news?
 
 497
-00:44:36,450 --> 00:44:38,050
-It is not easy
+00:41:56,750 --> 00:41:58,100
+Master, Madam
 
 498
-00:44:38,050 --> 00:44:40,810
-No matter going up the mountain or going down the valley
+00:41:58,100 --> 00:42:01,080
+I saw them run away
 
 499
-00:44:40,810 --> 00:44:42,250
-As long as I am still here
+00:42:01,080 --> 00:42:01,980
+Go get them
 
 500
-00:44:42,250 --> 00:44:44,110
-I must go see my mother
+00:42:01,980 --> 00:42:02,980
+Yes
 
 501
-00:44:44,110 --> 00:44:45,050
-Master
+00:42:29,450 --> 00:42:30,330
+Go
 
 502
-00:44:47,690 --> 00:44:49,290
-It is difficult
+00:42:30,330 --> 00:42:31,370
+I saw him
 
 503
-00:44:49,290 --> 00:44:50,350
-It is difficult
+00:42:31,370 --> 00:42:32,730
+Go
 
 504
-00:44:50,350 --> 00:44:52,170
-There is no difficulty in the world
+00:42:51,000 --> 00:42:53,420
+The man you're looking for is here
 
 505
-00:44:52,170 --> 00:44:53,930
-I am afraid that some people
+00:42:53,420 --> 00:42:54,400
+Get him
 
 506
-00:44:53,930 --> 00:44:56,110
-Usually master teaches his disciples
+00:42:59,830 --> 00:43:01,310
+He's a monster
 
 507
-00:44:56,110 --> 00:44:58,430
-To be loyal to the country, to be loyal to people
+00:43:01,750 --> 00:43:02,730
+Let's throw him into the valley
 
 508
-00:44:58,430 --> 00:45:00,350
-Mr. Xue Tang teaches Ping Yuan
+00:43:13,560 --> 00:43:14,960
+Brother
 
 509
-00:45:00,350 --> 00:45:02,590
-To be filial to parents, to love the public
+00:43:14,960 --> 00:43:16,760
+Throw him
 
 510
-00:45:02,590 --> 00:45:04,350
-Ping Yuan is full of hatred
-
-511
-00:45:04,350 --> 00:45:06,030
-He wants to see his mother
-
-512
-00:45:06,030 --> 00:45:07,450
-Shouldn't he?
-
-513
-00:45:10,200 --> 00:45:12,790
-Since you have this filial piety
-
-514
-00:45:12,790 --> 00:45:15,350
-Master will help you
-
-515
-00:45:15,350 --> 00:45:17,730
-It is just that
-
-516
-00:45:17,730 --> 00:45:20,950
-There are many difficulties along the way
-
-517
-00:45:20,950 --> 00:45:22,510
-With your martial arts
-
-518
-00:45:22,510 --> 00:45:24,550
-I am afraid it is not enough
-
-519
-00:45:24,550 --> 00:45:27,370
-I will give you a treasure box
-
-520
-00:45:27,370 --> 00:45:30,450
-If you encounter any difficulty
-
-521
-00:45:30,450 --> 00:45:32,490
-As long as you call me
-
-522
-00:45:32,490 --> 00:45:36,560
-This treasure box will help you get out of danger
-
-523
-00:45:37,430 --> 00:45:41,350
-The most important thing is to be loyal
-
-524
-00:45:42,110 --> 00:45:44,490
-Remember, remember
-
-525
-00:45:44,490 --> 00:45:46,370
-Thank you, master
-
-526
-00:50:22,420 --> 00:50:23,820
+00:44:02,220 --> 00:44:02,920
 Master
 
+511
+00:44:02,920 --> 00:44:05,580
+You're so smart
+
+512
+00:44:06,620 --> 00:44:10,260
+You've mastered a good martial art in such a short time
+
+513
+00:44:10,260 --> 00:44:12,420
+You're extraordinary
+
+514
+00:44:12,420 --> 00:44:14,060
+Thank you
+
+515
+00:44:15,460 --> 00:44:16,400
+Master
+
+516
+00:44:16,400 --> 00:44:20,220
+You want to go down the mountain again?
+
+517
+00:44:20,260 --> 00:44:22,420
+Master, I'm too bold
+
+518
+00:44:22,420 --> 00:44:24,420
+Please help me
+
+519
+00:44:24,420 --> 00:44:26,360
+I want to see my mother
+
+520
+00:44:26,360 --> 00:44:28,040
+Please help me
+
+521
+00:44:28,040 --> 00:44:31,700
+Your mother is in a dangerous place
+
+522
+00:44:31,700 --> 00:44:36,400
+It's not easy for a normal person to get there
+
+523
+00:44:36,400 --> 00:44:38,280
+It's not easy
+
+524
+00:44:38,280 --> 00:44:39,480
+No matter where I go
+
+525
+00:44:40,060 --> 00:44:42,160
+As long as I'm here
+
+526
+00:44:42,160 --> 00:44:44,080
+I want to see my mother
+
 527
-00:51:08,480 --> 00:51:09,880
+00:44:45,720 --> 00:44:46,520
 Master
 
 528
-00:51:38,660 --> 00:51:40,060
-Master
+00:44:48,060 --> 00:44:50,860
+It's not easy
 
 529
-00:52:13,220 --> 00:52:14,620
-No
+00:44:50,860 --> 00:44:53,600
+I'm afraid of other people
 
 530
-00:52:21,020 --> 00:52:22,420
-No
+00:44:53,900 --> 00:44:56,100
+Don't you usually teach your students
 
 531
-00:52:26,160 --> 00:52:27,560
-No
+00:44:56,100 --> 00:44:57,160
+To be loyal to the country
 
 532
-00:52:27,560 --> 00:52:28,140
-No
+00:44:57,160 --> 00:44:58,580
+To be respectful to the people
 
 533
-00:52:28,680 --> 00:52:29,380
-No
+00:44:58,580 --> 00:45:01,580
+I want to be filial to my parents
 
 534
-00:52:52,920 --> 00:52:54,320
-No
+00:45:01,580 --> 00:45:02,960
+I want to be filial to the people
 
 535
-00:53:11,900 --> 00:53:13,300
-Master
+00:45:02,960 --> 00:45:06,060
+I want to see my mother
 
 536
-00:54:00,740 --> 00:54:02,140
-Master
+00:45:06,060 --> 00:45:07,480
+Shouldn't I?
 
 537
-00:54:02,140 --> 00:54:02,860
-Master
+00:45:09,360 --> 00:45:11,900
+Since you're filial
 
 538
-00:54:02,860 --> 00:54:03,220
-Master
+00:45:11,900 --> 00:45:15,260
+I'll help you
 
 539
-00:54:17,640 --> 00:54:19,040
-Master
+00:45:15,260 --> 00:45:17,880
+It's just that
 
 540
-00:55:26,290 --> 00:55:27,690
-Master
+00:45:17,880 --> 00:45:21,020
+There are many difficulties along the way
 
 541
-00:55:35,190 --> 00:55:36,590
-Master
+00:45:21,020 --> 00:45:22,660
+I'm afraid your martial arts
 
 542
-00:56:19,170 --> 00:56:19,490
-Master
+00:45:22,660 --> 00:45:24,140
+Are not enough
 
 543
-01:01:18,260 --> 01:01:19,660
-Master
+00:45:24,140 --> 00:45:27,660
+I'll give you a treasure box
 
 544
-01:01:51,620 --> 01:01:51,640
-Master
+00:45:27,660 --> 00:45:30,540
+If you encounter any difficulties
 
 545
-01:02:38,760 --> 01:02:40,960
-I am so hungry
+00:45:30,540 --> 00:45:32,460
+As long as you call me
 
 546
-01:02:40,960 --> 01:02:50,240
-Can I have a peach?
+00:45:32,460 --> 00:45:36,780
+I'll help you get out of danger
 
 547
-01:03:13,680 --> 01:03:15,900
-Thank you for your help
+00:45:36,780 --> 00:45:38,840
+The most important thing
 
 548
-01:03:15,900 --> 01:03:19,900
-Thank you
+00:45:38,840 --> 00:45:41,380
+Is to be loyal
 
 549
-01:03:19,900 --> 01:03:23,040
-I am eating a peach
+00:45:41,420 --> 00:45:43,900
+Remember
 
 550
-01:03:30,220 --> 01:03:31,640
-May I ask
+00:45:44,700 --> 00:45:46,340
+Thank you, Master
 
 551
-01:03:31,640 --> 01:03:32,880
-Who are you?
+00:49:59,270 --> 00:50:00,670
+...
 
 552
-01:03:33,020 --> 01:03:33,080
-I am a fairy
+00:50:49,620 --> 00:50:51,020
+[roar]
 
 553
-01:03:33,080 --> 01:03:33,520
-What fairy?
+00:51:49,950 --> 00:51:51,350
+Master
 
 554
-01:03:33,920 --> 01:03:34,840
-I am Lu Dong Bin
+00:52:06,430 --> 00:52:07,830
+[roar]
 
 555
-01:03:34,840 --> 01:03:36,640
-You don't know me?
+00:52:59,600 --> 00:53:01,000
+Master
 
 556
-01:03:36,900 --> 01:03:38,080
-I am a fairy
-
-557
-01:03:38,080 --> 01:03:40,580
-I don't know where you live
-
-558
-01:03:44,440 --> 01:03:45,620
-Right in front
-
-559
-01:03:45,620 --> 01:03:47,220
-I will take you there
-
-560
-01:03:47,220 --> 01:03:48,640
-Thank you
-
-561
-01:03:57,220 --> 01:03:58,960
-You crazy fairy
-
-562
-01:05:22,040 --> 01:05:23,180
-Don't block the way
-
-563
-01:05:23,180 --> 01:05:25,240
-I am the Great Sage
-
-564
-01:05:25,240 --> 01:05:27,040
-How dare you scold me
-
-565
-01:05:29,240 --> 01:05:29,860
-Sorry
-
-566
-01:05:29,860 --> 01:05:31,180
-Great Sage
-
-567
-01:05:31,180 --> 01:05:31,860
-I have an emergency
-
-568
-01:05:32,860 --> 01:05:33,480
-Please don't worry
-
-569
-01:05:33,480 --> 01:05:33,960
-Emergency?
-
-570
-01:05:34,580 --> 01:05:35,340
-What emergency?
-
-571
-01:05:35,940 --> 01:05:37,140
-I am looking for my mother
-
-572
-01:05:37,140 --> 01:05:38,860
-She is the Jade Fairy
-
-573
-01:05:38,860 --> 01:05:41,960
-You are looking for the Jade Fairy?
-
-574
-01:05:42,800 --> 01:05:43,920
-Yes, please be in a good mood
-
-575
-01:05:45,000 --> 01:05:45,620
+00:53:02,840 --> 00:53:03,540
 No
 
+557
+00:53:07,480 --> 00:53:08,880
+No
+
+558
+00:53:10,700 --> 00:53:12,100
+No
+
+559
+00:53:31,020 --> 00:53:31,440
+Go
+
+560
+00:54:01,700 --> 00:54:03,100
+Master
+
+561
+00:54:29,600 --> 00:54:31,000
+Master
+
+562
+00:55:32,270 --> 00:55:33,670
+[growl]
+
+563
+00:55:39,050 --> 00:55:40,450
+[roar]
+
+564
+00:56:21,070 --> 00:56:22,470
+[growl]
+
+565
+01:01:18,270 --> 01:01:19,670
+Master
+
+566
+01:02:01,110 --> 01:02:02,230
+...
+
+567
+01:02:38,520 --> 01:02:41,320
+I'm so hungry
+
+568
+01:02:48,210 --> 01:02:50,210
+Can I have a peach?
+
+569
+01:03:13,930 --> 01:03:16,010
+Thank you for your help
+
+570
+01:03:16,010 --> 01:03:20,310
+Thank you
+
+571
+01:03:20,310 --> 01:03:22,990
+I'm eating a peach
+
+572
+01:03:30,490 --> 01:03:32,250
+May I ask who you are?
+
+573
+01:03:32,730 --> 01:03:33,630
+What are you talking about?
+
+574
+01:03:33,970 --> 01:03:34,850
+I'm Lu Dong Bin
+
+575
+01:03:34,850 --> 01:03:36,670
+You don't know me?
+
 576
-01:05:45,620 --> 01:05:48,360
-The Jade Fairy has broken the heaven's rules
+01:03:36,710 --> 01:03:37,670
+Master Lu
 
 577
-01:05:48,360 --> 01:05:49,520
-If it wasn't for me
+01:03:37,670 --> 01:03:40,530
+I don't know where you live
 
 578
-01:05:49,520 --> 01:05:53,300
-She would have been dead by now
+01:03:44,470 --> 01:03:45,990
+Right in front of us
 
 579
-01:05:53,300 --> 01:05:53,900
-What?
+01:03:45,990 --> 01:03:47,170
+I'll take you there
 
 580
-01:05:55,240 --> 01:05:56,940
-My mother was killed by you?
+01:03:47,170 --> 01:03:51,570
+Thank you
 
 581
-01:05:58,020 --> 01:05:58,620
-Yes
+01:03:57,940 --> 01:03:59,720
+You're crazy
 
 582
-01:06:37,450 --> 01:06:37,870
-Go
+01:05:20,960 --> 01:05:23,200
+You evil monkey, don't block the way
 
 583
-01:08:31,680 --> 01:08:33,080
-Go
+01:05:23,200 --> 01:05:25,240
+I'm the Great Sage
 
 584
-01:08:52,360 --> 01:08:53,740
-You stay in the gourd
+01:05:25,240 --> 01:05:27,760
+How dare you call me an evil monkey
 
 585
-01:08:53,740 --> 01:08:55,700
-Wait until you find my mother
+01:05:27,760 --> 01:05:30,300
+I'm sorry
 
 586
-01:08:55,700 --> 01:08:57,620
-I will let you out
+01:05:30,300 --> 01:05:31,820
+Great Sage, I have an emergency
 
 587
-01:08:59,680 --> 01:09:01,140
-I am so bored
+01:05:31,820 --> 01:05:32,960
+Please don't worry
 
 588
-01:09:02,140 --> 01:09:02,800
-Monkey
+01:05:32,960 --> 01:05:35,320
+Emergency? What emergency?
 
 589
-01:09:02,800 --> 01:09:04,160
-Where is my mother?
+01:05:35,820 --> 01:05:36,980
+I'm looking for my mother
 
 590
-01:09:05,020 --> 01:09:06,620
-In the stone cave in front
+01:05:36,980 --> 01:05:39,260
+She's a fairy in heaven
 
 591
-01:09:06,620 --> 01:09:09,260
-I am so tired
+01:05:39,260 --> 01:05:41,820
+You're looking for a fairy?
 
 592
-01:09:09,260 --> 01:09:09,280
-I am so tired
+01:05:42,440 --> 01:05:43,500
+Yes, please
 
 593
-01:09:09,280 --> 01:09:09,420
-I am so tired
+01:05:43,500 --> 01:05:44,920
+Please be kind, Great Sage
 
 594
-01:09:09,420 --> 01:09:15,280
-Okay, I will let you out
+01:05:44,920 --> 01:05:46,060
+No
 
 595
-01:09:25,400 --> 01:09:26,800
-Mother
+01:05:46,060 --> 01:05:48,300
+The fairy has broken the heaven rule
 
 596
-01:09:27,660 --> 01:09:29,100
-Mother
+01:05:48,300 --> 01:05:49,640
+If it wasn't for me
 
 597
-01:09:29,100 --> 01:09:29,800
-Mother
+01:05:49,640 --> 01:05:53,260
+She would have run amok
 
 598
-01:09:32,580 --> 01:09:33,980
-Mother
+01:05:53,260 --> 01:05:54,680
+What?
 
 599
-01:09:33,980 --> 01:09:34,900
-Mother
+01:05:55,300 --> 01:05:56,680
+My mother was trapped by you?
 
 600
-01:09:35,660 --> 01:09:36,660
-Mother
+01:05:58,500 --> 01:05:59,380
+Exactly
 
 601
-01:09:37,240 --> 01:09:38,200
-It's me
+01:05:59,380 --> 01:06:48,440
+Let's go
 
 602
-01:09:38,200 --> 01:09:38,900
-Mother
+01:07:28,300 --> 01:07:31,120
+...
 
 603
-01:09:40,260 --> 01:09:41,660
-Child
+01:07:31,180 --> 01:07:31,780
+[monkey noises]
 
 604
-01:09:41,660 --> 01:09:42,660
-Mother
+01:07:38,060 --> 01:07:40,440
+[boy noises]
 
 605
-01:09:43,660 --> 01:09:47,100
-I thought I would never see you again
+01:08:07,250 --> 01:08:09,610
+[monkey noises]
 
 606
-01:09:47,100 --> 01:09:48,080
-Child
+01:08:51,970 --> 01:08:52,970
+Hey
 
 607
-01:09:48,080 --> 01:09:48,980
-Mother
+01:08:52,970 --> 01:08:53,110
+Be good
 
 608
-01:09:48,980 --> 01:09:50,140
-I miss you
+01:08:53,110 --> 01:08:55,650
+When I find my mother
 
 609
-01:09:50,140 --> 01:09:51,880
-I want to be with you forever
+01:08:55,650 --> 01:08:57,070
+I'll let you out
 
 610
-01:09:51,880 --> 01:09:53,340
-I will never leave you
+01:08:58,990 --> 01:09:01,990
+I'm so cold
 
 611
-01:09:54,620 --> 01:09:55,340
-Mother
+01:09:01,990 --> 01:09:02,790
+Monkey
 
 612
-01:09:55,340 --> 01:09:56,700
-Silly child
+01:09:02,790 --> 01:09:04,070
+Where is my mother?
 
 613
-01:09:56,700 --> 01:09:58,940
-I have broken the heaven's rules
+01:09:05,070 --> 01:09:07,050
+In the stone cave
 
 614
-01:09:58,940 --> 01:10:03,900
-I want to be locked in the cave forever
+01:09:09,370 --> 01:09:10,370
+Okay
 
 615
-01:10:03,900 --> 01:10:05,020
-Child
+01:09:10,370 --> 01:09:11,750
+I'll let you out
 
 616
-01:10:09,250 --> 01:10:11,030
-I want to get you out
+01:09:25,670 --> 01:09:28,750
+Mother
 
 617
-01:10:11,030 --> 01:10:11,990
+01:09:31,890 --> 01:09:34,770
 Mother
 
 618
-01:10:12,950 --> 01:10:13,670
-No
+01:09:34,770 --> 01:09:38,250
+Mother, it's me
 
 619
-01:10:13,670 --> 01:10:14,670
-Never
+01:09:39,270 --> 01:09:40,430
+Mother
 
 620
-01:10:14,670 --> 01:10:15,990
-Never
+01:09:40,890 --> 01:09:41,590
+Child
 
 621
-01:10:15,990 --> 01:10:17,530
-No matter what the consequences are
+01:09:41,590 --> 01:09:43,270
+Mother
 
 622
-01:10:17,530 --> 01:10:19,830
-I am willing to bear the consequences alone
+01:09:43,270 --> 01:09:47,070
+I thought I'd never see you again
 
 623
-01:10:19,830 --> 01:10:20,390
-No
+01:09:47,070 --> 01:09:48,050
+Child
 
 624
-01:10:20,870 --> 01:10:21,430
-Child
+01:09:48,050 --> 01:09:50,110
+Mother, I miss you
 
 625
-01:10:21,550 --> 01:10:23,490
-You can't
+01:09:50,110 --> 01:09:51,850
+I want to be with you forever
 
 626
-01:10:23,490 --> 01:10:26,010
-You can't
+01:09:51,850 --> 01:09:53,230
+I won't leave you
 
 627
-01:10:26,010 --> 01:10:28,430
-You can't
-
-628
-01:10:28,990 --> 01:10:30,490
+01:09:54,490 --> 01:09:55,070
 Child
 
+628
+01:09:57,050 --> 01:09:58,990
+I've broken the heaven rule
+
 629
-01:10:30,490 --> 01:10:32,650
-Listen to me
+01:09:58,990 --> 01:10:03,890
+I will be locked in the cave forever
 
 630
-01:10:33,790 --> 01:10:36,730
-You can't
+01:10:03,890 --> 01:10:05,050
+Child
 
 631
-01:10:40,870 --> 01:10:41,990
-Master
+01:10:09,420 --> 01:10:11,080
+I want to get you out
 
 632
-01:10:48,400 --> 01:10:49,520
+01:10:11,080 --> 01:10:11,900
 Mother
 
 633
-01:10:49,520 --> 01:10:50,460
-Please step back
+01:10:13,060 --> 01:10:16,080
+No, you can't
 
 634
-01:10:50,460 --> 01:10:53,620
-I want to use this treasure box to blow up this cave
+01:10:16,080 --> 01:10:17,580
+No matter what
 
 635
-01:10:53,620 --> 01:10:54,600
-No
+01:10:17,580 --> 01:10:19,280
+I'm willing to bear the consequences
 
 636
-01:10:54,600 --> 01:10:55,020
-Child
+01:10:19,280 --> 01:10:21,860
+No, child
 
 637
-01:10:55,020 --> 01:10:56,320
+01:10:22,040 --> 01:10:27,620
 You can't
 
 638
-01:10:56,320 --> 01:10:56,760
-No
+01:10:31,400 --> 01:10:33,620
+Listen to me
 
 639
-01:10:56,760 --> 01:11:01,310
-I must blow it up
+01:10:33,620 --> 01:10:36,180
+You can't
 
 640
-01:11:01,310 --> 01:11:02,290
-No
+01:10:41,300 --> 01:10:41,980
+Master
 
 641
-01:11:02,290 --> 01:11:03,470
-Child
+01:10:48,180 --> 01:10:50,440
+Mother, please step back
 
 642
-01:11:03,470 --> 01:11:05,110
-You can't
+01:10:50,440 --> 01:10:52,440
+I want to use this treasure box
 
 643
-01:11:05,110 --> 01:11:06,390
-You can't
+01:10:52,440 --> 01:10:53,420
+Open the cave
 
 644
-01:11:06,850 --> 01:11:06,890
-You
+01:10:54,230 --> 01:10:55,260
+No, child
 
 645
-01:11:14,660 --> 01:11:15,500
-Mother
-
-646
-01:11:15,640 --> 01:11:17,340
-Let's go
-
-647
-01:11:49,270 --> 01:11:50,530
-Where are you coming from?
-
-648
-01:11:50,530 --> 01:11:50,790
-Child
-
-649
-01:11:50,790 --> 01:11:53,290
-You dare to blow up the cave and kidnap the Jade Fairy
-
-650
-01:11:53,290 --> 01:11:55,430
-The Jade Fairy is my mother
-
-651
-01:11:55,430 --> 01:11:56,110
-Who are you?
-
-652
-01:11:56,950 --> 01:11:59,430
-None of your business
-
-653
-01:11:59,430 --> 01:12:00,310
-Don't be rude
-
-654
-01:12:00,310 --> 01:12:01,190
-Child
-
-655
-01:12:01,190 --> 01:12:02,190
-She is your uncle
-
-656
-01:12:02,190 --> 01:12:03,130
-Call him
-
-657
-01:12:05,170 --> 01:12:05,810
-Uncle
-
-658
-01:12:07,030 --> 01:12:09,570
-It's easy to say
-
-659
-01:12:09,570 --> 01:12:10,810
-You can call him uncle
-
-660
-01:12:10,810 --> 01:12:12,630
-Take her away
-
-661
-01:12:13,430 --> 01:12:14,070
-No
-
-662
-01:12:15,350 --> 01:12:17,850
-So you won't let my mother go
-
-663
-01:12:18,530 --> 01:12:18,870
-Child
-
-664
-01:12:20,530 --> 01:12:21,970
-You are my nephew
-
-665
-01:12:23,430 --> 01:12:25,210
-If you can beat me
-
-666
-01:12:25,210 --> 01:12:26,580
-I will let you go
-
-667
-01:12:28,210 --> 01:12:29,190
-Come on
-
-668
-01:12:29,190 --> 01:12:29,850
-In order to save my mother
-
-669
-01:12:29,850 --> 01:12:31,490
-I can't take care of so much etiquette
-
-670
-01:12:31,490 --> 01:12:32,810
-Watch out
-
-671
-01:12:32,810 --> 01:12:33,170
+01:10:55,260 --> 01:10:58,120
 You can't
 
-672
-01:12:33,170 --> 01:12:33,730
-Child
-
-673
-01:12:39,340 --> 01:12:40,280
-You don't want to fight?
-
-674
-01:12:41,620 --> 01:12:42,180
-Thank you
-
-675
-01:12:42,810 --> 01:12:43,100
+646
+01:11:21,370 --> 01:11:21,990
 Mother
 
-676
-01:12:43,100 --> 01:12:44,860
-Let's go
+647
+01:11:49,480 --> 01:11:50,660
+Where are you from?
 
-677
-01:12:47,670 --> 01:12:51,900
+648
+01:11:51,200 --> 01:11:53,180
+How dare you break the cave and kidnap the fairy
+
+649
+01:11:54,010 --> 01:11:55,440
+The fairy is my mother
+
+650
+01:11:55,440 --> 01:11:56,060
+Who are you?
+
+651
+01:11:57,780 --> 01:12:00,220
+Don't be rude
+
+652
+01:12:00,220 --> 01:12:02,100
+Child, he's your uncle
+
+653
+01:12:02,100 --> 01:12:03,240
+Call him
+
+654
+01:12:03,240 --> 01:12:05,760
 Come on
 
-678
-01:12:53,200 --> 01:12:53,780
-Child
+655
+01:12:05,760 --> 01:12:06,120
+Uncle
 
-679
-01:15:04,870 --> 01:15:06,270
-Mother
+656
+01:12:06,120 --> 01:12:07,760
+Easy
 
-680
-01:15:14,260 --> 01:15:15,440
-Mother
+657
+01:12:07,760 --> 01:12:10,500
+Call me uncle?
 
-681
-01:15:15,440 --> 01:15:17,800
-You are filial
+658
+01:12:10,500 --> 01:12:12,800
+Take him away
 
-682
-01:15:17,800 --> 01:15:18,940
-For two days
-
-683
-01:15:19,770 --> 01:15:22,880
-Heaven and earth have punished you
-
-684
-01:15:22,880 --> 01:15:24,960
-From now on
-
-685
-01:15:24,960 --> 01:15:27,720
-You can live a free life
-
-686
-01:15:29,300 --> 01:15:30,080
-Child
-
-687
-01:15:30,800 --> 01:15:33,000
-If you really love me
-
-688
-01:15:33,000 --> 01:15:35,780
-You should listen to me
-
-689
-01:15:35,780 --> 01:15:37,140
-Go back
-
-690
-01:15:37,140 --> 01:15:38,840
-Take good care of your old parents
-
-691
-01:15:39,530 --> 01:15:41,540
-Take good care of your poor brother
-
-692
-01:15:41,540 --> 01:15:42,580
+659
+01:12:12,800 --> 01:12:14,120
 No
 
-693
-01:15:42,580 --> 01:15:44,020
+660
+01:12:15,240 --> 01:12:17,860
+So you won't let my mother go
+
+661
+01:12:17,860 --> 01:12:19,020
+Child
+
+662
+01:12:20,220 --> 01:12:21,980
+You're my nephew
+
+663
+01:12:23,120 --> 01:12:25,320
+If you can beat me
+
+664
+01:12:25,320 --> 01:12:27,180
+I'll let you go
+
+665
+01:12:27,180 --> 01:12:28,960
+Come on
+
+666
+01:12:28,960 --> 01:12:29,820
+In order to save my mother
+
+667
+01:12:30,820 --> 01:12:31,440
+I have to be polite
+
+668
+01:12:31,440 --> 01:12:34,620
+Don't hit him
+
+669
+01:12:38,200 --> 01:12:42,360
+Thank you
+
+670
+01:12:42,360 --> 01:12:44,760
+Mother, let's go
+
+671
+01:12:47,060 --> 01:12:48,300
+Child
+
+672
+01:15:16,020 --> 01:15:17,200
+Son
+
+673
+01:15:17,200 --> 01:15:17,720
+Your filial piety
+
+674
+01:15:18,500 --> 01:15:21,160
+The heaven and earth
+
+675
+01:15:21,160 --> 01:15:22,340
+Have given birth to your mother
+
+676
+01:15:22,340 --> 01:15:25,000
+From now on
+
+677
+01:15:25,000 --> 01:15:26,910
+I can live a free life
+
+678
+01:15:28,060 --> 01:15:29,240
+As a fairy
+
+679
+01:15:29,240 --> 01:15:29,720
+Child
+
+680
+01:15:30,500 --> 01:15:32,980
+If you really love me
+
+681
+01:15:32,980 --> 01:15:35,240
+You should listen to me
+
+682
+01:15:35,240 --> 01:15:37,140
+Go back
+
+683
+01:15:37,140 --> 01:15:38,700
+Be good to your parents
+
+684
+01:15:38,700 --> 01:15:41,420
+And love your poor brother
+
+685
+01:15:41,420 --> 01:15:42,480
+No
+
+686
+01:15:42,480 --> 01:15:46,230
+Mother, I want to be with you
+
+687
+01:15:46,230 --> 01:15:47,150
 Mother
 
+688
+01:15:48,250 --> 01:15:48,910
+Child
+
+689
+01:15:49,910 --> 01:15:52,010
+I love you
+
+690
+01:15:52,010 --> 01:15:54,670
+But I can't be with you
+
+691
+01:15:55,050 --> 01:15:55,970
+Mother
+
+692
+01:15:55,970 --> 01:15:56,670
+Why?
+
+693
+01:15:58,590 --> 01:16:00,050
+Go back
+
 694
-01:15:48,380 --> 01:15:49,160
+01:16:00,050 --> 01:16:01,330
 Child
 
 695
-01:15:49,860 --> 01:15:51,580
-I love you
+01:16:01,330 --> 01:16:03,030
+Son
 
 696
-01:15:51,880 --> 01:15:52,820
-But
+01:16:03,030 --> 01:16:05,610
+I'll always remember you as a filial child
 
 697
-01:15:52,820 --> 01:15:55,160
-I can't be with you
+01:16:07,290 --> 01:16:09,850
+I'll always
 
 698
-01:15:55,160 --> 01:15:55,840
-Mother
+01:16:09,850 --> 01:16:11,530
+Bless you
 
 699
-01:15:55,840 --> 01:15:56,660
-Why?
+01:16:11,530 --> 01:16:12,550
+Mother
 
 700
-01:15:58,480 --> 01:16:00,140
-Go back
+01:16:13,330 --> 01:16:13,970
+Mother
 
 701
-01:16:00,140 --> 01:16:01,320
-Child
-
-702
-01:16:02,160 --> 01:16:04,060
-I will always remember you
-
-703
-01:16:04,060 --> 01:16:05,760
-As a filial child
-
-704
-01:16:07,160 --> 01:16:11,340
-I will always protect you
-
-705
-01:16:11,340 --> 01:16:12,600
-Mother
-
-706
-01:16:39,840 --> 01:16:41,240
-Mother
-
-707
-01:16:58,830 --> 01:17:00,030
-Excuse me
-
-708
-01:17:00,030 --> 01:17:01,050
+01:16:58,520 --> 01:17:00,940
 Are you Ping Yuan?
 
-709
-01:17:02,770 --> 01:17:03,210
+702
+01:17:02,640 --> 01:17:03,200
 Yes
 
-710
-01:17:04,690 --> 01:17:05,490
-Brother
+703
+01:17:04,480 --> 01:17:07,200
+Brother, I'm Qing Shan
 
-711
-01:17:05,490 --> 01:17:07,190
-I am Qing Shan
+704
+01:17:07,200 --> 01:17:08,740
+You don't recognize me
 
-712
-01:17:07,190 --> 01:17:09,230
-You don't recognize me?
-
-713
-01:17:13,110 --> 01:17:13,850
+705
+01:17:12,720 --> 01:17:13,480
 Nonsense
 
-714
-01:17:13,850 --> 01:17:15,370
+706
+01:17:13,480 --> 01:17:15,400
 How can you be my brother?
 
-715
-01:17:15,810 --> 01:17:16,230
-Do you remember that
+707
+01:17:15,940 --> 01:17:16,880
+Do you remember
 
-716
-01:17:16,230 --> 01:17:18,730
-We were hunted by Qin's soldiers?
+708
+01:17:16,880 --> 01:17:19,060
+Qin's soldiers?
 
-717
-01:17:20,470 --> 01:17:22,570
-At the other side of the hill
+709
+01:17:20,480 --> 01:17:22,140
+In that hill
 
-718
-01:17:22,570 --> 01:17:23,730
-Disappeared
+710
+01:17:22,140 --> 01:17:23,260
+You disappeared
 
-719
-01:17:26,350 --> 01:17:27,870
-Maybe I am a fairy
+711
+01:17:26,380 --> 01:17:27,900
+Maybe because the fairy...
 
-720
-01:17:30,710 --> 01:17:32,530
-It has been more than ten years
+712
+01:17:30,380 --> 01:17:32,520
+It's been more than ten years
 
-721
-01:17:32,530 --> 01:17:35,130
-I have been hunting here
+713
+01:17:33,260 --> 01:17:35,340
+I've been hunting here for the rest of my life
 
-722
-01:17:35,130 --> 01:17:38,050
+714
+01:17:35,340 --> 01:17:37,400
 I believe my brother will come back
 
-723
-01:17:38,050 --> 01:17:38,830
+715
+01:17:38,020 --> 01:17:42,920
 Brother
 
+716
+01:17:44,680 --> 01:17:46,080
+Brother
+
+717
+01:17:46,080 --> 01:17:56,890
+Brother, let's go home
+
+718
+01:18:17,347 --> 01:18:17,670
+Yuxing
+
+719
+01:18:33,570 --> 01:18:34,970
+Master
+
+720
+01:18:36,850 --> 01:18:38,850
+It's cold outside
+
+721
+01:18:38,850 --> 01:18:41,190
+Let's go inside
+
+722
+01:18:55,420 --> 01:18:59,380
+Ping Yuan
+
+723
+01:19:00,800 --> 01:19:01,500
+Master
+
 724
-01:17:42,090 --> 01:17:42,850
+01:19:05,060 --> 01:19:06,460
 Brother
 
 725
-01:17:45,370 --> 01:17:46,130
+01:19:07,380 --> 01:19:09,240
 Brother
 
 726
-01:17:47,490 --> 01:17:48,250
-Brother
+01:19:11,220 --> 01:19:12,300
+Let's go home
 
 727
-01:17:50,070 --> 01:17:50,830
-Brother
-
-728
-01:17:54,350 --> 01:17:55,650
-Let's go home
-
-729
-01:18:23,660 --> 01:18:26,460
-Yu Xin
-
-730
-01:18:32,380 --> 01:18:33,660
-Master
-
-731
-01:18:34,380 --> 01:18:35,880
-Master
-
-732
-01:18:37,160 --> 01:18:38,860
-It's cold outside
-
-733
-01:18:38,860 --> 01:18:43,180
-Let's go inside
-
-734
-01:18:55,400 --> 01:18:56,600
-Ping Yuan
-
-735
-01:18:57,400 --> 01:18:58,660
-Ping Yuan
-
-736
-01:19:00,580 --> 01:19:01,280
-Master
-
-737
-01:19:05,020 --> 01:19:06,420
-Brother
-
-738
-01:19:08,040 --> 01:19:09,440
-Brother
-
-739
-01:19:10,600 --> 01:19:12,580
-Let's go home
+01:19:15,380 --> 01:19:29,720
+Let's all go home
 
