@@ -15,13 +15,11 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-  | Devil Mountain 2021 Halloween Vol 3 | 10/10/2024 | 10/17/2021 | 49
 49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 61 | I Must Make Sure You Fail | 06/05/2025  | 3/14/2021 | 53
-75 | Never Show Emotion | 06/12/2025 | 11/07/2021 | 48
 78 | All for Revenge | 06/12/2025 | 1/9/2022 | 50
 81 | One Hell of a Nobody | 06/19/2025 | 03/27/2022 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 06/21/2025 | 4/4/2021 | 50
@@ -66,6 +64,8 @@ MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
 82 | Are You Looking for Death? | 10/16/2025 | 05/15/2022 | 50
 MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 85 | The Power You Are Seeking | 10/23/2025 | 11/13/2022 | 45
+75 | Never Show Emotion | 10/28/2025 | 11/07/2021 | 48
+  | Devil Mountain 2021 Halloween Vol 3 | 10/28/2025 | 10/17/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 9 (Tue)
+_90s_ | 2 | 10 (Tue)
 60s | 6 | 9 (Thu)
-70s | 10 | 2 (Thu)
-Other | 5 | 1 (Sat)
-MM10s | 10 | 1 (Tue)
+MM10s | 10 | 2 (Tue)
 MM00s | 9 | 0 (Thu)
 80s | 10 | 0 (Thu)
+70s | 10 | 0 (Tue)
+Other | 5 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
