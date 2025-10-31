@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2024.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-49 | Despise the Dark 2020 Halloween vol 2 | 10/26/2024 | 10/11/2020 | 60
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
@@ -57,15 +56,16 @@ MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
 MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
 79 | A Frightening Experience | 10/02/2025 | 1/16/2022 | 57
 MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
-74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/09/2025 | 10/10/2021 | 52
 84 | Poor Doomed Humans | 10/11/2025 | 10/16/2022 | 51
-  | Evil Is Excusable 2021 Halloween Vol 1 | 10/11/2025 | 10/3/2021 | 45
 MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
 82 | Are You Looking for Death? | 10/16/2025 | 05/15/2022 | 50
 MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 85 | The Power You Are Seeking | 10/23/2025 | 11/13/2022 | 45
 75 | Never Show Emotion | 10/28/2025 | 11/07/2021 | 48
   | Devil Mountain 2021 Halloween Vol 3 | 10/28/2025 | 10/17/2021 | 49
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
+49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 10 (Tue)
-60s | 6 | 9 (Thu)
+60s | 6 | 10 (Thu)
 MM10s | 10 | 2 (Tue)
-MM00s | 9 | 0 (Thu)
-80s | 10 | 0 (Thu)
-70s | 10 | 0 (Tue)
-Other | 5 | 0 (Tue)
+MM00s | 9 | 1 (Thu)
+80s | 10 | 1 (Thu)
+70s | 10 | 0 (Thu)
+Other | 5 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,12 +94,13 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/30/2025 | 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀(s, no intro)
+10/30/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/28/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 10/28/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 10/28/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 10/28/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 10/28/2025 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-10/28/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/16/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 10/16/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/16/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
