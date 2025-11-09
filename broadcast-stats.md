@@ -214,6 +214,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/08/2025 | VHS | MENTAL VERTIGO A VIRUS TO SUCCESS; DO YOU HAVE IT?
+11/08/2025 | VHS | "Something animated from Nickelodeon?" THE CAT CAME BACK, Blackberry Subway Jam, What on Earth!, The Egg
 10/16/2025 | VHS | ActionMax: Rescue of Pops Ghostly (last seen 07/26/2024)
 10/14/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎: 𝙊𝙐𝙏-𝙊𝙁-𝘽𝙊𝘿𝙔-𝙀𝙓𝙋𝙀𝙍𝙄𝙀𝙉𝘾𝙀𝙎 (1999)
 10/11/2025 | VHS | Spooky World (last seen 10/12/2023)
