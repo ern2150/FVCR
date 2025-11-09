@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
-MM1 | Get Rich Regardless of the Means (End of 2019) | 05/20/2025 | 11/14/2019 | 66
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 61 | I Must Make Sure You Fail | 06/05/2025  | 3/14/2021 | 53
 78 | All for Revenge | 06/12/2025 | 1/9/2022 | 50
@@ -66,6 +65,7 @@ MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
+MM1 | Get Rich Regardless of the Means (End of 2019) | 11/08/2025 | 11/14/2019 | 66
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 10 (Tue)
-60s | 6 | 10 (Thu)
-MM10s | 10 | 2 (Tue)
-MM00s | 9 | 1 (Thu)
-80s | 10 | 1 (Thu)
-70s | 10 | 0 (Thu)
-Other | 5 | 0 (Thu)
+_90s_ | 2 | 11 (Tue)
+60s | 6 | 11 (Thu)
+MM10s | 10 | 3 (Tue)
+80s | 10 | 2 (Thu)
+70s | 10 | 1 (Thu)
+Other | 5 | 1 (Thu)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
