@@ -214,6 +214,9 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/15/2025 | VHS | 𝙎𝙐𝙋𝙀𝙍 𝘾𝙇𝙐𝘽𝙎 (𝘾𝙃𝙐𝘽𝙎)
+11/15/2025 | VHS | "senior project short film from 2002" 𝙂𝙍𝙐𝙈𝘽𝙊𝙊𝙉
+11/15/2025 | VHS | "weird puppets" National Geographic Geo Kids: 𝘾𝙊𝙊𝙇 𝘾𝘼𝙏𝙎, 𝙍𝘼𝙄𝙉𝘿𝙍𝙊𝙋𝙎, 𝘼𝙉𝘿 𝙏𝙃𝙄𝙉𝙂𝙎 𝙏𝙃𝘼𝙏 𝙇𝙄𝙑𝙀 𝙄𝙉 𝙃𝙊𝙇𝙀𝙎
 11/08/2025 | VHS | MENTAL VERTIGO A VIRUS TO SUCCESS; DO YOU HAVE IT?
 11/08/2025 | VHS | "Something animated from Nickelodeon?" THE CAT CAME BACK, Blackberry Subway Jam, What on Earth!, The Egg
 10/16/2025 | VHS | ActionMax: Rescue of Pops Ghostly (last seen 07/26/2024)
