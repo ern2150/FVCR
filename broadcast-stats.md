@@ -214,6 +214,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/26/2025 | PS3 | DVD 𝙃𝙊𝙉𝙂 𝙆𝙊𝙉𝙂 𝘼𝘾𝙏𝙄𝙊𝙉 𝙈𝙊𝙑𝙄𝙀 𝙏𝙍𝘼𝙄𝙇𝙀𝙍𝙎 (disc 2, incl "Thunder Cops")
 11/22/2025 | PS3 | DVD 𝙃𝙊𝙉𝙂 𝙆𝙊𝙉𝙂 𝘼𝘾𝙏𝙄𝙊𝙉 𝙈𝙊𝙑𝙄𝙀 𝙏𝙍𝘼𝙄𝙇𝙀𝙍𝙎 (disc 1, incl "The Supergirl of Kung Fu")
 11/15/2025 | VHS | 𝙎𝙐𝙋𝙀𝙍 𝘾𝙇𝙐𝘽𝙎 (𝘾𝙃𝙐𝘽𝙎)
 11/15/2025 | VHS | "senior project short film from 2002" 𝙂𝙍𝙐𝙈𝘽𝙊𝙊𝙉
