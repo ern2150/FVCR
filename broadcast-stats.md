@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
-89 | Don't You Know the State I'm In? | 06/28/2025 | 07/02/2023 | 47
 70 | Take the Fight to the Enemy | 07/08/2025 | 7/11/2021 | 54
 MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
@@ -66,6 +65,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/08/2025 | 11/14/2019 |
 81 | One Hell of a Nobody | 11/18/2025 | 03/27/2022 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 88 | Under Attack in Hong Kong | 11/26/2025 | 06/18/2023 | 45
+89 | Don't You Know the State I'm In? | 12/02/2025 | 07/02/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 14 (Tue)
-MM10s | 10 | 6 (Tue)
+_90s_ | 2 | 15 (Tue)
+MM10s | 10 | 7 (Tue)
 Other | 5 | 3 (Thu)
-60s | 6 | 1 (Sat)
-70s | 10 | 1 (Tue)
-MM00s | 9 | 0 (Sat)
-80s | 10 | 0 (Wed)
+60s | 6 | 2 (Sat)
+70s | 10 | 2 (Tue)
+MM00s | 9 | 1 (Sat)
+80s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
