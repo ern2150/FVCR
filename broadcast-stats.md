@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 70 | Take the Fight to the Enemy | 07/08/2025 | 7/11/2021 | 54
 MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
-86 | The Passion and Death of their Struggle | 07/09/2025 | 12/22/2022 | 43
 90 | Every Different Way of Killing | 07/11/2025 | 07/23/2023 | 47
 67 | Together We Will Smash Them | 07/15/2025 | 6/20/2021 | 53
 76 | If I See Him, I'll Kill Him | 07/15/2025 | 11/21/2021 | 49
@@ -66,6 +65,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/08/2025 | 11/14/2019 |
 MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 88 | Under Attack in Hong Kong | 11/26/2025 | 06/18/2023 | 45
 89 | Don't You Know the State I'm In? | 12/02/2025 | 07/02/2023 | 47
+86 | The Passion and Death of their Struggle | 12/06/2025 | 12/22/2022 | 43
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 15 (Tue)
 MM10s | 10 | 7 (Tue)
-Other | 5 | 3 (Thu)
-60s | 6 | 2 (Sat)
+Other | 5 | 4 (Thu)
+60s | 6 | 3 (Sat)
 70s | 10 | 2 (Tue)
-MM00s | 9 | 1 (Sat)
-80s | 10 | 0 (Tue)
+MM00s | 9 | 2 (Sat)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
