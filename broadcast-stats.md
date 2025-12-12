@@ -18,9 +18,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 70 | Take the Fight to the Enemy | 07/08/2025 | 7/11/2021 | 54
-MM12 | Evil Is Never Invincible | 07/08/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
-90 | Every Different Way of Killing | 07/11/2025 | 07/23/2023 | 47
 67 | Together We Will Smash Them | 07/15/2025 | 6/20/2021 | 53
 76 | If I See Him, I'll Kill Him | 07/15/2025 | 11/21/2021 | 49
 73 | The Whirlpool of Battle | 07/26/2025 | 9/21/2021 | 62
@@ -66,6 +64,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 88 | Under Attack in Hong Kong | 11/26/2025 | 06/18/2023 | 45
 89 | Don't You Know the State I'm In? | 12/02/2025 | 07/02/2023 | 47
 86 | The Passion and Death of their Struggle | 12/06/2025 | 12/22/2022 | 43
+MM12 | Evil Is Never Invincible | 12/11/2025 | 8/10/2021 | 58
+90 | Every Different Way of Killing | 12/11/2025 | 07/23/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 15 (Tue)
-MM10s | 10 | 7 (Tue)
-Other | 5 | 4 (Thu)
+Other | 5 | 5 (Thu)
 60s | 6 | 3 (Sat)
-70s | 10 | 2 (Tue)
+70s | 10 | 3 (Tue)
 MM00s | 9 | 2 (Sat)
 80s | 10 | 0 (Sat)
+MM10s | 10 | 0 (Thu)
+_90s_ | 2 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,13 +94,13 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/11/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/06/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 12/06/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/06/2025 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 12/06/2025 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 12/06/2025 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 12/06/2025 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-12/06/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/02/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 12/02/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 12/02/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
@@ -214,6 +214,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/11/2025 | PS3 | DVD "Visual Musical Fun-Time DVD Library Volume 3 It's a Wonderful World to Discover"
 12/06/2025 | VHS | DINOSAUR! "Go back in time with DINOSUAR!" (Christoper Reeve)
 12/06/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 - 𝘾𝘼𝙍 𝘾𝙍𝘼𝙕𝙔: 𝙏𝙃𝙀 𝙃𝙄𝙂𝙃𝙇𝙄𝙂𝙃𝙏𝙎 
 12/02/2025 | VHS | Wish for Wings that Work (Opus and Bill the Cat)
@@ -349,7 +350,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-12/06/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+12/11/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
