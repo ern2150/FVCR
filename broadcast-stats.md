@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 70 | Take the Fight to the Enemy | 07/08/2025 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 07/09/2025 | 9/26/2021 | 64
 67 | Together We Will Smash Them | 07/15/2025 | 6/20/2021 | 53
-76 | If I See Him, I'll Kill Him | 07/15/2025 | 11/21/2021 | 49
 73 | The Whirlpool of Battle | 07/26/2025 | 9/21/2021 | 62
 MM11 | I Can Stand the Pain | 07/26/2025 | 7/27/2021 | 65
 69 | SUMMERTIME | 07/26/2025 | 7/4/2021 | 65
@@ -66,6 +65,7 @@ MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 86 | The Passion and Death of their Struggle | 12/06/2025 | 12/22/2022 | 43
 MM12 | Evil Is Never Invincible | 12/11/2025 | 8/10/2021 | 58
 90 | Every Different Way of Killing | 12/11/2025 | 07/23/2023 | 47
+76 | If I See Him, I'll Kill Him | 12/13/2025 | 11/21/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM12 | Evil Is Never Invincible | 12/11/2025 | 8/10/2021 | 58
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 5 (Thu)
-60s | 6 | 3 (Sat)
-70s | 10 | 3 (Tue)
-MM00s | 9 | 2 (Sat)
-80s | 10 | 0 (Sat)
+60s | 6 | 4 (Sat)
+MM00s | 9 | 3 (Sat)
+80s | 10 | 1 (Sat)
 MM10s | 10 | 0 (Thu)
 _90s_ | 2 | 0 (Thu)
+70s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
