@@ -214,6 +214,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/13/2025 | PS3 | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘿𝙑𝘿 - 𝙋𝙊𝙒𝙀𝙇𝙇 𝙋𝙍𝙀𝙎𝙀𝙉𝙏𝙎 𝘽𝘼𝙎𝙄𝘾 𝙏𝙍𝘼𝙄𝙉𝙄𝙉𝙂 +
 12/11/2025 | PS3 | DVD "Visual Musical Fun-Time DVD Library Volume 3 It's a Wonderful World to Discover"
 12/06/2025 | VHS | DINOSAUR! "Go back in time with DINOSUAR!" (Christoper Reeve)
 12/06/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 - 𝘾𝘼𝙍 𝘾𝙍𝘼𝙕𝙔: 𝙏𝙃𝙀 𝙃𝙄𝙂𝙃𝙇𝙄𝙂𝙃𝙏𝙎 
