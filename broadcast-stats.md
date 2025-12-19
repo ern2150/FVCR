@@ -94,15 +94,21 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+12/18/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+12/18/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+12/18/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+12/18/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+12/18/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+12/18/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+12/18/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/16/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 12/16/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/16/2025 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 12/16/2025 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 12/16/2025 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 12/16/2025 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-12/16/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/13/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-12/13/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/13/2025 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 12/13/2025 | FMW Opener / FMW Closer | 12/6/2020
 12/13/2025 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -165,12 +171,6 @@ Latest Date | Video / Audio | Debut++
 10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
 10/11/2025 | Goathorn - Rotten Roll | 10/4/2020
 10/11/2025 | RED TIMECLOCK TOP RIGHT 9:59 | 10/4/2020 
-10/09/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-10/09/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-10/09/2025 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-10/09/2025 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-10/09/2025 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-10/09/2025 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 09/06/2025 | --
 09/06/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
