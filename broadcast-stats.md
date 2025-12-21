@@ -94,6 +94,9 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
+12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings
+12/20/2025 | --
 12/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 12/18/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/18/2025 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
@@ -214,6 +217,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/20/2025 | VHS | Biker Mice From Mars - Chill Zone
+12/20/2025 | VHS | Warren Miller - Snowriders 2
 12/16/2025 | VHS | Secret Adventures: SNAG
 12/13/2025 | PS3 | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘿𝙑𝘿 - 𝙋𝙊𝙒𝙀𝙇𝙇 𝙋𝙍𝙀𝙎𝙀𝙉𝙏𝙎 𝘽𝘼𝙎𝙄𝘾 𝙏𝙍𝘼𝙄𝙉𝙄𝙉𝙂 +
 12/11/2025 | PS3 | DVD "Visual Musical Fun-Time DVD Library Volume 3 It's a Wonderful World to Discover"
@@ -352,7 +357,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-12/16/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+12/20/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
