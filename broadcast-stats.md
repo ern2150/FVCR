@@ -217,6 +217,8 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/23/2025 | VHS | Santa's Secret Trooper
+12/23/2025 | VHS | Fay's 12 Dogs of Christmas (incl trailers for other kid videos)
 12/20/2025 | VHS | Biker Mice From Mars - Chill Zone
 12/20/2025 | VHS | Warren Miller - Snowriders 2
 12/16/2025 | VHS | Secret Adventures: SNAG
