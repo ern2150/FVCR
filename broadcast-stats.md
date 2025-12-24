@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 73 | The Whirlpool of Battle | 07/26/2025 | 9/21/2021 | 62
 69 | SUMMERTIME | 07/26/2025 | 7/4/2021 | 65
 MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
-72 | Who Is the Champion Now? | 08/02/2025 | 9/7/2021 | 53
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
 MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 08/07/2025 | 5/23/2021 | 56
@@ -66,6 +65,7 @@ MM12 | Evil Is Never Invincible | 12/11/2025 | 8/10/2021 | 58
 70 | Take the Fight to the Enemy | 12/16/2025 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 12/18/2025 | 9/26/2021 | 64
 MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
+72 | Who Is the Champion Now? | 12/23/2025 | 9/7/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,9 +74,9 @@ MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 6 (Thu)
-60s | 6 | 4 (Sat)
-MM00s | 9 | 3 (Sat)
-80s | 10 | 1 (Sat)
+60s | 6 | 5 (Sat)
+MM00s | 9 | 4 (Sat)
+80s | 10 | 2 (Sat)
 _90s_ | 2 | 1 (Thu)
 70s | 10 | 0 (Tue)
 MM10s | 10 | 0 (Thu)
