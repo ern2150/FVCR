@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 67 | Together We Will Smash Them | 07/15/2025 | 6/20/2021 | 53
-73 | The Whirlpool of Battle | 07/26/2025 | 9/21/2021 | 62
 69 | SUMMERTIME | 07/26/2025 | 7/4/2021 | 65
 MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
@@ -66,6 +65,7 @@ MM12 | Evil Is Never Invincible | 12/11/2025 | 8/10/2021 | 58
 MM14 | Fights the Evils with Great Power | 12/18/2025 | 9/26/2021 | 64
 MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 72 | Who Is the Champion Now? | 12/23/2025 | 9/7/2021 | 53
+73 | The Whirlpool of Battle | 12/27/2025 | 9/21/2021 | 62
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 6 (Thu)
-60s | 6 | 5 (Sat)
-MM00s | 9 | 4 (Sat)
-80s | 10 | 2 (Sat)
-_90s_ | 2 | 1 (Thu)
-70s | 10 | 0 (Tue)
-MM10s | 10 | 0 (Thu)
+Other | 5 | 7 (Thu)
+60s | 6 | 6 (Sat)
+MM00s | 9 | 5 (Sat)
+80s | 10 | 3 (Sat)
+_90s_ | 2 | 2 (Thu)
+MM10s | 10 | 1 (Thu)
+70s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
