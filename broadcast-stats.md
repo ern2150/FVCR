@@ -217,6 +217,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/27/2025 | PS3 | DVD "X-NILO SHOW: Dinosuars and the Bible"
 12/23/2025 | VHS | Santa's Secret Trooper (VR Troopers)
 12/23/2025 | VHS | Fay's 12 Dogs of Christmas (incl trailers for other kid videos)
 12/20/2025 | VHS | Biker Mice From Mars - Chill Zone
