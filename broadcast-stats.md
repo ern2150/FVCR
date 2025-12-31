@@ -94,6 +94,7 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+12/31/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 12/27/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/27/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -105,7 +106,6 @@ Latest Date | Video / Audio | Debut++
 12/27/2025 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 12/27/2025 | SHIT FUCK / (same as video) | 5/4/2021
 12/27/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-12/27/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/23/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 12/23/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/23/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
@@ -217,6 +217,7 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+12/31/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 - 𝙈𝙄𝙇𝙇𝙀𝙉𝙉𝙄𝙐𝙈 2000
 12/27/2025 | PS3 | DVD "X-NILO SHOW: Dinosuars and the Bible"
 12/23/2025 | VHS | Santa's Secret Trooper (VR Troopers)
 12/23/2025 | VHS | Fay's 12 Dogs of Christmas (incl trailers for other kid videos)
@@ -360,7 +361,7 @@ Outros
 [archive](broadcast-2024.md#outros)
 Latest Date | Video / Audio
 -- | --
-12/27/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+12/31/2025 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
