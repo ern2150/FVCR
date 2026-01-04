@@ -94,7 +94,13 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-12/31/2025 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+01/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+01/03/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/03/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+01/03/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+01/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+01/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+01/03/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 12/27/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/27/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -107,7 +113,6 @@ Latest Date | Video / Audio | Debut++
 12/27/2025 | SHIT FUCK / (same as video) | 5/4/2021
 12/27/2025 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 12/23/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-12/23/2025 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 12/23/2025 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 12/23/2025 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 12/23/2025 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
@@ -159,11 +164,6 @@ Latest Date | Video / Audio | Debut++
 11/22/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 11/22/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 11/22/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
-11/18/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-11/18/2025 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-11/18/2025 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-11/18/2025 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-11/18/2025 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 11/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 11/15/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 11/15/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
