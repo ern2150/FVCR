@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
-67 | Together We Will Smash Them | 07/15/2025 | 6/20/2021 | 53
 69 | SUMMERTIME | 07/26/2025 | 7/4/2021 | 65
 MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
@@ -29,7 +28,6 @@ MM19 | Ghost Shadow Squad | 08/19/2025 | 02/06/2022 | 55
 MM17 | Ninja Challenge Card | 08/26/2025 | 1/2/2022 | 52
 MM18 | Fought Against All Evils | 08/30/2025  | 1/23/2022 | 51
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
-MM3 | Blood, Lust, and Intrigue | 09/02/2025 | 3/9/2021 | 54
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 MM16 | Today We Shall Kill Each Other | 09/09/2025 | 12/21/2021 | 52
 MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
@@ -66,6 +64,8 @@ MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 72 | Who Is the Champion Now? | 12/23/2025 | 9/7/2021 | 53
 73 | The Whirlpool of Battle | 12/27/2025 | 9/21/2021 | 62
 91 | Reprieve from Chaos | 12/27/2025 | 02/03/2024 | 49
+67 | Together We Will Smash Them | 01/03/2026 | 6/20/2021 | 53
+MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 7 (Thu)
-60s | 6 | 6 (Sat)
-MM00s | 9 | 5 (Sat)
-80s | 10 | 3 (Sat)
-MM10s | 10 | 1 (Thu)
-70s | 10 | 0 (Sat)
-_90s_ | 2 | 0 (Sat)
+Other | 5 | 8 (Thu)
+80s | 10 | 4 (Sat)
+MM10s | 10 | 2 (Thu)
+70s | 10 | 1 (Sat)
+_90s_ | 2 | 1 (Sat)
+60s | 6 | 0 (Sat)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
