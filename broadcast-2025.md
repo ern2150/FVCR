@@ -188,23 +188,6 @@ Latest Date | Video / Audio | Debut++
 03/05/2025 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 03/05/2025 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 03/05/2025 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
-11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
-11/27/2024 | [Cyber Ninja Opening Battle](https://archive.org/details/CYBERNINJA_201812/CYBER+NINJA.ISO?start=109) / [Tony McAlpine - Tears of the Sahara](https://www.youtube.com/watch?v=aMvqc25AQik&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=83) | 7/14/2020
-11/27/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-11/27/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-11/27/2024 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-11/27/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-11/27/2024 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
-11/27/2024 | SoundMarket - Earthshine / (same as video) | 4/1/2021
-11/27/2024 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
-11/27/2024 | Drifting Women / Rainbo - Integra Type | 11/8/2020
-11/27/2024 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
-11/27/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-11/27/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-11/27/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-11/27/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 
 
 ++ outside of a mixtape or bonus clip, as a stream opener
