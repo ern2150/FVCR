@@ -1,3949 +1,3470 @@
-1
-00:01:02,400 --> 00:01:05,490
-Let us prepare for Prince Zardos' arrival.
+﻿1
+00:01:02,596 --> 00:01:05,800
+Prince Zardos
+greet
 
 2
-00:01:40,170 --> 00:01:45,190
-My dear General, what do you have to say
-to me, Draco?
+00:01:39,967 --> 00:01:42,403
+my brave generals
 
 3
-00:01:46,490 --> 00:01:49,290
-Our army is ready to fight.
+00:01:43,270 --> 00:01:45,739
+What about the report?
+Draco
 
 4
-00:01:51,430 --> 00:01:52,010
-Zandra.
+00:01:46,607 --> 00:01:50,478
+Fleet preparations for attack
+It's done
 
 5
-00:01:53,230 --> 00:01:58,010
-I do not expect anything from us,
-especially from the Terra Earth army.
+00:01:51,479 --> 00:01:52,713
+zandra
 
 6
-00:01:59,270 --> 00:02:02,830
-Zul, everything is ready, Prince Zardos.
+00:01:53,047 --> 00:01:55,649
+I won't be your opponent.
 
 7
-00:02:02,830 --> 00:02:05,770
-We are just waiting for your order.
+00:01:55,816 --> 00:01:58,719
+Earth's fleet etc.
 
 8
-00:02:07,910 --> 00:02:15,920
-My order is to surrender the planet Terra
-Earth.
+00:01:59,320 --> 00:02:00,387
+Zuul
 
 9
-00:03:07,780 --> 00:03:08,680
-They're here.
+00:02:00,454 --> 00:02:03,457
+I'm all set and ready.
 
 10
-00:03:12,750 --> 00:03:15,850
-Captain, Mr. O'Planet, are you alert?
+00:02:03,624 --> 00:02:06,727
+Now we just have to wait for His Highness's orders.
 
 11
-00:03:16,530 --> 00:03:17,490
-The Bosanians have arrived.
+00:02:07,761 --> 00:02:08,896
+I'll give you an order
 
 12
-00:03:18,070 --> 00:03:18,570
-Aye, sir.
+00:02:12,766 --> 00:02:16,003
+Start the invasion of Earth
 
 13
-00:03:46,170 --> 00:03:48,710
-Sir, all stations report ready.
+00:03:08,122 --> 00:03:09,156
+It's here
 
 14
-00:03:51,680 --> 00:03:55,320
-Attention, all nations of the Earth
-Defense Forces.
+00:03:12,960 --> 00:03:13,894
+captain
 
 15
-00:03:56,460 --> 00:03:59,120
-This is your Supreme Commander,
-General Robinson, speaking.
+00:03:14,828 --> 00:03:17,898
+The Boazan Empire has arrived
+Warn the whole world
 
 16
-00:03:59,720 --> 00:04:03,600
-We have confirmed that a large alien force
-has entered the Earth's atmosphere.
+00:03:17,998 --> 00:03:19,066
+yes
 
 17
-00:04:04,360 --> 00:04:08,830
-All international sectors must immediately
-implement all defense protocols.
+00:03:19,400 --> 00:03:20,868
+Warning!
 
 18
-00:04:10,180 --> 00:04:11,580
-May God save us all.
+00:03:46,427 --> 00:03:49,263
+All departments are ready
 
 19
-00:04:44,020 --> 00:04:46,160
-The whole world is doing everything to
-defend our planet.
+00:03:51,732 --> 00:03:55,869
+Notice to Earth Defense Forces of each country
 
 20
-00:04:46,920 --> 00:04:48,580
-But we are no match to these invaders,
-sir.
+00:03:56,403 --> 00:03:59,406
+I'm Commander Robinson.
 
 21
-00:04:49,740 --> 00:04:53,980
-Also, we are receiving a report that
-aliens are spreading all around the globe.
+00:04:00,040 --> 00:04:04,345
+A large fleet of aliens
+entered the Earth's atmosphere
 
 22
-00:04:54,880 --> 00:04:57,600
-Sir, there's fear and chaos everywhere.
+00:04:04,545 --> 00:04:09,717
+Immediately, each unit
+Implement defense protocols
 
 23
-00:04:58,590 --> 00:05:02,300
-I'm afraid that these aliens might succeed
-in invading us if we don't stop them.
+00:04:10,384 --> 00:04:11,952
+good luck
 
 24
-00:05:04,980 --> 00:05:11,780
-We have no hope if it's not our last line
-of defense, the Voltis V.
+00:04:43,751 --> 00:04:46,553
+I'm doing my best, but...
 
 25
-00:07:19,080 --> 00:07:21,180
-Jamie Robinson, return to base.
+00:04:46,754 --> 00:04:49,223
+the enemy is too powerful
 
 26
-00:07:21,700 --> 00:07:22,580
-Roger that.
+00:04:49,790 --> 00:04:54,495
+There are also enemy aircraft all over the world.
+It has been witnessed-
 
 27
-00:07:43,890 --> 00:07:45,990
-Little John Armstrong, return to base.
+00:04:55,129 --> 00:04:58,232
+the whole earth is in turmoil
 
 28
-00:07:46,610 --> 00:07:47,030
-Yes, sir.
+00:04:58,666 --> 00:05:03,070
+if we can't stop it
+will be invaded
 
 29
-00:07:54,730 --> 00:07:57,170
-Big Bird Armstrong, return to base.
+00:05:05,139 --> 00:05:09,343
+as the last trump card
+I have no choice but to place my hopes in
 
 30
-00:08:09,720 --> 00:08:12,000
-Mark Gordon, return to base.
+00:05:11,011 --> 00:05:12,780
+Voltes
+V
+five
+It's
 
 31
-00:08:26,970 --> 00:08:28,950
-Steve Armstrong, return to base.
+00:07:13,834 --> 00:07:16,870
+jamie robinson
 
 32
-00:08:29,230 --> 00:08:29,730
-On the way.
+00:07:19,373 --> 00:07:21,608
+Jamie, come back.
 
 33
-00:08:48,450 --> 00:08:49,370
-Red alert.
+00:07:21,909 --> 00:07:22,810
+Understood
 
 34
-00:08:50,030 --> 00:08:50,670
-Red alert.
+00:07:38,725 --> 00:07:41,662
+little john
+armstrong
 
 35
-00:08:51,370 --> 00:08:52,570
-All crew to battle station.
+00:07:43,897 --> 00:07:46,300
+Little John, come back!
 
 36
-00:08:52,570 --> 00:08:55,530
-Ma, what's going on?
+00:07:46,500 --> 00:07:47,334
+Understood
 
 37
-00:08:55,610 --> 00:08:57,010
-Why do you know everything about the camp?
+00:07:52,873 --> 00:07:54,842
+big bert
+armstrong
 
 38
-00:08:58,310 --> 00:09:00,090
-Maybe it's on a need-to-know basis.
+00:07:54,842 --> 00:07:55,309
+big bert
+armstrong
+Big Bart, come back!
 
 39
-00:09:01,130 --> 00:09:04,050
-At least I don't have a mother who works
-here.
+00:07:55,309 --> 00:07:57,511
+Big Bart, come back!
 
 40
-00:09:04,970 --> 00:09:05,750
-But them?
+00:08:05,185 --> 00:08:08,755
+mark gordon
 
 41
-00:09:07,690 --> 00:09:08,730
-They're your family.
+00:08:09,923 --> 00:08:12,192
+Mark, come back.
 
 42
-00:09:09,670 --> 00:09:12,730
-The least you could do is tell them what
-all this training is for.
+00:08:23,170 --> 00:08:26,039
+Steve
+armstrong
 
 43
-00:09:16,320 --> 00:09:20,400
-I guess there's no more reason for me to
-keep the truth from all of you.
+00:08:26,940 --> 00:08:29,042
+Steve, come back.
 
 44
-00:09:24,130 --> 00:09:24,610
-Observe.
+00:08:29,142 --> 00:08:30,110
+I'll go right away
 
 45
-00:09:25,770 --> 00:09:31,050
-The world is under attack by an alien
-menace.
+00:08:48,662 --> 00:08:49,730
+red alert
 
 46
-00:09:47,350 --> 00:09:49,070
-And you...
+00:08:49,963 --> 00:08:53,033
+be on alert
 
 47
-00:09:49,670 --> 00:09:51,590
-will save the world.
+00:08:53,166 --> 00:08:57,404
+What's happening?
+The alarm is amazing
 
 48
-00:09:52,710 --> 00:09:53,510
-Our world.
+00:08:58,305 --> 00:09:00,974
+There is no “I don’t need to know”
 
 49
-00:09:59,090 --> 00:09:59,950
-Aliens?
+00:09:01,208 --> 00:09:04,645
+I work here
+There is no mother
 
 50
-00:10:00,790 --> 00:10:01,850
-Did I hear that right?
+00:09:05,078 --> 00:09:06,413
+But they-
 
 51
-00:10:02,390 --> 00:10:03,230
-Aliens?
+00:09:07,714 --> 00:09:09,383
+it's your family
 
 52
-00:10:03,730 --> 00:10:06,210
-What you told us before is true,
-Dr. Smith.
+00:09:09,750 --> 00:09:13,253
+Training for what?
+Please tell me
 
 53
-00:10:07,390 --> 00:10:08,770
-I thought it was a joke.
+00:09:16,490 --> 00:09:20,494
+There's no point in hiding it anymore
 
 54
-00:10:10,630 --> 00:10:14,770
-We'll save the world from these aliens.
+00:09:24,031 --> 00:09:25,098
+Look
 
 55
-00:10:15,130 --> 00:10:18,210
-So you're saying we're in the middle of an
-interplanetary war?
+00:09:26,433 --> 00:09:29,436
+earth is under attack
 
 56
-00:10:21,810 --> 00:10:23,450
-Ma, this is the truth.
+00:09:29,703 --> 00:09:31,338
+from alien
 
 57
-00:10:28,990 --> 00:10:30,050
-Yes, Steve.
+00:09:46,787 --> 00:09:48,221
+You guys-
 
 58
-00:10:30,930 --> 00:10:32,990
-This is the reason why you're mothers.
+00:09:50,257 --> 00:09:51,858
+save the world
 
 59
-00:10:34,090 --> 00:10:35,810
-That's why we made a Voltess robot.
+00:09:52,626 --> 00:09:54,194
+this earth
 
 60
-00:10:37,470 --> 00:10:40,850
-Because we've known for a long time that
-these alien invaders are coming.
+00:09:59,132 --> 00:10:00,133
+Alien?
 
 61
-00:10:43,830 --> 00:10:45,400
-So you better suit up.
+00:10:00,701 --> 00:10:03,370
+Did you just say alien?
 
 62
-00:10:46,720 --> 00:10:48,760
-The Volt machines are ready for you.
+00:10:03,603 --> 00:10:06,740
+Was what I heard before true?
 
 63
-00:10:49,220 --> 00:10:49,580
-Go.
+00:10:07,441 --> 00:10:09,576
+I thought it was a joke
 
 64
-00:10:50,190 --> 00:10:50,380
-Now.
+00:10:10,978 --> 00:10:13,213
+Will we protect the earth?
 
 65
-00:11:05,950 --> 00:11:07,090
-The aliens have arrived.
+00:10:13,413 --> 00:10:14,915
+From aliens?
 
 66
-00:11:08,630 --> 00:11:10,370
-They are vicious and heartless.
+00:10:14,982 --> 00:10:18,719
+A battle with a different planet
+Has it started?
 
 67
-00:11:11,390 --> 00:11:14,610
-They have caused major destruction all
-over the globe.
+00:10:21,121 --> 00:10:24,658
+Is it all true?
 
 68
-00:11:15,430 --> 00:11:17,670
-You must defeat and destroy them.
+00:10:29,296 --> 00:10:30,597
+That's right
 
 69
-00:11:20,170 --> 00:11:23,010
-All the military forces of the world are
-waiting for you.
+00:10:30,831 --> 00:10:33,467
+That's what the training was for
 
 70
-00:11:24,410 --> 00:11:27,870
-Voltess team, you are the last line of
-defense.
+00:10:34,301 --> 00:10:37,337
+The same goes for the development of Voltes Robo.
 
 71
-00:11:28,770 --> 00:11:30,850
-The whole world will be in danger if this
-happens.
+00:10:37,671 --> 00:10:41,408
+when aliens come
+Because I knew
 
 72
-00:11:31,570 --> 00:11:33,710
-And this will be the end of humankind.
+00:10:44,177 --> 00:10:45,846
+Go get changed.
 
 73
-00:11:41,920 --> 00:11:42,900
-This cannot happen.
+00:10:46,446 --> 00:10:48,949
+bolt machine is waiting
 
 74
-00:11:45,140 --> 00:11:47,940
-Do everything you can to save our planet.
+00:10:49,182 --> 00:10:50,917
+Hurry up
 
 75
-00:11:56,040 --> 00:11:59,100
-Everyone, to your battle stations.
+00:11:05,866 --> 00:11:07,701
+alien came
 
 76
-00:12:29,130 --> 00:12:30,390
-Kids, take care.
+00:11:08,702 --> 00:11:11,171
+They're brutal and ruthless.
 
 77
-00:12:32,190 --> 00:12:33,190
-Be good.
+00:11:11,538 --> 00:11:14,775
+At this rate
+the earth will be destroyed
 
 78
-00:12:33,810 --> 00:12:34,430
-Be brave.
+00:11:15,308 --> 00:11:18,178
+I'll win no matter what
 
 79
-00:12:34,970 --> 00:12:35,190
-Be...
+00:11:18,712 --> 00:11:23,550
+Currently, the Earth's military
+I'm losing
 
 80
-00:12:35,190 --> 00:12:35,650
-Be safe.
+00:11:24,651 --> 00:11:28,355
+voltes team
+It's the last stronghold
 
 81
-00:12:36,570 --> 00:12:36,970
-Yes, Ma.
+00:11:28,455 --> 00:11:34,227
+If controlled by aliens
+humanity will be destroyed
 
 82
-00:12:39,050 --> 00:12:40,850
-Mark, Jamie, take care.
+00:11:41,735 --> 00:11:43,570
+don't allow that
 
 83
-00:12:42,290 --> 00:12:43,270
-Little John.
+00:11:45,238 --> 00:11:48,575
+Protect our planet at all costs
 
 84
-00:12:47,910 --> 00:12:49,650
-Marianne, we're running out of time.
+00:11:56,249 --> 00:11:59,753
+All personnel, prepare for battle
 
 85
-00:12:50,110 --> 00:12:50,450
-Let's go.
+00:12:17,170 --> 00:12:18,505
+tell the general staff
 
 86
-00:12:56,490 --> 00:12:58,710
-Mark, you're number two.
+00:12:19,039 --> 00:12:21,608
+Check the battle area
 
 87
-00:12:59,430 --> 00:13:01,810
-Steve, you're number one.
+00:12:29,349 --> 00:12:31,351
+Be careful
 
 88
-00:13:01,810 --> 00:13:02,430
-Okay.
+00:12:32,552 --> 00:12:35,021
+Be healthy and brave
 
 89
-00:13:03,310 --> 00:13:04,850
-Big Bert, number three.
+00:12:35,122 --> 00:12:37,457
+“Be safe”
 
 90
-00:13:05,170 --> 00:13:05,610
-Okay, Ma.
+00:12:39,259 --> 00:12:41,228
+mark jamie
+Don't push yourself too hard
 
 91
-00:13:06,090 --> 00:13:07,630
-Little John, number four.
+00:12:42,562 --> 00:12:43,797
+little john
 
 92
-00:13:07,850 --> 00:13:08,130
-Roger.
+00:12:47,901 --> 00:12:50,971
+Marianne I don't have time
+Let's get started
 
 93
-00:13:08,790 --> 00:13:09,730
-Jamie, five.
+00:12:56,643 --> 00:12:58,612
+Mark No. 2
 
 94
-00:13:10,350 --> 00:13:10,630
-Roger.
+00:12:58,712 --> 00:12:59,412
+Understood
 
 95
-00:13:11,790 --> 00:13:12,850
-Launch conveyors, now.
+00:12:59,779 --> 00:13:01,748
+Steve is number 1
 
 96
-00:13:14,710 --> 00:13:16,530
-Attention, all machines.
+00:13:01,982 --> 00:13:03,216
+Got it
 
 97
-00:14:17,450 --> 00:14:20,170
-Excuse me, we don't have all the controls
-here yet.
+00:13:03,316 --> 00:13:04,985
+Big Bart No. 3
 
 98
-00:14:21,090 --> 00:14:23,370
-Can you give us like five minutes?
+00:13:05,118 --> 00:13:05,886
+Leave it to me
 
 99
-00:14:23,710 --> 00:14:26,430
-The controls of that is similar to the
-flight simulator.
+00:13:06,153 --> 00:13:07,621
+little john number 4
 
 100
-00:14:26,930 --> 00:14:27,690
-Steve, what else?
+00:13:07,721 --> 00:13:08,388
+yes
 
 101
-00:14:28,210 --> 00:14:29,530
-It's all just the same.
+00:13:08,655 --> 00:13:10,056
+Jamie is number 5
 
 102
-00:14:29,530 --> 00:14:32,070
-Steve, take command.
+00:13:10,157 --> 00:13:11,057
+Understood
 
 103
-00:14:32,790 --> 00:14:33,350
-Mark.
+00:13:11,558 --> 00:13:13,426
+Prepare to launch immediately
 
 104
-00:14:33,770 --> 00:14:39,080
-Big Bert, you handle weaponry and
-armaments.
+00:13:14,728 --> 00:13:17,297
+Preparing to launch bolt machine
 
 105
-00:14:39,660 --> 00:14:41,960
-Jamie, medical and communication.
+00:14:17,624 --> 00:14:20,961
+Dr. Smith
+Until you get used to the control equipment.
 
 106
-00:14:42,240 --> 00:14:43,600
-Little John.
+00:14:21,061 --> 00:14:23,563
+Please give me 5 minutes
 
 107
-00:14:44,020 --> 00:14:45,020
-Do what you do best.
+00:14:23,697 --> 00:14:26,633
+It should be the same as the simulator
 
 108
-00:14:45,880 --> 00:14:46,340
-Engineering.
+00:14:26,733 --> 00:14:28,168
+Steve what are you doing?
 
 109
-00:14:47,040 --> 00:14:48,260
-Copy that, best friend.
+00:14:28,368 --> 00:14:29,669
+It's the same
 
 110
-00:14:54,300 --> 00:14:55,220
-Five.
+00:14:30,403 --> 00:14:32,739
+Steve takes command
 
 111
-00:14:56,280 --> 00:14:57,200
-Four.
+00:14:32,906 --> 00:14:33,707
+mark
 
 112
-00:14:58,400 --> 00:14:59,320
-Three.
+00:14:33,807 --> 00:14:35,242
+you are the assistant
 
 113
-00:15:00,400 --> 00:15:01,180
-Two.
+00:14:35,508 --> 00:14:39,379
+Big Bart
+manage your weapons
 
 114
-00:15:05,570 --> 00:15:06,030
-Launch.
+00:14:39,579 --> 00:14:42,582
+Jamie is
+Manage everyone's status
 
 115
-00:15:23,190 --> 00:15:23,790
-Ah!
+00:14:42,816 --> 00:14:43,717
+little john
 
 116
-00:15:30,170 --> 00:15:31,390
-Easy, boy, easy.
+00:14:43,917 --> 00:14:45,552
+You are a robot-
 
 117
-00:15:31,950 --> 00:15:31,970
-Mark.
+00:14:45,685 --> 00:14:46,853
+ask for management
 
 118
-00:15:32,370 --> 00:15:32,950
-That's not a horse.
+00:14:46,920 --> 00:14:48,421
+Got it
 
 119
-00:15:42,950 --> 00:15:44,350
-Little John, are you okay?
+00:14:54,861 --> 00:14:55,662
+5
 
 120
-00:15:47,870 --> 00:15:48,470
-Huh?
+00:14:56,696 --> 00:14:57,597
+4
 
 121
-00:15:52,920 --> 00:15:55,080
-Wait, how did you know?
+00:14:58,832 --> 00:14:59,766
+3
 
 122
-00:15:57,270 --> 00:15:57,860
-Jamie.
+00:15:00,734 --> 00:15:01,601
+2
 
 123
-00:16:01,760 --> 00:16:05,320
-Guys, do you see the weapons list?
+00:15:04,437 --> 00:15:05,238
+1
 
 124
-00:16:06,600 --> 00:16:07,840
-The weapons list?
+00:15:05,772 --> 00:15:06,373
+Sortie!
 
 125
-00:16:08,280 --> 00:16:11,260
-Fort, bazooka, chain knuckles.
+00:15:30,297 --> 00:15:31,364
+Calm down
 
 126
-00:16:12,800 --> 00:16:16,540
-Oh, ultra electromagnetic whip.
+00:15:31,431 --> 00:15:32,065
+mark
 
 127
-00:16:17,500 --> 00:16:19,860
-Big Bert, did you just say whip?
+00:15:32,198 --> 00:15:33,733
+It's not a horse
 
 128
-00:16:21,700 --> 00:16:22,320
-Yeehaw!
-
-129
-00:16:22,520 --> 00:16:23,680
-Let's go get the million.
-
-130
-00:16:24,340 --> 00:16:27,460
-Guys, guys, guys, get your head in the
-game.
-
-131
-00:16:28,200 --> 00:16:30,440
-What is the medical condition of the team?
-
-132
-00:16:31,160 --> 00:16:34,460
-Captain Fowler reporting all five biosigns
-of all team members are okay.
-
-133
-00:16:54,910 --> 00:16:55,710
-Holy.
-
-134
-00:16:57,130 --> 00:16:57,710
-There's a lot of them.
-
-135
-00:16:58,370 --> 00:16:58,830
-Wow.
-
-136
-00:16:59,770 --> 00:17:01,010
-Lin, wow.
-
-137
-00:17:01,470 --> 00:17:03,550
-Lim, can we handle these guys?
-
-138
-00:17:03,870 --> 00:17:04,930
-It's too late.
-
-139
-00:17:05,450 --> 00:17:06,210
-We won't make it.
-
-140
-00:17:06,930 --> 00:17:08,810
-Lim, don't be afraid.
-
-141
-00:17:10,330 --> 00:17:12,430
-Remember, the whole world is counting on
-us.
-
-142
-00:17:13,510 --> 00:17:14,310
-Brother is right.
-
-143
-00:17:14,530 --> 00:17:15,190
-There's no time to lose.
-
-144
-00:17:15,690 --> 00:17:16,290
-Let's go.
-
-145
-00:17:17,810 --> 00:17:19,250
-Little John, please.
-
-146
-00:17:19,250 --> 00:17:21,130
-Don't mess up again, okay?
-
-147
-00:17:21,510 --> 00:17:22,670
-I'll follow you, okay?
-
-148
-00:17:23,190 --> 00:17:23,970
-Yes, brother.
-
-149
-00:17:24,530 --> 00:17:25,770
-Mama, don't worry.
-
-150
-00:17:26,750 --> 00:17:28,730
-Of course, I'll worry.
-
-151
-00:17:28,830 --> 00:17:30,310
-You don't have enough training.
-
-152
-00:17:31,030 --> 00:17:33,070
-Mama, I can do this.
-
-153
-00:17:33,210 --> 00:17:34,690
-This is just a video game.
-
-154
-00:17:35,230 --> 00:17:36,890
-What video game?
-
-155
-00:17:37,490 --> 00:17:38,430
-Oh, my God.
-
-156
-00:17:39,430 --> 00:17:40,130
-Team,
-
-157
-00:17:44,240 --> 00:17:44,880
-let's engage.
-
-158
-00:17:44,980 --> 00:17:45,500
-Commit, commit.
-
-159
-00:17:55,330 --> 00:17:56,650
-Use your weapons.
-
-160
-00:17:57,410 --> 00:17:59,930
-Most of the controls are voice activated.
-
-161
-00:18:00,390 --> 00:18:02,330
-Oh, cool.
-
-162
-00:18:08,100 --> 00:18:10,400
-Helm boomerang.
-
-163
-00:18:16,420 --> 00:18:18,280
-Frigate rocket.
-
-164
-00:18:24,740 --> 00:18:26,300
-Ranger missile.
-
-165
-00:18:33,590 --> 00:18:35,030
-Bomber missile.
-
-166
-00:18:40,570 --> 00:18:41,710
-Lander shuriken.
-
-167
-00:18:49,550 --> 00:18:52,970
-There's no end to the weapons of this
-planet.
-
-168
-00:18:55,070 --> 00:18:56,590
-This day will not end.
-
-169
-00:18:57,070 --> 00:18:58,730
-And we will destroy them.
-
-170
-00:18:59,950 --> 00:19:01,550
-Let's not be reckless.
-
-171
-00:19:02,710 --> 00:19:05,450
-We will not be defeated by war.
-
-172
-00:19:05,950 --> 00:19:06,910
-You're crazy, Draco.
-
-173
-00:19:07,870 --> 00:19:09,590
-They don't have a chance against our army.
-
-174
-00:19:11,090 --> 00:19:12,650
-There's still a lack of hard work.
-
-175
-00:19:13,510 --> 00:19:16,950
-I want to see everyone on that planet die.
-
-176
-00:19:16,950 --> 00:19:17,130
-What is that?
-
-177
-00:19:18,470 --> 00:19:19,910
-Take out our weapons.
-
-178
-00:19:20,890 --> 00:19:21,830
-Take out Doc O'Gaga.
-
-179
-00:19:36,960 --> 00:19:39,040
-Do you want to be free, John Frey?
-
-180
-00:19:41,660 --> 00:19:45,320
-Watch how the Terrans will be defeated in
-our battle.
-
-181
-00:19:50,620 --> 00:19:53,180
-Sir, we are detecting an alien signature.
-
-182
-00:19:54,060 --> 00:19:55,680
-This is the first time we've picked up a
-signal like this.
-
-183
-00:19:57,340 --> 00:19:58,240
-On screen.
-
-184
-00:20:05,910 --> 00:20:07,340
-Sir, enemy classification.
-
-185
-00:20:08,250 --> 00:20:10,060
-It's a Bosnian beast fighter.
-
-186
-00:20:11,930 --> 00:20:14,510
-Send me the coordinates of that beast
-fighter.
-
-187
-00:20:14,840 --> 00:20:15,100
-Now!
-
-188
-00:20:15,840 --> 00:20:16,200
-Yes, sir.
-
-189
-00:20:29,360 --> 00:20:30,480
-Beast fighter?
-
-190
-00:20:32,640 --> 00:20:36,340
-That's a beautiful name for our army.
-
-191
-00:20:40,700 --> 00:20:43,360
-Draco, continue your promise.
-
-192
-00:21:24,790 --> 00:21:31,170
-They will only live longer if they can't
-open our weapons.
-
-193
-00:21:32,130 --> 00:21:34,610
-Sir, new energy signature detected.
-
-194
-00:21:35,850 --> 00:21:38,330
-Computer identifies it as a beast fighter.
-
-195
-00:21:39,170 --> 00:21:41,950
-Bolstein, the Bosnians have released a
-beast fighter.
-
-196
-00:21:43,550 --> 00:21:44,630
-Beast fighter?
-
-197
-00:21:45,030 --> 00:21:45,890
-What is that?
-
-198
-00:21:57,160 --> 00:21:57,640
-Kaiju!
-
-199
-00:22:12,260 --> 00:22:13,280
-Evasive maneuvers!
-
-200
-00:22:21,060 --> 00:22:23,460
-Now is your better chance to bolt in.
-
-201
-00:22:23,960 --> 00:22:25,180
-We're going to bolt in the robot?
-
-202
-00:22:26,020 --> 00:22:27,200
-What do we do, Doc?
-
-203
-00:22:27,520 --> 00:22:28,420
-Bolt in, team.
-
-204
-00:22:28,940 --> 00:22:31,460
-You need to fly in a V formation.
-
-205
-00:22:32,600 --> 00:22:36,280
-Steve, your cruiser should be in the front
-and center.
-
-206
-00:22:36,660 --> 00:22:39,280
-From now on, this will be your V
-formation.
-
-207
-00:22:39,460 --> 00:22:39,760
-Copy?
-
-208
-00:22:40,580 --> 00:22:41,800
-Copy, Ma'am.
-
-209
-00:22:41,840 --> 00:22:43,720
-Team, let's V together.
-
-210
-00:22:44,980 --> 00:22:46,040
-V formation now!
-
-211
-00:23:11,470 --> 00:23:15,330
-Now, you will see a red button next to
-your center console.
-
-212
-00:23:15,970 --> 00:23:20,310
-To activate the robot transformation,
-push that to start the bolt-in sequence.
-
-213
-00:23:20,910 --> 00:23:21,390
-Roger that.
-
-214
-00:23:23,510 --> 00:23:24,910
-Let's bolt in!
-
-215
-00:24:21,720 --> 00:24:25,280
-We're almost there.
-
-216
-00:24:26,140 --> 00:24:28,880
-Let's get our legs together.
-
-217
-00:24:30,380 --> 00:24:32,720
-We believe in each other.
-
-218
-00:24:34,100 --> 00:24:36,760
-We're all in this together.
-
-219
-00:24:37,600 --> 00:24:38,380
-We're almost there.
-
-220
-00:24:41,880 --> 00:24:43,660
-We're all in this together.
-
-221
-00:24:43,660 --> 00:24:50,480
-We're almost
-
-222
-00:25:16,490 --> 00:25:16,670
-there.
-
-223
-00:25:16,710 --> 00:25:19,150
-Geoffrey, look at this.
-
-224
-00:25:29,830 --> 00:25:33,110
-These Terra Ertl soldiers are
-extraordinary.
-
-225
-00:25:33,710 --> 00:25:35,530
-You lack discipline.
-
-226
-00:25:36,690 --> 00:25:41,830
-I'm sure they will not defeat Doc O'Gaga.
-
-227
-00:26:02,020 --> 00:26:06,200
-Draco, let the battle begin.
-
-228
-00:26:07,860 --> 00:26:09,820
-Now, Geoffrey.
-
-229
-00:27:09,940 --> 00:27:10,660
-That's their champion.
-
-230
-00:27:11,300 --> 00:27:17,900
-If that's their champion, I'm sure they
-will defeat our soldier.
-
-231
-00:27:18,860 --> 00:27:19,760
-What do they call him?
-
-232
-00:27:20,940 --> 00:27:23,760
-Our beast fighter.
-
-233
-00:27:25,840 --> 00:27:28,400
-The Terra Ertl soldiers are extraordinary.
-
-234
-00:27:29,060 --> 00:27:29,640
-Draco.
-
-235
-00:27:29,640 --> 00:27:34,940
-Doc O'Gaga, make sure Doc O'Gaga will not
-defeat their champion.
-
-236
-00:27:37,140 --> 00:27:38,620
-Yes, sir.
-
-237
-00:27:48,010 --> 00:27:49,350
-What do they call him?
-
-238
-00:27:49,350 --> 00:27:49,870
-Our champion.
-
-239
-00:27:53,230 --> 00:27:54,790
-Don't worry, Little John.
-
-240
-00:27:55,070 --> 00:27:56,210
-We have trained for this, remember?
-
-241
-00:27:56,710 --> 00:27:59,710
-Yes, we have trained, but Little John is
-not.
-
-242
-00:27:59,710 --> 00:28:01,970
-We'll be in trouble if something happens
-to him.
-
-243
-00:28:02,470 --> 00:28:04,150
-Nothing bad will happen to me.
-
-244
-00:28:04,690 --> 00:28:05,190
-Trust me.
-
-245
-00:28:05,190 --> 00:28:06,190
-Be strong.
-
-246
-00:28:07,770 --> 00:28:09,890
-Remember, the whole world is in our hands.
-
-247
-00:28:10,490 --> 00:28:11,510
-That's why we have to win.
-
-248
-00:28:12,390 --> 00:28:12,990
-Roger.
-
-249
-00:29:22,050 --> 00:29:24,330
-Draco, I'm getting hot.
-
-250
-00:29:25,150 --> 00:29:26,090
-Finish him.
-
-251
-00:29:27,650 --> 00:29:29,110
-Now, Geoffrey.
-
-252
-00:29:37,980 --> 00:29:38,780
-Ah!
-
-253
-00:29:39,880 --> 00:29:40,680
-Ah!
-
-254
-00:29:44,240 --> 00:29:44,800
-Big Bert!
-
-255
-00:29:58,930 --> 00:29:59,990
-Big Bert!
-
-256
-00:30:00,950 --> 00:30:01,890
-Bio warning signs.
-
-257
-00:30:02,370 --> 00:30:02,530
-Are you okay?
-
-258
-00:30:02,990 --> 00:30:03,390
-I'm okay.
-
-259
-00:30:08,730 --> 00:30:09,530
-Oh,
-
-260
-00:30:22,790 --> 00:30:22,810
-no.
-
-261
-00:30:23,350 --> 00:30:24,010
-He's strong.
-
-262
-00:30:27,510 --> 00:30:29,110
-Everyone's bio signs are good.
-
-263
-00:30:29,110 --> 00:30:31,750
+00:15:43,243 --> 00:15:44,978
 Little John, are you okay?
 
-264
-00:30:32,330 --> 00:30:33,090
-I'm okay.
-
-265
-00:30:33,690 --> 00:30:34,430
-I just slipped.
-
-266
-00:30:41,140 --> 00:30:42,720
-Let's get him back.
-
-267
-00:30:43,260 --> 00:30:47,000
-Weapon recommendation, chain knuckles.
-
-268
-00:30:47,460 --> 00:30:47,740
-Roger.
-
-269
-00:30:50,200 --> 00:30:51,920
-Chain knuckles!
-
-270
-00:31:05,700 --> 00:31:09,240
-This is an ultra-electromagnetic weapon.
-
-271
-00:31:09,880 --> 00:31:11,620
-Mark, that's your specialty.
-
-272
-00:31:11,620 --> 00:31:11,940
-You can do it.
-
-273
-00:31:13,460 --> 00:31:15,760
-Ultra-electromagnetic weapon!
-
-274
-00:31:26,050 --> 00:31:28,010
-Ultra-electromagnetic staff!
-
-275
-00:31:48,780 --> 00:31:49,580
-Yes!
-
-276
-00:31:50,060 --> 00:31:50,980
-Oh, nice.
-
-277
-00:31:54,600 --> 00:31:55,060
-Wait.
-
-278
-00:31:58,080 --> 00:32:00,920
-Why do I feel like we're losing?
-
-279
-00:32:01,920 --> 00:32:03,140
-Shut up, Zul.
-
-280
-00:32:04,100 --> 00:32:04,400
-No.
-
-281
-00:32:12,520 --> 00:32:13,720
-Let's finish this.
-
-282
-00:32:13,720 --> 00:32:16,220
-Shut up, laser sword.
-
-283
-00:32:17,940 --> 00:32:18,960
-Shut up.
-
-284
-00:32:20,560 --> 00:32:21,600
-Shut up!
-
-285
-00:34:15,100 --> 00:34:15,800
-Yay!
-
-286
-00:34:23,400 --> 00:34:27,080
-I can't believe it.
-
-287
-00:34:27,080 --> 00:34:29,900
-They lost to Doku Gaga.
-
-288
-00:34:30,860 --> 00:34:31,280
-John.
-
-289
-00:34:41,760 --> 00:34:43,920
-You are a brave warrior.
-
-290
-00:34:46,620 --> 00:34:49,590
-You may have the advantage now,
-Ertugrul.
-
-291
-00:34:50,580 --> 00:34:52,740
-But the fight is not over yet.
-
-292
-00:34:53,860 --> 00:34:58,300
-There is no planet that can defeat the
-mighty Empire of Buzot.
-
-293
-00:36:02,710 --> 00:36:03,570
-Sir!
-
-294
-00:36:05,730 --> 00:36:08,070
-Team Voltus V reporting.
-
-295
-00:36:10,490 --> 00:36:11,230
-Welcome back.
-
-296
-00:36:12,590 --> 00:36:13,930
-Mission accomplished.
-
-297
-00:36:19,980 --> 00:36:22,520
-Job well done, Team Voltus V.
-
-298
-00:36:23,120 --> 00:36:24,880
-We are so proud of you.
-
-299
-00:36:25,580 --> 00:36:27,420
-And your parents are waiting for hugs.
-
-300
-00:36:28,460 --> 00:36:28,940
-Aris!
-
-301
-00:36:45,760 --> 00:36:46,680
-Prove yourself.
-
-302
-00:36:48,500 --> 00:36:49,740
-You made me.
-
-303
-00:36:52,020 --> 00:36:52,920
-Thank you.
-
-304
-00:36:58,720 --> 00:37:00,940
-Your father will be so proud of you.
-
-305
-00:37:02,040 --> 00:37:02,640
-Good job.
-
-306
-00:37:04,840 --> 00:37:05,580
-Thank you, Dad.
-
-307
-00:37:10,040 --> 00:37:10,900
-Good job.
-
-308
-00:37:16,050 --> 00:37:16,690
-Mark.
-
-309
-00:37:26,340 --> 00:37:27,860
-You did a great job.
-
-310
-00:37:28,720 --> 00:37:29,980
-You made me proud of you.
-
-311
-00:37:40,540 --> 00:37:41,440
-Thank you.
-
-312
-00:37:47,000 --> 00:37:47,700
-John Frey.
-
-313
-00:37:49,230 --> 00:37:49,860
-Zardoz.
-
-314
-00:37:50,440 --> 00:37:52,460
-What's the news on Terra Air 2?
-
-315
-00:37:53,280 --> 00:37:56,480
-I was hoping it would fall into your
-hands.
-
-316
-00:37:57,770 --> 00:37:58,940
-I am sorry.
-
-317
-00:37:59,680 --> 00:38:00,810
-But we are on the same side.
-
-318
-00:38:01,740 --> 00:38:03,480
-They have a strong army.
-
-319
-00:38:03,580 --> 00:38:04,180
-Which means?
-
-320
-00:38:07,320 --> 00:38:08,770
-Your army was defeated.
-
-321
-00:38:15,020 --> 00:38:16,540
-I thought you were good.
-
-322
-00:38:18,000 --> 00:38:22,800
-I thought you were one of the heroes since
-you defeated your father.
-
-323
-00:38:26,930 --> 00:38:29,770
-Aren't you ashamed of my ministers?
-
-324
-00:38:29,870 --> 00:38:34,990
-Of the people of Busan who idolize you.
-
-325
-00:38:39,470 --> 00:38:41,270
-Where is your talent?
-
-326
-00:38:42,570 --> 00:38:43,470
-Your intelligence?
-
-327
-00:38:45,130 --> 00:38:47,170
-Your courage?
-
-328
-00:38:50,660 --> 00:38:52,380
-Why were you defeated?
-
-329
-00:38:54,080 --> 00:38:55,880
-Forgive me, John Frey.
-
-330
-00:38:57,180 --> 00:38:58,900
-I promise you.
-
-331
-00:38:59,700 --> 00:39:01,940
-I will not go back to Busan.
-
-332
-00:39:01,940 --> 00:39:05,420
-Until the planet Terra Air 2 is destroyed.
-
-333
-00:39:06,080 --> 00:39:06,640
-Yes.
-
-334
-00:39:07,620 --> 00:39:11,800
-Don't come back until you can't do
-anything for me.
-
-335
-00:39:14,160 --> 00:39:16,820
-Don't embarrass me, Zardoz.
-
-336
-00:39:17,140 --> 00:39:22,340
-Don't embarrass yourself like your father,
-Sirotgar.
-
-337
-00:39:22,860 --> 00:39:25,160
-Don't embarrass the whole of Busan.
-
-338
-00:39:25,540 --> 00:39:27,240
-Najmi Imperium.
-
-339
-00:40:09,690 --> 00:40:10,010
-Dad.
-
-340
-00:40:11,190 --> 00:40:11,870
-Mom.
-
-341
-00:40:12,070 --> 00:40:14,630
-We know you are angry.
-
-342
-00:40:15,850 --> 00:40:16,850
-You are afraid.
-
-343
-00:40:18,690 --> 00:40:20,210
-Especially little John.
-
-344
-00:40:21,810 --> 00:40:22,830
-You are three, son.
-
-345
-00:40:23,910 --> 00:40:25,110
-What if you were defeated?
-
-346
-00:40:26,690 --> 00:40:29,370
-Then all three of you will be gone from
-me.
-
-347
-00:40:29,910 --> 00:40:32,990
-But what happened is not what you are
-afraid of, Mom.
-
-348
-00:40:33,770 --> 00:40:34,330
-Mom.
-
-349
-00:40:35,810 --> 00:40:36,150
-Trust.
-
-350
-00:40:37,810 --> 00:40:39,030
-We trust you.
-
-351
-00:40:40,010 --> 00:40:40,490
-You, Papa.
-
-352
-00:40:41,490 --> 00:40:42,370
-Dr. Smith.
-
-353
-00:40:43,610 --> 00:40:46,850
-That's why we have the confidence to fight
-using the Voltis robot.
-
-354
-00:40:47,510 --> 00:40:49,010
-Because we know what you did.
-
-355
-00:40:49,950 --> 00:40:50,890
-Trust, Mom.
-
-356
-00:40:52,210 --> 00:40:53,290
-That's why, Mom.
-
-357
-00:40:55,070 --> 00:40:58,030
-Mom, you should trust your father's
-creations.
-
-358
-00:41:00,230 --> 00:41:02,150
-And you should trust your children.
-
-359
-00:41:03,190 --> 00:41:03,990
-Yes, Mom.
-
-360
-00:41:04,530 --> 00:41:05,990
-That's why you should let me go.
-
-361
-00:41:06,370 --> 00:41:08,210
-Because we need the whole world.
-
-362
-00:41:08,210 --> 00:41:10,650
-We are your gift to our planet.
-
-363
-00:41:15,180 --> 00:41:17,160
-Be careful, children.
-
-364
-00:41:18,280 --> 00:41:20,920
-Don't let anything bad happen to you.
-
-365
-00:41:21,680 --> 00:41:22,160
-Promise.
-
-366
-00:41:38,400 --> 00:41:43,660
-I can't believe that we were defeated by
-the Terra Air 2 because of the Voltis 5.
-
-367
-00:41:44,180 --> 00:41:45,100
-Don't worry.
-
-368
-00:41:45,380 --> 00:41:48,480
-I'm studying about their main weapon.
-
-369
-00:41:54,690 --> 00:41:55,490
-Draco.
-
-370
-00:41:56,730 --> 00:41:58,090
-What are you investigating?
-
-371
-00:42:00,030 --> 00:42:07,890
-I'm just wondering how the Terra Air 2 got
-this technology from the Voltis 5.
-
-372
-00:42:10,510 --> 00:42:14,530
-I'm sure that it's not from their planet.
-
-373
-00:42:24,120 --> 00:42:28,860
-Is there a way to find out where the
-Terras hide their weapons?
-
-374
-00:42:32,280 --> 00:42:34,480
-That's what the Minister wants to know.
-
-375
-00:42:35,380 --> 00:42:37,960
-Let's just wait for his surprise.
-
-376
-00:42:37,960 --> 00:42:38,820
-Wait.
-
-377
-00:42:39,400 --> 00:42:41,160
-Can't we know everything?
-
-378
-00:42:42,020 --> 00:42:43,040
-Why is Zul here?
-
-379
-00:42:43,380 --> 00:42:43,900
-Zul.
-
-380
-00:42:45,200 --> 00:42:45,640
-What do you want?
-
-381
-00:42:46,320 --> 00:42:48,120
-Next time, dear Prince.
-
-382
-00:43:00,170 --> 00:43:01,990
-Why is it dark here?
-
-383
-00:43:03,110 --> 00:43:03,790
-Surprise!
-
-384
-00:43:07,290 --> 00:43:09,330
-Thank you, but it's my birthday tomorrow.
-
-385
-00:43:09,990 --> 00:43:10,990
-What's going on, Mom?
-
-386
-00:43:11,070 --> 00:43:11,770
-You seem to be in a hurry.
-
-387
-00:43:13,030 --> 00:43:17,530
-And if we're going to do everything
-tomorrow, then it's not a surprise
-
-388
-00:43:17,530 --> 00:43:17,690
-anymore.
-
-389
-00:43:19,010 --> 00:43:20,530
-Don't call it a surprise.
-
-390
-00:43:21,190 --> 00:43:22,210
-Blow your candle.
-
-391
-00:43:26,200 --> 00:43:28,100
-One, two, wish.
-
-392
-00:43:29,120 --> 00:43:30,160
-Wish first.
-
-393
-00:43:31,360 --> 00:43:33,440
-Well, I want all of us to blow the candle.
-
-394
-00:43:34,120 --> 00:43:36,320
-I want to share my birthday luck with all
-of you.
-
-395
-00:43:36,860 --> 00:43:37,240
-Go ahead.
-
-396
-00:43:37,660 --> 00:43:42,500
-One, two, three.
-
-397
-00:43:45,980 --> 00:43:46,760
-What's your wish?
-
-398
-00:43:47,740 --> 00:43:50,340
-Well, I don't have a wish for myself
-anymore.
-
-399
-00:43:50,440 --> 00:43:54,280
-So, my wish is that you are always safe.
-
-400
-00:43:55,440 --> 00:43:57,620
-And that your wishes will come true.
-
-401
-00:43:58,320 --> 00:44:00,100
-You know what I always say.
-
-402
-00:44:00,320 --> 00:44:03,100
-Be strong, be brave, be safe.
-
-403
-00:44:06,480 --> 00:44:10,680
-So, it means that my wish will come true.
-
-404
-00:44:13,160 --> 00:44:15,640
-You know, I have a wish too.
-
-405
-00:44:15,640 --> 00:44:16,520
-Really, son?
-
-406
-00:44:16,660 --> 00:44:17,720
-You have a crush on Jamie?
-
-407
-00:44:19,420 --> 00:44:21,540
-These are all fake news.
-
-408
-00:44:22,200 --> 00:44:23,140
-Don't believe them.
-
-409
-00:44:23,980 --> 00:44:25,040
-Mom is just stressed.
-
-410
-00:44:27,840 --> 00:44:28,980
-Hey, that's enough.
-
-411
-00:44:29,320 --> 00:44:30,280
-You might get into a fight.
-
-412
-00:44:32,000 --> 00:44:33,300
-Steve, you're the older brother.
-
-413
-00:44:33,440 --> 00:44:35,080
-You shouldn't hurt your siblings.
-
-414
-00:44:36,060 --> 00:44:36,500
-Yes, ma'am.
-
-415
-00:44:36,920 --> 00:44:39,460
-And you two, don't tease your siblings too
-much.
-
-416
-00:44:41,000 --> 00:44:42,080
-Let's eat.
-
-417
-00:44:42,340 --> 00:44:43,000
-Let's eat this.
-
-418
-00:44:43,000 --> 00:44:43,400
-Hurry up.
-
-419
-00:44:44,500 --> 00:44:45,140
-Okay,
-
-420
-00:44:48,560 --> 00:44:50,060
-one, two, three.
-
-421
-00:44:51,340 --> 00:44:53,620
-How big is Big Bird?
-
-422
-00:44:53,760 --> 00:44:54,820
-Half of it is Big Bird.
-
-423
-00:45:01,480 --> 00:45:02,120
-Zul!
-
-424
-00:45:03,460 --> 00:45:04,780
-Where is Voltes Five?
-
-425
-00:45:06,200 --> 00:45:07,080
-You've been looking for him since
-yesterday.
-
-426
-00:45:07,220 --> 00:45:07,600
-I'm getting hot.
-
-427
-00:45:09,180 --> 00:45:10,060
-What's going on?
-
-428
-00:45:10,560 --> 00:45:13,160
-Principal Sandoz, this is what I want to
-show you.
-
-429
-00:45:15,160 --> 00:45:20,700
-I've been told that there's a strong
-energy coming from that island.
-
-430
-00:45:21,440 --> 00:45:28,960
-There's a strong signal that the defense
-of Terra Ertube is in danger.
-
-431
-00:45:33,390 --> 00:45:36,470
-Voltes Five is probably hiding there.
-
-432
-00:45:44,140 --> 00:45:45,440
-Terra Ertube people are smart.
-
-433
-00:45:46,260 --> 00:45:48,340
-They put their camp on a hidden island.
-
-434
-00:45:50,020 --> 00:45:52,280
-But they haven't been able to hide from
-us.
-
-435
-00:45:52,700 --> 00:45:54,720
-When are you going to attack, Jomfre?
-
-436
-00:45:55,880 --> 00:45:56,480
-We're just waiting for your budget.
-
-437
-00:46:01,270 --> 00:46:03,350
-Is our Beast Fighter ready?
-
-438
-00:46:03,870 --> 00:46:05,010
-He's ready, Jomfre.
-
-439
-00:46:07,210 --> 00:46:08,510
-I want to meet him.
-
-440
-00:46:09,310 --> 00:46:09,730
-Sibar!
-
-441
-00:46:12,430 --> 00:46:15,550
-I'm introducing our new champion.
-
-442
-00:46:19,040 --> 00:46:20,380
-That's Baizanga.
-
-443
-00:46:20,380 --> 00:46:25,320
-Baizanga, contact Voltes Five so that we
-can destroy this planet.
-
-444
-00:46:28,380 --> 00:46:29,220
-Baizanga...
-
-445
-00:46:30,610 --> 00:46:32,950
-I'm looking forward to meeting you.
-
-446
-00:46:42,400 --> 00:46:50,180
-You are all chosen to defend our planet
-Earth from Bosanian invasion.
-
-447
-00:46:52,320 --> 00:46:54,800
-Are you ready to defend our planet?
-
-448
-00:46:55,560 --> 00:46:56,380
-Yes, sir!
-
-449
-00:47:00,330 --> 00:47:01,730
-Voltes Five team...
-
-450
-00:47:03,550 --> 00:47:07,730
-because of your extraordinary skills and
-abilities...
-
-451
-00:47:09,090 --> 00:47:10,790
-and your personal destinies...
-
-452
-00:47:11,990 --> 00:47:14,530
-you are the last defense of this planet.
-
-453
-00:47:16,310 --> 00:47:19,910
-Should other defense plans fail...
-
-454
-00:47:21,620 --> 00:47:22,600
-we are counting on you.
-
-455
-00:47:23,620 --> 00:47:25,120
-Do you include the medical team?
-
-456
-00:47:26,180 --> 00:47:27,460
-All of us...
-
-457
-00:47:28,480 --> 00:47:34,080
-should aim to achieve the highest
-standards of battle.
-
-458
-00:47:39,430 --> 00:47:42,270
-Anything less is not acceptable.
-
-459
-00:47:46,640 --> 00:47:50,440
-So today, prepare yourselves...
-
-460
-00:47:50,440 --> 00:47:54,660
-for we are going to implement a critical
-test.
-
-461
-00:47:56,700 --> 00:48:00,900
-The Voltes Five team shall openly attack
-the camp...
-
-462
-00:48:00,900 --> 00:48:02,720
-as though they are Bosanians.
-
-463
-00:48:02,720 --> 00:48:05,540
-And the Voltes Five team shall
-counter-attack the camp...
-
-464
-00:48:05,540 --> 00:48:07,480
-as though they are real alien invaders.
-
-465
-00:48:09,940 --> 00:48:11,760
-We will be using live ammunitions.
-
-466
-00:48:13,140 --> 00:48:15,140
-Turn off safety protocols.
-
-467
-00:48:17,300 --> 00:48:19,720
-The Voltes Five team shall try this
-drill...
-
-468
-00:48:21,700 --> 00:48:24,600
-and the Camping Falcon's strategy for
-defense.
-
-469
-00:48:25,700 --> 00:48:26,480
-Are there any questions?
-
-470
-00:48:27,000 --> 00:48:28,160
-No safety protocols?
-
-471
-00:48:28,720 --> 00:48:30,500
-So if we get hit, game over?
-
-472
-00:48:30,500 --> 00:48:30,620
-No, sir.
-
-473
-00:48:31,420 --> 00:48:32,900
-Live ammunition...
-
-474
-00:48:32,900 --> 00:48:34,080
-Kaboom!
-
-475
-00:48:34,280 --> 00:48:34,720
-We're dead.
-
-476
-00:48:36,640 --> 00:48:37,280
-Team...
-
-477
-00:48:37,280 --> 00:48:41,200
-this drill will help us prepare
-ourselves...
-
-478
-00:48:41,200 --> 00:48:44,040
-in case of an actual Bosanian attack.
-
-479
-00:48:45,500 --> 00:48:46,780
-That's why...
-
-480
-00:48:46,780 --> 00:48:48,320
-all of us...
-
-481
-00:48:48,320 --> 00:48:49,640
-should do our best.
-
-482
-00:48:50,400 --> 00:48:51,080
-Yes, sir.
-
-483
-00:48:52,260 --> 00:48:53,320
-We are ready.
-
-484
-00:48:56,160 --> 00:48:56,800
-Everyone...
-
-485
-00:48:56,800 --> 00:48:58,060
-prepare for live weapons drill.
-
-486
-00:48:58,060 --> 00:48:59,820
-To your stations.
-
-487
-00:49:01,020 --> 00:49:01,320
-Attention.
-
-488
-00:49:02,100 --> 00:49:03,960
-All crew will check the screening on the
-tower.
-
-489
-00:49:05,980 --> 00:49:06,280
-Extra...
-
-490
-00:49:06,580 --> 00:49:08,040
-this is not just a simple drill.
-
-491
-00:49:08,820 --> 00:49:09,220
-And?
-
-492
-00:49:09,900 --> 00:49:12,540
-So you don't trust your training since we
-were kids?
-
-493
-00:49:14,200 --> 00:49:16,380
-I don't have much training, sir.
-
-494
-00:49:17,000 --> 00:49:18,440
-Guys, we got this.
-
-495
-00:49:18,640 --> 00:49:20,400
-We already defeated the enemy,
-right?
-
-496
-00:49:20,480 --> 00:49:21,300
-We already did this.
-
-497
-00:49:21,480 --> 00:49:24,040
-What does Mama always say?
-
-498
-00:49:25,020 --> 00:49:25,900
-Be brave.
-
-499
-00:49:25,900 --> 00:49:27,180
-Be strong.
-
-500
-00:49:27,880 --> 00:49:28,680
-Be brave.
-
-501
-00:49:28,960 --> 00:49:29,740
-Be strong.
-
-502
-00:49:59,220 --> 00:49:59,980
-You know what to do.
-
-503
-00:50:00,860 --> 00:50:02,100
-Let the battle begin.
-
-504
-00:50:10,380 --> 00:50:11,600
-Pattern Delta.
-
-505
-00:50:15,340 --> 00:50:16,280
-Attack commencing.
-
-506
-00:50:16,700 --> 00:50:17,480
-Watch out, guys.
-
-507
-00:50:30,380 --> 00:50:31,200
-Here and there.
-
-508
-00:50:31,760 --> 00:50:32,460
-Focus.
-
-509
-00:50:40,090 --> 00:50:41,610
-Alright, countermeasures.
-
-510
-00:50:47,210 --> 00:50:48,610
-Good job, all this team.
-
-511
-00:50:48,610 --> 00:50:51,210
-You think you can beat us?
-
-512
-00:50:52,810 --> 00:50:54,970
-Let's see what they're made of.
-
-513
-00:50:55,490 --> 00:50:57,770
-Launch Falcon Missiles.
-
-514
-00:50:58,010 --> 00:50:58,630
-Full spreads.
-
-515
-00:51:10,820 --> 00:51:12,140
-Sky heroes in.
-
-516
-00:51:16,050 --> 00:51:21,710
-This is where the unique energy I'm
-talking about comes from, Prince Vesados.
-
-517
-00:51:29,260 --> 00:51:30,600
-General Draco.
-
-518
-00:51:32,020 --> 00:51:33,100
-Begin the attack.
-
-519
-00:51:52,640 --> 00:51:53,120
-Nice.
-
-520
-00:51:53,120 --> 00:51:55,260
-Who was the direct hit on your cap?
-
-521
-00:51:56,600 --> 00:51:57,460
-Not me.
-
-522
-00:51:58,180 --> 00:51:58,440
-Me.
-
-523
-00:51:59,380 --> 00:52:00,540
-Especially me.
-
-524
-00:52:01,160 --> 00:52:02,840
-If it wasn't one of us, who was it from?
-
-525
-00:52:03,720 --> 00:52:04,400
-Wait, wait.
-
-526
-00:52:13,550 --> 00:52:15,410
-Bosan energy signature confirmed.
-
-527
-00:52:15,990 --> 00:52:17,170
-The Bosanians are back.
-
-528
-00:52:31,710 --> 00:52:32,770
-Battle stations, everyone.
-
-529
-00:52:33,570 --> 00:52:34,230
-Aye, aye, sir.
-
-530
-00:52:34,710 --> 00:52:36,220
-CBF defense protocol activated.
-
-531
-00:52:36,220 --> 00:52:36,880
-Activated.
-
-532
-00:52:42,590 --> 00:52:44,050
-Tactical station reports ready.
-
-533
-00:52:44,690 --> 00:52:45,970
-Engineering station ready.
-
-534
-00:52:46,370 --> 00:52:47,970
-Medical and life support reports ready.
-
-535
-00:53:02,540 --> 00:53:03,780
+129
+00:15:45,478 --> 00:15:49,382
+big falcon
+Same as simulator
+
+130
+00:15:52,819 --> 00:15:53,753
+Wait
+
+131
+00:15:54,154 --> 00:15:55,755
+why do you know
+
+132
+00:15:56,122 --> 00:15:56,990
+That is-
+
+133
+00:15:57,324 --> 00:15:58,958
+Because I hacked it
+
+134
+00:16:01,895 --> 00:16:05,332
+Everyone, look at the weapon list.
+
+135
+00:16:06,166 --> 00:16:08,301
+It's a great weapon
+
+136
+00:16:08,568 --> 00:16:11,738
+to bolt bazooka
+chain knuckle
+
+137
+00:16:13,940 --> 00:16:16,843
+super electromagnetic string too
+
+138
+00:16:17,477 --> 00:16:19,946
+Is it like a whip?
+
+139
+00:16:21,314 --> 00:16:24,184
+I'll be eaten by aliens
+
+140
+00:16:24,284 --> 00:16:27,921
+Everyone concentrate on the maneuver.
+
+141
+00:16:28,421 --> 00:16:30,957
+What is the health status of the team?
+
+142
+00:16:31,024 --> 00:16:34,627
+All five people's biological signals
+No abnormalities
+
+143
+00:16:54,881 --> 00:16:55,882
+This is...
+
+144
+00:16:57,117 --> 00:16:58,118
+That's a huge number
+
+145
+00:16:59,652 --> 00:17:01,554
+What’s “wow” now?
+
+146
+00:17:01,688 --> 00:17:03,823
+Can everyone do it?
+
+147
+00:17:04,124 --> 00:17:07,227
+I can't retreat now.
+
+148
+00:17:07,327 --> 00:17:09,629
+What's wrong? Don't freak out.
+
+149
+00:17:10,230 --> 00:17:12,966
+The fate of the earth is at stake
+
+150
+00:17:13,400 --> 00:17:16,803
+That's right, we have no choice but to do it!
+
+151
+00:17:17,670 --> 00:17:21,408
+little john
+Don't do anything selfish, okay?
+
+152
+00:17:21,508 --> 00:17:23,076
+follow your brother
+
+153
+00:17:23,243 --> 00:17:26,079
+Got it
+Don't worry mom
+
+154
+00:17:26,179 --> 00:17:30,683
+I'm definitely worried
+Not enough training
+
+155
+00:17:30,850 --> 00:17:35,021
+It's okay
+It's like a game
+
+156
+00:17:35,522 --> 00:17:38,758
+Treated as a game?
+I've been there
+
+157
+00:17:38,992 --> 00:17:40,326
+It's a game
+
+158
+00:17:43,496 --> 00:17:45,832
+Okay, let the battle begin.
+
+159
+00:17:55,708 --> 00:17:57,277
+use a weapon
+
+160
+00:17:57,610 --> 00:17:58,545
+With voice-
+
+161
+00:17:58,611 --> 00:18:00,280
+can be operated
+
+162
+00:18:01,514 --> 00:18:03,516
+Cool
+
+163
+00:18:03,883 --> 00:18:05,118
+With audio...
+
+164
+00:18:08,721 --> 00:18:10,457
+crow boomerang
+
+165
+00:18:17,130 --> 00:18:19,098
+frigate rocket
+
+166
+00:18:24,704 --> 00:18:27,040
+panzer missile
+
+167
+00:18:33,646 --> 00:18:35,482
+bomber missile
+
+168
+00:18:40,420 --> 00:18:42,422
+Lander Shuriken
+
+169
+00:18:49,829 --> 00:18:53,833
+This star's weapon is
+It doesn't work at all
+
+170
+00:18:55,068 --> 00:18:59,405
+If it's like this
+You can conquer it today
+
+171
+00:18:59,973 --> 00:19:02,175
+Don't let your guard down
+
+172
+00:19:03,109 --> 00:19:05,845
+I haven't won yet
+
+173
+00:19:05,945 --> 00:19:10,183
+It's unnecessary worry
+Is it suitable for us?
+
+174
+00:19:11,117 --> 00:19:13,419
+Attack is lukewarm
+
+175
+00:19:13,953 --> 00:19:17,657
+all earthlings
+Make me suffer
+
+176
+00:19:18,658 --> 00:19:22,362
+show us our weapons
+It's Doku Gaga
+
+177
+00:19:23,296 --> 00:19:30,436
+Dokugaga
+
+178
+00:19:37,210 --> 00:19:39,612
+enjoy
+
+179
+00:19:41,381 --> 00:19:46,386
+Earthlings in a panic
+You can see
+
+180
+00:19:50,823 --> 00:19:53,693
+Detect alien signals
+
+181
+00:19:53,960 --> 00:19:56,229
+This is the first type
+
+182
+00:19:57,564 --> 00:19:59,032
+video
+
+183
+00:20:06,372 --> 00:20:08,207
+what is this?
+
+184
+00:20:08,675 --> 00:20:10,810
 It's a beast fighter.
 
-536
-00:53:07,140 --> 00:53:09,360
-Team, get ready for the real battle.
+185
+00:20:12,345 --> 00:20:15,682
+The coordinates where this is
+Send it to me ASAP
 
-537
-00:53:10,480 --> 00:53:10,940
-Let's go.
+186
+00:20:15,748 --> 00:20:16,583
+yes
 
-538
-00:53:16,630 --> 00:53:18,470
-Don't let him get close to the camp.
+187
+00:20:25,358 --> 00:20:29,228
+beast fighter
+It has invaded
 
-539
-00:53:19,050 --> 00:53:20,770
-And don't give him a chance to retaliate.
+188
+00:20:29,696 --> 00:20:31,731
+“Beast Fighter”?
 
-540
-00:53:20,990 --> 00:53:21,170
-Roger.
+189
+00:20:33,099 --> 00:20:36,903
+to our pets
+That's a big name
 
-541
-00:53:23,950 --> 00:53:25,250
-Richard, you have the control.
+190
+00:20:40,907 --> 00:20:41,674
+draco
 
-542
-00:53:25,550 --> 00:53:26,930
-I'm flying back to EDF headquarters.
+191
+00:20:42,108 --> 00:20:43,776
+continue the invasion
 
-543
-00:53:27,450 --> 00:53:28,150
-I'll speed Oscar.
+192
+00:21:25,485 --> 00:21:28,554
+You're wasting your life in vain.
 
-544
-00:53:28,390 --> 00:53:31,070
-Chief Kelly, once I'm out, raise your
-shields.
+193
+00:21:28,655 --> 00:21:31,758
+Even though there's no way it will come true
 
-545
-00:53:31,450 --> 00:53:32,070
-Aye, aye, sir.
+194
+00:21:32,125 --> 00:21:35,328
+A new signal has been detected
 
-546
-00:53:36,140 --> 00:53:37,260
-Claw, boomerang!
+195
+00:21:35,795 --> 00:21:38,731
+It's a beast fighter
 
-547
-00:53:41,840 --> 00:53:42,900
-Bomber, missile!
+196
+00:21:38,965 --> 00:21:43,336
+voltes team
+the beast fighter has appeared
 
-548
-00:53:45,000 --> 00:53:46,380
-Lander, missile!
+197
+00:21:43,503 --> 00:21:44,837
+Beast fighter?
 
-549
-00:53:47,260 --> 00:53:48,380
-Lander, missile!
+198
+00:21:44,971 --> 00:21:46,272
+it is?
 
-550
-00:53:49,500 --> 00:53:50,540
-Frigate, missiles!
+199
+00:21:57,150 --> 00:21:58,584
+<It's a monster>
 
-551
-00:53:57,210 --> 00:53:58,290
-Whoa, whoa, whoa!
+200
+00:22:12,432 --> 00:22:13,599
+avoid
 
-552
-00:53:58,790 --> 00:53:59,650
-Watch out, watch out!
+201
+00:22:21,274 --> 00:22:23,710
+This is your chance to bolt in.
 
-553
-00:54:00,870 --> 00:54:01,630
-Mark, rig left!
+202
+00:22:23,843 --> 00:22:25,445
+Is it a combination?
 
-554
-00:54:10,900 --> 00:54:11,840
-This guy is too much.
+203
+00:22:26,279 --> 00:22:27,547
+How do I do it?
 
-555
-00:54:14,740 --> 00:54:15,780
-He's still standing.
+204
+00:22:27,647 --> 00:22:32,118
+voltes team
+Flying in buoy formation
 
-556
-00:54:16,440 --> 00:54:17,780
-It's like he wasn't hit.
+205
+00:22:32,185 --> 00:22:32,852
+steve
 
-557
-00:54:18,140 --> 00:54:19,900
-You just didn't hit our missiles.
+206
+00:22:33,486 --> 00:22:36,389
+your cruiser first
 
-558
-00:54:20,840 --> 00:54:22,020
-It's scary.
+207
+00:22:36,522 --> 00:22:40,460
+“buoy formation”
+say it
 
-559
-00:54:22,840 --> 00:54:24,200
-And he's not our enemy.
+208
+00:22:40,526 --> 00:22:41,461
+Understood
 
-560
-00:54:30,520 --> 00:54:33,260
-Commander Robinson, helicopter is clear
-from base.
+209
+00:22:41,728 --> 00:22:44,363
+Everyone buoy together
 
-561
-00:54:36,100 --> 00:54:37,120
-Activating shields.
+210
+00:22:44,897 --> 00:22:46,566
+Buoy formation
 
-562
-00:54:48,140 --> 00:54:49,840
-I can't believe this.
+211
+00:23:11,591 --> 00:23:16,062
+next to the center console
+there is a red button
 
-563
-00:54:50,660 --> 00:54:54,940
-No matter what the Volt is doing,
-the beast fighter doesn't seem to be
+212
+00:23:16,229 --> 00:23:20,700
+Press it to bolt in
+It's starting
 
-564
-00:54:54,940 --> 00:54:54,940
-affected.
+213
+00:23:20,767 --> 00:23:21,768
+Understood
 
-565
-00:55:04,600 --> 00:55:06,460
-Commander Robinson, what's going on?
+214
+00:23:22,935 --> 00:23:23,770
+Let’s…
 
-566
-00:55:07,120 --> 00:55:08,720
-Marianne, I can barely hear you.
+215
+00:23:23,936 --> 00:23:24,771
+Bolt...
 
-567
-00:55:09,980 --> 00:55:10,960
-I'm out of CBF.
+216
+00:23:25,104 --> 00:23:27,073
+In!
 
-568
-00:55:11,400 --> 00:55:12,400
-Hello, Marianne?
+217
+00:24:48,487 --> 00:24:53,693
+Voltes V!
 
-569
-00:55:12,800 --> 00:55:13,640
-Commander Robinson?
+218
+00:25:16,816 --> 00:25:19,886
+Your Highness, please take a look.
 
-570
-00:55:15,080 --> 00:55:15,740
-Hello?
+219
+00:25:30,463 --> 00:25:33,399
+Is it an Earthling weapon?
 
-571
-00:55:16,680 --> 00:55:17,020
-Hello?
+220
+00:25:34,233 --> 00:25:36,369
+I haven't heard it.
 
-572
-00:55:20,400 --> 00:55:21,880
-Patch me to Captain Valcom.
+221
+00:25:36,969 --> 00:25:42,174
+Something like that
+Not an enemy of Dokugaga
 
-573
-00:55:22,240 --> 00:55:22,740
-Copy, sir.
+222
+00:26:02,929 --> 00:26:03,763
+draco
 
-574
-00:55:24,780 --> 00:55:25,340
-Yes, Commander?
+223
+00:26:04,764 --> 00:26:06,699
+The battle has begun
 
-575
-00:55:26,200 --> 00:55:27,640
-Has anyone seen Marianne?
+224
+00:26:08,701 --> 00:26:10,436
+As you say
 
-576
-00:55:29,020 --> 00:55:30,820
-She was trying to call me when the line
-was cut.
+225
+00:27:09,762 --> 00:27:12,465
+Is it the final weapon?
+Interesting
 
-577
-00:55:31,360 --> 00:55:33,420
-I'm sure she's already warning her
-children.
+226
+00:27:12,565 --> 00:27:14,400
+No matter what happens-
 
-578
-00:55:34,060 --> 00:55:34,800
-Sergeant Major?
+227
+00:27:14,667 --> 00:27:18,137
+I'll just destroy it
 
-579
-00:55:36,340 --> 00:55:36,740
-Sir?
+228
+00:27:18,804 --> 00:27:20,773
+They say...
 
-580
-00:55:38,560 --> 00:55:39,720
-Marianne Armstrong, now.
+229
+00:27:21,741 --> 00:27:24,577
+“Beast Fighter”
 
-581
-00:55:40,040 --> 00:55:40,740
-Copy that, sir.
+230
+00:27:24,944 --> 00:27:28,614
+Earthlings will entertain you
 
-582
-00:55:49,540 --> 00:55:50,640
-Master Chief, hurry up.
+231
+00:27:29,148 --> 00:27:30,182
+draco
 
-583
-00:55:50,740 --> 00:55:52,700
-We need to reach the headquarters as fast
-as we can.
+232
+00:27:30,683 --> 00:27:35,788
+Their weapons in Dokugaga
+Tear it to tatters
 
-584
-00:55:53,820 --> 00:55:54,460
-Copy, Doc.
+233
+00:27:37,323 --> 00:27:39,358
+Leave it to me, your highness.
 
-585
-00:55:56,940 --> 00:55:57,420
-Security!
+234
+00:27:48,167 --> 00:27:50,169
+Is this the beast fighter?
 
-586
-00:55:58,160 --> 00:55:59,540
-Back to CBF immediately!
+235
+00:27:50,269 --> 00:27:51,470
+Can you defeat it?
 
-587
-00:56:00,000 --> 00:56:00,380
-Next alert!
+236
+00:27:51,670 --> 00:27:53,272
+It's my first time fighting
 
-588
-00:56:11,290 --> 00:56:12,170
-Oh, my God!
+237
+00:27:53,439 --> 00:27:56,642
+It's okay, you've been training, haven't you?
 
-589
-00:56:12,830 --> 00:56:13,570
+238
+00:27:56,709 --> 00:27:57,376
+jamie
+
+239
+00:27:57,476 --> 00:28:02,481
+Little John didn't
+I'm scared of my mom if something happens.
+
+240
+00:28:02,615 --> 00:28:04,316
+I don't have to worry about it
+
+241
+00:28:04,550 --> 00:28:05,718
+Believe me bro
+
+242
+00:28:05,851 --> 00:28:07,319
+Be brave
+
+243
+00:28:07,787 --> 00:28:12,058
+The fate of the earth is at stake
+I'll definitely win
+
+244
+00:28:12,558 --> 00:28:13,559
+Nice?
+
+245
+00:28:14,193 --> 00:28:15,327
+roger that!
+
+246
+00:29:22,094 --> 00:29:24,730
+Draco is annoyed
+
+247
+00:29:25,297 --> 00:29:26,732
+Defeat it now
+
+248
+00:29:27,700 --> 00:29:29,435
+Immediately Your Highness
+
+249
+00:29:44,383 --> 00:29:45,384
+big bert
+
+250
+00:29:59,331 --> 00:30:00,132
+big bert
+
+251
+00:30:00,766 --> 00:30:02,902
+Alert to biological signals Are you okay?
+
+252
+00:30:03,002 --> 00:30:04,003
+It's okay
+
+253
+00:30:22,321 --> 00:30:24,657
+It was so intense right now
+
+254
+00:30:27,693 --> 00:30:29,495
+No abnormalities in all members
+
+255
+00:30:30,029 --> 00:30:32,498
+Little John, are you okay?
+
+256
+00:30:32,698 --> 00:30:35,434
+Just a little dizzy
+
+257
+00:30:40,673 --> 00:30:43,209
+Let's get it back
+
+258
+00:30:43,709 --> 00:30:47,146
+What are the recommended weapons?
+It's a chain knuckle.
+
+259
+00:30:47,346 --> 00:30:48,314
+Understood
+
+260
+00:30:50,149 --> 00:30:52,017
+Chain knuckle!
+
+261
+00:31:05,531 --> 00:31:06,298
+Brother
+
+262
+00:31:07,366 --> 00:31:09,902
+Super electromagnetic string and top
+
+263
+00:31:10,369 --> 00:31:12,171
+Is Mark good at it?
+
+264
+00:31:12,304 --> 00:31:13,305
+leave it to me
+
+265
+00:31:13,706 --> 00:31:16,208
+super electromagnetic string
+
+266
+00:31:25,985 --> 00:31:28,354
+And super electromagnetic sesame
+
+267
+00:31:49,008 --> 00:31:49,908
+Yay!
+
+268
+00:31:50,075 --> 00:31:51,577
+It's perfect
+
+269
+00:31:52,278 --> 00:31:53,078
+Nice
+
+270
+00:31:54,613 --> 00:31:55,614
+Why?
+
+271
+00:31:58,450 --> 00:32:02,087
+it looks like we're at a disadvantage
+
+272
+00:32:02,187 --> 00:32:03,589
+Shut up Zulu
+
+273
+00:32:04,056 --> 00:32:04,957
+Look
+
+274
+00:32:12,765 --> 00:32:14,300
+It's the end
+
+275
+00:32:15,200 --> 00:32:16,635
+Sky sword...
+
+276
+00:32:18,437 --> 00:32:21,640
+Sky sword!
+
+277
+00:34:18,323 --> 00:34:19,091
+Okay!
+
+278
+00:34:21,393 --> 00:34:22,261
+I did it
+
+279
+00:34:25,764 --> 00:34:30,102
+I can't believe it
+I can't believe Dokugaga loses
+
+280
+00:34:30,836 --> 00:34:31,937
+His Highness
+
+281
+00:34:42,281 --> 00:34:44,616
+It's a wonderful weapon
+
+282
+00:34:47,119 --> 00:34:49,788
+Earth wins today
+
+283
+00:34:50,622 --> 00:34:53,125
+But the battle isn't over
+
+284
+00:34:53,625 --> 00:34:58,797
+My Boazan Empire is
+It can't be beat by any planet.
+
+285
+00:36:03,128 --> 00:36:03,996
+commander
+
+286
+00:36:06,031 --> 00:36:08,634
+Team Voltes V
+I'm back
+
+287
+00:36:10,502 --> 00:36:11,703
+Welcome back
+
+288
+00:36:12,838 --> 00:36:14,273
+Mission completed
+
+289
+00:36:20,212 --> 00:36:22,948
+Well done
+Team Voltes V
+
+290
+00:36:23,282 --> 00:36:25,117
+I'm proud of you.
+
+291
+00:36:25,551 --> 00:36:27,986
+Parents are waiting for a hug
+
+292
+00:36:28,320 --> 00:36:29,187
+easily
+
+293
+00:36:45,470 --> 00:36:47,239
+Well done
+
+294
+00:36:48,907 --> 00:36:50,409
+It's a big deal
+
+295
+00:36:52,244 --> 00:36:54,146
+thank you dad
+
+296
+00:36:58,817 --> 00:37:01,219
+I think my father would be happy too.
+
+297
+00:37:01,920 --> 00:37:04,556
+You did your best. I was surprised.
+
+298
+00:37:04,823 --> 00:37:06,325
+Thank you
+
+299
+00:37:10,395 --> 00:37:11,597
+It was amazing
+
+300
+00:37:16,268 --> 00:37:17,269
+mark
+
+301
+00:37:26,678 --> 00:37:30,382
+You did a good job. I'm proud of you.
+
+302
+00:37:46,965 --> 00:37:48,133
+His Majesty
+
+303
+00:37:48,967 --> 00:37:50,102
+Zardos
+
+304
+00:37:50,202 --> 00:37:53,038
+Earth invasion
 What's going on?
 
-590
-00:56:55,460 --> 00:56:55,940
-All right!
+305
+00:37:53,772 --> 00:37:57,042
+Have you got it already?
 
-591
-00:56:57,380 --> 00:56:59,240
-Destroy everything that attacks us!
+306
+00:37:58,110 --> 00:38:01,446
+I'm sorry
+failed
 
-592
-00:57:36,370 --> 00:57:37,770
-Protect Camp Atolcos!
+307
+00:38:02,147 --> 00:38:03,382
+A powerful weapon...
 
-593
-00:57:38,270 --> 00:57:38,850
-Team, attack!
+308
+00:38:03,482 --> 00:38:04,549
+In other words-
 
-594
-00:57:54,980 --> 00:57:55,960
-Evade and maneuver!
+309
+00:38:06,284 --> 00:38:09,321
+Was your unit defeated?
 
-595
-00:58:09,870 --> 00:58:10,490
+310
+00:38:15,293 --> 00:38:17,896
+I thought you were strong
+
+311
+00:38:18,296 --> 00:38:23,435
+He became a hero by killing his father.
+I was thinking
+
+312
+00:38:27,172 --> 00:38:30,442
+Can you face it?
+
+313
+00:38:31,576 --> 00:38:35,447
+i worship you
+To the people of Boazin
+
+314
+00:38:39,184 --> 00:38:41,920
+Where did that dignity go?
+
+315
+00:38:42,421 --> 00:38:44,156
+What is your intelligence?
+
+316
+00:38:44,923 --> 00:38:47,626
+And what about courage?
+
+317
+00:38:51,163 --> 00:38:52,964
+Why did you lose?
+
+318
+00:38:54,599 --> 00:38:56,334
+Please forgive me Your Majesty
+
+319
+00:38:57,669 --> 00:38:59,504
+I swear here
+
+320
+00:39:00,138 --> 00:39:05,811
+until we conquer the earth
+I have to go back to Voisin.
+
+321
+00:39:06,044 --> 00:39:06,812
+I see
+
+322
+00:39:07,879 --> 00:39:12,384
+until you get credit
+I'm not allowed to go back
+
+323
+00:39:14,553 --> 00:39:16,788
+don't embarrass me
+
+324
+00:39:16,988 --> 00:39:22,694
+Like your father Hrothgar
+Don't show your shame
+
+325
+00:39:22,794 --> 00:39:27,999
+Manet humiliates the Boazin Empire.
+Never do it
+
+326
+00:40:09,508 --> 00:40:10,609
+mother
+
+327
+00:40:11,610 --> 00:40:15,013
+we understand
+
+328
+00:40:16,381 --> 00:40:18,016
+You were worried.
+
+329
+00:40:18,950 --> 00:40:20,852
+especially little john
+
+330
+00:40:21,787 --> 00:40:23,455
+All three of you
+
+331
+00:40:24,222 --> 00:40:26,057
+If I lose...
+
+332
+00:40:26,558 --> 00:40:29,795
+all three at once
+will lose
+
+333
+00:40:30,195 --> 00:40:33,431
+But it didn't happen
+
+334
+00:40:33,932 --> 00:40:34,966
+mother
+
+335
+00:40:35,634 --> 00:40:36,802
+believe it
+
+336
+00:40:38,136 --> 00:40:41,039
+We also believe in our father.
+
+337
+00:40:41,473 --> 00:40:42,941
+Dr. Smith too
+
+338
+00:40:43,975 --> 00:40:47,312
+That's why you can fight with Voltes V.
+
+339
+00:40:47,612 --> 00:40:51,316
+My mother believes in me
+Because it was made
+
+340
+00:40:52,417 --> 00:40:53,785
+That's right
+
+341
+00:40:54,753 --> 00:40:59,224
+What I made with my dad
+I have to believe
+
+342
+00:41:00,258 --> 00:41:02,727
+And my sons too.
+
+343
+00:41:03,128 --> 00:41:08,333
+the earth needs it
+I have to fight too
+
+344
+00:41:08,667 --> 00:41:11,636
+we are a gift to the earth
+
+345
+00:41:15,507 --> 00:41:17,976
+be very careful
+
+346
+00:41:18,677 --> 00:41:21,646
+So that something sad doesn't happen
+
+347
+00:41:21,947 --> 00:41:23,315
+promise
+
+348
+00:41:38,597 --> 00:41:44,035
+I didn't expect it to be us.
+To be defeated by earthlings
+
+349
+00:41:44,135 --> 00:41:45,203
+Don't worry
+
+350
+00:41:45,370 --> 00:41:48,840
+Research on Voltes V
+has started
+
+351
+00:41:54,946 --> 00:41:55,780
+draco
+
+352
+00:41:57,349 --> 00:41:58,617
+What do you think?
+
+353
+00:41:59,985 --> 00:42:05,123
+Earthlings have Voltes V
+The technology to make
+
+354
+00:42:05,223 --> 00:42:08,193
+How did you get it?
+
+355
+00:42:11,129 --> 00:42:12,330
+Certainly
+
+356
+00:42:13,064 --> 00:42:15,333
+Is this a technology that doesn't exist on Earth?
+
+357
+00:42:24,476 --> 00:42:29,180
+Where do Earthlings get their weapons?
+Are you hiding it?
+
+358
+00:42:32,384 --> 00:42:34,819
+That's Zulu's responsibility.
+
+359
+00:42:36,087 --> 00:42:38,256
+Let's wait for the report
+
+360
+00:42:38,490 --> 00:42:43,428
+why do you give me everything
+to force it
+
+361
+00:42:43,561 --> 00:42:44,562
+Zuul
+
+362
+00:42:45,096 --> 00:42:46,531
+Get started
+
+363
+00:42:46,598 --> 00:42:48,867
+As you say, Your Highness
+
+364
+00:43:00,445 --> 00:43:01,880
+why is it dark?
+
+365
+00:43:02,948 --> 00:43:05,450
+Surprise!
+
+366
+00:43:07,452 --> 00:43:10,055
+Mom's birthday is tomorrow
+
+367
+00:43:10,121 --> 00:43:13,725
+It's fashionable today
+I also have earrings
+
+368
+00:43:13,792 --> 00:43:18,430
+If I do the same thing tomorrow
+It won't be a surprise
+
+369
+00:43:19,264 --> 00:43:22,867
+It's a real surprise
+put out the candle
+
+370
+00:43:26,037 --> 00:43:28,239
+1 2 Make a wish
+
+371
+00:43:28,573 --> 00:43:29,474
+Okay?
+
+372
+00:43:29,607 --> 00:43:31,076
+say it then delete it
+
+373
+00:43:31,242 --> 00:43:33,812
+Let's all erase it
+
+374
+00:43:34,079 --> 00:43:38,049
+share your birthday luck
+as a wish
+
+375
+00:43:40,618 --> 00:43:42,954
+1 2 3
+
+376
+00:43:46,091 --> 00:43:47,625
+What did you wish for?
+
+377
+00:43:48,059 --> 00:43:51,930
+about myself
+There's nothing in particular...
+
+378
+00:43:52,163 --> 00:43:54,733
+I prayed for everyone's safety.
+
+379
+00:43:55,100 --> 00:43:58,236
+And everyone's wishes
+May it come true
+
+380
+00:43:58,436 --> 00:44:01,906
+As I always say
+be healthy and brave
+
+381
+00:44:02,007 --> 00:44:03,475
+safely
+
+382
+00:44:07,979 --> 00:44:13,685
+my wish is steve
+It's Jamie's wedding.
+
+383
+00:44:13,918 --> 00:44:15,620
+That's my wish too
+
+384
+00:44:15,687 --> 00:44:18,189
+Do you like Jamie?
+
+385
+00:44:18,823 --> 00:44:23,828
+It's fake news
+Because you can't believe it
+
+386
+00:44:23,928 --> 00:44:26,297
+How dare you fool my mother?
+
+387
+00:44:28,033 --> 00:44:31,603
+Because I already understand
+don't fight
+
+388
+00:44:32,037 --> 00:44:35,707
+steve
+don't hurt my brothers
+
+389
+00:44:36,875 --> 00:44:40,478
+you too
+Don't make fun of me
+
+390
+00:44:40,678 --> 00:44:43,948
+Shall we eat then?
+
+391
+00:44:44,182 --> 00:44:46,017
+Come on, hurry up
+
+392
+00:44:48,453 --> 00:44:51,056
+1 2 3 Charge!
+
+393
+00:44:51,723 --> 00:44:53,658
+Big Bart is...
+
+394
+00:44:53,725 --> 00:44:55,160
+Half?
+
+395
+00:44:55,326 --> 00:44:56,294
+What about me?
+
+396
+00:44:56,494 --> 00:44:57,695
+Leave it to me
+
+397
+00:45:01,633 --> 00:45:02,734
+Zuul
+
+398
+00:45:03,368 --> 00:45:08,406
+Where is Voltes V?
+Still can't find it?
+
+399
+00:45:09,307 --> 00:45:10,408
 What?
 
-596
-00:58:10,730 --> 00:58:12,470
-Are we going to lose to him?
+400
+00:45:10,542 --> 00:45:13,711
+Your Highness, let me show you.
 
-597
-00:58:12,950 --> 00:58:13,670
-Leave it to me.
+401
+00:45:15,580 --> 00:45:17,248
+I detected it.
 
-598
-00:58:19,640 --> 00:58:20,860
-Bomber in!
+402
+00:45:18,049 --> 00:45:21,219
+Strong waves from this island
 
-599
-00:58:45,420 --> 00:58:47,580
-We need to help the Baltis team.
+403
+00:45:21,319 --> 00:45:25,523
+There's a strange smell
+I feel tingly
 
-600
-00:58:48,160 --> 00:58:48,660
-I agree.
+404
+00:45:25,757 --> 00:45:28,927
+this is the earth
+Must be a secret base
 
-601
-00:58:49,320 --> 00:58:52,380
-Chief, arm Hawk missiles.
+405
+00:45:33,531 --> 00:45:34,766
+Here-
 
-602
-00:58:53,640 --> 00:58:54,260
-On!
+406
+00:45:35,400 --> 00:45:37,669
+Is there a Voltes V?
 
-603
-00:58:54,700 --> 00:58:55,680
-On my signal.
+407
+00:45:43,608 --> 00:45:45,910
+Earthlings are smart
 
-604
-00:59:06,810 --> 00:59:07,810
-Engage, full attack!
+408
+00:45:46,444 --> 00:45:49,614
+Setting up a base on an island
 
-605
-00:59:11,520 --> 00:59:12,200
-Load!
+409
+00:45:49,714 --> 00:45:52,851
+but we found
 
-606
-00:59:12,760 --> 00:59:13,500
-Missiles away!
+410
+00:45:53,017 --> 00:45:55,553
+ready to attack
 
-607
-00:59:27,470 --> 00:59:28,030
-Finish him!
+411
+00:45:55,954 --> 00:45:58,189
+Please give me your orders
 
-608
-00:59:29,090 --> 00:59:30,750
-Next alert!
+412
+00:46:01,693 --> 00:46:03,595
+What about Beast Fighter?
 
-609
-00:59:42,060 --> 00:59:42,740
-Doctor!
+413
+00:46:03,895 --> 00:46:05,530
+You can get out
 
-610
-00:59:43,340 --> 00:59:45,040
-Tactical detects enemy approaching!
+414
+00:46:07,198 --> 00:46:09,033
+What happened to that?
 
-611
-00:59:52,510 --> 00:59:54,850
-What on earth is that?
+415
+00:46:09,267 --> 00:46:10,468
+general
 
-612
-01:00:17,560 --> 01:00:19,200
-Oh, that's creepy.
+416
+00:46:12,470 --> 00:46:16,207
+new strength
+Let me introduce you
 
-613
-01:00:20,700 --> 01:00:21,500
+417
+00:46:19,310 --> 00:46:21,112
+This is Baisanga
+
+418
+00:46:21,813 --> 00:46:26,117
+Defeat Voltes V
+Will it be useful for the Earth invasion?
+
+419
+00:46:27,152 --> 00:46:28,253
+Baisanga
+
+420
+00:46:31,256 --> 00:46:33,591
+I'm glad to meet you
+
+421
+00:46:42,800 --> 00:46:48,239
+You are from the Voazin invasion.
+To protect the earth
+
+422
+00:46:48,506 --> 00:46:50,575
+It was chosen.
+
+423
+00:46:52,777 --> 00:46:55,013
+Are you ready?
+
+424
+00:46:55,480 --> 00:46:56,848
+yes doctor
+
+425
+00:47:00,518 --> 00:47:02,086
+voltes V team
+
+426
+00:47:03,855 --> 00:47:08,193
+Possessing extraordinary skills and abilities
+
+427
+00:47:09,127 --> 00:47:11,529
+carrying one's fate
+
+428
+00:47:11,763 --> 00:47:15,200
+for the people of earth
+You guys-
+
+429
+00:47:16,201 --> 00:47:18,536
+It's the last stronghold
+
+430
+00:47:21,539 --> 00:47:22,674
+I'll ask you
+
+431
+00:47:26,544 --> 00:47:27,845
+We are-
+
+432
+00:47:29,013 --> 00:47:34,719
+Take on the most difficult battles
+Aim for military strength level
+
+433
+00:47:39,457 --> 00:47:42,727
+Anything else is not acceptable
+
+434
+00:47:46,798 --> 00:47:50,335
+So today, from now on...
+
+435
+00:47:50,735 --> 00:47:55,306
+This is an important test for you.
+get involved
+
+436
+00:47:57,375 --> 00:48:03,014
+Voltes V team
+Virtual Boazan Empire Army
+
+437
+00:48:03,381 --> 00:48:08,753
+The base side responds to that attack.
+counterattack
+
+438
+00:48:09,754 --> 00:48:12,090
+use live ammunition
+
+439
+00:48:13,391 --> 00:48:15,426
+safety protocols are off
+
+440
+00:48:17,595 --> 00:48:20,665
+During training, Voltes V and the base...
+
+441
+00:48:22,000 --> 00:48:24,836
+Test your defensive strategy ability
+
+442
+00:48:25,603 --> 00:48:27,038
+Any questions?
+
+443
+00:48:27,105 --> 00:48:30,942
+Without safety protocols
+Also shot down?
+
+444
+00:48:31,209 --> 00:48:32,844
+Uses live bullets
+
+445
+00:48:33,211 --> 00:48:35,179
+It ends with a bang.
+
+446
+00:48:35,747 --> 00:48:36,848
+Gentlemen
+
+447
+00:48:37,515 --> 00:48:40,618
+from Voisin
+When attacked-
+
+448
+00:48:41,185 --> 00:48:44,455
+This training will definitely help
+
+449
+00:48:45,290 --> 00:48:47,525
+So everyone-
+
+450
+00:48:48,593 --> 00:48:49,927
+Go all out
+
+451
+00:48:50,261 --> 00:48:51,562
+Of course
+
+452
+00:48:52,563 --> 00:48:53,865
+With all my might
+
+453
+00:48:55,400 --> 00:48:56,234
+Total members
+
+454
+00:48:56,601 --> 00:48:58,536
+Prepare for implementation training
+
+455
+00:48:58,770 --> 00:49:00,238
+according to the arrangement
+
+456
+00:49:00,638 --> 00:49:01,639
+Let's do it
+
+457
+00:49:05,143 --> 00:49:06,044
+wait
+
+458
+00:49:06,477 --> 00:49:08,479
+It's not just training
+
+459
+00:49:08,646 --> 00:49:09,881
+So?
+
+460
+00:49:10,048 --> 00:49:14,218
+The results of the training so far
+All you have to do is show it
+
+461
+00:49:14,485 --> 00:49:16,554
+I haven't received it
+
+462
+00:49:16,821 --> 00:49:18,456
+we can do it
+
+463
+00:49:18,656 --> 00:49:23,061
+I defeated an enemy once.
+There's nothing to be afraid of
+
+464
+00:49:23,261 --> 00:49:24,796
+mother's words
+
+465
+00:49:24,996 --> 00:49:27,332
+Be healthy and brave
+
+466
+00:49:27,665 --> 00:49:30,068
+Be healthy and brave
+
+467
+00:49:59,097 --> 00:50:00,698
+I understand.
+
+468
+00:50:01,099 --> 00:50:02,300
+The battle has begun
+
+469
+00:50:03,034 --> 00:50:04,035
+Understood
+
+470
+00:50:09,640 --> 00:50:11,609
+It's a delta attack.
+
+471
+00:50:15,546 --> 00:50:17,715
+It's coming. Be careful.
+
+472
+00:50:30,461 --> 00:50:32,864
+Little John, concentrate.
+
+473
+00:50:40,338 --> 00:50:42,140
+start a counterattack
+
+474
+00:50:47,512 --> 00:50:48,880
+Good
+
+475
+00:50:49,347 --> 00:50:52,049
+Did you think you could outsmart us?
+
+476
+00:50:53,551 --> 00:50:55,219
+try next
+
+477
+00:50:55,420 --> 00:50:58,756
+falcon missile
+Shoot it
+
+478
+00:51:10,835 --> 00:51:12,670
+sky rocket
+
+479
+00:51:16,207 --> 00:51:20,878
+The source of powerful waves is
+It was here after all
+
+480
+00:51:21,012 --> 00:51:22,246
+Prince Zardos
+
+481
+00:51:29,720 --> 00:51:33,624
+General Draco, start the attack.
+
+482
+00:51:37,895 --> 00:51:44,902
+Baisanga
+
+483
+00:51:52,743 --> 00:51:55,646
+Okay, who attacked the base?
+
+484
+00:51:56,647 --> 00:51:57,715
+It's not me
+
+485
+00:51:58,115 --> 00:51:59,150
+No, that's not true.
+
+486
+00:51:59,317 --> 00:52:00,751
+Not me either
+
+487
+00:52:01,152 --> 00:52:03,454
+So who did it?
+
+488
+00:52:03,788 --> 00:52:04,889
+Wait
+
+489
+00:52:06,491 --> 00:52:08,159
+not them
+
+490
+00:52:13,664 --> 00:52:15,833
+Confirm Boazin's attack
+
+491
+00:52:15,967 --> 00:52:17,468
+Have you come back?
+
+492
+00:52:31,516 --> 00:52:33,184
+Get ready for battle
+
+493
+00:52:33,351 --> 00:52:36,954
+initiate defense protocols
+
+494
+00:52:42,693 --> 00:52:44,462
+Tactical report ready
+
+495
+00:52:44,595 --> 00:52:46,130
+Aircraft management ready
+
+496
+00:52:46,197 --> 00:52:48,533
+Life support management ready
+
+497
+00:53:02,813 --> 00:53:04,215
+It's a beast fighter.
+
+498
+00:53:06,617 --> 00:53:09,820
+Everyone, it's a real battle.
+
+499
+00:53:10,388 --> 00:53:11,289
+Let's go
+
+500
+00:53:16,794 --> 00:53:21,465
+Don't let it get close to the base
+I'll beat you this time too
+
+501
+00:53:21,666 --> 00:53:22,867
+Understood
+
+502
+00:53:24,168 --> 00:53:27,138
+I'll leave this to you
+I'm going to the Earth Defense Headquarters
+
+503
+00:53:27,204 --> 00:53:28,239
+Hurry up
+
+504
+00:53:28,372 --> 00:53:31,242
+If I come out, put up a barrier.
+
+505
+00:53:31,375 --> 00:53:32,677
+I understand
+
+506
+00:53:36,013 --> 00:53:37,882
+crow boomerang
+
+507
+00:53:41,752 --> 00:53:43,754
+bomber missile
+
+508
+00:53:45,056 --> 00:53:47,091
+panzer missile
+
+509
+00:53:47,224 --> 00:53:49,160
+lander missile
+
+510
+00:53:49,260 --> 00:53:51,429
+frigate missile
+
+511
+00:53:58,869 --> 00:53:59,670
+It's coming
+
+512
+00:54:00,938 --> 00:54:01,939
+Mark to the left!
+
+513
+00:54:10,615 --> 00:54:12,450
+You bossy buffalo
+
+514
+00:54:15,119 --> 00:54:18,089
+Still standing. No effect?
+
+515
+00:54:18,289 --> 00:54:20,791
+Isn't it a missile?
+
+516
+00:54:21,292 --> 00:54:25,029
+It's scary. It's a pretty tough opponent.
+
+517
+00:54:30,801 --> 00:54:33,404
+The commander's helicopter has taken off.
+
+518
+00:54:36,040 --> 00:54:37,742
+Barrier deployment
+
+519
+00:54:48,319 --> 00:54:49,787
+I can't believe it
+
+520
+00:54:50,421 --> 00:54:55,493
+Even after receiving so much attack
+That it can't cause damage
+
+521
+00:55:04,769 --> 00:55:07,071
+Commander, what's going on?
+
+522
+00:55:07,338 --> 00:55:09,173
+Marianne I can't hear you.
+
+523
+00:55:09,907 --> 00:55:12,643
+i left the island
+
+524
+00:55:12,810 --> 00:55:16,313
+commander robinson
+Can you hear me?
+
+525
+00:55:16,614 --> 00:55:17,682
+hello?
+
+526
+00:55:20,818 --> 00:55:22,186
+connect to the island
+
+527
+00:55:22,319 --> 00:55:23,287
+yes
+
+528
+00:55:24,755 --> 00:55:26,023
 What is it?
 
+529
+00:55:26,424 --> 00:55:28,159
+What about Marianne?
+
+530
+00:55:29,126 --> 00:55:33,931
+I got a call, but I couldn't talk.
+You must be worried
+
+531
+00:55:34,165 --> 00:55:35,166
+Sergeant major
+
+532
+00:55:36,333 --> 00:55:36,934
+yes
+
+533
+00:55:37,501 --> 00:55:40,004
+Find Dr. Armstrong
+
+534
+00:55:40,171 --> 00:55:41,272
+I understand
+
+535
+00:55:49,613 --> 00:55:53,217
+as soon as possible
+I want to reach the base
+
+536
+00:55:53,784 --> 00:55:55,052
+I understand
+
+537
+00:55:56,887 --> 00:55:59,690
+Security team, hurry to the base.
+
+538
+00:55:59,857 --> 00:56:01,292
+Don't let your guard down
+
+539
+00:56:11,535 --> 00:56:14,171
+What the hell is going on?
+
+540
+00:56:55,613 --> 00:56:56,680
+Keep going
+
+541
+00:56:57,281 --> 00:56:59,784
+annihilate the enemy
+
+542
+00:57:09,293 --> 00:57:10,261
+Dangerous!
+
+543
+00:57:36,387 --> 00:57:39,156
+Defend the base at all costs
+
+544
+00:57:54,004 --> 00:57:56,340
+An attack is coming, avoid it
+
+545
+00:58:10,120 --> 00:58:12,857
+Can you just keep quiet?
+
+546
+00:58:13,023 --> 00:58:14,258
+Leave it to me
+
+547
+00:58:19,530 --> 00:58:21,332
+bomber ring
+
+548
+00:58:45,956 --> 00:58:47,825
+I need help
+
+549
+00:58:47,892 --> 00:58:48,993
+Got it
+
+550
+00:58:49,159 --> 00:58:50,060
+chief
+
+551
+00:58:50,694 --> 00:58:52,663
+hawk missile
+
+552
+00:58:53,831 --> 00:58:54,798
+Ready
+
+553
+00:58:54,899 --> 00:58:56,300
+wait for the signal
+
+554
+00:59:06,644 --> 00:59:08,145
+It's an all-out attack
+
+555
+00:59:11,682 --> 00:59:12,549
+Shoot!
+
+556
+00:59:12,716 --> 00:59:13,651
+missile launch
+
+557
+00:59:27,097 --> 00:59:28,399
+end it
+
+558
+00:59:29,033 --> 00:59:30,100
+Let’s…
+
+559
+00:59:30,267 --> 00:59:31,101
+Bolt...
+
+560
+00:59:31,402 --> 00:59:32,603
+In!
+
+561
+00:59:42,279 --> 00:59:45,382
+Doctor, the enemy is approaching.
+
+562
+00:59:52,690 --> 00:59:55,359
+What on earth is that?
+
+563
+01:00:18,248 --> 01:00:19,950
+That's creepy
+
+564
+01:00:20,751 --> 01:00:21,719
+What is it?
+
+565
+01:00:23,220 --> 01:00:24,621
+It's a skull
+
+566
+01:00:29,626 --> 01:00:31,495
+Is it a symbol of death?
+
+567
+01:00:32,663 --> 01:00:36,333
+came to intimidate us
+It's psychological warfare.
+
+568
+01:00:37,267 --> 01:00:40,237
+Or another
+Beast fighter?
+
+569
+01:00:40,671 --> 01:00:45,109
+that the barrier will not be broken
+I just hope
+
+570
+01:00:55,819 --> 01:00:57,654
+This is where the real thing begins.
+
+571
+01:01:04,361 --> 01:01:05,596
+Let's go
+
+572
+01:01:11,535 --> 01:01:12,636
+come here
+
+573
+01:01:14,872 --> 01:01:16,774
+It really looks like a bull
+
+574
+01:01:18,275 --> 01:01:19,443
+Be prepared for shock
+
+575
+01:01:40,230 --> 01:01:41,698
+The counterattack begins
+
+576
+01:02:13,530 --> 01:02:15,699
+Voltes Bazooka
+
+577
+01:02:37,621 --> 01:02:39,690
+Brother, it's good
+
+578
+01:02:51,468 --> 01:02:53,971
+Dr. Marianne?
+
+579
+01:02:54,138 --> 01:02:56,874
+It's dangerous to be here.
+
+580
+01:02:57,941 --> 01:02:59,810
+Evacuate! Hurry!
+
+581
+01:03:09,887 --> 01:03:13,090
+a barrier is put up
+can't go inside
+
+582
+01:03:16,226 --> 01:03:18,428
+What a pitiful creature
+
+583
+01:03:19,763 --> 01:03:22,566
+I can't even go back to base.
+
+584
+01:03:25,002 --> 01:03:29,339
+made by ourselves
+Because of the barrier
+
+585
+01:03:30,774 --> 01:03:34,678
+Those lower creatures
+Do you pity me?
+
+586
+01:03:35,445 --> 01:03:38,015
+contact Dr. Smith
+
+587
+01:03:38,348 --> 01:03:39,183
+That's right
+
+588
+01:03:40,484 --> 01:03:43,353
+Please, let's connect
+
+589
+01:03:48,825 --> 01:03:50,360
+Dr. Smith
+
+590
+01:03:50,460 --> 01:03:53,096
+Richard Hello?
+
+591
+01:03:57,034 --> 01:03:58,302
+general draco
+
+592
+01:04:01,138 --> 01:04:02,940
+Let's play
+
+593
+01:04:27,898 --> 01:04:30,234
+Now, can you escape?
+
+594
+01:04:36,373 --> 01:04:37,407
+Dangerous!
+
+595
+01:04:51,221 --> 01:04:52,356
+Captain?
+
+596
+01:04:54,091 --> 01:04:56,493
+I have to leave here
+
+597
+01:04:57,928 --> 01:04:59,029
+Captain?
+
+598
+01:05:02,232 --> 01:05:03,500
+That's a lie, right?
+
+599
+01:05:05,502 --> 01:05:06,937
+Captain!
+
+600
+01:05:12,776 --> 01:05:17,381
+There's still one toy left
+remains
+
+601
+01:05:17,614 --> 01:05:19,716
+Do you want to deal the final blow?
+
+602
+01:05:33,764 --> 01:05:36,533
+What is that doing?
+
+603
+01:05:37,601 --> 01:05:39,569
+You have courage
+
+604
+01:05:43,106 --> 01:05:45,208
+It's an interesting creature
+
+605
+01:06:07,631 --> 01:06:09,066
+throwing stones
+
+606
+01:06:12,469 --> 01:06:14,671
+You're a stupid idiot.
+
+607
+01:06:14,771 --> 01:06:17,174
+You are the one who dodged it.
+
+608
+01:06:24,581 --> 01:06:29,986
+That woman is the center of the Earth's military.
+I feel like I'm in charge
+
+609
+01:06:30,354 --> 01:06:32,089
+That's why you're brave
+
+610
+01:06:35,959 --> 01:06:37,828
+Let me die
+
+611
+01:07:25,075 --> 01:07:26,176
+voltes team
+
+612
+01:07:26,309 --> 01:07:30,580
+Defeat the beast fighter
+Go to defense of the base
+
+613
+01:07:30,747 --> 01:07:33,483
+from a new enemy
+under attack
+
 614
-01:00:23,000 --> 01:00:24,120
-It's a skull.
+01:07:33,817 --> 01:07:36,653
+Please return to base quickly.
 
 615
-01:00:29,600 --> 01:00:30,900
-A symbol of death.
+01:07:39,923 --> 01:07:42,325
+It's a diversionary tactic by the enemy.
 
 616
-01:00:32,500 --> 01:00:33,780
-A sign to intimidate.
+01:07:43,226 --> 01:07:44,728
+This is the aim
 
 617
-01:00:34,720 --> 01:00:35,620
-Psych warfare.
+01:07:45,195 --> 01:07:46,163
+steve
 
 618
-01:00:36,820 --> 01:00:39,140
-It might be another beast fighter.
+01:07:46,563 --> 01:07:47,564
+mother is injured
 
 619
-01:00:40,820 --> 01:00:44,540
-Whatever it is, hopefully he won't be able
-to penetrate the barrier of Camp Big Pac.
-
-620
-01:00:55,500 --> 01:00:57,200
-Now the real fun begins.
-
-621
-01:01:04,210 --> 01:01:04,870
-Let's fight!
-
-622
-01:01:11,400 --> 01:01:12,200
-Oh, Pasugod!
-
-623
-01:01:14,540 --> 01:01:15,240
-This one is a beast!
-
-624
-01:01:18,020 --> 01:01:19,060
-Brace for impact!
-
-625
-01:01:39,330 --> 01:01:41,150
-You think you're strong?
-
-626
-01:02:13,950 --> 01:02:15,030
-Baltis, bazooka!
-
-627
-01:02:37,320 --> 01:02:38,460
-Yes, chief!
-
-628
-01:02:51,100 --> 01:02:52,160
-Dr. Armstrong?
-
-629
-01:02:53,400 --> 01:02:54,700
-Marianne, Marianne!
-
-630
-01:02:55,520 --> 01:02:56,420
-It's dangerous here.
-
-631
-01:02:57,840 --> 01:02:58,500
-Let's move!
-
-632
-01:02:58,840 --> 01:02:59,040
-Move!
-
-633
-01:02:59,720 --> 01:02:59,920
-Move!
-
-634
-01:03:09,520 --> 01:03:11,540
-Oh no, the barrier is activated.
-
-635
-01:03:11,900 --> 01:03:12,560
-We won't be able to enter.
-
-636
-01:03:14,220 --> 01:03:15,060
-Hmm.
-
-637
-01:03:16,720 --> 01:03:17,100
-What a pity.
-
-638
-01:03:19,360 --> 01:03:21,780
-We won't be able to return to their nest.
-
-639
-01:03:24,640 --> 01:03:26,140
-Because of that.
-
-640
-01:03:26,720 --> 01:03:28,000
-They also made a mess.
-
-641
-01:03:30,420 --> 01:03:34,020
-Why are you pitying such a lowly creature?
-
-642
-01:03:35,160 --> 01:03:36,860
-Call Dr. Smith.
-
-643
-01:03:36,880 --> 01:03:37,620
-We're outside.
-
-644
-01:03:37,940 --> 01:03:38,780
-Right.
-
-645
-01:03:40,300 --> 01:03:41,780
-Please, don't be stupid.
-
-646
-01:03:41,940 --> 01:03:42,400
-Not now.
-
-647
-01:03:42,520 --> 01:03:42,880
-Please!
-
-648
-01:03:48,540 --> 01:03:49,580
-Dr. Smith!
-
-649
-01:03:50,160 --> 01:03:51,180
-Hello, Dr. Smith!
-
-650
-01:03:51,300 --> 01:03:51,520
-Richard!
-
-651
-01:03:52,160 --> 01:03:52,400
-Hello!
-
-652
-01:03:57,100 --> 01:03:57,740
-General Drak.
-
-653
-01:04:01,370 --> 01:04:02,370
-Play this one.
-
-654
-01:04:27,630 --> 01:04:29,510
-Let's see if you can still escape.
-
-655
-01:04:36,120 --> 01:04:36,840
-Marianne!
-
-656
-01:04:50,980 --> 01:04:51,920
-Master Chief!
-
-657
-01:04:53,800 --> 01:04:55,920
-Master Chief, we need to get out of here!
-
-658
-01:04:57,740 --> 01:04:58,720
-Master Chief!
-
-659
-01:05:02,350 --> 01:05:03,030
-Master Chief!
-
-660
-01:05:05,350 --> 01:05:06,450
-Master Chief!
-
-661
-01:05:12,590 --> 01:05:13,990
-Commander, look.
-
-662
-01:05:15,010 --> 01:05:16,690
-The game we're playing is still alive.
-
-663
-01:05:17,730 --> 01:05:19,170
-Do you want me to finish it?
-
-664
-01:05:30,670 --> 01:05:30,710
-No!
-
-665
-01:05:33,600 --> 01:05:34,570
-Wait a minute.
-
-666
-01:05:35,160 --> 01:05:36,410
-What is she doing?
-
-667
-01:05:37,310 --> 01:05:38,330
-This one is brave.
-
-668
-01:05:40,090 --> 01:05:41,910
-Ha ha ha ha ha ha!
-
-669
-01:05:43,050 --> 01:05:44,230
-This creature is crazy.
-
-670
-01:05:53,570 --> 01:05:54,750
-Ah!
-
-671
-01:06:00,760 --> 01:06:01,350
-Ah!
-
-672
-01:06:07,090 --> 01:06:08,630
-She threw us.
-
-673
-01:06:09,990 --> 01:06:10,090
-Ah!
-
-674
-01:06:12,890 --> 01:06:14,070
-You're crazy!
-
-675
-01:06:14,770 --> 01:06:15,250
-You're crazy.
-
-676
-01:06:16,370 --> 01:06:16,990
-You're crazy.
-
-677
-01:06:16,990 --> 01:06:20,170
-Ha ha ha ha ha ha!
-
-678
-01:06:21,530 --> 01:06:21,930
-Ah!
-
-679
-01:06:24,150 --> 01:06:25,670
-She has a strong body.
-
-680
-01:06:25,950 --> 01:06:29,130
-She has a strong duty to the forces of the
-terrorists.
-
-681
-01:06:29,990 --> 01:06:31,350
-That's why she's brave.
-
-682
-01:06:35,510 --> 01:06:37,390
-She needs to be killed.
-
-683
-01:07:24,860 --> 01:07:29,900
-All this team, you need to kill that beast
-fighter and proceed immediately to Camp
-
-684
-01:07:29,900 --> 01:07:30,340
-Big Falcon.
-
-685
-01:07:30,940 --> 01:07:32,920
-There's another alien entity threatening
-the camp.
-
-686
-01:07:33,940 --> 01:07:34,580
-We need you back.
-
-687
-01:07:35,270 --> 01:07:36,460
-We need you back in CDF.
-
-688
-01:07:39,630 --> 01:07:41,750
-You have fallen into the trap of the
-enemy.
-
-689
-01:07:43,350 --> 01:07:44,230
-You are under attack.
-
-690
-01:07:46,170 --> 01:07:47,170
-Your mother is hurt.
-
-691
-01:07:47,790 --> 01:07:47,950
-What?
-
-692
-01:07:49,250 --> 01:07:51,210
-My mother is hurt?
-
-693
-01:07:52,230 --> 01:07:53,590
-Brother, let's go back now.
-
-694
-01:07:53,590 --> 01:07:55,490
-How is my mother?
-
-695
-01:07:55,870 --> 01:07:56,450
-Is she critical?
-
-696
-01:07:58,830 --> 01:07:59,750
-We don't know.
-
-697
-01:08:00,450 --> 01:08:02,750
-She's outside the barrier and we can't
-lift the barrier.
-
-698
-01:08:03,790 --> 01:08:05,570
-The CBF will be compromised.
-
-699
-01:08:06,610 --> 01:08:07,330
-We need you here.
-
-700
-01:08:08,270 --> 01:08:08,610
-Roger.
-
-701
-01:08:18,710 --> 01:08:19,270
-Wait.
-
-702
-01:08:20,630 --> 01:08:21,550
-Where's the enemy?
-
-703
-01:08:21,830 --> 01:08:22,370
-He's scared.
-
-704
-01:08:22,570 --> 01:08:23,050
-He's hiding.
-
-705
-01:08:23,630 --> 01:08:26,070
-Let's go back to the camp.
-
-706
-01:08:26,190 --> 01:08:26,730
-No, no, no.
-
-707
-01:08:28,090 --> 01:08:28,970
-He's just hiding.
-
-708
-01:08:28,970 --> 01:08:33,110
-We need to find him so he won't bother us
-again.
-
-709
-01:08:33,370 --> 01:08:34,970
-But brother, what about my mother?
-
-710
-01:08:36,070 --> 01:08:37,650
-Brother, I'm just worried about my mother.
-
-711
-01:08:37,730 --> 01:08:38,830
-We need to find her.
-
-712
-01:08:39,370 --> 01:08:40,610
-Steve Bigbert is right, okay?
-
-713
-01:08:41,350 --> 01:08:43,270
-This is just part of the strategy of the
-beast fighter.
-
-714
-01:08:43,410 --> 01:08:43,750
-It will come out.
-
-715
-01:08:44,710 --> 01:08:46,790
-We're far stronger than this beast
-fighter.
-
-716
-01:08:47,830 --> 01:08:50,210
-Whatever his strategy is, we will defeat
-him.
-
-717
-01:08:51,350 --> 01:08:52,230
-Let's follow him.
-
-718
-01:08:52,550 --> 01:08:54,430
-We need to go back to the camp now.
-
-719
-01:09:10,890 --> 01:09:11,890
-Has Marianne been rescued?
-
-720
-01:09:13,950 --> 01:09:16,550
-Oscar, I'm going to try my best to rescue
-her.
-
-721
-01:09:16,830 --> 01:09:19,450
-I'm just waiting for the right opportunity
-to get her.
-
-722
-01:09:45,590 --> 01:09:48,370
-CBF command, we found Dr. Armstrong.
-
-723
-01:09:49,470 --> 01:09:50,390
-Retrieving her now.
-
-724
-01:09:56,220 --> 01:09:57,820
-We're going to look for the beast fighter.
-
-725
-01:09:58,440 --> 01:09:58,980
-Brother, don't.
-
-726
-01:09:59,860 --> 01:10:00,960
-My mother needs us.
-
-727
-01:10:02,020 --> 01:10:03,100
-Let's go back to the camp.
-
-728
-01:10:03,460 --> 01:10:05,380
-But brother, I don't want to.
-
-729
-01:10:05,720 --> 01:10:06,860
-Let's go back to our mother.
-
-730
-01:10:06,860 --> 01:10:08,560
-No, little John.
-
-731
-01:10:08,720 --> 01:10:10,180
-We need to find the beast fighter.
-
-732
-01:10:10,900 --> 01:10:14,260
-Because if we don't destroy him now,
-he will come back later.
-
-733
-01:10:14,480 --> 01:10:15,340
-But what about his mother?
-
-734
-01:10:15,560 --> 01:10:17,540
-Didn't she say that his right hand is not
-strong?
-
-735
-01:10:18,180 --> 01:10:20,140
-Don't you care what he's wearing now?
-
-736
-01:10:20,640 --> 01:10:21,660
-Maybe he's wearing something else.
-
-737
-01:10:22,020 --> 01:10:22,600
-Let's vault out.
-
-738
-01:10:23,060 --> 01:10:23,540
-Agreed.
-
-739
-01:10:23,820 --> 01:10:25,200
-We're preparing to vault out.
-
-740
-01:10:25,740 --> 01:10:28,900
-Bigbert, little John, listen to me.
-
-741
-01:10:30,380 --> 01:10:31,940
-We can't vault out now.
-
-742
-01:10:32,340 --> 01:10:36,160
-Because if we split up, we won't be able
-to secure the base.
-
-743
-01:10:36,860 --> 01:10:36,960
-Okay?
-
-744
-01:10:37,900 --> 01:10:39,440
-More lives could be at risk.
-
-745
-01:10:40,240 --> 01:10:44,870
-Our mission is to protect the whole world.
-
-746
-01:10:45,610 --> 01:10:45,750
+01:07:47,697 --> 01:07:48,432
 Huh?
 
+620
+01:07:49,266 --> 01:07:51,902
+Did your mother get hurt?
+
+621
+01:07:52,269 --> 01:07:54,538
+Brother, let's go back soon.
+
+622
+01:07:54,771 --> 01:07:57,340
+Is my mother in danger?
+
+623
+01:07:59,176 --> 01:08:03,413
+Because I'm outside the barrier
+I don't understand
+
+624
+01:08:03,613 --> 01:08:05,715
+I can't erase the barrier either
+
+625
+01:08:06,416 --> 01:08:07,751
+Please come back
+
+626
+01:08:08,118 --> 01:08:09,286
+Understood
+
+627
+01:08:18,962 --> 01:08:20,096
+wait
+
+628
+01:08:20,797 --> 01:08:21,798
+Who is the enemy?
+
+629
+01:08:21,965 --> 01:08:25,035
+I was scared and hid
+Let's go bro
+
+630
+01:08:25,135 --> 01:08:26,102
+to the base
+
+631
+01:08:26,203 --> 01:08:27,304
+No good
+
+632
+01:08:28,305 --> 01:08:29,806
+Hidden-
+
+633
+01:08:30,440 --> 01:08:33,109
+The moment my back is turned, I might be planning to attack you
+
+634
+01:08:33,210 --> 01:08:35,712
+But my mother is in danger.
+
+635
+01:08:36,112 --> 01:08:38,982
+I need to find it soon
+
+636
+01:08:39,082 --> 01:08:41,218
+Steve is right.
+
+637
+01:08:41,318 --> 01:08:44,588
+beast fighter
+I think it's a trap
+
+638
+01:08:44,788 --> 01:08:48,892
+That beast fighter
+Even if I am caught by surprise...
+
+639
+01:08:49,092 --> 01:08:50,494
+I can defeat it
+
+640
+01:08:51,094 --> 01:08:52,229
+let's leave it alone
+
+641
+01:08:52,629 --> 01:08:54,965
+I have to go back to base
+
+642
+01:09:10,814 --> 01:09:12,482
+What about Marianne?
+
+643
+01:09:13,183 --> 01:09:16,653
+to rescue
+trying my best
+
+644
+01:09:16,753 --> 01:09:20,156
+Now I have a chance
+I'm listening.
+
+645
+01:09:45,549 --> 01:09:48,985
+Discover Dr. Armstrong
+
+646
+01:09:49,452 --> 01:09:51,054
+rescue
+
+647
+01:09:56,459 --> 01:09:58,495
+Find the Beast Fighter
+
+648
+01:09:58,628 --> 01:09:59,796
+I don't like it
+
+649
+01:10:00,130 --> 01:10:03,300
+mom is waiting
+Let's go back to base
+
+650
+01:10:03,366 --> 01:10:07,537
+I want to go back too
+I want to see your mom.
+
+651
+01:10:07,637 --> 01:10:10,473
+Look for the beast fighter
+
+652
+01:10:10,674 --> 01:10:12,909
+I have to defeat it here
+
+653
+01:10:13,076 --> 01:10:14,344
+I'll come again
+
+654
+01:10:14,411 --> 01:10:15,579
+What about your mother?
+
+655
+01:10:15,712 --> 01:10:17,981
+Is it a serious condition?
+
+656
+01:10:18,181 --> 01:10:22,919
+Mom is in danger anyway.
+Let's bolt out
+
+657
+01:10:23,053 --> 01:10:25,188
+That's right, prepare to bolt out
+
+658
+01:10:25,589 --> 01:10:29,392
+Brothers, please listen to me first.
+
+659
+01:10:30,493 --> 01:10:34,364
+Don't bolt out
+If I undo the combination now...
+
+660
+01:10:34,497 --> 01:10:37,367
+You won't be able to save your base.
+
+661
+01:10:37,734 --> 01:10:39,502
+many lives lost
+
+662
+01:10:40,370 --> 01:10:43,673
+Abandoning the mission to protect the world...
+
+663
+01:10:43,773 --> 01:10:46,509
+Do you think your mother will be happy?
+
+664
+01:10:56,186 --> 01:10:57,120
+captain
+
+665
+01:10:57,621 --> 01:10:59,356
+Preparing for hologram transmission
+
+666
+01:10:59,456 --> 01:11:00,190
+yes
+
+667
+01:11:05,762 --> 01:11:08,732
+Communication by hologram
+
+668
+01:11:13,236 --> 01:11:15,905
+Dr. Smith, what's going on at the base?
+
+669
+01:11:16,640 --> 01:11:20,543
+No more attacks from skull ships
+I can't stand it
+
+670
+01:11:20,644 --> 01:11:22,979
+The pilot is also wiped out.
+
+671
+01:11:23,146 --> 01:11:28,118
+The barrier is broken
+it's probably a matter of time
+
+672
+01:11:28,418 --> 01:11:30,387
+send reinforcements
+
+673
+01:11:30,487 --> 01:11:32,322
+I'll be saved
+
+674
+01:11:37,060 --> 01:11:37,927
+captain
+
+675
+01:11:38,395 --> 01:11:39,963
+the world war situation
+
+676
+01:11:40,063 --> 01:11:41,064
+yes
+
+677
+01:11:44,668 --> 01:11:45,502
+How is your condition?
+
+678
+01:11:45,602 --> 01:11:47,904
+Looks like internal organs are damaged
+
+679
+01:11:47,971 --> 01:11:49,639
+Can you hear me?
+
+680
+01:11:49,806 --> 01:11:51,775
+What about the children?
+
+681
+01:11:52,275 --> 01:11:57,113
+don't worry
+come back to base soon
+
+682
+01:11:57,180 --> 01:11:58,915
+I will treat
+
+683
+01:11:59,015 --> 01:12:00,750
+Please hurry
+
+684
+01:12:32,549 --> 01:12:37,387
+After all, earthlings
+It doesn't seem like you're a match for me
+
+685
+01:12:37,687 --> 01:12:39,389
+Yes, Your Highness
+
+686
+01:12:39,622 --> 01:12:42,192
+Looks like I was too cautious
+
+687
+01:12:42,959 --> 01:12:44,060
+draco
+
+688
+01:12:45,195 --> 01:12:49,966
+I'll keep going like this
+you can enjoy watching it
+
+689
+01:12:53,069 --> 01:12:53,903
+treatment
+
+690
+01:12:54,037 --> 01:12:55,405
+let me sit on a chair
+
+691
+01:12:59,476 --> 01:13:00,844
+It's no good
+
+692
+01:13:01,544 --> 01:13:04,881
+Don't wake up yet
+
+693
+01:13:05,014 --> 01:13:07,517
+My kids back on base?
+
+694
+01:13:07,584 --> 01:13:08,384
+Not yet
+
+695
+01:13:08,518 --> 01:13:10,487
+I'm still fighting
+
+696
+01:13:11,888 --> 01:13:14,591
+Marianne, please stop.
+
+697
+01:13:14,691 --> 01:13:18,495
+I'm fine so let me go
+
+698
+01:13:18,595 --> 01:13:19,929
+It's impossible
+
+699
+01:13:20,096 --> 01:13:21,197
+lie down
+
+700
+01:13:21,331 --> 01:13:23,666
+Please let me go
+
+701
+01:13:24,534 --> 01:13:25,935
+listen
+
+702
+01:13:26,035 --> 01:13:27,871
+You're the one listening
+
+703
+01:13:28,605 --> 01:13:33,676
+even if you stop
+I have the right to leave
+
+704
+01:13:34,110 --> 01:13:36,546
+I'm going for the kids
+
+705
+01:13:49,292 --> 01:13:53,763
+On the skull ship
+Concentrate fire on me
+
+706
+01:13:53,930 --> 01:13:57,901
+distract the enemy
+Support Voltes V
+
+707
+01:14:18,822 --> 01:14:22,725
+Voltes V is in the way
+Can't aim at enemy
+
+708
+01:14:24,327 --> 01:14:26,095
+Do you want to attack?
+
+709
+01:14:26,329 --> 01:14:27,797
+wait for instructions
+
+710
+01:14:30,166 --> 01:14:32,268
+It depends on Voltes V.
+
+711
+01:14:33,736 --> 01:14:35,071
+I should do something
+
+712
+01:15:17,480 --> 01:15:19,482
+I have to get out
+
+713
+01:15:31,227 --> 01:15:34,898
+little john
+All power to thrusters
+
+714
+01:15:35,064 --> 01:15:36,132
+Got it
+
+715
+01:15:36,733 --> 01:15:40,236
+Transfer all power to thrusters
+
+716
+01:16:22,278 --> 01:16:24,847
+fighter jets are on their way
+
+717
+01:16:27,183 --> 01:16:31,521
+It must have been wiped out
+Who's on board?
+
+718
+01:16:33,056 --> 01:16:36,359
+connect me to the pilot
+
+719
+01:16:39,295 --> 01:16:41,698
+to fighter pilot
+
+720
+01:16:42,131 --> 01:16:46,135
+This is Big Falcon
+Affiliation and name
+
+721
+01:16:48,304 --> 01:16:51,441
+This is Dr. Armstrong.
+
+722
+01:16:57,914 --> 01:16:59,615
+Sorry Richard
+
+723
+01:17:00,049 --> 01:17:03,987
+It's to help my sons.
+
+724
+01:17:05,321 --> 01:17:08,057
+Marianne, what are you planning to do?
+
+725
+01:17:08,291 --> 01:17:09,726
+what's happening
+
+726
+01:17:10,093 --> 01:17:11,728
+Marianne...
+
+727
+01:17:15,765 --> 01:17:17,834
+Even if ordered...
+
+728
+01:17:17,967 --> 01:17:19,402
+won't return
+
+729
+01:17:19,635 --> 01:17:24,907
+Support Voltes V
+I have to save the children
+
+730
+01:17:25,074 --> 01:17:26,175
+pray
+
+731
+01:17:26,309 --> 01:17:28,644
+Go back, it's too dangerous
+
+732
+01:17:28,811 --> 01:17:32,015
+I can't leave it like this
+
+733
+01:17:32,348 --> 01:17:34,684
+I can't go back
+
+734
+01:17:35,184 --> 01:17:38,021
+It's impossible with that body
+
+735
+01:17:39,088 --> 01:17:42,025
+Don't underestimate the power of a mother
+
+736
+01:17:42,125 --> 01:17:44,861
+I can do anything to save my child.
+
+737
+01:17:47,296 --> 01:17:51,367
+I love you to my children.
+Please tell me
+
+738
+01:17:51,868 --> 01:17:57,373
+Let's work together no matter what
+Just get over it
+
+739
+01:17:57,807 --> 01:18:00,443
+Marianne, no.
+
+740
+01:18:01,711 --> 01:18:04,180
+Computer communication cut off
+
+741
+01:18:06,549 --> 01:18:09,318
+Communication has been cut off
+
+742
+01:18:09,652 --> 01:18:11,788
+Do you want to pilot it here?
+
+743
+01:18:11,988 --> 01:18:13,523
+can't do it
+
+744
+01:18:13,790 --> 01:18:19,495
+The base system is
+Her orders come first.
+
+745
+01:18:34,710 --> 01:18:36,746
+big bert
+Little John?
+
+746
+01:18:45,822 --> 01:18:47,490
+unbreakable
+
 747
-01:10:55,900 --> 01:10:58,820
-Captain, sir, activate hologram
-transmission.
+01:18:55,598 --> 01:18:58,034
+Bad base!
 
 748
-01:10:59,360 --> 01:10:59,680
-Aye, sir.
+01:19:10,913 --> 01:19:14,851
+Baisanga is
+I'll defeat Voltes V.
 
 749
-01:11:05,520 --> 01:11:07,960
-Sir, incoming hologram transmission.
+01:19:18,254 --> 01:19:23,392
+It's like I said
+It's almost over
 
 750
-01:11:13,320 --> 01:11:15,320
-Dr. Smith, what's happening in the camp?
+01:19:27,096 --> 01:19:28,631
+It's a fighter jet
 
 751
-01:11:16,800 --> 01:11:20,040
-Our defense missiles are going to match
-against the Skull Ship.
+01:19:28,798 --> 01:19:30,733
+Help has arrived
 
 752
-01:11:20,700 --> 01:11:22,220
-Jet fighters are all shut down.
+01:19:30,967 --> 01:19:32,468
+That's right
 
 753
-01:11:23,120 --> 01:11:24,280
-CBF is in danger.
+01:19:35,972 --> 01:19:38,875
+calm down and listen
 
 754
-01:11:25,480 --> 01:11:27,080
-Our force field barriers are about to be
-compromised.
+01:19:38,975 --> 01:19:41,911
+For fighter jets
+mom is riding
 
 755
-01:11:28,580 --> 01:11:30,200
-I'll see if I can send more
-reinforcements.
+01:19:42,211 --> 01:19:43,279
+No way
 
 756
-01:11:30,420 --> 01:11:31,320
-That would be a great help.
+01:19:45,047 --> 01:19:46,048
+Your mother?
 
 757
-01:11:31,600 --> 01:11:31,780
-Go!
+01:19:46,115 --> 01:19:48,584
+Is your mother driving?
 
 758
-01:11:37,080 --> 01:11:39,640
-Captain, sir, email Global Statute Report.
+01:19:59,996 --> 01:20:01,664
+let go of my sons
 
 759
-01:11:40,140 --> 01:11:40,640
-Copy, sir.
-
-760
-01:11:44,510 --> 01:11:45,340
-How's her condition?
-
-761
-01:11:45,590 --> 01:11:47,090
-Doc, it looks like she has internal
-injuries.
-
-762
-01:11:48,240 --> 01:11:49,400
-Marianne, can you hear me?
-
-763
-01:11:50,400 --> 01:11:51,270
-Yes, son.
-
-764
-01:11:52,220 --> 01:11:53,820
-Don't worry, everything will be okay.
-
-765
-01:11:54,200 --> 01:11:55,720
-They're on their way back to the base.
-
-766
-01:11:55,980 --> 01:11:56,180
-Okay?
-
-767
-01:11:56,560 --> 01:11:57,240
-It will be okay.
-
-768
-01:11:57,380 --> 01:11:58,380
-Doc, we have to hurry.
-
-769
-01:11:59,090 --> 01:12:00,430
-Go, go, go, go, go, go!
-
-770
-01:12:32,430 --> 01:12:37,030
-You didn't tell me that our fight against
-the Terra Air Force would be easy.
-
-771
-01:12:37,610 --> 01:12:39,050
-You're right, John Fred.
-
-772
-01:12:40,090 --> 01:12:41,430
-We prepared them too much.
-
-773
-01:12:43,110 --> 01:12:43,510
-Draco!
-
-774
-01:12:43,510 --> 01:12:43,590
-Doc!
-
-775
-01:12:44,490 --> 01:12:46,530
-Just keep doing what you're doing.
-
-776
-01:12:47,350 --> 01:12:49,670
-I'm happy watching you.
-
-777
-01:12:52,990 --> 01:12:53,550
-Doc!
-
-778
-01:12:54,070 --> 01:12:54,470
-Just share it.
-
-779
-01:12:59,410 --> 01:13:00,470
-Mrs. Armstrong?
-
-780
-01:13:01,390 --> 01:13:03,190
-No, don't get up yet.
-
-781
-01:13:03,430 --> 01:13:04,710
-Your condition is not yet stable.
-
-782
-01:13:04,890 --> 01:13:05,630
-Doc, what about my children?
-
-783
-01:13:06,290 --> 01:13:07,510
-Have they returned to the base?
-
-784
-01:13:07,670 --> 01:13:08,210
-Not yet.
-
-785
-01:13:08,570 --> 01:13:09,990
-They're still fighting until now.
-
-786
-01:13:12,130 --> 01:13:14,370
-Marianne, don't do that, please.
-
-787
-01:13:14,610 --> 01:13:15,550
-I can do it, Doc.
-
-788
-01:13:15,550 --> 01:13:16,890
-I can do it on my own.
-
-789
-01:13:17,170 --> 01:13:18,330
-Please let me go.
-
-790
-01:13:18,610 --> 01:13:19,770
-You can't do it yet.
-
-791
-01:13:19,910 --> 01:13:21,310
-You need to rest.
-
-792
-01:13:21,510 --> 01:13:23,130
-Please, please, please.
-
-793
-01:13:24,690 --> 01:13:25,890
-Marianne, listen.
-
-794
-01:13:26,170 --> 01:13:27,370
-No, you listen to me.
-
-795
-01:13:28,730 --> 01:13:32,450
-I have the authority to leave this medical
-bay even if you don't agree with my
-
-796
-01:13:32,450 --> 01:13:32,850
-decision.
-
-797
-01:13:34,150 --> 01:13:35,810
-I will leave for my children's sake.
-
-798
-01:13:49,330 --> 01:13:54,950
-Central Station, concentrate our missiles
-to the scout ship to distract them.
-
-799
-01:14:09,790 --> 01:14:10,470
-Yes, sir.
-
-800
-01:14:18,770 --> 01:14:20,210
-There's no clear shot of the beast
-fighter.
-
-801
-01:14:21,170 --> 01:14:22,210
-Maybe it was hit by a bolt.
-
-802
-01:14:24,330 --> 01:14:25,930
-Shall we send a tug to fire, sir?
-
-803
-01:14:26,270 --> 01:14:27,290
-Then hold on to my command.
-
-804
-01:14:30,360 --> 01:14:31,600
-It's up to bolt 5 now.
-
-805
-01:14:33,860 --> 01:14:34,480
-It's up to them.
-
-806
-01:14:59,820 --> 01:15:00,620
-Ah!
-
-807
-01:15:16,320 --> 01:15:19,180
-We have to get out of here.
-
-808
-01:15:30,910 --> 01:15:34,810
-Lieutenant John, divert all power reserves
-to thrusters now, please.
-
-809
-01:15:35,010 --> 01:15:35,550
-Working.
-
-810
-01:15:36,890 --> 01:15:39,580
-All power reserves to thrusters now.
-
-811
-01:16:07,920 --> 01:16:08,520
-Sir,
-
-812
-01:16:22,160 --> 01:16:24,580
-there's an aircraft flying towards the
-beast fighter.
-
-813
-01:16:26,860 --> 01:16:29,000
-I thought you said we don't have pilots.
-
-814
-01:16:29,740 --> 01:16:31,180
-Then who's flying that?
-
-815
-01:16:32,980 --> 01:16:35,720
-Chief, contact the pilot now.
-
-816
-01:16:39,400 --> 01:16:43,640
-On all stars, CBF fighter craft MR5R,
-this is Camp Big Falcon Command.
-
-817
-01:16:44,360 --> 01:16:45,660
-Please identify yourself.
-
-818
-01:16:48,060 --> 01:16:51,060
-This is Dr. Armstrong flying MR5R over.
-
-819
-01:16:57,640 --> 01:16:59,020
-I'm so sorry, Richard.
-
-820
-01:16:59,800 --> 01:17:01,540
-I have to do this for my sons.
-
-821
-01:17:02,440 --> 01:17:03,560
-I can't let them down.
-
-822
-01:17:05,580 --> 01:17:07,680
-Marianne, what are you doing?
-
-823
-01:17:08,360 --> 01:17:09,260
-What's going on, Richard?
-
-824
-01:17:10,160 --> 01:17:11,240
-What's going on, Marianne?
-
-825
-01:17:15,590 --> 01:17:18,610
-I'm so sorry I can't follow you now,
-Richard.
-
-826
-01:17:19,430 --> 01:17:22,750
-But for all of us here, I have to help
-bolt S5.
-
-827
-01:17:22,850 --> 01:17:24,130
-I have to take care of my children.
-
-828
-01:17:24,890 --> 01:17:26,310
-So please pray for us.
-
-829
-01:17:26,370 --> 01:17:27,030
-Come back here.
-
-830
-01:17:27,110 --> 01:17:28,270
-You'll regret what you're doing.
-
-831
-01:17:28,270 --> 01:17:29,450
-Too late, Oscar.
-
-832
-01:17:30,170 --> 01:17:31,330
-I can't let them down.
-
-833
-01:17:32,290 --> 01:17:33,910
-I can't leave them now.
-
-834
-01:17:35,100 --> 01:17:35,710
-You're still weak.
-
-835
-01:17:36,290 --> 01:17:37,370
-You can't do this.
-
-836
-01:17:38,750 --> 01:17:41,430
-Don't underestimate a mother like me,
-Richard.
-
-837
-01:17:42,230 --> 01:17:44,110
-I can do something to save my children.
-
-838
-01:17:47,050 --> 01:17:50,670
-So please tell them that I love them so
-much.
-
-839
-01:17:52,030 --> 01:17:54,330
-No matter what happens, don't let them
-down.
-
-840
-01:17:54,930 --> 01:17:56,870
-Please tell them that.
-
-841
-01:17:57,810 --> 01:17:58,710
-Marianne, no!
-
-842
-01:17:59,170 --> 01:17:59,890
-That's a negative!
-
-843
-01:18:01,750 --> 01:18:03,370
-Computer, close transmission.
-
-844
-01:18:06,550 --> 01:18:08,590
-Sirs, please stop the communication.
-
-845
-01:18:09,370 --> 01:18:11,530
-Can we try to override the autopilot
-system?
-
-846
-01:18:11,790 --> 01:18:13,210
-It won't override yet.
-
-847
-01:18:13,870 --> 01:18:17,210
-It has priority alpha access to all CVS
-systems.
-
-848
-01:18:18,170 --> 01:18:19,070
-You can't stop her.
-
-849
-01:18:34,430 --> 01:18:35,270
-Big Bird!
-
-850
-01:18:35,710 --> 01:18:36,250
-Little John!
-
-851
-01:18:39,090 --> 01:18:39,710
-Ah!
-
-852
-01:18:40,600 --> 01:18:41,190
-Ah!
-
-853
-01:18:43,840 --> 01:18:44,430
-Ah!
-
-854
-01:18:45,650 --> 01:18:46,830
-Activate his chain!
-
-855
-01:18:47,530 --> 01:18:47,750
-Ah!
-
-856
-01:18:54,860 --> 01:18:56,040
-No!
-
-857
-01:18:56,680 --> 01:18:57,620
-You can't be Falcon!
-
-858
-01:19:11,000 --> 01:19:12,660
-Vice Sanger is losing!
-
-859
-01:19:12,960 --> 01:19:14,280
-Volt is fine!
-
-860
-01:19:18,170 --> 01:19:22,650
-John Fry, I told you the fight won't last
-long.
-
-861
-01:19:26,670 --> 01:19:28,450
-Look, there's a jet.
-
-862
-01:19:28,850 --> 01:19:30,330
-They sent help.
-
-863
-01:19:30,850 --> 01:19:32,450
-I see Little John.
-
-864
-01:19:35,660 --> 01:19:41,440
-Team, I'm afraid to tell you, but your mom
-is flying that fighter jet.
-
-865
-01:19:42,000 --> 01:19:42,520
+01:20:09,839 --> 01:20:10,740
 What?
 
-866
-01:19:44,560 --> 01:19:45,600
-Your mom?
+760
+01:20:11,107 --> 01:20:12,608
+where did you come from
 
-867
-01:19:45,960 --> 01:19:48,100
-Are you sure your mom is flying that?
+761
+01:20:34,697 --> 01:20:37,033
+It was really my mother
 
-868
-01:19:59,490 --> 01:20:01,430
-Let my sons go!
+762
+01:20:37,466 --> 01:20:39,869
+Why is this happening?
 
-869
-01:20:09,600 --> 01:20:10,400
-What's that?
+763
+01:20:40,536 --> 01:20:41,938
+Sorry
 
-870
-01:20:10,920 --> 01:20:11,880
-Where did that come from?
+764
+01:20:42,972 --> 01:20:47,677
+Without me noticing
+Looks like I'm on a fighter jet
 
-871
-01:20:34,690 --> 01:20:36,790
-your mom is flying that fighter jet.
+765
+01:20:48,711 --> 01:20:50,213
+Because I'm stubborn
 
-872
-01:20:37,580 --> 01:20:39,110
-Why did she allow her to fly?
+766
+01:20:50,479 --> 01:20:53,316
+Can't you talk to your mom?
 
-873
-01:20:40,580 --> 01:20:41,890
-She ran to the medical bed.
+767
+01:20:53,516 --> 01:20:57,053
+It's impossible without going through the headquarters.
 
-874
-01:20:43,110 --> 01:20:47,110
-And before we knew it, she commanded one
-of the fighter jets.
-
-875
-01:20:49,130 --> 01:20:49,770
-Mom is so annoying.
-
-876
-01:20:50,490 --> 01:20:53,050
-Brother, is there a way for us to talk to
-her?
-
-877
-01:20:53,410 --> 01:20:53,690
-Nothing.
-
-878
-01:20:54,750 --> 01:20:56,470
-Call in through the command center,
-Little Jim.
-
-879
-01:20:57,630 --> 01:20:58,950
+768
+01:20:57,553 --> 01:20:59,622
 Dr. Smith, please.
 
-880
-01:21:00,090 --> 01:21:01,870
-Do everything you can to call your mom.
-
-881
-01:21:02,830 --> 01:21:04,690
-Give her a big falcon, please!
-
-882
-01:21:04,970 --> 01:21:07,710
-Team, I already did that, but your mom
-won't listen.
-
-883
-01:21:09,890 --> 01:21:12,870
-Dr. Smith, please tell your mom that her
-sons are begging here.
-
-884
-01:21:13,510 --> 01:21:14,930
-Go back to the camp right now!
-
-885
-01:21:15,750 --> 01:21:16,650
-Tell her that now!
-
-886
-01:21:25,280 --> 01:21:29,840
-Marianne, because I talked to your sons,
-go back to the camp and I agree with them.
-
-887
-01:21:30,600 --> 01:21:31,720
-Go back to the camp now!
-
-888
-01:21:34,140 --> 01:21:35,760
-What are you attempting, Marianne?
-
-889
-01:21:37,420 --> 01:21:38,700
-Marianne, don't do it.
-
-890
-01:21:39,320 --> 01:21:39,860
-It's suicide.
-
-891
-01:22:20,660 --> 01:22:22,560
-Computer, open transmission.
-
-892
-01:22:28,100 --> 01:22:29,680
-My sons, I love you so much.
-
-893
-01:22:37,400 --> 01:22:40,380
-Mom, don't do this.
-
-894
-01:22:42,700 --> 01:22:43,200
-Mom!
-
-895
-01:22:44,940 --> 01:22:45,720
-Mom!
-
-896
-01:22:55,730 --> 01:22:56,950
-Marianne, abort!
-
-897
-01:22:57,630 --> 01:22:58,150
-Abort!
-
-898
-01:23:03,550 --> 01:23:06,470
-Steve, Big Bert, Little John.
-
-899
-01:23:08,110 --> 01:23:08,910
-Mom!
-
-900
-01:23:12,610 --> 01:23:13,830
-Mom!
-
-901
-01:23:43,650 --> 01:23:44,190
-Mom!
-
-902
-01:23:49,310 --> 01:23:49,970
-Steve!
-
-903
-01:24:04,300 --> 01:24:04,740
-Mom!
-
-904
-01:24:35,680 --> 01:24:36,640
-Steve!
-
-905
-01:25:05,140 --> 01:25:06,240
-That's enough, Little John.
-
-906
-01:25:07,900 --> 01:25:09,060
-You'll cry later.
-
-907
-01:25:11,060 --> 01:25:13,340
-Now we need to be stronger.
-
-908
-01:25:32,310 --> 01:25:33,010
-Mom!
-
-909
-01:25:35,590 --> 01:25:36,770
-Mom!
-
-910
-01:25:37,790 --> 01:25:38,530
-Mom!
-
-911
-01:25:39,270 --> 01:25:39,750
-Mom!
-
-912
-01:25:43,340 --> 01:25:43,980
-Mom!
-
-913
-01:25:56,580 --> 01:25:57,220
-Mom!
-
-914
-01:25:58,300 --> 01:25:58,700
-Mom!
-
-915
-01:26:56,430 --> 01:26:57,870
-Let's have a match, Mama.
-
-916
-01:26:59,010 --> 01:27:01,890
-Big Bird, laser sword.
-
-917
-01:27:28,790 --> 01:27:30,310
-My son, don't let them win.
-
-918
-01:27:30,450 --> 01:27:31,690
-Wait for their punishment.
-
-919
-01:27:52,070 --> 01:27:52,830
-Mama!
-
-920
-01:28:28,280 --> 01:28:29,040
-Mama!
-
-921
-01:28:48,980 --> 01:28:50,220
-Jules!
-
-922
-01:28:50,820 --> 01:28:52,800
-Are you saying something?
-
-923
-01:28:56,030 --> 01:28:57,770
-Natal Montesmay.
-
-924
-01:28:59,030 --> 01:29:00,070
-Sivay Sanger.
-
-925
-01:29:00,810 --> 01:29:01,410
-Jennifer...
-
-926
-01:29:01,410 --> 01:29:01,710
-Wait!
-
-927
-01:29:03,270 --> 01:29:05,010
-Don't speak!
-
-928
-01:29:10,950 --> 01:29:12,190
-Jules...
-
-929
-01:29:12,190 --> 01:29:14,810
-Have we made our new plan?
-
-930
-01:29:16,150 --> 01:29:18,390
-It's over, Prince Bessartos.
-
-931
-01:29:18,390 --> 01:29:20,510
-It's over, Prince Bessartos.
-
-932
-01:29:20,790 --> 01:29:21,310
-It's over.
-
-933
-01:30:05,660 --> 01:30:06,360
-Mama!
-
-934
-01:30:10,940 --> 01:30:12,340
-Mama!
-
-935
-01:30:41,500 --> 01:30:42,260
-I'm sorry.
-
-936
-01:30:42,460 --> 01:30:42,980
-I feel sorry for the brothers.
-
-937
-01:30:44,640 --> 01:30:47,260
-It looks like they have lost hope,
-sir.
-
-938
-01:30:49,400 --> 01:30:50,300
-Let's let them cry.
-
-939
-01:30:51,540 --> 01:30:52,940
-Let them cry like boys.
-
-940
-01:30:55,040 --> 01:30:57,820
-But I expect that when they stand up
-again...
-
-941
-01:30:59,720 --> 01:31:02,660
-they will rise as warriors...
-
-942
-01:31:02,660 --> 01:31:04,760
-and avenge their mother and protect our
-planet.
-
-943
-01:31:18,640 --> 01:31:20,160
-Rise, Armstrong brothers.
-
-944
-01:31:21,240 --> 01:31:21,920
-Rise!
-
-945
-01:32:46,280 --> 01:32:50,760
-I believe in the warmth of your eyes and
-your pain.
-
-946
-01:32:53,120 --> 01:32:54,520
-Comrades of the Five.
-
-947
-01:32:56,080 --> 01:32:58,760
-Follow the survivor.
-
-948
-01:32:59,780 --> 01:33:02,460
-Put everything on the line.
-
-949
-01:33:03,500 --> 01:33:08,380
-Let's do it, until we run out of strength.
-
-950
-01:33:11,640 --> 01:33:13,740
-Everyone's smiles...
-
-951
-01:33:13,740 --> 01:33:15,840
-are magical.
-
-952
-01:37:08,760 --> 01:37:11,040
-I will not die...
-
-953
-01:37:11,620 --> 01:37:14,920
-until all the people of Bosnia and
-Herzegovina are free.
-
-954
-01:37:16,480 --> 01:37:19,420
-I am Baron Rothgard.
+769
+01:20:59,855 --> 01:21:04,894
+let's go back to base
+please persuade my mother
+
+770
+01:21:05,061 --> 01:21:08,698
+I already did it
+didn't listen
+
+771
+01:21:09,865 --> 01:21:13,402
+my sons
+I'm asking you to come back
+
+772
+01:21:13,569 --> 01:21:17,006
+please tell me to come back soon
+
+773
+01:21:24,981 --> 01:21:27,683
+The kids are asking for it.
+
+774
+01:21:27,750 --> 01:21:30,052
+I have the same opinion
+
+775
+01:21:30,353 --> 01:21:32,355
+Return immediately
+
+776
+01:21:34,257 --> 01:21:36,158
+what are you going to do
+
+777
+01:21:36,726 --> 01:21:40,529
+Marianne
+It's suicidal
+
+778
+01:22:21,070 --> 01:22:23,372
+computer start communication
+
+779
+01:22:27,943 --> 01:22:30,613
+i love you guys
+
+780
+01:22:32,615 --> 01:22:33,716
+Mother...
+
+781
+01:22:35,251 --> 01:22:36,485
+mother
+
+782
+01:22:38,754 --> 01:22:41,123
+Please stop it
+
+783
+01:22:42,491 --> 01:22:44,327
+mom
+
+784
+01:22:45,094 --> 01:22:47,163
+mom
+
+785
+01:22:55,838 --> 01:22:58,307
+Marianne, stop it.
+
+786
+01:23:03,646 --> 01:23:06,849
+steve big bert
+little john
+
+787
+01:23:08,351 --> 01:23:10,419
+mom
+
+788
+01:23:13,322 --> 01:23:14,590
+mother
+
+789
+01:23:35,378 --> 01:23:37,380
+Mother!
+
+790
+01:23:37,880 --> 01:23:38,981
+mother
+
+791
+01:23:46,722 --> 01:23:48,190
+mother
+
+792
+01:24:04,306 --> 01:24:07,009
+Mother!
+
+793
+01:25:04,967 --> 01:25:06,535
+little john
+
+794
+01:25:07,970 --> 01:25:09,705
+I'll cry later
+
+795
+01:25:11,574 --> 01:25:14,276
+now is the time to be brave
+
+796
+01:26:56,412 --> 01:26:58,314
+Mother's attitude
+
+797
+01:26:59,214 --> 01:27:02,051
+big bert
+It's a sky sword
+
+798
+01:27:28,944 --> 01:27:32,181
+Baisanga
+Aim at the enemy headquarters
+
+799
+01:27:37,052 --> 01:27:41,423
+Sky sword!
+
+800
+01:27:51,634 --> 01:27:53,636
+mother
+
+801
+01:28:28,337 --> 01:28:30,339
+mom
+
+802
+01:28:49,358 --> 01:28:50,859
+Zulu
+
+803
+01:28:51,660 --> 01:28:53,762
+Have something to say?
+
+804
+01:28:56,465 --> 01:29:00,502
+Voltes V
+Defeated Baisanga
+
+805
+01:29:00,636 --> 01:29:01,336
+His Highness
+
+806
+01:29:01,437 --> 01:29:02,705
+Shut up!
+
+807
+01:29:04,039 --> 01:29:05,774
+don't say anything
+
+808
+01:29:09,645 --> 01:29:10,713
+Zuul
+
+809
+01:29:13,048 --> 01:29:15,651
+Are you ready for a new castle?
+
+810
+01:29:16,485 --> 01:29:18,620
+It has been completed, Your Highness.
+
+811
+01:29:20,723 --> 01:29:22,224
+Let's go
+
+812
+01:30:05,834 --> 01:30:07,369
+mother
+
+813
+01:30:23,385 --> 01:30:25,087
+Mother!
+
+814
+01:30:25,854 --> 01:30:27,456
+mom
+
+815
+01:30:41,537 --> 01:30:44,039
+I feel sorry for you
+
+816
+01:30:44,773 --> 01:30:47,709
+Will I lose the will to fight?
+
+817
+01:30:49,211 --> 01:30:51,113
+I'll make you cry
+
+818
+01:30:51,880 --> 01:30:53,615
+like a child
+
+819
+01:30:54,917 --> 01:30:57,920
+But it should rise again
+
+820
+01:31:00,055 --> 01:31:05,327
+And I avenged my mother's punishment.
+protect this planet
+
+821
+01:31:18,473 --> 01:31:21,243
+stand up
+brother armstrong
+
+822
+01:31:21,343 --> 01:31:23,011
+stand up
+
+823
+01:37:02,617 --> 01:37:05,120
+Boazin Star
+
+824
+01:37:09,191 --> 01:37:11,526
+I can't die
+
+825
+01:37:11,860 --> 01:37:14,863
+I have a mission to free my friends.
+
+826
+01:37:16,698 --> 01:37:20,035
+In this Hrothgar
 
