@@ -94,13 +94,17 @@ Intros
 [archive](broadcast-2024.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-01/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+01/10/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 01/03/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
-01/03/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+001/10/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+01/10/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+01/10/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+01/10/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+01/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+1/03/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 01/03/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 01/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 01/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-01/03/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 12/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 12/27/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/27/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -164,10 +168,6 @@ Latest Date | Video / Audio | Debut++
 11/22/2025 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 11/22/2025 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 11/22/2025 | TV Asahi interludes / (same as video?) | 01/17/2023
-11/15/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-11/15/2025 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-11/15/2025 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-11/15/2025 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 10/30/2025 | 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀(s, no intro)
 10/11/2025 | (2020 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙄𝙉𝙏𝙍𝙊)
 10/11/2025 | THEN 2020 version (more Rydeen) / Doktor Plekter - Kavo | 10/4/2020
