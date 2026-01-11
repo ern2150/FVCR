@@ -22,7 +22,6 @@ MM9 | Hit Me Like You Mean It | 07/29/2025  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 08/02/2025 | 2/23/2021 | 64
 MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 08/07/2025 | 5/23/2021 | 56
-83 | I Don't Mind a Little Danger | 08/09/2025 | 06/12/2022 | 50
 71 | I Don't Belong Here | 08/19/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 08/19/2025 | 02/06/2022 | 55
 MM17 | Ninja Challenge Card | 08/26/2025 | 1/2/2022 | 52
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 91 | Reprieve from Chaos | 12/27/2025 | 02/03/2024 | 49
 67 | Together We Will Smash Them | 01/03/2026 | 6/20/2021 | 53
 MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
+83 | I Don't Mind a Little Danger | 01/10/2026 | 06/12/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
 [archive](broadcast-2024.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 8 (Thu)
-80s | 10 | 4 (Sat)
-MM10s | 10 | 2 (Thu)
-70s | 10 | 1 (Sat)
-_90s_ | 2 | 1 (Sat)
-60s | 6 | 0 (Sat)
-MM00s | 9 | 0 (Sat)
+Other | 5 | 9 (Thu)
+MM10s | 10 | 3 (Thu)
+70s | 10 | 2 (Sat)
+_90s_ | 2 | 2 (Sat)
+60s | 6 | 1 (Sat)
+MM00s | 9 | 1 (Sat)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
