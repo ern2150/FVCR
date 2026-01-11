@@ -217,10 +217,10 @@ Bonus Clips
 [archive](broadcast-2024.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
-01/10/2026 | PS3 | (DVD) 1998 Brum 
-01/10/2026 | VHS | Presenting Polaroid
-01/10/2026 | VHS | Ed Emberly's Squiggles Dots and Lines
-01/10/2026 | VHS | YOUNG LIFE CHURCH CAMP SCRAPBOOK
+01/10/2026 | PS3 | (DVD) 1998 "Brum Soccer Hero and other stories", episode "...and the Kidnapped Garden Gnome"
+01/10/2026 | VHS | 1990 Presenting with Polaroid
+01/10/2026 | VHS | 1989 Ed Emberly's Squiggles Dots and Lines
+01/10/2026 | VHS | 2000 YOUNG LIFE CHURCH CAMP SCRAPBOOK
 12/31/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 - 𝙈𝙄𝙇𝙇𝙀𝙉𝙉𝙄𝙐𝙈 2000
 12/27/2025 | PS3 | DVD "X-NILO SHOW: Dinosuars and the Bible"
 12/23/2025 | VHS | Santa's Secret Trooper (VR Troopers)
