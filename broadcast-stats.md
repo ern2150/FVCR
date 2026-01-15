@@ -25,7 +25,6 @@ MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 71 | I Don't Belong Here | 08/19/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 08/19/2025 | 02/06/2022 | 55
 MM17 | Ninja Challenge Card | 08/26/2025 | 1/2/2022 | 52
-MM18 | Fought Against All Evils | 08/30/2025  | 1/23/2022 | 51
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 MM16 | Today We Shall Kill Each Other | 09/09/2025 | 12/21/2021 | 52
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 12/18/2025 | 7/27/2021 | 65
 67 | Together We Will Smash Them | 01/03/2026 | 6/20/2021 | 53
 MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
 83 | I Don't Mind a Little Danger | 01/10/2026 | 06/12/2022 | 50
+MM18 | Fought Against All Evils | 01/14/2026  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 9 (Thu)
-MM10s | 10 | 3 (Thu)
 70s | 10 | 2 (Sat)
 _90s_ | 2 | 2 (Sat)
 60s | 6 | 1 (Sat)
 MM00s | 9 | 1 (Sat)
 80s | 10 | 0 (Sat)
+MM10s | 10 | 0 (Wed)
 
 
 Mixtapes with Updates (by Last Changed) 
