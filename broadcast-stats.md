@@ -12,7 +12,7 @@ Table of Contents
 
 Sorted by Last date (Most recent date), ascending 
 -----
-[archive](broadcast-2024.md)
+[archive](broadcast-2025.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
@@ -70,7 +70,7 @@ MM17 | Ninja Challenge Card | 01/14/2026 | 1/2/2022 | 52
 
 "Decades" by Weeks Since Seen, descending
 -----
-[archive](broadcast-2024.md#decades-by-last-seen-descending)
+[archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 9 (Thu)
@@ -84,14 +84,14 @@ MM10s | 10 | 0 (Wed)
 
 Mixtapes with Updates (by Last Changed) 
 -----
-[archive](broadcast-2024.md#mixtapes-with-updates-by-last-changed)
+[archive](broadcast-2025.md#mixtapes-with-updates-by-last-changed)
 Mixtape # | Title | Update | Last Changed
 -- | -- | -- | --
 
 
 Intros
 ------
-[archive](broadcast-2024.md#intros)
+[archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
 01/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
@@ -188,24 +188,6 @@ Latest Date | Video / Audio | Debut++
 03/05/2025 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
 03/05/2025 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
 03/05/2025 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-11/27/2024 | (𝙐𝙉𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊)
-11/27/2024 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-11/27/2024 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
-11/27/2024 | [Cyber Ninja Opening Battle](https://archive.org/details/CYBERNINJA_201812/CYBER+NINJA.ISO?start=109) / [Tony McAlpine - Tears of the Sahara](https://www.youtube.com/watch?v=aMvqc25AQik&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=83) | 7/14/2020
-11/27/2024 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-11/27/2024 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-11/27/2024 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-11/27/2024 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-11/27/2024 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
-11/27/2024 | SoundMarket - Earthshine / (same as video) | 4/1/2021
-11/27/2024 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
-11/27/2024 | Drifting Women / Rainbo - Integra Type | 11/8/2020
-11/27/2024 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
-11/27/2024 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-11/27/2024 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-11/27/2024 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-11/27/2024 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
@@ -214,7 +196,7 @@ Bonus Clips
 -----------
 (also includes things shown on-camera like VHS Covers)
 
-[archive](broadcast-2024.md#bonus-clips)
+[archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
 01/10/2026 | PS3 | (DVD) 1998 "Brum Soccer Hero and other stories", episode "...and the Kidnapped Garden Gnome"
@@ -341,28 +323,11 @@ Latest Date | Cam / Video / Audio | Stuff
 02/06/2025 | VCR | TMNT The Making of the Coming Out of Their Shells Tour
 02/06/2025 | VCR | MEGAMAN ("super fighting robot") part tw--wait it's Boy Meets World instead?!
 02/06/2025 | VCR | Master Tsai's How to Protect Yourself against Weapons
-01/30/2025 | VCR | INFRAMAN
-01/30/2025 | VCR | (attempts at playing tapes are rebuffed by buzzing VCR)
-01/25/2025 | VCR | 1996 Year in Sports (Illustrated)
-01/25/2025 | VCR | Dragonstrike
-01/25/2025 | VCR | Master Tsai's Protect Yourself  
-01/23/2025 | VCR | Grappler Baki
-01/23/2025 | VCR | WMAC Tape One (ep 1+2)
-01/18/2025 | VCR | Superhuman Samurai Syber Squad "A Skorn in Their Side"
-01/15/2025 | VCR | (off-air recording of tv movie) Chance of a Lifetime
-01/11/2025 | DVD | PresentTime ep 3: The Lost Prophet
-01/11/2025 | DVD | PresentTime ep 2: The Fiery Stranger
-01/11/2025 | PS3 | (discussion of PresentTime ep 1 corruption)
-01/09/2025 | DVD | PresentTime ep 1: The Adventure Begins (glitches at retrieving Goliath)
-01/09/2025 | PS3 | (discussion of ep 2 on youtube)
-01/04/2025 | DVD | Max Magician and the Legend of the Rings (with Entermagic dot com ad at end)
-01/04/2025 | DVD | Rock N Learn: Colors, Shapes & Counting (enhanced)
-01/04/2025 | PS3 | (discussion of Stream-related DVDs, Tekken PSN Purchase Tips)
 
 
 Outros
 ------
-[archive](broadcast-2024.md#outros)
+
 Latest Date | Video / Audio
 -- | --
 01/14/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
