@@ -94,6 +94,14 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+01/17/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+01/17/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
+01/17/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+01/17/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
+01/17/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+01/17/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+01/17/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 01/14/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/14/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
@@ -102,7 +110,6 @@ Latest Date | Video / Audio | Debut++
 01/14/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 01/14/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 01/14/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
-01/14/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/10/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 01/10/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 01/10/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -113,7 +120,6 @@ Latest Date | Video / Audio | Debut++
 01/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 01/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 12/27/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-12/27/2025 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 12/27/2025 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 12/27/2025 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 12/27/2025 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -162,13 +168,6 @@ Latest Date | Video / Audio | Debut++
 12/02/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 12/02/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 12/02/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
-11/26/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-11/26/2025 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
-11/26/2025 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-11/26/2025 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
-11/26/2025 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-11/26/2025 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-10/30/2025 | 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙑𝙃𝙎 𝙈𝙄𝙓𝙏𝘼𝙋𝙀(s, no intro)
 10/11/2025 | (2020 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙄𝙉𝙏𝙍𝙊)
 10/11/2025 | THEN 2020 version (more Rydeen) / Doktor Plekter - Kavo | 10/4/2020
 10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
