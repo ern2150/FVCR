@@ -198,6 +198,9 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/20/2026 | PS3 | BRUM! episode "rampant robot"
+01/20/2026 | PS3 | 1992 Corn: from Farm to Table
+01/20/2026 | PS3 | (DVD) Kino Lens Cleaner (six test videos)
 01/10/2026 | PS3 | (DVD) 1998 "Brum Soccer Hero and other stories", episode "...and the Kidnapped Garden Gnome"
 01/10/2026 | VHS | 1990 Presenting with Polaroid
 01/10/2026 | VHS | 1989 Ed Emberly's Squiggles Dots and Lines
