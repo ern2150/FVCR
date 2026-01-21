@@ -94,6 +94,13 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+01/20/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+01/20/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+01/20/2026 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
+01/20/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+01/20/2026 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
+01/20/2026 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
+01/20/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 01/17/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 01/17/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -101,9 +108,7 @@ Latest Date | Video / Audio | Debut++
 01/17/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 01/17/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 01/17/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-01/17/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 01/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-01/14/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 01/14/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 01/14/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
 01/14/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
@@ -163,11 +168,6 @@ Latest Date | Video / Audio | Debut++
 12/06/2025 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 12/06/2025 | Can't Beat Dick Wei / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 12/06/2025 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-12/02/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-12/02/2025 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-12/02/2025 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-12/02/2025 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-12/02/2025 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
 10/11/2025 | (2020 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙄𝙉𝙏𝙍𝙊)
 10/11/2025 | THEN 2020 version (more Rydeen) / Doktor Plekter - Kavo | 10/4/2020
 10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
