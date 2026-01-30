@@ -198,6 +198,9 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+01/29/2026 | PS3 | (DVD) Sargeant Safety: Basic Training
+01/29/2026 | VCR | CAT TV I (also boring, shows a snippet) 
+01/29/2026 | PS3 | (DVD) CAT TV II (mostly boring, fast forwards through most of it)
 01/20/2026 | PS3 | BRUM! episode "rampant robot"
 01/20/2026 | PS3 | 1992 Corn: from Farm to Table
 01/20/2026 | PS3 | (DVD) Kino Lens Cleaner (six test videos)
