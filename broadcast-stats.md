@@ -17,14 +17,12 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
-MM8 | The Sword of Catastrophe | 08/04/2025 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 08/07/2025 | 5/23/2021 | 56
 71 | I Don't Belong Here | 08/19/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 08/19/2025 | 02/06/2022 | 55
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
-87 | Win without Failing | 09/18/2025 | 02/12/2023 | 46
 80 | Pass Through All Hard Times | 09/18/2025 | 02/20/2022 | 46
 77 | Ninja City | 09/23/2025 | 11/28/2021 | 49
 MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
@@ -66,6 +64,8 @@ MM16 | Today We Shall Kill Each Other | 01/17/2026 | 12/21/2021 | 52
 MM9 | Hit Me Like You Mean It | 01/17/2026  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 01/20/2026 | 2/23/2021 | 64
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
+87 | Win without Failing | 02/03/2026 | 02/12/2023 | 46
+MM8 | The Sword of Catastrophe | 02/03/2026 | 6/15/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM2 | Why Are You Playing Heroes? | 01/20/2026 | 2/23/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 12 (Thu)
-70s | 10 | 4 (Sat)
-_90s_ | 2 | 4 (Sat)
-80s | 10 | 2 (Sat)
-MM10s | 10 | 1 (Sat)
-MM00s | 9 | 1 (Tue)
+70s | 10 | 5 (Sat)
+_90s_ | 2 | 5 (Sat)
+MM10s | 10 | 2 (Sat)
 60s | 6 | 0 (Thu)
+80s | 10 | 0 (Tue)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
