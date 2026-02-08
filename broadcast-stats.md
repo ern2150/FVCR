@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
-66 | Do You Really Have the Confidence? | 08/07/2025 | 5/23/2021 | 56
 71 | I Don't Belong Here | 08/19/2025 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 08/19/2025 | 02/06/2022 | 55
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
@@ -66,6 +65,7 @@ MM2 | Why Are You Playing Heroes? | 01/20/2026 | 2/23/2021 | 64
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 87 | Win without Failing | 02/03/2026 | 02/12/2023 | 46
 MM8 | The Sword of Catastrophe | 02/03/2026 | 6/15/2021 | 58
+66 | Do You Really Have the Confidence? | 02/07/2026 | 5/23/2021 | 56
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM8 | The Sword of Catastrophe | 02/03/2026 | 6/15/2021 | 58
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 12 (Thu)
-70s | 10 | 5 (Sat)
-_90s_ | 2 | 5 (Sat)
-MM10s | 10 | 2 (Sat)
-60s | 6 | 0 (Thu)
+Other | 5 | 13 (Thu)
+70s | 10 | 6 (Sat)
+_90s_ | 2 | 6 (Sat)
+MM10s | 10 | 3 (Sat)
 80s | 10 | 0 (Tue)
 MM00s | 9 | 0 (Tue)
+60s | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
