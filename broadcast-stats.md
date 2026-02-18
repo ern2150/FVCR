@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
-77 | Ninja City | 09/23/2025 | 11/28/2021 | 49
 MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
 79 | A Frightening Experience | 10/02/2025 | 1/16/2022 | 57
 MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
@@ -66,7 +65,7 @@ MM8 | The Sword of Catastrophe | 02/03/2026 | 6/15/2021 | 58
 71 | I Don't Belong Here | 02/12/2026 | 8/1/2021 | 54
 MM19 | Ghost Shadow Squad | 02/12/2026 | 02/06/2022 | 55
 80 | Pass Through All Hard Times | 02/17/2026 | 02/20/2022 | 46
-
+77 | Ninja City | 02/17/2026 | 11/28/2021 | 49
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,9 +76,9 @@ Other | 5 | 14 (Thu)
 _90s_ | 2 | 6 (Sat)
 MM00s | 9 | 2 (Tue)
 60s | 6 | 0 (Sat)
-70s | 10 | 0 (Thu)
 MM10s | 10 | 0 (Thu)
 80s | 10 | 0 (Tue)
+70s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
