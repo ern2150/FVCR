@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 MM7 | I'd Like to See You Try and Hurt Me | 09/02/2025 | 6/6/2021 | 58
-SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 09/06/2025 | 09/30/2023 | 117
 MM5 | Danger Straight Ahead | 09/09/2025 | 4/4/2021 | 57
 MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
 79 | A Frightening Experience | 10/02/2025 | 1/16/2022 | 57
@@ -66,19 +65,20 @@ MM8 | The Sword of Catastrophe | 02/03/2026 | 6/15/2021 | 58
 MM19 | Ghost Shadow Squad | 02/12/2026 | 02/06/2022 | 55
 80 | Pass Through All Hard Times | 02/17/2026 | 02/20/2022 | 46
 77 | Ninja City | 02/17/2026 | 11/28/2021 | 49
+SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 02/19/2026 | 09/30/2023 | 117
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 14 (Thu)
 _90s_ | 2 | 6 (Sat)
 MM00s | 9 | 2 (Tue)
 60s | 6 | 0 (Sat)
-MM10s | 10 | 0 (Thu)
+MM10s | 10 | 1 (Thu)
 80s | 10 | 0 (Tue)
 70s | 10 | 0 (Tue)
+Other | 5 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -93,6 +93,8 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/19/2026 | --
+02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 02/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 02/17/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 02/17/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -172,8 +174,6 @@ Latest Date | Video / Audio | Debut++
 10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
 10/11/2025 | Goathorn - Rotten Roll | 10/4/2020
 10/11/2025 | RED TIMECLOCK TOP RIGHT 9:59 | 10/4/2020 
-09/06/2025 | --
-09/06/2025 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
@@ -338,7 +338,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-02/17/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/19/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
