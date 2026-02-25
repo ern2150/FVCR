@@ -25,7 +25,6 @@ MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
 84 | Poor Doomed Humans | 10/11/2025 | 10/16/2022 | 51
 MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
 82 | Are You Looking for Death? | 10/16/2025 | 05/15/2022 | 50
-MM6 | It's Your Turn to Die | 10/23/2025 | 5/20/2021 | 73
 85 | The Power You Are Seeking | 10/23/2025 | 11/13/2022 | 45
 75 | Never Show Emotion | 10/28/2025 | 11/07/2021 | 48
   | Devil Mountain 2021 Halloween Vol 3 | 10/28/2025 | 10/17/2021 | 49
@@ -66,19 +65,20 @@ MM19 | Ghost Shadow Squad | 02/12/2026 | 02/06/2022 | 55
 80 | Pass Through All Hard Times | 02/17/2026 | 02/20/2022 | 46
 77 | Ninja City | 02/17/2026 | 11/28/2021 | 49
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 02/19/2026 | 09/30/2023 | 117
+MM6 | It's Your Turn to Die | 02/24/2026 | 5/20/2021 | 73
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 6 (Sat)
-MM00s | 9 | 2 (Tue)
-60s | 6 | 0 (Sat)
+_90s_ | 2 | 7 (Sat)
+60s | 6 | 1 (Sat)
 MM10s | 10 | 1 (Thu)
-80s | 10 | 0 (Tue)
-70s | 10 | 0 (Tue)
+80s | 10 | 1 (Tue)
+70s | 10 | 1 (Tue)
 Other | 5 | 0 (Thu)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -93,6 +93,13 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+02/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+02/24/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
+02/24/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+02/24/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+02/24/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+02/24/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+02/24/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/19/2026 | --
 02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 02/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
@@ -106,9 +113,7 @@ Latest Date | Video / Audio | Debut++
 02/17/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 02/17/2026 | SHIT FUCK / (same as video) | 5/4/2021
 02/17/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-02/17/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 02/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-02/14/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 02/14/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 02/14/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 02/14/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
@@ -161,11 +166,6 @@ Latest Date | Video / Audio | Debut++
 01/10/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 01/10/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 01/10/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-01/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-1/03/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-01/03/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-01/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-01/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings
 12/20/2025 | --
@@ -338,7 +338,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-02/19/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+02/24/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
