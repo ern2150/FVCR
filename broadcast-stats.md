@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 MM13 | Keep on Winning | 09/30/2025 | 8/22/2021 | 56
-79 | A Frightening Experience | 10/02/2025 | 1/16/2022 | 57
 MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
 84 | Poor Doomed Humans | 10/11/2025 | 10/16/2022 | 51
 MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
@@ -66,6 +65,7 @@ SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄�
 MM6 | It's Your Turn to Die | 02/24/2026 | 5/20/2021 | 73
 MM5 | Danger Straight Ahead | 02/28/2026 | 4/4/2021 | 57
 MM7 | I'd Like to See You Try and Hurt Me | 02/28/2026 | 6/6/2021 | 58
+79 | A Frightening Experience | 02/28/2026 | 1/16/2022 | 57
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,9 +76,9 @@ _90s_ | 2 | 8 (Sat)
 60s | 6 | 2 (Sat)
 MM10s | 10 | 2 (Thu)
 80s | 10 | 1 (Tue)
-70s | 10 | 1 (Tue)
 Other | 5 | 1 (Thu)
 MM00s | 9 | 0 (Sat)
+70s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
