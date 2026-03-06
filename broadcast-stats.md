@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM15 | Don't Be Afraid of Me | 10/09/2025 | 12/05/2021 | 55
 MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
 82 | Are You Looking for Death? | 10/16/2025 | 05/15/2022 | 50
-85 | The Power You Are Seeking | 10/23/2025 | 11/13/2022 | 45
 75 | Never Show Emotion | 10/28/2025 | 11/07/2021 | 48
   | Devil Mountain 2021 Halloween Vol 3 | 10/28/2025 | 10/17/2021 | 49
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
@@ -66,6 +65,7 @@ MM7 | I'd Like to See You Try and Hurt Me | 02/28/2026 | 6/6/2021 | 58
 79 | A Frightening Experience | 02/28/2026 | 1/16/2022 | 57
 MM13 | Keep on Winning | 03/03/2026 | 8/22/2021 | 56
 84 | Poor Doomed Humans | 03/03/2026 | 10/16/2022 | 51
+85 | The Power You Are Seeking | 03/05/2026 | 11/13/2022 | 45
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -74,11 +74,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 8 (Sat)
 60s | 6 | 2 (Sat)
-Other | 5 | 1 (Thu)
+Other | 5 | 2 (Thu)
 MM00s | 9 | 0 (Sat)
 70s | 10 | 0 (Sat)
 MM10s | 10 | 0 (Tue)
-80s | 10 | 0 (Tue)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
