@@ -197,6 +197,9 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/05/2026 | VCR | DOGGIE ADVENTURE
+03/05/2026 | VCR | DOG SITTER VIDEO
+03/05/2026 | VCR | JUGGLEBUG
 02/17/2026 | VCR | Janna Larkin presents: Scarves: Tie into a Great Look
 02/14/2026 | VCR | Miss Manners on Weddings
 02/14/2026 | VCR | (Angela Lansbury's) Positive Moves
