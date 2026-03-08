@@ -197,6 +197,8 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/07/2026 | VCR | ZAP THE MAGICAL COMPUTER
+03/07/2026 | VCR | DRESS RIGHT FOR YOUR SHAPE
 03/05/2026 | VCR | DOGGIE ADVENTURE
 03/05/2026 | VCR | DOG SITTER VIDEO
 03/05/2026 | VCR | JUGGLEBUG
