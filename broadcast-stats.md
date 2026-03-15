@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
-MM10 | The Splatter and Gore Department | 10/14/2025 | 7/15/2021 | 59
   | Devil Mountain 2021 Halloween Vol 3 | 10/28/2025 | 10/17/2021 | 49
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
@@ -66,19 +65,20 @@ MM13 | Keep on Winning | 03/03/2026 | 8/22/2021 | 56
 MM15 | Don't Be Afraid of Me | 03/07/2026 | 12/05/2021 | 55
 75 | Never Show Emotion | 03/10/2026 | 11/07/2021 | 48
 82 | Are You Looking for Death? | 03/10/2026 | 05/15/2022 | 50
+MM10 | The Splatter and Gore Department | 03/14/2026 | 7/15/2021 | 59
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 9 (Sat)
-60s | 6 | 3 (Sat)
+_90s_ | 2 | 10 (Sat)
+60s | 6 | 4 (Sat)
 Other | 5 | 2 (Thu)
-MM00s | 9 | 1 (Sat)
-MM10s | 10 | 0 (Sat)
+MM00s | 9 | 2 (Sat)
 70s | 10 | 0 (Tue)
 80s | 10 | 0 (Tue)
+MM10s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
