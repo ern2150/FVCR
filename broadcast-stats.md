@@ -21,7 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
-MM1 | Get Rich Regardless of the Means (End of 2019) | 11/08/2025 | 11/14/2019 | 66
 61 | I Must Make Sure You Fail | 11/15/2025  | 3/14/2021 | 53
 81 | One Hell of a Nobody | 11/18/2025 | 03/27/2022 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
@@ -66,6 +65,8 @@ MM15 | Don't Be Afraid of Me | 03/07/2026 | 12/05/2021 | 55
 82 | Are You Looking for Death? | 03/10/2026 | 05/15/2022 | 50
 MM10 | The Splatter and Gore Department | 03/14/2026 | 7/15/2021 | 59
 78 | All for Revenge | 03/14/2026 | 1/9/2022 | 50
+MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
+
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -75,10 +76,10 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 2 | 10 (Sat)
 60s | 6 | 4 (Sat)
 Other | 5 | 3 (Thu)
-MM00s | 9 | 2 (Sat)
-80s | 10 | 0 (Tue)
+80s | 10 | 1 (Tue)
 MM10s | 10 | 0 (Sat)
 70s | 10 | 0 (Sat)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
