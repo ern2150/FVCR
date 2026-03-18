@@ -197,6 +197,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/17/2026 | VCR | 𝙆𝙐𝙍𝙏 𝙒𝘼𝙍𝙉𝙀𝙍'𝙎 𝙂𝙊𝙊𝘿 𝙎𝙋𝙊𝙍𝙏𝙎 𝙂𝘼𝙉𝙂 (2003)
 03/14/2026 | VCR | SECRETS OF CAGE FIGHTING
 03/14/2026 | VCR | YAKOV'S JOKES FROM THE FOLKS (briefly)
 03/07/2026 | VCR | ZAP THE MAGICAL COMPUTER
