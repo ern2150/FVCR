@@ -21,8 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
-61 | I Must Make Sure You Fail | 11/15/2025  | 3/14/2021 | 53
-88 | Under Attack in Hong Kong | 11/26/2025 | 06/18/2023 | 45
 89 | Don't You Know the State I'm In? | 12/02/2025 | 07/02/2023 | 47
 86 | The Passion and Death of their Struggle | 12/06/2025 | 12/22/2022 | 43
 MM12 | Evil Is Never Invincible | 12/11/2025 | 8/10/2021 | 58
@@ -66,6 +64,8 @@ MM10 | The Splatter and Gore Department | 03/14/2026 | 7/15/2021 | 59
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
 81 | One Hell of a Nobody | 03/21/2026 | 03/27/2022 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 03/21/2026 | 4/4/2021 | 50
+61 | I Must Make Sure You Fail | 03/24/2026  | 3/14/2021 | 53
+88 | Under Attack in Hong Kong | 03/24/2026 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM4 | I'm Glad to See You're Prepared to Die | 03/21/2026 | 4/4/2021 | 50
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 11 (Sat)
-60s | 6 | 5 (Sat)
-Other | 5 | 3 (Thu)
+Other | 5 | 4 (Thu)
 MM10s | 10 | 1 (Sat)
 70s | 10 | 1 (Sat)
-80s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Sat)
+60s | 6 | 0 (Tue)
+80s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,8 +94,15 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+03/24/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+03/24/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+03/24/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+03/24/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+03/24/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+03/24/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+03/24/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-03/21/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 03/21/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 03/21/2026 | FMW Opener / FMW Closer | 12/6/2020
 03/21/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
@@ -106,7 +113,6 @@ Latest Date | Video / Audio | Debut++
 03/21/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 03/21/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 03/21/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-03/21/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 03/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/17/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
@@ -161,12 +167,6 @@ Latest Date | Video / Audio | Debut++
 02/17/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 02/17/2026 | SHIT FUCK / (same as video) | 5/4/2021
 02/17/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-02/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-02/14/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-02/14/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-02/14/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-02/14/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-02/14/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings
 12/20/2025 | --
@@ -198,6 +198,8 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/24/2026 | VCR | Emergency Preparedness: Keepin It Real with Ready in 3
+03/24/2026 | VCR | Now You're Talking - Parents and Kids Talk Straight about Drugs and Alcohol
 03/17/2026 | VCR | 𝙆𝙐𝙍𝙏 𝙒𝘼𝙍𝙉𝙀𝙍'𝙎 𝙂𝙊𝙊𝘿 𝙎𝙋𝙊𝙍𝙏𝙎 𝙂𝘼𝙉𝙂 (2003)
 03/14/2026 | VCR | SECRETS OF CAGE FIGHTING
 03/14/2026 | VCR | YAKOV'S JOKES FROM THE FOLKS (briefly)
@@ -347,7 +349,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-03/21/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+03/24/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
