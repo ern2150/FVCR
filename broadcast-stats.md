@@ -22,8 +22,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 61 | I Must Make Sure You Fail | 11/15/2025  | 3/14/2021 | 53
-81 | One Hell of a Nobody | 11/18/2025 | 03/27/2022 | 53
-MM4 | I'm Glad to See You're Prepared to Die | 11/22/2025 | 4/4/2021 | 50
 88 | Under Attack in Hong Kong | 11/26/2025 | 06/18/2023 | 45
 89 | Don't You Know the State I'm In? | 12/02/2025 | 07/02/2023 | 47
 86 | The Passion and Death of their Struggle | 12/06/2025 | 12/22/2022 | 43
@@ -66,6 +64,8 @@ MM15 | Don't Be Afraid of Me | 03/07/2026 | 12/05/2021 | 55
 MM10 | The Splatter and Gore Department | 03/14/2026 | 7/15/2021 | 59
 78 | All for Revenge | 03/14/2026 | 1/9/2022 | 50
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
+81 | One Hell of a Nobody | 03/21/2026 | 03/27/2022 | 53
+MM4 | I'm Glad to See You're Prepared to Die | 03/21/2026 | 4/4/2021 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 |
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 10 (Sat)
-60s | 6 | 4 (Sat)
+_90s_ | 2 | 11 (Sat)
+60s | 6 | 5 (Sat)
 Other | 5 | 3 (Thu)
-80s | 10 | 1 (Tue)
-MM10s | 10 | 0 (Sat)
-70s | 10 | 0 (Sat)
-MM00s | 9 | 0 (Tue)
+MM10s | 10 | 1 (Sat)
+70s | 10 | 1 (Sat)
+80s | 10 | 0 (Sat)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,12 +94,23 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+03/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+03/21/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+03/21/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+03/21/2026 | FMW Opener / FMW Closer | 12/6/2020
+03/21/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+03/21/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+03/21/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
+03/21/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+03/21/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+03/21/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+03/21/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+03/21/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+03/21/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-03/17/2026 | THEN 2021 version (different starting with floating VCR, tons of camcorder and VCR footage, quick shot of Rydeen at the end) / Doktor Plekter - Kavo | 11/4/2021
 03/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/17/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 03/17/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-03/17/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 03/14/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 03/14/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
@@ -156,17 +167,6 @@ Latest Date | Video / Audio | Debut++
 02/14/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 02/14/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 02/14/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-02/07/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-02/07/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-02/07/2026 | FMW Opener / FMW Closer | 12/6/2020
-02/07/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-02/07/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-02/07/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
-02/07/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-02/07/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-02/07/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-02/07/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-02/07/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings
 12/20/2025 | --
@@ -347,7 +347,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-03/17/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+03/21/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
