@@ -198,6 +198,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+03/31/2026 | VCR | School Tape Program: U of Miami Orientation: Caring about You
 03/24/2026 | VCR | Emergency Preparedness: Keepin It Real with Ready in 3
 03/24/2026 | VCR | Now You're Talking - Parents and Kids Talk Straight about Drugs and Alcohol
 03/17/2026 | VCR | 𝙆𝙐𝙍𝙏 𝙒𝘼𝙍𝙉𝙀𝙍'𝙎 𝙂𝙊𝙊𝘿 𝙎𝙋𝙊𝙍𝙏𝙎 𝙂𝘼𝙉𝙂 (2003)
