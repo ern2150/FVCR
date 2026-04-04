@@ -94,6 +94,13 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+04/04/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+04/04/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+04/04/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+04/04/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+04/04/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+04/04/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/31/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 03/31/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 03/31/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -105,9 +112,7 @@ Latest Date | Video / Audio | Debut++
 03/31/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 03/31/2026 | SHIT FUCK / (same as video) | 5/4/2021
 03/31/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-03/31/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 03/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-03/24/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 03/24/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 03/24/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 03/24/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
@@ -160,11 +165,6 @@ Latest Date | Video / Audio | Debut++
 02/28/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 02/28/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 02/28/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-02/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-02/24/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-02/24/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-02/24/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-02/24/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 02/19/2026 | --
 02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
