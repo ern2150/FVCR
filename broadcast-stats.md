@@ -198,6 +198,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/04/2026 | VCR | 𝙑𝙄𝘿𝙀𝙊 𝙃𝙔𝙋𝙉𝙊𝙎𝙄𝙎: 𝙄𝙉𝘾𝙍𝙀𝘿𝙄𝘽𝙇𝙀 𝘾𝙊𝙉𝘾𝙀𝙉𝙏𝙍𝘼𝙏𝙄𝙊𝙉
 03/31/2026 | VCR | School Tape Program: U of Miami Orientation: Caring about You
 03/24/2026 | VCR | Emergency Preparedness: Keepin It Real with Ready in 3
 03/24/2026 | VCR | Now You're Talking - Parents and Kids Talk Straight about Drugs and Alcohol
