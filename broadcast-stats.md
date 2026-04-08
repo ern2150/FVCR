@@ -21,10 +21,8 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
-89 | Don't You Know the State I'm In? | 12/02/2025 | 07/02/2023 | 47
 90 | Every Different Way of Killing | 12/11/2025 | 07/23/2023 | 47
 76 | If I See Him, I'll Kill Him | 12/13/2025 | 11/21/2021 | 49
-70 | Take the Fight to the Enemy | 12/16/2025 | 7/11/2021 | 54
 MM14 | Fights the Evils with Great Power | 12/18/2025 | 9/26/2021 | 64
 72 | Who Is the Champion Now? | 12/23/2025 | 9/7/2021 | 53
 73 | The Whirlpool of Battle | 12/27/2025 | 9/21/2021 | 62
@@ -66,6 +64,8 @@ MM4 | I'm Glad to See You're Prepared to Die | 03/21/2026 | 4/4/2021 | 50
 MM12 | Evil Is Never Invincible | 03/31/2026 | 8/10/2021 | 58
 86 | The Passion and Death of their Struggle | 03/31/2026 | 12/22/2022 | 43
 MM11 | I Can Stand the Pain | 04/04/2026 | 7/27/2021 | 65
+70 | Take the Fight to the Enemy | 04/07/2026 | 7/11/2021 | 54
+89 | Don't You Know the State I'm In? | 04/07/2026 | 07/02/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 13 (Sat)
 Other | 5 | 5 (Thu)
-70s | 10 | 3 (Sat)
 MM00s | 9 | 2 (Sat)
-60s | 6 | 1 (Tue)
-80s | 10 | 0 (Tue)
+60s | 6 | 2 (Tue)
 MM10s | 10 | 0 (Sat)
+70s | 10 | 0 (Tue)
+80s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
