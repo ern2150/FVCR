@@ -94,12 +94,19 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/11/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+04/11/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+04/11/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+04/11/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+04/11/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+04/11/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+04/11/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+04/11/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
+04/11/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/07/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-04/07/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 04/07/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 04/07/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 04/07/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-04/07/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 04/04/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 04/04/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -158,17 +165,10 @@ Latest Date | Video / Audio | Debut++
 03/05/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 03/05/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 03/05/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-03/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-03/03/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-03/03/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-03/03/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-03/03/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-03/03/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-03/03/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
 02/19/2026 | --
 02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
-12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings
+12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
 12/20/2025 | --
 10/11/2025 | (2020 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙄𝙉𝙏𝙍𝙊)
 10/11/2025 | THEN 2020 version (more Rydeen) / Doktor Plekter - Kavo | 10/4/2020
