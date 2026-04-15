@@ -21,8 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2025 | 10/10/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
-MM14 | Fights the Evils with Great Power | 12/18/2025 | 9/26/2021 | 64
-72 | Who Is the Champion Now? | 12/23/2025 | 9/7/2021 | 53
 73 | The Whirlpool of Battle | 12/27/2025 | 9/21/2021 | 62
 91 | Reprieve from Chaos | 12/27/2025 | 02/03/2024 | 49
 67 | Together We Will Smash Them | 01/03/2026 | 6/20/2021 | 53
@@ -66,6 +64,8 @@ MM11 | I Can Stand the Pain | 04/04/2026 | 7/27/2021 | 65
 89 | Don't You Know the State I'm In? | 04/07/2026 | 07/02/2023 | 47
 76 | If I See Him, I'll Kill Him | 04/11/2026 | 11/21/2021 | 49
 90 | Every Different Way of Killing | 04/11/2026 | 07/23/2023 | 47
+MM14 | Fights the Evils with Great Power | 04/14/2026 | 9/26/2021 | 64
+72 | Who Is the Champion Now? | 04/14/2026 | 9/7/2021 | 53
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 6 (Thu)
 MM00s | 9 | 3 (Sat)
-60s | 6 | 2 (Tue)
-MM10s | 10 | 1 (Sat)
-80s | 10 | 0 (Tue)
-70s | 10 | 0 (Sat)
+60s | 6 | 3 (Tue)
+80s | 10 | 1 (Tue)
 _90s_ | 2 | 0 (Sat)
+MM10s | 10 | 0 (Tue)
+70s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
