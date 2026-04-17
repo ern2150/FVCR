@@ -319,33 +319,7 @@ Latest Date | Cam / Video / Audio | Stuff
 04/03/2025 | VHS | Ocean Video Maui
 04/03/2025 | PS2 | PaRappaTheRapper 2
 04/03/2025 | --- | Horse Riding Gamer and Tekken Table Talk
-03/27/2025 | PS2 | (Back on the horse)
-03/27/2025 | VHS | CBS Presents: Unforgettable People with Charles Kuralt
-03/27/2025 | VHS | realAge with Dr. Mike Roizen from WTTW (up until we could decipher the floating words)
-03/27/2025 | PS2 | "A PS2 GAME I FOUND ON THE GROUND": Gallop Racer 2001
-03/22/2025 | VHS | Totaled! 
-03/15/2025 | PS3 | ExtremeDays, then the EXPN XBS junket
-03/15/2025 | PS3 | DVD Time! (Found in Chicago trip)  
-03/13/2025 | VCR | (Chicago sourced Salvation Army tape... a "kid city" news program run by attendees) "Chelsea 4:30" (Mundo de Adeveras Televisa)
-03/13/2025 | VCR | Joe Camp's Benji (Takes a Dive) at Marine Land
-03/05/2025 | VCR | Knots Lading Block Party
-03/05/2025 | VCR | Sally Jesse Raphael "Sally, Help Me Lose Weight" / News segment on "Internet Jobs" / back to Wall Street Week.
-03/05/2025 | --- | 𝙍𝙀𝘾𝙊𝙍𝘿𝙀𝘿 𝙑𝙃𝙎 𝙒𝙄𝙏𝙃 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇𝙎
-02/27/2025 | VCR | Eyewitness: Shell (AV Mix) - (rewinds to dolphin-man-milk, VCR BYEs lol, switches to other, sans music overdub)
-02/23/2025 | VCR | Ben Vereen Sing Along feat. the Peter Pan Kids (stops after "This Old Man" starts)
-02/15/2025 | PS3 | JetMoto2
-02/15/2025 | PS3 | Parappa the Rapper
-02/15/2025 | PS3 | BUSHIDO BLADE
-02/15/2025 | --- | 𝙥𝙡𝙖𝙮𝙨𝙩𝙖𝙩𝙞𝙤𝙣 𝙤𝙣𝙚 𝙛𝙖𝙫𝙨 (PS1 + Stream playlist)
-02/13/2025 | VCR | Angela Lansbury's Positive Moves
-02/08/2025 | VCR | Techno Police 21C (the pinnacle of animation voice acting)
-02/08/2025 | VCR | (clip of Ninja's Force Trailer Voice)
-02/08/2025 | VCR | "Before They Were WWE Superstars No. 2" (first, ads for Best of Confidential 1, WWE Anthology CD, "Don't Try This at Home")
-02/08/2025 | --- | 𝙍𝙐𝙏𝙃𝙇𝙀𝙎𝙎 𝘼𝙂𝙂𝙍𝙀𝙎𝙎𝙄𝙊𝙉 𝙀𝙍𝘼 𝙋𝙍𝙊𝙋𝘼𝙂𝘼𝙉𝘿𝘼
-02/06/2025 | VCR | Without Reservation rap
-02/06/2025 | VCR | TMNT The Making of the Coming Out of Their Shells Tour
-02/06/2025 | VCR | MEGAMAN ("super fighting robot") part tw--wait it's Boy Meets World instead?!
-02/06/2025 | VCR | Master Tsai's How to Protect Yourself against Weapons
+
 
 
 Outros
@@ -353,7 +327,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-04/14/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+04/16/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
