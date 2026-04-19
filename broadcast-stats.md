@@ -198,6 +198,8 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+04/18/2026 | VCR | [Trailers from MEAN GUNS] SLAM, CHINESE BOX, REDLINE, ARMSTRONG, CHAIRMAN OF THE BOARD
+04/18/2026 | VCR | Touring the Gateway Arch
 04/11/2026 | VCR | Health & Beyond aka Cellercize by David Hall
 04/11/2026 | VCR | Trailer reel from Getting In (1994), including "Natl Lampoon's Blind Date" (game), Ultimate Fighting Championship - the American Dream, Thunder in Paradise II, Witness to the Execution 
 04/04/2026 | VCR | 𝙑𝙄𝘿𝙀𝙊 𝙃𝙔𝙋𝙉𝙊𝙎𝙄𝙎: 𝙄𝙉𝘾𝙍𝙀𝘿𝙄𝘽𝙇𝙀 𝘾𝙊𝙉𝘾𝙀𝙉𝙏𝙍𝘼𝙏𝙄𝙊𝙉
