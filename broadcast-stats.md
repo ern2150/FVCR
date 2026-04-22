@@ -22,9 +22,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2025 | 10/3/2021 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 73 | The Whirlpool of Battle | 12/27/2025 | 9/21/2021 | 62
-67 | Together We Will Smash Them | 01/03/2026 | 6/20/2021 | 53
 MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
-MM17 | Ninja Challenge Card | 01/14/2026 | 1/2/2022 | 52
 MM16 | Today We Shall Kill Each Other | 01/17/2026 | 12/21/2021 | 52
 MM9 | Hit Me Like You Mean It | 01/17/2026  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 01/20/2026 | 2/23/2021 | 64
@@ -66,6 +64,8 @@ MM14 | Fights the Evils with Great Power | 04/14/2026 | 9/26/2021 | 64
 83 | I Don't Mind a Little Danger | 04/16/2026 | 06/12/2022 | 50
 91 | Reprieve from Chaos | 04/16/2026 | 02/03/2024 | 49
 MM18 | Fought Against All Evils | 04/18/2026  | 1/23/2022 | 51
+67 | Together We Will Smash Them | 04/21/2026 | 6/20/2021 | 53
+MM17 | Ninja Challenge Card | 04/21/2026 | 1/2/2022 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 7 (Thu)
 MM00s | 9 | 4 (Sat)
-60s | 6 | 3 (Tue)
-70s | 10 | 0 (Tue)
+70s | 10 | 1 (Tue)
 80s | 10 | 0 (Thu)
 _90s_ | 2 | 0 (Thu)
-MM10s | 10 | 0 (Sat)
+60s | 6 | 0 (Tue)
+MM10s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
