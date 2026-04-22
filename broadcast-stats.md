@@ -94,20 +94,25 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+04/21/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+04/21/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+04/21/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+04/21/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+04/21/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+04/21/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/18/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 04/18/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 04/18/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 04/18/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 04/18/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 04/18/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-04/18/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/16/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 04/16/2026 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 04/16/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 04/16/2026 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 04/16/2026 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
 04/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-04/14/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/14/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 04/14/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 04/14/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
@@ -160,11 +165,6 @@ Latest Date | Video / Audio | Debut++
 03/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 03/17/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 03/17/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-03/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-03/14/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-03/14/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-03/14/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-03/14/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 02/19/2026 | --
 02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
@@ -175,18 +175,6 @@ Latest Date | Video / Audio | Debut++
 10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
 10/11/2025 | Goathorn - Rotten Roll | 10/4/2020
 10/11/2025 | RED TIMECLOCK TOP RIGHT 9:59 | 10/4/2020 
-04/19/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-04/19/2025 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-04/19/2025 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
-04/19/2025 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-04/19/2025 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-03/05/2025 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄
-03/05/2025 | [Ninja Knight Thunder Fox](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Ninja-Knight-Thunder-Fox-(1990)#headband) Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-03/05/2025 | Baki end whiteout / (same as video) | 4/13/2021
-03/05/2025 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-03/05/2025 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-03/05/2025 | W\*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-03/05/2025 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
