@@ -345,7 +345,7 @@ Latest Date | Cam / Video / Audio | Stuff
 02/08/2024 | PS3/DVD | I'm Your Man _INTERACTIVE_ (and special features!)
 01/30/2024 | VCR | TLC Presents: Sixth Sense
 01/25/2024 | VCR | I LOVE TOY TRAINS 2 AV
-01/23/2024 | VCR | (trailers before) The Making of Left Behind
+01/23/2024 | VCR | (trailers before Cloud Ten's The Making of Left Behind): REVELATION, TRIBULATION, JUDGMENT. (stops a minute into Making Of)
 01/23/2024 | VCR | (intro to) Nutrisystem Body Breakthrough Activity Plan
 01/18/2024 | VCR | Demonstration of Toshiba's brokenness
 01/11/2024 | VCR | Trailer Mix: ministry of vengeance, rabid grannies, fatal skies, AIP logo, The Revenger, New Horizons logo, Babyface Nelson, Star Hunter, Operation Cobra, Dollman
