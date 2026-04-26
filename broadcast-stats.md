@@ -94,15 +94,20 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+04/25/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+04/25/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+04/25/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+04/25/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+04/25/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+04/25/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 04/21/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/21/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 04/21/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 04/21/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 04/21/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
-04/21/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/18/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-04/18/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 04/18/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 04/18/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 04/18/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
@@ -129,11 +134,6 @@ Latest Date | Video / Audio | Debut++
 04/07/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 04/07/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 04/07/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-04/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-04/04/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-04/04/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-04/04/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-04/04/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 03/31/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 03/31/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 03/31/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
