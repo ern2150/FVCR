@@ -94,13 +94,17 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+04/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
+04/30/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+04/30/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+04/30/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+04/30/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
+04/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-04/25/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 04/25/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 04/25/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 04/25/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 04/25/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-04/25/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 04/21/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 04/21/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
@@ -161,10 +165,6 @@ Latest Date | Video / Audio | Debut++
 03/21/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 03/21/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 03/21/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-03/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-03/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-03/17/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-03/17/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
 02/19/2026 | --
 02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
