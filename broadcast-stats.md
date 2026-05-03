@@ -94,12 +94,23 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/02/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+05/02/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+05/02/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+05/02/2026 | FMW Opener / FMW Closer | 12/6/2020
+05/02/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+05/02/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+05/02/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
+05/02/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+05/02/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+05/02/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+05/02/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+05/02/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+05/02/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-04/30/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 04/30/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 04/30/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 04/30/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-04/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 04/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 04/25/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 04/25/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -154,17 +165,6 @@ Latest Date | Video / Audio | Debut++
 03/24/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 03/24/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 03/24/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-03/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-03/21/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-03/21/2026 | FMW Opener / FMW Closer | 12/6/2020
-03/21/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-03/21/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-03/21/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
-03/21/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-03/21/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-03/21/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-03/21/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-03/21/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 02/19/2026 | --
 02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
