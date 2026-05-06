@@ -18,8 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
-MM3 | Blood, Lust, and Intrigue | 01/03/2026 | 3/9/2021 | 54
-MM9 | Hit Me Like You Mean It | 01/17/2026  | 7/8/2021 | 59
 MM2 | Why Are You Playing Heroes? | 01/20/2026 | 2/23/2021 | 64
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM8 | The Sword of Catastrophe | 02/03/2026 | 6/15/2021 | 58
@@ -66,6 +64,8 @@ MM16 | Today We Shall Kill Each Other | 04/25/2026 | 12/21/2021 | 52
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
+MM3 | Blood, Lust, and Intrigue | 05/05/2026 | 3/9/2021 | 54
+MM9 | Hit Me Like You Mean It | 05/05/2026  | 7/8/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM16 | Today We Shall Kill Each Other | 04/25/2026 | 12/21/2021 | 52
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-MM00s | 9 | 6 (Sat)
 _90s_ | 2 | 2 (Thu)
-60s | 6 | 1 (Tue)
+60s | 6 | 2 (Tue)
 MM10s | 10 | 1 (Sat)
 80s | 10 | 1 (Sat)
 70s | 10 | 0 (Sat)
 Other | 5 | 0 (Sat)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
