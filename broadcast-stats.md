@@ -288,28 +288,6 @@ Latest Date | Cam / Video / Audio | Stuff
 05/13/2025 | VHS | (student-submitted tapes) "JOKES FROM THE FOLKS" Yakov Smirnov in Branson - American Audience Interviews You!
 05/01/2025 | VHS | Danny Gans
 05/01/2025 | VHS | Jellies: Phantoms of the Deep (AV Mix)
-04/30/2025 | VHS | The World of Volcanoes presents KILLER VOLCANOES
-04/30/2025 | VHS | Power Basics of Sports: Soccer
-04/30/2025 | VHS | 𝙂𝙊𝘿'𝙎 𝙏𝙊𝙋 𝙏𝙀𝙉
-04/19/2025 | VHS | 𝘼𝙉𝙄𝙈𝙀 𝙊𝙉 𝙑𝙃𝙎 - (Zillion) 𝘽𝙐𝙍𝙉𝙄𝙉𝙂 𝙉𝙄𝙂𝙃𝙏 𝙊𝙑𝘼 1991 (𝘿𝙐𝘽𝘽𝙀𝘿)
-04/19/2025 | VHS | Tiffany Stories: How to Buy a Diamond
-04/17/2025 | Wii | Muscle March
-04/17/2025 | Wii | Trauma Center: Second Opinion (Discussion of Pepsi Wii dollars and Homebrew first)
-04/12/2025 | VHS | "Life of the Party" - QVC Dance Grooves with Karen and Chris
-04/12/2025 | VHS | "How to Keep Your Pet Healthy" - Science Diet infomercial
-04/12/2025 | VHS | "An Important Message" - Remington Firearm Safety
-04/09/2025 | PS2 | Soul Caliber 2 - Demo Disc for Namco Transmission vol 1.3 (2003): Pac Man World 2 (video), Tekken 4 (play), Kill Switch (play)  
-04/09/2025 | VHS | World Class Memories - Imperial Majesty vacation sales tape
-04/09/2025 | VHS | Ultimatte Knockout Training... (recorded over by) Tractor Train-ing? (stops after several Farm Reports)
-04/09/2025 | PS2 | PaRappaTheRapper 2
-04/05/2025 | VHS | MORE DINOSAURS! (starring Gary Owens)
-04/05/2025 | VHS | Yamaha's Music and the Brain 
-04/05/2025 | VHS | Point of Impact (vehicles crashin' 'n' shit)
-04/03/2025 | VHS | Timeless Tales "Rapunzel" by Hallmark with Olivia-Newton-John (Rampion)
-04/03/2025 | VHS | Ocean Video Maui
-04/03/2025 | PS2 | PaRappaTheRapper 2
-04/03/2025 | --- | Horse Riding Gamer and Tekken Table Talk
-
 
 
 Outros
@@ -317,7 +295,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-05/02/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+05/05/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
