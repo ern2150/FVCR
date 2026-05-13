@@ -125,7 +125,7 @@ Latest Date | Video / Audio
 12/11/2022 | Triaminic, Leggs sheer energy, Massengill, Candace Bergen Sprint, Skippy time control, thirtysomething, Anything but Love, Barbara Walters and the Judds. 
 12/11/2022 | Excedrin paranoia, V05 don't be so mean to your hair, Prego, Fantasies (reality contest show?), (ep id), Gulf War Primetime, Local News not really local, Pizza Hut yeah pepperoni, Consumer Hotline local, local id. (ep ff)
 12/11/2022 | Visa skiing, Ranch dramatization. (ep ff) Terri Garr Fruit of the Loom, Pizza Pizza quiz, Sudafed near accident, Oatmeal Raisin Crisp, Orville Redenbacher, Son of the Morning Star. (ep ff) 
-12/11/2022 | (End of previous show with Sliders beard guy and Change Leader in credits), 20/20, Perfume Photo Gear, Busch, Local News spot, National News Gulf War update featuring Scud missles. (begin of ep)
+12/11/2022 | (End of previous show with Sliders beard guy and Change Leader in credits) Under Cover, 20/20, Perfume Photo Gear, Busch, Local News spot, National News Gulf War update featuring Scud missles. (begin of ep)
 12/11/2022 | (ep end) Preparation H, Cavalier, McGuyver, The Last to Go, (next time on TP in 2 weeks, creds with voiceover), Superbowl id, Local News then rainbow to next recording.
 12/11/2022 | Excedrin, Ford compact STOP, Grifters trailer, Degree stinky ladies, Ray Charles Diet Pepsi, Raiders of the Lost Arc, Brinkley Stormin Norman (again).
 12/11/2022 | Corolla, Promise jumpscare, All My Children swerve, Peaks Id, Davis Rules, Local News spot, World of Wheels, McD 69 cheezburger, Skywarn.
