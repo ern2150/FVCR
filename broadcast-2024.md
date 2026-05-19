@@ -318,7 +318,7 @@ Latest Date | Cam / Video / Audio | Stuff
 05/08/2024 | Cam | Slatty.  Toshiba W-528 VCR box from estate sale.
 05/01/2024 | VCR | (rejects Track Freaks) (instead, from Time-Life) Wedding Bloopers
 05/01/2024 | Cam | security camera box, toshiba vcr box, "Track Freaks" VHS cover
-04/24/2024 | VCR | (from Time-Life video) News Bloopers
+04/25/2024 | VCR | (from Time-Life video) News Bloopers
 04/25/2024 | VCR | (preparation for summer 1989 promotional tape) St. Martin's Island Pelican Resort Timeshare 
 04/13/2024 | VCR | Briefings - Becoming a Leader
 04/09/2024 | VCR | "Lefton Promotions" lululululu luf ton
