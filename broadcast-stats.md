@@ -186,6 +186,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+05/23/2026 | VCR | Quest for Excellence 7
 05/12/2026 | VCR | RHYTHM OF THE REEF (1998)
 04/18/2026 | VCR | [Trailers from MEAN GUNS] SLAM, CHINESE BOX, REDLINE, ARMSTRONG, CHAIRMAN OF THE BOARD
 04/18/2026 | VCR | Touring the Gateway Arch
