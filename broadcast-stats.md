@@ -22,9 +22,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 02/19/2026 | 09/30/2023 | 117
 MM6 | It's Your Turn to Die | 02/24/2026 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 02/28/2026 | 6/6/2021 | 58
-79 | A Frightening Experience | 02/28/2026 | 1/16/2022 | 57
 MM13 | Keep on Winning | 03/03/2026 | 8/22/2021 | 56
-85 | The Power You Are Seeking | 03/05/2026 | 11/13/2022 | 45
 MM15 | Don't Be Afraid of Me | 03/07/2026 | 12/05/2021 | 55
 75 | Never Show Emotion | 03/10/2026 | 11/07/2021 | 48
 82 | Are You Looking for Death? | 03/10/2026 | 05/15/2022 | 50
@@ -66,6 +64,8 @@ MM8 | The Sword of Catastrophe | 05/19/2026 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 05/19/2026 | 5/23/2021 | 56
 MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 84 | Poor Doomed Humans | 05/23/2026 | 10/16/2022 | 51
+79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
+85 | The Power You Are Seeking | 05/28/2026 | 11/13/2022 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 5 (Thu)
+_90s_ | 2 | 6 (Thu)
 Other | 5 | 3 (Sat)
-MM10s | 10 | 1 (Thu)
-70s | 10 | 1 (Thu)
-60s | 6 | 0 (Tue)
+MM10s | 10 | 2 (Thu)
+60s | 6 | 1 (Tue)
 MM00s | 9 | 0 (Sat)
-80s | 10 | 0 (Sat)
+70s | 10 | 0 (Thu)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
