@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 68 | Endless Chain of Duels and Killings | 05/31/2025 | 6/27/2021 | 54
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
-SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 02/19/2026 | 09/30/2023 | 117
 MM6 | It's Your Turn to Die | 02/24/2026 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 02/28/2026 | 6/6/2021 | 58
 MM13 | Keep on Winning | 03/03/2026 | 8/22/2021 | 56
@@ -66,6 +65,7 @@ MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 84 | Poor Doomed Humans | 05/23/2026 | 10/16/2022 | 51
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
 85 | The Power You Are Seeking | 05/28/2026 | 11/13/2022 | 45
+SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 05/30/2026 | 09/30/2023 | 117
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 6 (Thu)
-Other | 5 | 3 (Sat)
 MM10s | 10 | 2 (Thu)
 60s | 6 | 1 (Tue)
 MM00s | 9 | 0 (Sat)
 70s | 10 | 0 (Thu)
 80s | 10 | 0 (Thu)
+Other | 5 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,13 +94,14 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+05/30/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
+05/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/28/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 05/28/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 05/28/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 05/28/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 05/28/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 05/28/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-05/28/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/23/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 05/23/2026 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
 05/23/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
@@ -166,7 +167,6 @@ Latest Date | Video / Audio | Debut++
 04/21/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 04/21/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 02/19/2026 | --
-02/19/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
 12/20/2025 | --
