@@ -94,8 +94,15 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+06/04/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+06/04/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+06/04/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+06/04/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+06/04/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
+06/04/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+05/30/2026 | ---
 05/30/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
-05/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 05/28/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 05/28/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 05/28/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
@@ -161,11 +168,6 @@ Latest Date | Video / Audio | Debut++
 04/25/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 04/25/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 04/25/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-04/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-04/21/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-04/21/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-04/21/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-04/21/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
