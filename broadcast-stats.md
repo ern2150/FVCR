@@ -18,7 +18,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
-MM7 | I'd Like to See You Try and Hurt Me | 02/28/2026 | 6/6/2021 | 58
 MM13 | Keep on Winning | 03/03/2026 | 8/22/2021 | 56
 MM15 | Don't Be Afraid of Me | 03/07/2026 | 12/05/2021 | 55
 75 | Never Show Emotion | 03/10/2026 | 11/07/2021 | 48
@@ -66,6 +65,7 @@ MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 05/30/2026 | 09/30/2023 | 117
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 06/04/2026 | 6/27/2021 | 54
+MM7 | I'd Like to See You Try and Hurt Me | 06/06/2026 | 6/6/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,8 +78,8 @@ MM10s | 10 | 3 (Thu)
 70s | 10 | 1 (Thu)
 80s | 10 | 1 (Thu)
 Other | 5 | 0 (Sat)
-MM00s | 9 | 0 (Thu)
 60s | 6 | 0 (Thu)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
