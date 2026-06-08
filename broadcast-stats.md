@@ -94,13 +94,24 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+06/08/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+06/08/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+06/08/2026 | FMW Opener / FMW Closer | 12/6/2020
+06/08/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+06/08/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+06/08/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
+06/08/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+06/08/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+06/08/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+06/08/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+06/08/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+06/08/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/06/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-06/06/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 06/06/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 06/06/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 06/06/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 06/06/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-06/06/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 06/04/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 06/04/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
@@ -153,17 +164,6 @@ Latest Date | Video / Audio | Debut++
 05/05/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 05/05/2026 | SHIT FUCK / (same as video) | 5/4/2021
 05/05/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-05/02/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-05/02/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-05/02/2026 | FMW Opener / FMW Closer | 12/6/2020
-05/02/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-05/02/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-05/02/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
-05/02/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-05/02/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-05/02/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-05/02/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-05/02/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 04/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 04/30/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 04/30/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
