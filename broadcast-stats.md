@@ -188,6 +188,10 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/08/2026 | VCR | Macron-1 ("Darkstar's Revenge" feat Noel) 
+06/08/2026 | VCR | Learning Treehouse: Phonics Vol 1
+06/08/2026 | PS2 | (DVD) Neon Tuners and Custom Imports
+06/08/2026 | PS2 | (DVD) Using Your Garmin eTrex
 06/06/2026 | PS2 | (DVD) American DJ: Product DVD Volume 13
 06/04/2026 | VCR | Turning Points: Choosing to Create the Future of Your Dreams
 05/23/2026 | VCR | Quest for Excellence 7
