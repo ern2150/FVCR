@@ -19,9 +19,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM15 | Don't Be Afraid of Me | 03/07/2026 | 12/05/2021 | 55
-82 | Are You Looking for Death? | 03/10/2026 | 05/15/2022 | 50
 MM10 | The Splatter and Gore Department | 03/14/2026 | 7/15/2021 | 59
-78 | All for Revenge | 03/14/2026 | 1/9/2022 | 50
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
 81 | One Hell of a Nobody | 03/21/2026 | 03/27/2022 | 53
 MM4 | I'm Glad to See You're Prepared to Die | 03/21/2026 | 4/4/2021 | 50
@@ -66,6 +64,8 @@ MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
 MM7 | I'd Like to See You Try and Hurt Me | 06/06/2026 | 6/6/2021 | 58
 MM13 | Keep on Winning | 06/06/2026 | 8/22/2021 | 56
 75 | Never Show Emotion | 06/06/2026 | 11/07/2021 | 48
+78 | All for Revenge | 06/09/2026 | 1/9/2022 | 50
+82 | Are You Looking for Death? | 06/09/2026 | 05/15/2022 | 50
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM13 | Keep on Winning | 06/06/2026 | 8/22/2021 | 56
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 7 (Thu)
-80s | 10 | 1 (Thu)
 Other | 5 | 1 (Sat)
 60s | 6 | 0 (Thu)
 MM00s | 9 | 0 (Sat)
 MM10s | 10 | 0 (Sat)
-70s | 10 | 0 (Sat)
+70s | 10 | 0 (Tue)
+80s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,6 +94,11 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/09/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
+06/09/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+06/09/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+06/09/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
+06/09/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 06/08/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 06/08/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
@@ -106,7 +111,6 @@ Latest Date | Video / Audio | Debut++
 06/08/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 06/08/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 06/08/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-06/08/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/06/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 06/06/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 06/06/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -164,10 +168,6 @@ Latest Date | Video / Audio | Debut++
 05/05/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 05/05/2026 | SHIT FUCK / (same as video) | 5/4/2021
 05/05/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-04/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-04/30/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-04/30/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-04/30/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
@@ -285,19 +285,7 @@ Latest Date | Cam / Video / Audio | Stuff
 06/19/2025 | VHS | McGee and Me: A Star in the Breaking
 06/07/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 2: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙋𝙍𝙀𝘿𝘼𝙏𝙊𝙍𝙎 (𝙑𝙃𝙎 1995)
 06/05/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 1: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙈𝘼𝙈𝙈𝘼𝙇𝙎 (𝙑𝙃𝙎 1995)
-05/31/2025 | VHS | (bonus clip while finding mixtape) MAGIC EYE II (Last Seen 12/23/2023)
-05/31/2025 | VHS | Rollerblade: Basics of Inline Skating "𝙍𝙀𝘼𝘿𝙔, 𝙎𝙀𝙏... 𝙍𝙊𝙇𝙇!" (Last Seen 07/11/2024) 
-05/31/2025 | VHS | Rollerblade: InLineInLife! (Last Seen 07/18/2024)
-05/29/2025 | PS2 | (gifted game) INIDGO PROPHECY
-05/29/2025 | PS2 | (dollar bin PS2 games) SUPER TRUCKS
-05/24/2025 | VHS | "Weird nature tape I found while I go find the mixtape" (soft focus ficus and piano tinkling) DINO MAJESTIC PEACE
-05/24/2025 | VHS | Macron-1: Fighting for Truth and Justi--NOPE, TAPE BROKE
-05/24/2025 | VHS | "ADV Two Ep Anime" 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎 𝘼𝙉𝙄𝙈𝙀 𝙉𝙄𝙂𝙃𝙏: 801 𝙏.𝙏.𝙎. 𝘼𝙄𝙍𝘽𝘼𝙏𝙎 3𝙍𝘿 𝙎𝙏𝙍𝙄𝙆𝙀 (episode 6 only)
-05/20/2025 | VHS | Sweet Sea
-05/15/2025 | VHS | Las Vegas Video Postcard: 100 Years
-05/13/2025 | VHS | (student-submitted tapes) "JOKES FROM THE FOLKS" Yakov Smirnov in Branson - American Audience Interviews You!
-05/01/2025 | VHS | Danny Gans
-05/01/2025 | VHS | Jellies: Phantoms of the Deep (AV Mix)
+
 
 
 Outros
