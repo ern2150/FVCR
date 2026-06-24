@@ -188,6 +188,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+06/23/2026 | VCR | Richard Simmon's No Ifs Ands or Butts (feat Mr. Anatomy)
 06/20/2026 | PS2 | (DVD) Killer Instincts: Piranha: Wolf in the Water
 06/18/2026 | PS2 | (DVD) Road Rage 3 Need for Speed
 06/08/2026 | VCR | Macron-1 ("Darkstar's Revenge" feat Noel) 
