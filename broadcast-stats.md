@@ -94,6 +94,14 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+06/25/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+06/25/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
+06/25/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+06/25/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
+06/25/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+06/25/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+06/25/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/23/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 06/23/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 06/23/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
@@ -101,7 +109,6 @@ Latest Date | Video / Audio | Debut++
 06/23/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 06/23/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 06/23/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-06/23/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/20/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 06/20/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 06/20/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -161,13 +168,6 @@ Latest Date | Video / Audio | Debut++
 05/23/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 05/23/2026 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
 05/23/2026 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
-05/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-05/19/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
-05/19/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
-05/19/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-05/19/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
-05/19/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-05/19/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
