@@ -19,8 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
-88 | Under Attack in Hong Kong | 03/24/2026 | 06/18/2023 | 45
-MM12 | Evil Is Never Invincible | 03/31/2026 | 8/10/2021 | 58
 86 | The Passion and Death of their Struggle | 03/31/2026 | 12/22/2022 | 43
 MM11 | I Can Stand the Pain | 04/04/2026 | 7/27/2021 | 65
 70 | Take the Fight to the Enemy | 04/07/2026 | 7/11/2021 | 54
@@ -66,6 +64,8 @@ MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
 81 | One Hell of a Nobody | 06/18/2026 | 03/27/2022 | 53
 61 | I Must Make Sure You Fail | 06/20/2026  | 3/14/2021 | 53
 MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
+88 | Under Attack in Hong Kong | 06/25/2026 | 06/18/2023 | 45
+MM12 | Evil Is Never Invincible | 06/25/2026 | 8/10/2021 | 58
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 9 (Thu)
+_90s_ | 2 | 10 (Thu)
 Other | 5 | 3 (Sat)
 70s | 10 | 2 (Tue)
 MM00s | 9 | 1 (Tue)
-80s | 10 | 0 (Thu)
 60s | 6 | 0 (Sat)
-MM10s | 10 | 0 (Tue)
+80s | 10 | 0 (Thu)
+MM10s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
