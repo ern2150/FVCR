@@ -94,6 +94,13 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+06/27/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+06/27/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
+06/27/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+06/27/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
+06/27/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
+06/27/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 06/25/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 06/25/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -101,9 +108,7 @@ Latest Date | Video / Audio | Debut++
 06/25/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 06/25/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 06/25/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-06/25/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/23/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-06/23/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 06/23/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 06/23/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 06/23/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
@@ -163,11 +168,6 @@ Latest Date | Video / Audio | Debut++
 05/28/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 05/28/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 05/28/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-05/23/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-05/23/2026 | Vampire Raiders Ninja Queen end scene / Yung Bae - Magic | 09/29/2022
-05/23/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-05/23/2026 | Fashion Show Massacre at the Mini-Louvre / Black and White Co - Black and White | 5/27/2021
-05/23/2026 | Mugen Marvels / Marvel vs Capcom 2 - River Stage | 4/1/20211
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
