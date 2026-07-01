@@ -19,9 +19,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
-70 | Take the Fight to the Enemy | 04/07/2026 | 7/11/2021 | 54
 89 | Don't You Know the State I'm In? | 04/07/2026 | 07/02/2023 | 47
-76 | If I See Him, I'll Kill Him | 04/11/2026 | 11/21/2021 | 49
 90 | Every Different Way of Killing | 04/11/2026 | 07/23/2023 | 47
 MM14 | Fights the Evils with Great Power | 04/14/2026 | 9/26/2021 | 64
 72 | Who Is the Champion Now? | 04/14/2026 | 9/7/2021 | 53
@@ -66,6 +64,8 @@ MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
 MM12 | Evil Is Never Invincible | 06/25/2026 | 8/10/2021 | 58
 MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 86 | The Passion and Death of their Struggle | 06/27/2026 | 12/22/2022 | 43
+76 | If I See Him, I'll Kill Him | 06/30/2026 | 11/21/2021 | 49
+70 | Take the Fight to the Enemy | 06/30/2026 | 7/11/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -75,11 +75,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 10 (Thu)
 Other | 5 | 4 (Sat)
-70s | 10 | 2 (Tue)
 MM00s | 9 | 1 (Tue)
 60s | 6 | 1 (Sat)
 MM10s | 10 | 0 (Sat)
 80s | 10 | 0 (Sat)
+70s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
