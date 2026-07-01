@@ -94,13 +94,18 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+06/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+06/30/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+06/30/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+06/30/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+06/30/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+06/30/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+06/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-06/27/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 06/27/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
 06/27/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 06/27/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
 06/27/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
-06/27/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 06/25/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 06/25/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -163,11 +168,6 @@ Latest Date | Video / Audio | Debut++
 06/04/2026 | Barrel and Snorkel Strats / Heatwave - Lay It on Me | 11/29/2020
 05/30/2026 | ---
 05/30/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
-05/28/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-05/28/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-05/28/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-05/28/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-05/28/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
@@ -283,11 +283,7 @@ Latest Date | Cam / Video / Audio | Stuff
 07/11/2025 | VHS | Fun, Incorporated: Amazing Magic Tricks with Money
 07/11/2025 | VHS | Nikken Magnetic Health
 07/11/2025 | VHS | Pinocchio in School? (clips with page-turned written text between with duh adages, stops after first instance lol)
-06/21/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎: 𝙎𝙃𝙊𝙋𝙋𝙄𝙉𝙂 𝙒𝙄𝙏𝙃 𝙎𝙐𝙎𝘼𝙉 (1993)
-06/19/2025 | VHS | Kelly the Hero (first VCR don't like it, switches to Sony, plays one ep)
-06/19/2025 | VHS | McGee and Me: A Star in the Breaking
-06/07/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 2: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙋𝙍𝙀𝘿𝘼𝙏𝙊𝙍𝙎 (𝙑𝙃𝙎 1995)
-06/05/2025 | VHS | 𝙇𝙄𝙁𝙀 𝙄𝙉 𝙏𝙃𝙀 𝙎𝙀𝘼 𝙑𝙊𝙇 1: 𝙂𝙍𝙀𝘼𝙏 𝙎𝙀𝘼 𝙈𝘼𝙈𝙈𝘼𝙇𝙎 (𝙑𝙃𝙎 1995)
+
 
 
 
