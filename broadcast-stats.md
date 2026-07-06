@@ -19,7 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
-90 | Every Different Way of Killing | 04/11/2026 | 07/23/2023 | 47
 MM14 | Fights the Evils with Great Power | 04/14/2026 | 9/26/2021 | 64
 72 | Who Is the Champion Now? | 04/14/2026 | 9/7/2021 | 53
 83 | I Don't Mind a Little Danger | 04/16/2026 | 06/12/2022 | 50
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 76 | If I See Him, I'll Kill Him | 06/30/2026 | 11/21/2021 | 49
 70 | Take the Fight to the Enemy | 06/30/2026 | 7/11/2021 | 54
 89 | Don't You Know the State I'm In? | 07/02/2026 | 07/02/2023 | 47
+90 | Every Different Way of Killing | 07/03/2026 | 07/23/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 11 (Thu)
 Other | 5 | 4 (Sat)
 MM00s | 9 | 1 (Tue)
 60s | 6 | 1 (Sat)
 MM10s | 10 | 0 (Sat)
 70s | 10 | 0 (Tue)
 80s | 10 | 0 (Thu)
+_90s_ | 2 | 0 (FRI)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,15 +94,20 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+07/03/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+07/03/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+07/03/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+07/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+07/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+07/03/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/02/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 07/02/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 07/02/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 07/02/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 07/02/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 07/02/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
-07/02/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 06/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-06/30/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 06/30/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 06/30/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 06/30/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
@@ -161,11 +166,6 @@ Latest Date | Video / Audio | Debut++
 06/08/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 06/08/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 06/08/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-06/06/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-06/06/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-06/06/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-06/06/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-06/06/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 05/30/2026 | ---
 05/30/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 02/19/2026 | --
@@ -188,6 +188,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/03/2026 | VCR | AV Mix: Dino, Majestic Peace
 07/02/2026 | VCR | KITEBOARDING: HOW TO RIP
 06/23/2026 | VCR | Richard Simmon's No Ifs Ands or Butts (feat Mr. Anatomy)
 06/20/2026 | PS2 | (DVD) Killer Instincts: Piranha: Wolf in the Water
