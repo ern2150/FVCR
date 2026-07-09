@@ -188,6 +188,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/09/2026 | PS3 | JammXkids Can't Dance Don't Want To feat Randy Jackson/Shaq
 07/03/2026 | VCR | AV Mix: Dino, Majestic Peace
 07/02/2026 | VCR | KITEBOARDING: HOW TO RIP
 06/23/2026 | VCR | Richard Simmon's No Ifs Ands or Butts (feat Mr. Anatomy)
