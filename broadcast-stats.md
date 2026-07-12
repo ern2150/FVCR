@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
 MM14 | Fights the Evils with Great Power | 04/14/2026 | 9/26/2021 | 64
-MM18 | Fought Against All Evils | 04/18/2026  | 1/23/2022 | 51
 67 | Together We Will Smash Them | 04/21/2026 | 6/20/2021 | 53
 MM17 | Ninja Challenge Card | 04/21/2026 | 1/2/2022 | 52
 MM16 | Today We Shall Kill Each Other | 04/25/2026 | 12/21/2021 | 52
@@ -66,6 +65,7 @@ MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 72 | Who Is the Champion Now? | 07/07/2026 | 9/7/2021 | 53
 83 | I Don't Mind a Little Danger | 07/07/2026 | 06/12/2022 | 50
 91 | Reprieve from Chaos | 07/09/2026 | 02/03/2024 | 49
+MM18 | Fought Against All Evils | 07/11/2026  | 1/23/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 5 (Sat)
+Other | 5 | 6 (Sat)
 MM00s | 9 | 1 (Tue)
-60s | 6 | 2 (Sat)
-MM10s | 10 | 1 (Sat)
+60s | 6 | 3 (Sat)
 70s | 10 | 0 (Tue)
 80s | 10 | 0 (Tue)
 _90s_ | 2 | 0 (Thu)
+MM10s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
