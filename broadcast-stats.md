@@ -19,9 +19,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
 69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
-MM14 | Fights the Evils with Great Power | 04/14/2026 | 9/26/2021 | 64
 67 | Together We Will Smash Them | 04/21/2026 | 6/20/2021 | 53
-MM17 | Ninja Challenge Card | 04/21/2026 | 1/2/2022 | 52
 MM16 | Today We Shall Kill Each Other | 04/25/2026 | 12/21/2021 | 52
 87 | Win without Failing | 04/25/2026 | 02/12/2023 | 46
 73 | The Whirlpool of Battle | 04/30/2026 | 9/21/2021 | 62
@@ -66,6 +64,8 @@ MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 83 | I Don't Mind a Little Danger | 07/07/2026 | 06/12/2022 | 50
 91 | Reprieve from Chaos | 07/09/2026 | 02/03/2024 | 49
 MM18 | Fought Against All Evils | 07/11/2026  | 1/23/2022 | 51
+MM14 | Fights the Evils with Great Power | 07/14/2026 | 9/26/2021 | 64
+MM17 | Ninja Challenge Card | 07/14/2026 | 1/2/2022 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM18 | Fought Against All Evils | 07/11/2026  | 1/23/2022 | 51
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 6 (Sat)
-MM00s | 9 | 1 (Tue)
+MM00s | 9 | 2 (Tue)
 60s | 6 | 3 (Sat)
-70s | 10 | 0 (Tue)
-80s | 10 | 0 (Tue)
+70s | 10 | 1 (Tue)
+80s | 10 | 1 (Tue)
 _90s_ | 2 | 0 (Thu)
-MM10s | 10 | 0 (Sat)
+MM10s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
