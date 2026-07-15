@@ -94,6 +94,15 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+07/14/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+07/14/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+07/14/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+07/14/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+07/14/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+07/14/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+07/14/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
+07/14/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/11/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 07/11/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 07/11/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
@@ -105,9 +114,7 @@ Latest Date | Video / Audio | Debut++
 07/11/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 07/11/2026 | SHIT FUCK / (same as video) | 5/4/2021
 07/11/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-07/11/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/09/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-07/09/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 07/09/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 07/09/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 07/09/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
@@ -154,13 +161,6 @@ Latest Date | Video / Audio | Debut++
 06/23/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 06/23/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 06/23/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-06/20/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-06/20/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-06/20/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-06/20/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-06/20/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-06/20/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-06/20/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
 06/18/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 06/18/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 06/18/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
