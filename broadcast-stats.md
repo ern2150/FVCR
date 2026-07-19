@@ -187,6 +187,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+07/18/2026 | VCR | 𝙏𝙀𝙀𝙉𝙑𝙄𝘿 𝙑𝙄𝘿𝙀𝙊 𝙈𝘼𝙂𝘼𝙕𝙄𝙉𝙀 𝙑𝙊𝙇 1
 07/11/2026 | PS3 | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝘿𝙑𝘿 - 𝙏𝙃𝙀 𝙐𝙇𝙏𝙄𝙈𝘼𝙏𝙀 𝘿𝙑𝘿 𝙀𝙓𝙋𝙀𝙍𝙄𝙀𝙉𝘾𝙀
 07/09/2026 | PS3 | JammXkids Can't Dance Don't Want To feat Randy Jackson
 07/03/2026 | VCR | AV Mix: Dino, Majestic Peace
