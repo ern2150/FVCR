@@ -25,7 +25,6 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 |
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 MM3 | Blood, Lust, and Intrigue | 05/05/2026 | 3/9/2021 | 54
 71 | I Don't Belong Here | 05/09/2026 | 8/1/2021 | 54
-80 | Pass Through All Hard Times | 05/09/2026 | 02/20/2022 | 46
 MM2 | Why Are You Playing Heroes? | 01/20/2026 | 2/23/2021 | 64
 MM19 | Ghost Shadow Squad | 05/14/2026 | 02/06/2022 | 55
 77 | Ninja City | 05/14/2026 | 11/28/2021 | 49
@@ -65,7 +64,8 @@ MM17 | Ninja Challenge Card | 07/14/2026 | 1/2/2022 | 52
 MM16 | Today We Shall Kill Each Other | 07/14/2026 | 12/21/2021 | 52
 67 | Together We Will Smash Them | 07/18/2026 | 6/20/2021 | 53
 87 | Win without Failing | 07/18/2026 | 02/12/2023 | 46
-MM9 | Hit Me Like You Mean It | 0721/2026  | 7/8/2021 | 59
+MM9 | Hit Me Like You Mean It | 07/21/2026  | 7/8/2021 | 59
+80 | Pass Through All Hard Times | 07/21/2026 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,8 +78,8 @@ Other | 5 | 7 (Sat)
 _90s_ | 2 | 0 (Thu)
 MM10s | 10 | 0 (Tue)
 60s | 6 | 0 (Sat)
-80s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Tue)
+80s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
