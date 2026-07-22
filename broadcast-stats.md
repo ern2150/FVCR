@@ -94,6 +94,17 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
+07/21/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+07/21/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+07/21/2026 | Baki end whiteout / (same as video) | 4/13/2021
+07/21/2026 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+07/21/2026 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+07/21/2026 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+07/21/2026 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+07/21/2026 | (blip)
+07/21/2026 | Ninja the Protector (gordon listens to cassette, then henshins), Schtuff | 4/20/2021
+07/21/2026 | (rollover)
 07/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 07/21/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 07/21/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -103,7 +114,6 @@ Latest Date | Video / Audio | Debut++
 07/21/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 07/21/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/18/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-07/18/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 07/18/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/18/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 07/18/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
