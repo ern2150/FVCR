@@ -94,8 +94,14 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+07/25/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+07/25/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+07/25/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+07/25/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+07/25/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+07/25/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 07/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
-07/21/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 07/21/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 07/21/2026 | Baki end whiteout / (same as video) | 4/13/2021
 07/21/2026 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
@@ -169,12 +175,6 @@ Latest Date | Video / Audio | Debut++
 06/27/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 06/27/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
 06/27/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
-06/23/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-06/23/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-06/23/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-06/23/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-06/23/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-06/23/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 05/30/2026 | ---
 05/30/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 02/19/2026 | --
