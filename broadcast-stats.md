@@ -17,7 +17,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
-69 | SUMMERTIME | 01/29/2026 | 7/4/2021 | 65
 MM1 | Get Rich Regardless of the Means (End of 2019) | 03/17/2026 | 11/14/2019 | 66
 73 | The Whirlpool of Battle | 04/30/2026 | 9/21/2021 | 62
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
@@ -66,6 +65,7 @@ MM16 | Today We Shall Kill Each Other | 07/14/2026 | 12/21/2021 | 52
 87 | Win without Failing | 07/18/2026 | 02/12/2023 | 46
 MM9 | Hit Me Like You Mean It | 07/21/2026  | 7/8/2021 | 59
 80 | Pass Through All Hard Times | 07/21/2026 | 02/20/2022 | 46
+69 | SUMMERTIME | 07/25/2026 | 7/4/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM9 | Hit Me Like You Mean It | 07/21/2026  | 7/8/2021 | 59
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 7 (Sat)
+Other | 5 | 8 (Sat)
 70s | 10 | 2 (Tue)
-_90s_ | 2 | 0 (Thu)
+_90s_ | 2 | 1 (Thu)
 MM10s | 10 | 0 (Tue)
-60s | 6 | 0 (Sat)
 MM00s | 9 | 0 (Tue)
 80s | 10 | 0 (Tue)
+60s | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
