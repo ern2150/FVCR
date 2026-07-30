@@ -94,8 +94,14 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+07/29/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+07/29/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+07/29/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+07/29/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+07/29/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+07/29/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+07/29/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-07/25/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 07/25/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 07/25/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 07/25/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
@@ -118,7 +124,6 @@ Latest Date | Video / Audio | Debut++
 07/21/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 07/21/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 07/21/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-07/21/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 07/18/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 07/18/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/18/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -165,11 +170,6 @@ Latest Date | Video / Audio | Debut++
 07/02/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 07/02/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 07/02/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
-06/30/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-06/30/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-06/30/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-06/30/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-06/30/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 06/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 06/27/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
 06/27/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
