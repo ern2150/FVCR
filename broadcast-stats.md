@@ -94,13 +94,36 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/07/2026 | 𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊 // 𝙁𝙑𝘾𝙍 𝙑𝙃𝙎 𝙈𝙐𝙎𝙄𝘾 𝙑𝙄𝘿𝙀𝙊 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉
+08/07/2026 | [Character Profiles: Hanuman](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Hanuman-vs-7-Ultramen-(1974)#hanuman-vs-sun) / [The Go Team - Kickstart](https://youtu.be/wQg7qOB5Heg) | 8/27/2020
+08/07/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+08/07/2026 | Hot Yachts Cold Water🎧 / Air Suspension Club - Seaside in the Twilight | 11/29/2020
+08/07/2026 | [Cyber Ninja Opening Battle](https://archive.org/details/CYBERNINJA_201812/CYBER+NINJA.ISO?start=109) / [Tony McAlpine - Tears of the Sahara](https://www.youtube.com/watch?v=aMvqc25AQik&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=83) | 7/14/2020
+08/07/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
+08/07/2026 | Vaporwave Beach (School Wars etc) / Ahero - Slow Summer | 7/26/2020
+08/07/2026 | Hop on Losercycle (Changeman) / LINDBERG - RUSH LIFE | 5/10/2020
+08/07/2026 | UDUNOME (Deadline Auto Theft) / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+08/07/2026 | Good lookin swords, Gordon Cycle Battle, "I am the champion of the ninjas" (Ninja the Protector) / Original audio, BIll Conti - Runaway, Dandy Cologne | 6/11/2020
+08/07/2026 | SoundMarket - Earthshine / (same as video) | 4/1/2021
+08/07/2026 | Zodiac and Jason the Terrible / (same as video) | 4/1/2021
+08/07/2026 | Drifting Women / Rainbo - Integra Type | 11/8/2020
+08/07/2026 | Colorbars Beach Bodies / Wavelord - Snow in Miami | 4/1/2021
+08/07/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+08/07/2026 | Mustard vs Oreo Ninja (Godfather the Master) / Yasuha - Flyday Chinatown | 8/9/2020
+08/07/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+08/07/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+08/07/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
+08/07/2026 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
+08/07/2026 | PINK TIMECLOCK TOP RIGHT 10:00 | ???
+08/07/2026 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
+08/07/2026 | Space - Just Blue (live) / (same as video) | 8/2/2020
+08/07/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 08/04/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 08/04/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
 08/04/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 08/04/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
 08/04/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
-08/04/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 08/01/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 08/01/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
