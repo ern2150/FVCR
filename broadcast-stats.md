@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2025.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-64 | Hold You Close and Feel Things | 01/25/2025 | 4/18/2021 | 58
 49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
@@ -26,7 +25,6 @@ MM8 | The Sword of Catastrophe | 05/19/2026 | 6/15/2021 | 58
 MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 84 | Poor Doomed Humans | 05/23/2026 | 10/16/2022 | 51
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
-85 | The Power You Are Seeking | 05/28/2026 | 11/13/2022 | 45
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 05/30/2026 | 09/30/2023 | 117
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 06/04/2026 | 6/27/2021 | 54
@@ -66,6 +64,8 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 08/01/2026 | 11/14/2019 |
 MM3 | Blood, Lust, and Intrigue | 08/01/2026 | 3/9/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 77 | Ninja City | 08/07/2026 | 11/28/2021 | 49
+64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
+85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -73,13 +73,13 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 9 (Sat)
+Other | 5 | 10 (Sat)
 _90s_ | 2 | 3 (Thu)
 MM10s | 10 | 2 (Tue)
-80s | 10 | 2 (Tue)
-60s | 6 | 1 (Sat)
 MM00s | 9 | 0 (Tue)
 70s | 10 | 0 (Fri)
+60s | 6 | 0 (Sat)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,6 +94,9 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/08/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
+08/08/2026 | (catch up on these later - Maria / Destroy You / KittyKats / Ultra-Hanu-Fantasy )
+08/08/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/07/2026 | 𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊 // 𝙁𝙑𝘾𝙍 𝙑𝙃𝙎 𝙈𝙐𝙎𝙄𝘾 𝙑𝙄𝘿𝙀𝙊 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉
 08/07/2026 | [Character Profiles: Hanuman](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Hanuman-vs-7-Ultramen-(1974)#hanuman-vs-sun) / [The Go Team - Kickstart](https://youtu.be/wQg7qOB5Heg) | 8/27/2020
 08/07/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
@@ -112,12 +115,10 @@ Latest Date | Video / Audio | Debut++
 08/07/2026 | Mustard vs Oreo Ninja (Godfather the Master) / Yasuha - Flyday Chinatown | 8/9/2020
 08/07/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 08/07/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-08/07/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 08/07/2026 | Mary Character Profile / Brothers Johnson - Good to You | 8/13/2020
 08/07/2026 | PINK TIMECLOCK TOP RIGHT 10:00 | ???
 08/07/2026 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 08/07/2026 | Space - Just Blue (live) / (same as video) | 8/2/2020
-08/07/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
 08/04/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 08/04/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
@@ -220,6 +221,11 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/08/2026 | VCR | (various Kavo intro sources ending with Lookie)
+08/08/2026 | VCR | SONY Handicam instructional
+08/08/2026 | VCR | Toshiba Mary
+08/08/2026 | VCR | National Exciting Video
+08/08/2026 | --- | SAUCED AND FOUND - 𝙁𝙑𝘾𝙍 𝙎𝙊𝙐𝙍𝘾𝙀 𝙈𝘼𝙏𝙀𝙍𝙄𝘼𝙇 
 07/25/2026 | VCR | ROCK'S WINNING WORKOUT WITHOUT WEIGHTS
 07/25/2026 | VCR | 𝙒𝙒𝙁 𝙏𝙃𝙀 𝘼𝙍𝘾𝘼𝘿𝙀 𝙂𝘼𝙈𝙀 (Bret Hart, code jockey, "Wrestlemania the Arcade Game")
 07/18/2026 | VCR | 𝙏𝙀𝙀𝙉𝙑𝙄𝘿 𝙑𝙄𝘿𝙀𝙊 𝙈𝘼𝙂𝘼𝙕𝙄𝙉𝙀 𝙑𝙊𝙇 1
@@ -331,7 +337,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-08/07/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/08/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
