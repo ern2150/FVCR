@@ -23,7 +23,6 @@ MM19 | Ghost Shadow Squad | 05/14/2026 | 02/06/2022 | 55
 MM8 | The Sword of Catastrophe | 05/19/2026 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 05/19/2026 | 5/23/2021 | 56
 MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
-84 | Poor Doomed Humans | 05/23/2026 | 10/16/2022 | 51
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 05/30/2026 | 09/30/2023 | 117
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
@@ -66,6 +65,7 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 77 | Ninja City | 08/07/2026 | 11/28/2021 | 49
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
 85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
+84 | Poor Doomed Humans | 08/08/2026 | 10/16/2022 | 51
 
 
 "Decades" by Weeks Since Seen, descending
@@ -74,12 +74,12 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 5 | 10 (Sat)
-_90s_ | 2 | 3 (Thu)
-MM10s | 10 | 2 (Tue)
-MM00s | 9 | 0 (Tue)
+_90s_ | 2 | 4 (Thu)
+MM10s | 10 | 3 (Tue)
+MM00s | 9 | 1 (Tue)
 70s | 10 | 0 (Fri)
 60s | 6 | 0 (Sat)
-80s | 10 | 0 (Sat)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,8 +94,9 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/13/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
+08/13/2026 | (catch up with these later)
 08/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-08/08/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 08/08/2026 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 08/08/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 08/08/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
@@ -225,6 +226,8 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/13/2026 | VCR | How to Become a Teenage Ninja
+08/13/2026 | VCR | Sharp's Videoworld: Understanding Home Video
 08/08/2026 | VCR | (various Kavo intro sources ending with Lookie)
 08/08/2026 | VCR | SONY Handicam instructional
 08/08/2026 | VCR | Toshiba Mary
@@ -341,7 +344,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-08/08/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/13/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
