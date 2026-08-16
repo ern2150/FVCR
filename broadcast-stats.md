@@ -65,7 +65,7 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 77 | Ninja City | 08/07/2026 | 11/28/2021 | 49
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
 85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
-84 | Poor Doomed Humans | 08/08/2026 | 10/16/2022 | 51
+84 | Poor Doomed Humans | 08/13/2026 | 10/16/2022 | 51
 19 | Easy Movie Intro Vortex | 08/15/2026 | 1/14/2020 | 85
 
 "Decades" by Weeks Since Seen, descending
@@ -73,11 +73,11 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 4 (Thu)
+_90s_ | 2 | 5 (Thu)
 MM10s | 10 | 3 (Tue)
 MM00s | 9 | 1 (Tue)
-70s | 10 | 0 (Fri)
-60s | 6 | 0 (Sat)
+70s | 10 | 1 (Fri)
+60s | 6 | 1 (Sat)
 80s | 10 | 0 (Thu)
 Other | 6 | 0 (Sat)
 
