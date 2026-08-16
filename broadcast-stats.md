@@ -66,20 +66,20 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
 85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
 84 | Poor Doomed Humans | 08/08/2026 | 10/16/2022 | 51
-
+19 | Easy Movie Intro Vortex | 08/15/2026 | 1/14/2020 | 85
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 5 | 10 (Sat)
 _90s_ | 2 | 4 (Thu)
 MM10s | 10 | 3 (Tue)
 MM00s | 9 | 1 (Tue)
 70s | 10 | 0 (Fri)
 60s | 6 | 0 (Sat)
 80s | 10 | 0 (Thu)
+Other | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -94,6 +94,8 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/15/2026 | Jerry Harris Collected Videos (Exercise Your Body, Bachelor Life, etc)
+08/15/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/13/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 08/13/2026 | (catch up with these later)
 08/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
@@ -101,7 +103,6 @@ Latest Date | Video / Audio | Debut++
 08/08/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 08/08/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 08/08/2026 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-08/08/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/07/2026 | 𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊 // 𝙁𝙑𝘾𝙍 𝙑𝙃𝙎 𝙈𝙐𝙎𝙄𝘾 𝙑𝙄𝘿𝙀𝙊 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉
 08/07/2026 | [Character Profiles: Hanuman](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Hanuman-vs-7-Ultramen-(1974)#hanuman-vs-sun) / [The Go Team - Kickstart](https://youtu.be/wQg7qOB5Heg) | 8/27/2020
 08/07/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
@@ -344,7 +345,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-08/13/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/15/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
