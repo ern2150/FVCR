@@ -67,18 +67,19 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
 84 | Poor Doomed Humans | 08/13/2026 | 10/16/2022 | 51
 19 | Easy Movie Intro Vortex | 08/15/2026 | 1/14/2020 | 85
+27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 5 (Thu)
-MM10s | 10 | 3 (Tue)
-MM00s | 9 | 1 (Tue)
-70s | 10 | 1 (Fri)
-60s | 6 | 1 (Sat)
-80s | 10 | 0 (Thu)
+_90s_ | 2 | 6 (Thu)
+MM10s | 10 | 4 (Tue)
+MM00s | 9 | 2 (Tue)
+70s | 10 | 2 (Fri)
+60s | 6 | 2 (Sat)
+80s | 10 | 1 (Thu)
 Other | 6 | 0 (Sat)
 
 
@@ -94,8 +95,11 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/22/2026 | Michael Sembello - Automatic Man | 09/15/2020 
+08/22/2026 | Arcade attack Silverball Heroes (excerpt with all the animation) | 09/27/2022
+08/22/2026 | Azul y Negro - Isadora | 7/14/2020
+08/22/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/15/2026 | Jerry Harris Collected Videos (Exercise Your Body, Bachelor Life, etc)
-08/15/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/13/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 08/13/2026 | (catch up with these later)
 08/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
@@ -227,6 +231,9 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+08/22/2026 | VCR | YES I CAN Asthma (8/23/2022)
+08/22/2026 | VCR | MegaKidsTV VIDEO, SEGA, GEO (09/20/2022) 
+08/22/2026 | VCR | SEGATA SANSHIROs (09/27/2022)
 08/13/2026 | VCR | How to Become a Teenage Ninja
 08/13/2026 | VCR | Sharp's Videoworld: Understanding Home Video
 08/08/2026 | VCR | (various Kavo intro sources ending with Lookie)
@@ -345,7 +352,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-08/15/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/22/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
