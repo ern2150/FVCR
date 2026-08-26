@@ -24,7 +24,6 @@ MM8 | The Sword of Catastrophe | 05/19/2026 | 6/15/2021 | 58
 66 | Do You Really Have the Confidence? | 05/19/2026 | 5/23/2021 | 56
 MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
-SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 05/30/2026 | 09/30/2023 | 117
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 06/04/2026 | 6/27/2021 | 54
 MM7 | I'd Like to See You Try and Hurt Me | 06/06/2026 | 6/6/2021 | 58
@@ -68,6 +67,7 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 84 | Poor Doomed Humans | 08/13/2026 | 10/16/2022 | 51
 19 | Easy Movie Intro Vortex | 08/15/2026 | 1/14/2020 | 85
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020
+SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 08/25/2026 | 09/30/2023 | 117
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -75,12 +75,12 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 6 (Thu)
-MM10s | 10 | 4 (Tue)
-MM00s | 9 | 2 (Tue)
+MM10s | 10 | 5 (Tue)
+MM00s | 9 | 3 (Tue)
 70s | 10 | 2 (Fri)
 60s | 6 | 2 (Sat)
 80s | 10 | 1 (Thu)
-Other | 6 | 0 (Sat)
+Other | 6 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -95,10 +95,12 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+08/25/2026 | ---
+08/25/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
+08/25/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/22/2026 | Michael Sembello - Automatic Man | 09/15/2020 
 08/22/2026 | Arcade attack Silverball Heroes (excerpt with all the animation) | 09/27/2022
 08/22/2026 | Azul y Negro - Isadora | 7/14/2020
-08/22/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/15/2026 | Jerry Harris Collected Videos (Exercise Your Body, Bachelor Life, etc)
 08/13/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 08/13/2026 | (catch up with these later)
@@ -209,8 +211,6 @@ Latest Date | Video / Audio | Debut++
 07/03/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 07/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 07/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-05/30/2026 | ---
-05/30/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
@@ -352,7 +352,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-08/22/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+08/25/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
