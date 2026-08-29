@@ -68,6 +68,7 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 19 | Easy Movie Intro Vortex | 08/15/2026 | 1/14/2020 | 85
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 08/25/2026 | 09/30/2023 | 117
+-- | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇 𝙑𝙃𝙎 𝘾𝙊𝙈𝙋𝙇𝘼𝙏𝙄𝙊𝙉 | 08/29/2026 | xx/xx/2019 | ???
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -80,7 +81,7 @@ MM00s | 9 | 3 (Tue)
 70s | 10 | 2 (Fri)
 60s | 6 | 2 (Sat)
 80s | 10 | 1 (Thu)
-Other | 6 | 0 (Tue)
+Other | 6 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
