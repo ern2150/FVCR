@@ -66,7 +66,7 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
 84 | Poor Doomed Humans | 08/13/2026 | 10/16/2022 | 51
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
-27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020
+27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020 | 72
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 08/25/2026 | 09/30/2023 | 117
 -- | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇 𝙑𝙃𝙎 𝘾𝙊𝙈𝙋𝙇𝘼𝙏𝙄𝙊𝙉 | 08/29/2026 | 8/10/2019 | 360
 
