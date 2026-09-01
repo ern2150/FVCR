@@ -96,9 +96,15 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+09/01/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+09/01/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+09/01/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+09/01/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+09/01/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+09/01/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/25/2026 | ---
 08/25/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
-08/25/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/22/2026 | Michael Sembello - Automatic Man | 09/15/2020 
 08/22/2026 | Arcade attack Silverball Heroes (excerpt with all the animation) | 09/27/2022
 08/22/2026 | Azul y Negro - Isadora | 7/14/2020
@@ -133,7 +139,6 @@ Latest Date | Video / Audio | Debut++
 08/07/2026 | Tough Maskman / Lindberg - Rush Life | ~5/10/2020
 08/07/2026 | Space - Just Blue (live) / (same as video) | 8/2/2020
 08/04/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-08/04/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 08/04/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
 08/04/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 08/04/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
@@ -207,11 +212,6 @@ Latest Date | Video / Audio | Debut++
 07/07/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 07/07/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 07/07/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-07/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-07/03/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-07/03/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-07/03/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-07/03/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
