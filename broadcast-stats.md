@@ -19,9 +19,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
-MM19 | Ghost Shadow Squad | 05/14/2026 | 02/06/2022 | 55
 MM8 | The Sword of Catastrophe | 05/19/2026 | 6/15/2021 | 58
-66 | Do You Really Have the Confidence? | 05/19/2026 | 5/23/2021 | 56
 MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
@@ -69,6 +67,8 @@ MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020 | 72
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 08/25/2026 | 09/30/2023 | 117
 -- | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇 𝙑𝙃𝙎 𝘾𝙊𝙈𝙋𝙇𝘼𝙏𝙄𝙊𝙉 | 08/29/2026 | 8/10/2019 | 360
+MM19 | Ghost Shadow Squad | 09/01/2026 | 02/06/2022 | 55
+66 | Do You Really Have the Confidence? | 09/01/2026 | 5/23/2021 | 56
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,12 +76,12 @@ SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄�
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 6 (Thu)
-MM10s | 10 | 5 (Tue)
-MM00s | 9 | 3 (Tue)
+MM00s | 9 | 4 (Tue)
 70s | 10 | 2 (Fri)
-60s | 6 | 3 (Sat)
 80s | 10 | 1 (Thu)
 Other | 6 | 0 (Sat)
+MM10s | 10 | 0 (Tue)
+60s | 6 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
