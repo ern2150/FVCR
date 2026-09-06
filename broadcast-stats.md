@@ -19,8 +19,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
-MM8 | The Sword of Catastrophe | 05/19/2026 | 6/15/2021 | 58
-MM5 | Danger Straight Ahead | 05/23/2026 | 4/4/2021 | 57
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
 68 | Endless Chain of Duels and Killings | 06/04/2026 | 6/27/2021 | 54
@@ -69,19 +67,21 @@ SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄�
 -- | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇 𝙑𝙃𝙎 𝘾𝙊𝙈𝙋𝙇𝘼𝙏𝙄𝙊𝙉 | 08/29/2026 | 8/10/2019 | 360
 MM19 | Ghost Shadow Squad | 09/01/2026 | 02/06/2022 | 55
 66 | Do You Really Have the Confidence? | 09/01/2026 | 5/23/2021 | 56
+MM5 | Danger Straight Ahead | 09/05/2026 | 4/4/2021 | 57
+MM8 | The Sword of Catastrophe | 09/05/2026 | 6/15/2021 | 58
 
 "Decades" by Weeks Since Seen, descending
 -----
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 6 (Thu)
-MM00s | 9 | 4 (Tue)
+_90s_ | 2 | 7 (Thu)
 70s | 10 | 2 (Fri)
-80s | 10 | 1 (Thu)
-Other | 6 | 0 (Sat)
+80s | 10 | 2 (Thu)
+Other | 6 | 1 (Sat)
 MM10s | 10 | 0 (Tue)
 60s | 6 | 0 (Tue)
+MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
