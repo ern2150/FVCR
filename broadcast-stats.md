@@ -96,13 +96,17 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/05/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
+09/05/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+09/05/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
+09/05/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
+09/05/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
+09/05/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-09/01/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 09/01/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 09/01/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 09/01/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 09/01/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-09/01/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 08/25/2026 | ---
 08/25/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/22/2026 | Michael Sembello - Automatic Man | 09/15/2020 
@@ -197,10 +201,6 @@ Latest Date | Video / Audio | Debut++
 07/11/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 07/11/2026 | SHIT FUCK / (same as video) | 5/4/2021
 07/11/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-07/09/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-07/09/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
-07/09/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
-07/09/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
 07/07/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 07/07/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 07/07/2026 | FMW Opener / FMW Closer | 12/6/2020
