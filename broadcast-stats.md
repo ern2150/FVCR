@@ -21,8 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
 MM6 | It's Your Turn to Die | 06/04/2026 | 5/20/2021 | 73
-68 | Endless Chain of Duels and Killings | 06/04/2026 | 6/27/2021 | 54
-MM7 | I'd Like to See You Try and Hurt Me | 06/06/2026 | 6/6/2021 | 58
 MM13 | Keep on Winning | 06/06/2026 | 8/22/2021 | 56
 75 | Never Show Emotion | 06/06/2026 | 11/07/2021 | 48
 78 | All for Revenge | 06/09/2026 | 1/9/2022 | 50
@@ -69,6 +67,8 @@ MM19 | Ghost Shadow Squad | 09/01/2026 | 02/06/2022 | 55
 66 | Do You Really Have the Confidence? | 09/01/2026 | 5/23/2021 | 56
 MM5 | Danger Straight Ahead | 09/05/2026 | 4/4/2021 | 57
 MM8 | The Sword of Catastrophe | 09/05/2026 | 6/15/2021 | 58
+MM7 | I'd Like to See You Try and Hurt Me | 09/08/2026 | 6/6/2021 | 58
+68 | Endless Chain of Duels and Killings | 09/08/2026 | 6/27/2021 | 54
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -79,9 +79,9 @@ _90s_ | 2 | 7 (Thu)
 70s | 10 | 2 (Fri)
 80s | 10 | 2 (Thu)
 Other | 6 | 1 (Sat)
-MM10s | 10 | 0 (Tue)
+MM10s | 10 | 1 (Tue)
+MM00s | 9 | 0 (Tue)
 60s | 6 | 0 (Tue)
-MM00s | 9 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -96,12 +96,19 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
+09/08/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
+09/08/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
+09/08/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
+09/08/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
+09/08/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
+09/08/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
+09/08/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/05/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 09/05/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 09/05/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 09/05/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 09/05/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-09/05/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 09/01/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 09/01/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -184,13 +191,6 @@ Latest Date | Video / Audio | Debut++
 07/18/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/18/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 07/18/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-07/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
-07/14/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
-07/14/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
-07/14/2026 | Future Cops Jazzy Jeff / Capcom Sound Team - Jazzy NYC '99 | 4/1/2021
-07/14/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
-07/14/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
-07/14/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
 07/11/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 07/11/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 07/11/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
@@ -353,7 +353,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-09/05/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+09/08/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
