@@ -96,6 +96,18 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/12/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+09/12/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+09/12/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+09/12/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+09/12/2026 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+09/12/2026 | Knight of Justice Death Call / (same as video) | 5/6/2021
+09/12/2026 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+09/12/2026 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+09/12/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+09/12/2026 | SHIT FUCK / (same as video) | 5/4/2021
+09/12/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+09/12/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 09/08/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 09/08/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -103,7 +115,6 @@ Latest Date | Video / Audio | Debut++
 09/08/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 09/08/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 09/08/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
-09/08/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/05/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 09/05/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 09/05/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
@@ -155,7 +166,6 @@ Latest Date | Video / Audio | Debut++
 08/04/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
 08/04/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
 08/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-08/01/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 08/01/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 08/01/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 08/01/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
@@ -191,16 +201,6 @@ Latest Date | Video / Audio | Debut++
 07/18/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 07/18/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 07/18/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-07/11/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-07/11/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-07/11/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-07/11/2026 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-07/11/2026 | Knight of Justice Death Call / (same as video) | 5/6/2021
-07/11/2026 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-07/11/2026 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-07/11/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-07/11/2026 | SHIT FUCK / (same as video) | 5/4/2021
-07/11/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 07/07/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 07/07/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 07/07/2026 | FMW Opener / FMW Closer | 12/6/2020
