@@ -20,9 +20,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
-MM13 | Keep on Winning | 06/06/2026 | 8/22/2021 | 56
 75 | Never Show Emotion | 06/06/2026 | 11/07/2021 | 48
-82 | Are You Looking for Death? | 06/09/2026 | 05/15/2022 | 50
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
 81 | One Hell of a Nobody | 06/18/2026 | 03/27/2022 | 53
@@ -69,6 +67,8 @@ MM7 | I'd Like to See You Try and Hurt Me | 09/08/2026 | 6/6/2021 | 58
 68 | Endless Chain of Duels and Killings | 09/08/2026 | 6/27/2021 | 54
 78 | All for Revenge | 09/12/2026 | 1/9/2022 | 50
 MM6 | It's Your Turn to Die | 09/12/2026 | 5/20/2021 | 73
+MM13 | Keep on Winning | 09/15/2026 | 8/22/2021 | 56
+82 | Are You Looking for Death? | 09/15/2026 | 05/15/2022 | 50
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -76,12 +76,12 @@ MM6 | It's Your Turn to Die | 09/12/2026 | 5/20/2021 | 73
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 8 (Thu)
-80s | 10 | 3 (Thu)
 Other | 6 | 2 (Sat)
-MM10s | 10 | 1 (Tue)
-60s | 6 | 0 (Tue)
+60s | 6 | 1 (Tue)
 70s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Sat)
+MM10s | 10 | 0 (Tue)
+80s | 10 | 0 (Tue)
 
 Mixtapes with Updates (by Last Changed) 
 -----
