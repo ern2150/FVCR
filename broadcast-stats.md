@@ -23,8 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 75 | Never Show Emotion | 06/06/2026 | 11/07/2021 | 48
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
-81 | One Hell of a Nobody | 06/18/2026 | 03/27/2022 | 53
-61 | I Must Make Sure You Fail | 06/20/2026  | 3/14/2021 | 53
 MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
 88 | Under Attack in Hong Kong | 06/25/2026 | 06/18/2023 | 45
 MM12 | Evil Is Never Invincible | 06/25/2026 | 8/10/2021 | 58
@@ -69,6 +67,9 @@ MM7 | I'd Like to See You Try and Hurt Me | 09/08/2026 | 6/6/2021 | 58
 MM6 | It's Your Turn to Die | 09/12/2026 | 5/20/2021 | 73
 MM13 | Keep on Winning | 09/15/2026 | 8/22/2021 | 56
 82 | Are You Looking for Death? | 09/15/2026 | 05/15/2022 | 50
+61 | I Must Make Sure You Fail | 09/17/2026  | 3/14/2021 | 53
+81 | One Hell of a Nobody | 09/17/2026 | 03/27/2022 | 53
+
 
 "Decades" by Weeks Since Seen, descending
 -----
@@ -77,11 +78,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 8 (Thu)
 Other | 6 | 2 (Sat)
-60s | 6 | 1 (Tue)
 70s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Sat)
 MM10s | 10 | 0 (Tue)
-80s | 10 | 0 (Tue)
+60s | 6 | 0 (Thu)
+80s | 10 | 0 (Thu)
 
 Mixtapes with Updates (by Last Changed) 
 -----
