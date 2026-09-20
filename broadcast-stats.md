@@ -96,12 +96,29 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
+09/19/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+09/19/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
+09/19/2026 | Baki end whiteout / (same as video) | 4/13/2021
+09/19/2026 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
+09/19/2026 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
+09/19/2026 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
+09/19/2026 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
+09/19/2026 | (blip)
+09/19/2026 | Ninja the Protector (gordon listens to cassette, then henshins), Schtuff | 4/20/2021
+09/19/2026 | (rollover)
+09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+09/19/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+09/19/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
+09/19/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+09/19/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
+09/19/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+09/19/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+09/19/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-09/17/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 09/17/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 09/17/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 09/17/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-09/17/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/15/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 09/15/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 09/15/2026 | FMW Opener / FMW Closer | 12/6/2020
@@ -114,7 +131,6 @@ Latest Date | Video / Audio | Debut++
 09/15/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 09/15/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 09/12/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-09/12/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 09/12/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 09/12/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 09/12/2026 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -196,22 +212,6 @@ Latest Date | Video / Audio | Debut++
 07/25/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 07/25/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 07/25/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-07/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
-07/21/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
-07/21/2026 | Baki end whiteout / (same as video) | 4/13/2021
-07/21/2026 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
-07/21/2026 | Baki fights Big Red Cord Cutter / Roger Daltrey - Escape Part Two, original audio | 4/13/2021
-07/21/2026 | W*ING Danger Zone Freddy v Leatherface Wrestling / Seymour Milton - Manila Skies | 10/6/2020
-07/21/2026 | ULTRAMAN ZOFFY lsd opener / Hudson People - Trip to Your Mind | 2/18/2021
-07/21/2026 | (blip)
-07/21/2026 | Ninja the Protector (gordon listens to cassette, then henshins), Schtuff | 4/20/2021
-07/21/2026 | (rollover)
-07/21/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-07/21/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
-07/21/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-07/21/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
-07/21/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-07/21/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
