@@ -20,7 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
-75 | Never Show Emotion | 06/06/2026 | 11/07/2021 | 48
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
 MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
@@ -69,6 +68,7 @@ MM13 | Keep on Winning | 09/15/2026 | 8/22/2021 | 56
 82 | Are You Looking for Death? | 09/15/2026 | 05/15/2022 | 50
 61 | I Must Make Sure You Fail | 09/17/2026  | 3/14/2021 | 53
 81 | One Hell of a Nobody | 09/17/2026 | 03/27/2022 | 53
+75 | Never Show Emotion | 09/19/2026 | 11/07/2021 | 48
 
 
 "Decades" by Weeks Since Seen, descending
@@ -78,11 +78,11 @@ Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 8 (Thu)
 Other | 6 | 2 (Sat)
-70s | 10 | 0 (Sat)
 MM00s | 9 | 0 (Sat)
 MM10s | 10 | 0 (Tue)
 60s | 6 | 0 (Thu)
 80s | 10 | 0 (Thu)
+70s | 10 | 0 (Sat)
 
 Mixtapes with Updates (by Last Changed) 
 -----
