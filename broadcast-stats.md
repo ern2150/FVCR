@@ -23,9 +23,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
 MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
-88 | Under Attack in Hong Kong | 06/25/2026 | 06/18/2023 | 45
 MM12 | Evil Is Never Invincible | 06/25/2026 | 8/10/2021 | 58
-MM11 | I Can Stand the Pain | 06/27/2026 | 7/27/2021 | 65
 86 | The Passion and Death of their Struggle | 06/27/2026 | 12/22/2022 | 43
 76 | If I See Him, I'll Kill Him | 06/30/2026 | 11/21/2021 | 49
 70 | Take the Fight to the Enemy | 06/30/2026 | 7/11/2021 | 54
@@ -69,6 +67,8 @@ MM13 | Keep on Winning | 09/15/2026 | 8/22/2021 | 56
 61 | I Must Make Sure You Fail | 09/17/2026  | 3/14/2021 | 53
 81 | One Hell of a Nobody | 09/17/2026 | 03/27/2022 | 53
 75 | Never Show Emotion | 09/19/2026 | 11/07/2021 | 48
+MM11 | I Can Stand the Pain | 09/22/2026 | 7/27/2021 | 65
+88 | Under Attack in Hong Kong | 06/25/2026 | 06/18/2023 | 45
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,10 +79,10 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 2 | 8 (Thu)
 Other | 6 | 3 (Sat)
 MM00s | 9 | 1 (Sat)
-MM10s | 10 | 0 (Tue)
 60s | 6 | 0 (Thu)
-80s | 10 | 0 (Thu)
 70s | 10 | 0 (Sat)
+MM10s | 10 | 0 (Tue)
+80s | 10 | 0 (Tue)
 
 Mixtapes with Updates (by Last Changed) 
 -----
@@ -96,8 +96,13 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+09/22/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+09/22/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+09/22/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+09/22/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+09/22/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+09/22/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
-09/19/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 09/19/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 09/19/2026 | Baki end whiteout / (same as video) | 4/13/2021
 09/19/2026 | HEYYYY JAPAAAAN / (same as video) | 4/13/2021
@@ -201,11 +206,6 @@ Latest Date | Video / Audio | Debut++
 08/01/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 08/01/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 08/01/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
-07/29/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-07/29/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-07/29/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-07/29/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-07/29/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 07/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 07/25/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 07/25/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
@@ -364,7 +364,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-09/19/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+09/22/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
