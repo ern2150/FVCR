@@ -23,9 +23,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
 MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
-MM12 | Evil Is Never Invincible | 06/25/2026 | 8/10/2021 | 58
-76 | If I See Him, I'll Kill Him | 06/30/2026 | 11/21/2021 | 49
-89 | Don't You Know the State I'm In? | 07/02/2026 | 07/02/2023 | 47
 90 | Every Different Way of Killing | 07/03/2026 | 07/23/2023 | 47
 72 | Who Is the Champion Now? | 07/07/2026 | 9/7/2021 | 53
 83 | I Don't Mind a Little Danger | 07/07/2026 | 06/12/2022 | 50
@@ -69,6 +66,9 @@ MM11 | I Can Stand the Pain | 09/22/2026 | 7/27/2021 | 65
 88 | Under Attack in Hong Kong | 06/25/2026 | 06/18/2023 | 45
 70 | Take the Fight to the Enemy | 09/29/2026 | 7/11/2021 | 54
 86 | The Passion and Death of their Struggle | 09/29/2026 | 12/22/2022 | 43
+76 | If I See Him, I'll Kill Him | 10/01/2026 | 11/21/2021 | 49
+MM12 | Evil Is Never Invincible | 10/01/2026 | 8/10/2021 | 58
+89 | Don't You Know the State I'm In? | 10/01/2026 | 07/02/2023 | 47
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,13 +76,13 @@ MM11 | I Can Stand the Pain | 09/22/2026 | 7/27/2021 | 65
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 9 (Thu)
+_90s_ | 2 | 10 (Thu)
 Other | 6 | 4 (Sat)
 MM00s | 9 | 2 (Sat)
-60s | 6 | 1 (Thu)
-MM10s | 10 | 1 (Tue)
-70s | 10 | 0 (Tue)
-80s | 10 | 0 (Tue)
+60s | 6 | 2 (Thu)
+70s | 10 | 0 (Thu)
+MM10s | 10 | 0 (Thu)
+80s | 10 | 0 (Thu)
 
 
 Mixtapes with Updates (by Last Changed) 
