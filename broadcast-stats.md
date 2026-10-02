@@ -97,13 +97,18 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
+10/01/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+10/01/2026 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
+10/01/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
+10/01/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
+10/01/2026 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
+10/01/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/29/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-09/29/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 09/29/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 09/29/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 09/29/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 09/29/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-09/29/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/22/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 09/22/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 09/22/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -170,11 +175,6 @@ Latest Date | Video / Audio | Debut++
 08/15/2026 | Jerry Harris Collected Videos (Exercise Your Body, Bachelor Life, etc)
 08/13/2026 | THEN 2020 version / Doktor Plekter - Kavo | 7/23/2020
 08/13/2026 | (catch up with these later)
-08/08/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-08/08/2026 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
-08/08/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
-08/08/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
-08/08/2026 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
 08/07/2026 | 𝙁𝙊𝙍𝘾𝙀𝘿 𝙎𝙏𝙀𝙍𝙀𝙊 // 𝙁𝙑𝘾𝙍 𝙑𝙃𝙎 𝙈𝙐𝙎𝙄𝘾 𝙑𝙄𝘿𝙀𝙊 𝘾𝙊𝙇𝙇𝙀𝘾𝙏𝙄𝙊𝙉
 08/07/2026 | [Character Profiles: Hanuman](https://github.com/ern2150/FVCR/wiki/Common-Sources:-Hanuman-vs-7-Ultramen-(1974)#hanuman-vs-sun) / [The Go Team - Kickstart](https://youtu.be/wQg7qOB5Heg) | 8/27/2020
 08/07/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
