@@ -97,13 +97,19 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/07/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
+10/07/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+10/07/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
+10/07/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
+10/07/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
+10/07/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
+10/07/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
+10/07/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/01/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
-10/01/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 10/01/2026 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 10/01/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 10/01/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 10/01/2026 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-10/01/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 09/29/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
 09/29/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 09/29/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
@@ -207,12 +213,6 @@ Latest Date | Video / Audio | Debut++
 08/01/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 08/01/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
 08/01/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
-07/25/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-07/25/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
-07/25/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
-07/25/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
-07/25/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
-07/25/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
 02/19/2026 | --
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
