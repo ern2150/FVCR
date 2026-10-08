@@ -328,36 +328,6 @@ Latest Date | Cam / Video / Audio | Stuff
 10/11/2025 | VHS | Reel of Halloween Trailers (BOA, Hunter's Blood, MOM, Leprechaun 3, the CAR, One Hour Photo) (last seen 10/13/2022)
 10/02/2025 | VHS | Ben & Eddie: Nightmare - Facing Fear
 10/02/2025 | VHS | 𝙄𝙎𝙐𝙕𝙐: 𝙏𝙃𝙀 𝙍𝙄𝘿𝙀 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙇𝙄𝙁𝙀
-09/30/2025 | VHS | BabySitters Club: the Babysitters and the Boysitters  
-09/30/2025 | PS2 | DVD 𝙂𝙄𝙈𝙈𝙀 𝙂𝙄𝙈𝙈𝙀 𝙊𝘾𝙏𝙊𝙋𝙐𝙎 (1973) PS2 rejects it after 5 minutes lol
-09/27/2025 | VHS | Creation Adventure Team: a Jurassic Ark Mystery
-09/27/2025 | VHS | Repeat Performance: You Can't Outrun the Truth
-09/27/2025 | VHS | Leo the Lion: the Blue Lion 
-09/23/2025 | VHS | Waltzing Waters: Frederick and the Fountains of Forever
-09/23/2025 | VHS | A Day at the Magic Kingdom
-09/23/2025 | VHS | Ready to Know: A Parent's Guide
-08/30/2025 | VHS | 1992 𝙐-𝙁𝙀𝙎𝙏𝙄𝙑𝘼𝙇: 𝙎𝙏𝙐𝘿𝙀𝙉𝙏 𝙁𝙄𝙇𝙈𝙎
-08/26/2025 | VHS | Hong Kong: A City in Motion (1987)
-08/26/2025 | VHS | Movie Magic (1990)
-08/09/2025 | VHS | 𝘽-𝘽𝙊𝙔 𝙎𝙐𝙈𝙈𝙄𝙏 2000 𝙑𝙊𝙇 2
-08/07/2025 | VHS | Zap! the Magical Computer - the Wizard of Odd (a new pinnacle in CGI quality)
-08/07/2025 | VHS | (DiC Toontime) Wish Kid ep "A Matter of Principal"
-08/04/2025 | PS2 | 𝙒𝙊𝙍𝙇𝘿 𝘿𝙀𝙎𝙏𝙍𝙐𝘾𝙏𝙄𝙊𝙉 𝙇𝙀𝘼𝙂𝙐𝙀: 𝙏𝙃𝙐𝙉𝘿𝙀𝙍 𝙏𝘼𝙉𝙆𝙎 (𝙋𝙎2, 2000) - Watching some cinematics from the menu first, then cheat codes
-08/04/2025 | PS2 | 𝙎𝙐𝙋𝙀𝙍𝙎𝙏𝘼𝙍 𝘿𝘼𝙉𝘾𝙀 𝘾𝙇𝙐𝘽 (2002)
-08/04/2025 | PS2 | 𝙋𝙇𝘼𝙔𝙎𝙏𝘼𝙏𝙄𝙊𝙉 𝘽𝘼𝘾𝙆 𝙇𝙊𝙂: 𝙎𝙆𝙔𝘿𝙄𝙑𝙄𝙉𝙂 𝙀𝙓𝙏𝙍𝙀𝙈𝙀 (𝙉𝘼𝙏𝙎𝙐𝙈𝙀, 2000)
-07/29/2025 | DVD | Arts Attack vol 2 - Kindergarten. 2 Cats and a Dog, Clay Animals.
-07/24/2025 | DVD | Mass Destruction - Don "the Dragon" Wilson returns to the ring.  Intro, Main Event
-07/24/2025 | DVD | Devil Killer - Alex Lo, Jackie Chiang.  Special features: Hsiao interview, Weapons Form, Gung Fu Form, Insta-Action (multiple fights back-to-back)
-07/24/2025 | DVD | Arts Attack vol 2 - Kindergarten. Lesson 5: Clowns
-07/19/2025 | VHS | Vincent LaRusso - Just a Chance
-07/19/2025 | VHS | 801 TTS AIRBATS THIRD STRIKE EP 2 (... stops immediately to consider "Naked Dance")
-07/19/2025 | VHS | Ride Safe, Ride Smart from Honda
-07/19/2025 | VHS | EastMAN Outdoors: Outdoor Cooking
-07/11/2025 | VHS | Fun, Incorporated: Amazing Magic Tricks with Money
-07/11/2025 | VHS | Nikken Magnetic Health
-07/11/2025 | VHS | Pinocchio in School? (clips with page-turned written text between with duh adages, stops after first instance lol)
-
-
 
 
 Outros
@@ -365,7 +335,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-10/01/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+10/07/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
