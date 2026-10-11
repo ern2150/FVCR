@@ -19,11 +19,9 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
-79 | A Frightening Experience | 05/28/2026 | 1/16/2022 | 57
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
 MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
-83 | I Don't Mind a Little Danger | 07/07/2026 | 06/12/2022 | 50
 91 | Reprieve from Chaos | 07/09/2026 | 02/03/2024 | 49
 MM18 | Fought Against All Evils | 07/11/2026  | 1/23/2022 | 51
 MM14 | Fights the Evils with Great Power | 07/14/2026 | 9/26/2021 | 64
@@ -69,6 +67,8 @@ MM12 | Evil Is Never Invincible | 10/01/2026 | 8/10/2021 | 58
 89 | Don't You Know the State I'm In? | 10/01/2026 | 07/02/2023 | 47
 72 | Who Is the Champion Now? | 10/07/2026 | 9/7/2021 | 53
 90 | Every Different Way of Killing | 10/07/2026 | 07/23/2023 | 47
+83 | I Don't Mind a Little Danger | 10/10/2026 | 06/12/2022 | 50
+79 | A Frightening Experience | 10/10/2026 | 1/16/2022 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,13 +76,13 @@ MM12 | Evil Is Never Invincible | 10/01/2026 | 8/10/2021 | 58
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 6 | 5 (Sat)
-MM00s | 9 | 3 (Sat)
-60s | 6 | 3 (Thu)
-MM10s | 10 | 0 (Thu)
-80s | 10 | 0 (Thu)
-70s | 10 | 0 (Wed)
+Other | 6 | 6 (Sat)
+MM00s | 9 | 4 (Sat)
+60s | 6 | 4 (Thu)
+MM10s | 10 | 1 (Thu)
 _90s_ | 2 | 0 (Wed)
+80s | 10 | 0 (Sat)
+70s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -233,6 +233,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+10/10/2026 | VCR | FEAR: ... The Terrifying Side of Athletic Competition 
 09/19/2026 | VCR | BERL (lol)
 09/19/2026 | VCR | ROAD WARRIORS SPECIAL (08/23/2022)
 09/19/2026 | VCR | 89 EXCITING wres (feat Legion of Doom / Road Warriors)
