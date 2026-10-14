@@ -21,8 +21,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM15 | Don't Be Afraid of Me | 06/16/2026 | 12/05/2021 | 55
-MM10 | The Splatter and Gore Department | 06/23/2026 | 7/15/2021 | 59
-91 | Reprieve from Chaos | 07/09/2026 | 02/03/2024 | 49
 MM18 | Fought Against All Evils | 07/11/2026  | 1/23/2022 | 51
 MM14 | Fights the Evils with Great Power | 07/14/2026 | 9/26/2021 | 64
 MM17 | Ninja Challenge Card | 07/14/2026 | 1/2/2022 | 52
@@ -69,6 +67,8 @@ MM12 | Evil Is Never Invincible | 10/01/2026 | 8/10/2021 | 58
 90 | Every Different Way of Killing | 10/07/2026 | 07/23/2023 | 47
 83 | I Don't Mind a Little Danger | 10/10/2026 | 06/12/2022 | 50
 79 | A Frightening Experience | 10/10/2026 | 1/16/2022 | 57
+91 | Reprieve from Chaos | 10/13/2026 | 02/03/2024 | 49
+MM10 | The Splatter and Gore Department | 10/13/2026 | 7/15/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,10 +79,10 @@ Decade | Available Tapes | Weeks since seen
 Other | 6 | 6 (Sat)
 MM00s | 9 | 4 (Sat)
 60s | 6 | 4 (Thu)
-MM10s | 10 | 1 (Thu)
-_90s_ | 2 | 0 (Wed)
 80s | 10 | 0 (Sat)
 70s | 10 | 0 (Sat)
+_90s_ | 2 | 0 (Tue)
+MM10s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
