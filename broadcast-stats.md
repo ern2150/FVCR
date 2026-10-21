@@ -20,8 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
-MM17 | Ninja Challenge Card | 07/14/2026 | 1/2/2022 | 52
-MM16 | Today We Shall Kill Each Other | 07/14/2026 | 12/21/2021 | 52
 67 | Together We Will Smash Them | 07/18/2026 | 6/20/2021 | 53
 87 | Win without Failing | 07/18/2026 | 02/12/2023 | 46
 MM9 | Hit Me Like You Mean It | 07/21/2026  | 7/8/2021 | 59
@@ -69,6 +67,8 @@ MM10 | The Splatter and Gore Department | 10/13/2026 | 7/15/2021 | 59
 MM18 | Fought Against All Evils | 10/17/2026  | 1/23/2022 | 51
 MM15 | Don't Be Afraid of Me | 10/17/2026 | 12/05/2021 | 55
 MM14 | Fights the Evils with Great Power | 10/17/2026 | 9/26/2021 | 64
+MM17 | Ninja Challenge Card | 10/20/2026 | 1/2/2022 | 52
+MM16 | Today We Shall Kill Each Other | 10/20/2026 | 12/21/2021 | 52
 
 
 "Decades" by Weeks Since Seen, descending
@@ -81,8 +81,8 @@ MM00s | 9 | 5 (Sat)
 60s | 6 | 5 (Thu)
 80s | 10 | 1 (Sat)
 70s | 10 | 1 (Sat)
-_90s_ | 2 | 0 (Tue)
-MM10s | 10 | 0 (Sat)
+_90s_ | 2 | 1 (Tue)
+MM10s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
