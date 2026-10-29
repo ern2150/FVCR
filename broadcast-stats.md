@@ -15,7 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2025.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-49 | Despise the Dark 2020 Halloween vol 2 | 10/30/2025 | 10/11/2020 | 60
   | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
@@ -28,7 +27,6 @@ MM3 | Blood, Lust, and Intrigue | 08/01/2026 | 3/9/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 77 | Ninja City | 08/07/2026 | 11/28/2021 | 49
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
-85 | The Power You Are Seeking | 08/08/2026 | 11/13/2022 | 45
 84 | Poor Doomed Humans | 08/13/2026 | 10/16/2022 | 51
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020 | 72
@@ -69,6 +67,8 @@ MM16 | Today We Shall Kill Each Other | 10/20/2026 | 12/21/2021 | 52
 MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 87 | Win without Failing | 10/24/2026 | 02/12/2023 | 46
 80 | Pass Through All Hard Times | 10/24/2026 | 02/20/2022 | 46
+85 | The Power You Are Seeking | 10/27/2026 | 11/13/2022 | 45
+49 | Despise the Dark 2020 Halloween vol 2 | 10/27/2026 | 10/11/2020 | 60
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,13 +76,13 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-Other | 6 | 7 (Sat)
-_90s_ | 2 | 2 (Tue)
+_90s_ | 2 | 3 (Tue)
 70s | 10 | 1 (Sat)
-MM10s | 10 | 0 (Tue)
+MM10s | 10 | 1 (Tue)
 60s | 6 | 0 (Thu)
 MM00s | 9 | 0 (Thu)
-80s | 10 | 0 (Sat)
+80s | 10 | 0 (Tue)
+Other | 6 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -97,6 +97,12 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
+10/27/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+10/27/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
+10/27/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
+10/27/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
+10/27/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 10/24/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/24/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -104,7 +110,6 @@ Latest Date | Video / Audio | Debut++
 10/24/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
 10/24/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
 10/24/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
-10/24/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/22/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
 10/22/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 10/22/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
@@ -123,7 +128,6 @@ Latest Date | Video / Audio | Debut++
 10/20/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 10/20/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
 10/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
-10/17/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 10/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 10/17/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 10/17/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
@@ -168,10 +172,6 @@ Latest Date | Video / Audio | Debut++
 09/19/2026 | (blip)
 09/19/2026 | Ninja the Protector (gordon listens to cassette, then henshins), Schtuff | 4/20/2021
 09/19/2026 | (rollover)
-09/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-09/17/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
-09/17/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
-09/17/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 09/15/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 09/15/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 09/15/2026 | FMW Opener / FMW Closer | 12/6/2020
@@ -336,7 +336,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-10/24/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+10/27/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
