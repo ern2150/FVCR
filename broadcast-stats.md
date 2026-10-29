@@ -20,8 +20,6 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
-87 | Win without Failing | 07/18/2026 | 02/12/2023 | 46
-80 | Pass Through All Hard Times | 07/21/2026 | 02/20/2022 | 46
 69 | SUMMERTIME | 07/25/2026 | 7/4/2021 | 65
 73 | The Whirlpool of Battle | 07/29/2026 | 9/21/2021 | 62
 71 | I Don't Belong Here | 07/29/2026 | 8/1/2021 | 54
@@ -69,6 +67,8 @@ MM17 | Ninja Challenge Card | 10/20/2026 | 1/2/2022 | 52
 MM16 | Today We Shall Kill Each Other | 10/20/2026 | 12/21/2021 | 52
 67 | Together We Will Smash Them | 10/22/2026 | 6/20/2021 | 53
 MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
+87 | Win without Failing | 10/24/2026 | 02/12/2023 | 46
+80 | Pass Through All Hard Times | 10/24/2026 | 02/20/2022 | 46
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +77,12 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 6 | 7 (Sat)
-80s | 10 | 1 (Sat)
-70s | 10 | 1 (Sat)
 _90s_ | 2 | 2 (Tue)
-MM10s | 10 | 0 (Sat)
-60s | 6 | 0 (Tue)
-MM00s | 9 | 0 (Tue)
+70s | 10 | 1 (Sat)
+MM10s | 10 | 0 (Tue)
+60s | 6 | 0 (Thu)
+MM00s | 9 | 0 (Thu)
+80s | 10 | 0 (Sat)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -97,8 +97,15 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
+10/24/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+10/24/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
+10/24/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
+10/24/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
+10/24/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
+10/24/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
+10/24/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/22/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-10/22/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/22/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
 10/22/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
 10/22/2026 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
@@ -108,7 +115,6 @@ Latest Date | Video / Audio | Debut++
 10/22/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
 10/22/2026 | SHIT FUCK / (same as video) | 5/4/2021
 10/22/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
-10/22/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/20/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 10/20/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 10/20/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -162,12 +168,6 @@ Latest Date | Video / Audio | Debut++
 09/19/2026 | (blip)
 09/19/2026 | Ninja the Protector (gordon listens to cassette, then henshins), Schtuff | 4/20/2021
 09/19/2026 | (rollover)
-09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-09/19/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
-09/19/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
-09/19/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
-09/19/2026 | Moped guy gets chain-dragged downstairs (Against All) / Moving Units - Between Us and Them | 3/9/2021
-09/19/2026 | TV fireworks FUN / El Guincho - Antillas | 04/09/2022
 09/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 09/17/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 09/17/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -336,7 +336,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-10/22/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+10/24/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
