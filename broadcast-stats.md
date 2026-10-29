@@ -20,9 +20,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
-67 | Together We Will Smash Them | 07/18/2026 | 6/20/2021 | 53
 87 | Win without Failing | 07/18/2026 | 02/12/2023 | 46
-MM9 | Hit Me Like You Mean It | 07/21/2026  | 7/8/2021 | 59
 80 | Pass Through All Hard Times | 07/21/2026 | 02/20/2022 | 46
 69 | SUMMERTIME | 07/25/2026 | 7/4/2021 | 65
 73 | The Whirlpool of Battle | 07/29/2026 | 9/21/2021 | 62
@@ -69,6 +67,8 @@ MM15 | Don't Be Afraid of Me | 10/17/2026 | 12/05/2021 | 55
 MM14 | Fights the Evils with Great Power | 10/17/2026 | 9/26/2021 | 64
 MM17 | Ninja Challenge Card | 10/20/2026 | 1/2/2022 | 52
 MM16 | Today We Shall Kill Each Other | 10/20/2026 | 12/21/2021 | 52
+67 | Together We Will Smash Them | 10/22/2026 | 6/20/2021 | 53
+MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +77,12 @@ MM16 | Today We Shall Kill Each Other | 10/20/2026 | 12/21/2021 | 52
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 Other | 6 | 7 (Sat)
-MM00s | 9 | 5 (Sat)
-60s | 6 | 5 (Thu)
 80s | 10 | 1 (Sat)
 70s | 10 | 1 (Sat)
-_90s_ | 2 | 1 (Tue)
-MM10s | 10 | 0 (Tue)
+_90s_ | 2 | 2 (Tue)
+MM10s | 10 | 0 (Sat)
+60s | 6 | 0 (Tue)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -97,6 +97,18 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/22/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
+10/22/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+10/22/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
+10/22/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
+10/22/2026 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
+10/22/2026 | Knight of Justice Death Call / (same as video) | 5/6/2021
+10/22/2026 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
+10/22/2026 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
+10/22/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
+10/22/2026 | SHIT FUCK / (same as video) | 5/4/2021
+10/22/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
+10/22/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/20/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙒𝙄𝘾𝙆𝙀𝙍
 10/20/2026 | WHAT'S WRONG WITH THOSE FUCKIN CARS MAN / Original audio, then FUN theme | 6/17/2021
 10/20/2026 | Hong Kong? No matter where you hide out... (Super Ninja) / (same as video) | 4/1/2021
@@ -104,7 +116,6 @@ Latest Date | Video / Audio | Debut++
 10/20/2026 | Wicker Thunderdome from Death Cage (1988) into CHAMP / Eddie Johns - More Spell on You | 3/25/2021
 10/20/2026 | Ski Masks and Flaming Chassis (Iron Angels) / Kali Uchis - After the Storm | 4/25/2021
 10/20/2026 | TV Asahi interludes / (same as video?) | 01/17/2023
-10/20/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘿𝙍𝙀𝘼𝙈𝙄𝙉𝙂
 10/17/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 10/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
@@ -116,7 +127,6 @@ Latest Date | Video / Audio | Debut++
 10/13/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
 10/13/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
 10/10/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-10/10/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/10/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
 10/10/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
 10/10/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
@@ -173,16 +183,6 @@ Latest Date | Video / Audio | Debut++
 09/15/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
 09/15/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
 09/15/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
-09/12/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙃𝙄𝙏
-09/12/2026 | Northridge Directory / Yuni Wa - The Tones | 03/26/2023
-09/12/2026 | Fountains Tapan Das  / KNXWLEDGE - stilluhme | 12/15/2020
-09/12/2026 | Mustard vs Oreo Ninja / Yasuha - Flyday Chinatown | 8/9/2020
-09/12/2026 | Knight of Justice Death Call / (same as video) | 5/6/2021
-09/12/2026 | Jerry Harris - Bachelor Life / (same as video) | 5/6/2021
-09/12/2026 | Emergency Alert Please Stand by / (Beep) | 11/29/2020
-09/12/2026 | Cynthia Rothrock Umbrella Fight from Yes Madam / The Limit - She's So Divine | 11/29/2020
-09/12/2026 | SHIT FUCK / (same as video) | 5/4/2021
-09/12/2026 | Robowar loves Reb Brown / Michael Sembello - Automatic Man | 12/15/2020
 08/25/2026 | ---
 08/25/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/22/2026 | Michael Sembello - Automatic Man | 09/15/2020 
@@ -336,7 +336,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-10/20/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+10/22/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
