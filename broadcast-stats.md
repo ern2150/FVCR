@@ -15,9 +15,6 @@ Sorted by Last date (Most recent date), ascending
 [archive](broadcast-2025.md)
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
-  | Evil Is Excusable 2021 Halloween Vol 1 | 04/30/2026 | 10/3/2021 | 45
-74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 05/02/2026 | 10/10/2021 | 52
-  | Devil Mountain 2021 Halloween Vol 3 | 05/02/2026 | 10/17/2021 | 49
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 69 | SUMMERTIME | 07/25/2026 | 7/4/2021 | 65
 73 | The Whirlpool of Battle | 07/29/2026 | 9/21/2021 | 62
@@ -27,7 +24,6 @@ MM3 | Blood, Lust, and Intrigue | 08/01/2026 | 3/9/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 77 | Ninja City | 08/07/2026 | 11/28/2021 | 49
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
-84 | Poor Doomed Humans | 08/13/2026 | 10/16/2022 | 51
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020 | 72
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 08/25/2026 | 09/30/2023 | 117
@@ -69,6 +65,10 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 80 | Pass Through All Hard Times | 10/24/2026 | 02/20/2022 | 46
 85 | The Power You Are Seeking | 10/27/2026 | 11/13/2022 | 45
 49 | Despise the Dark 2020 Halloween vol 2 | 10/27/2026 | 10/11/2020 | 60
+84 | Poor Doomed Humans | 10/30/2026 | 10/16/2022 | 51
+  | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2026 | 10/3/2021 | 45
+74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2026 | 10/10/2021 | 52
+  | Devil Mountain 2021 Halloween Vol 3 | 10/30/2026 | 10/17/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +77,12 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 3 (Tue)
-70s | 10 | 1 (Sat)
 MM10s | 10 | 1 (Tue)
 60s | 6 | 0 (Thu)
 MM00s | 9 | 0 (Thu)
-80s | 10 | 0 (Tue)
-Other | 6 | 0 (Tue)
+80s | 10 | 0 (Fri)
+Other | 6 | 0 (Fri)
+70s | 10 | 0 (Fri)
 
 
 Mixtapes with Updates (by Last Changed) 
@@ -97,12 +97,12 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+10/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 10/27/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 10/27/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 10/27/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 10/27/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
-10/27/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
 10/24/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/24/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
@@ -336,7 +336,7 @@ Outros
 
 Latest Date | Video / Audio
 -- | --
-10/27/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
+10/30/2026 | Track and Field Tigamask / Native Son - Farewell My Love (FVCR remix)
 
 
 Notes
