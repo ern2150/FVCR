@@ -228,6 +228,8 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/03/2026 | VCR | ("something sports related?") The FUN of Paintball
+11/03/2026 | VCR | ("A dinosaur tape... an interesting one") ViTSie Dinosaurs
 10/10/2026 | VCR | FEAR: ... The Terrifying Side of Athletic Competition 
 09/19/2026 | VCR | BERL (lol)
 09/19/2026 | VCR | ROAD WARRIORS SPECIAL (08/23/2022)
