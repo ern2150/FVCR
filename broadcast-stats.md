@@ -97,9 +97,14 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
-10/30/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
+11/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
+11/03/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+11/03/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
+11/03/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
+11/03/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
+11/03/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
+11/03/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
-10/27/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 10/27/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 10/27/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 10/27/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
@@ -157,11 +162,6 @@ Latest Date | Video / Audio | Debut++
 09/29/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 09/29/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 09/29/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-09/22/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-09/22/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
-09/22/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
-09/22/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
-09/22/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
 09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
 09/19/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 09/19/2026 | Baki end whiteout / (same as video) | 4/13/2021
@@ -217,11 +217,6 @@ Latest Date | Video / Audio | Debut++
 12/20/2025 | **_FORGOTTEN VCR CHRISTMAS SPECIAL PART ONE_**
 12/20/2025 | Reader's Digest Old Fashioned Christmas / Parkland - Factory Settings | 12/20/2025
 12/20/2025 | --
-10/11/2025 | (2020 𝙃𝘼𝙇𝙇𝙊𝙒𝙀𝙀𝙉 𝙄𝙉𝙏𝙍𝙊)
-10/11/2025 | THEN 2020 version (more Rydeen) / Doktor Plekter - Kavo | 10/4/2020
-10/11/2025 | Guzoo / Health - We Are Water | 9/6/2020
-10/11/2025 | Goathorn - Rotten Roll | 10/4/2020
-10/11/2025 | RED TIMECLOCK TOP RIGHT 9:59 | 10/4/2020 
 
 ++ outside of a mixtape or bonus clip, as a stream opener
 
@@ -322,13 +317,7 @@ Latest Date | Cam / Video / Audio | Stuff
 11/15/2025 | VHS | "weird puppets" National Geographic Geo Kids: 𝘾𝙊𝙊𝙇 𝘾𝘼𝙏𝙎, 𝙍𝘼𝙄𝙉𝘿𝙍𝙊𝙋𝙎, 𝘼𝙉𝘿 𝙏𝙃𝙄𝙉𝙂𝙎 𝙏𝙃𝘼𝙏 𝙇𝙄𝙑𝙀 𝙄𝙉 𝙃𝙊𝙇𝙀𝙎
 11/08/2025 | VHS | MENTAL VERTIGO A VIRUS TO SUCCESS; DO YOU HAVE IT?
 11/08/2025 | VHS | "Something animated from Nickelodeon?" THE CAT CAME BACK, Blackberry Subway Jam, What on Earth!, The Egg
-10/16/2025 | VHS | ActionMax: Rescue of Pops Ghostly (last seen 07/26/2024)
-10/14/2025 | VHS | 𝙇𝙊𝙎𝙏 𝘼𝙉𝘿 𝙁𝙊𝙐𝙉𝘿 𝙑𝙃𝙎: 𝙊𝙐𝙏-𝙊𝙁-𝘽𝙊𝘿𝙔-𝙀𝙓𝙋𝙀𝙍𝙄𝙀𝙉𝘾𝙀𝙎 (1999)
-10/11/2025 | VHS | Spooky World (last seen 10/12/2023)
-10/11/2025 | VHS | Reel continues... (Shredder, From Beyond, Mausoleum, Mazes and Monsters)
-10/11/2025 | VHS | Reel of Halloween Trailers (BOA, Hunter's Blood, MOM, Leprechaun 3, the CAR, One Hour Photo) (last seen 10/13/2022)
-10/02/2025 | VHS | Ben & Eddie: Nightmare - Facing Fear
-10/02/2025 | VHS | 𝙄𝙎𝙐𝙕𝙐: 𝙏𝙃𝙀 𝙍𝙄𝘿𝙀 𝙊𝙁 𝙔𝙊𝙐𝙍 𝙇𝙄𝙁𝙀
+
 
 
 Outros
