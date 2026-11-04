@@ -22,7 +22,6 @@ MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 MM1 | Get Rich Regardless of the Means (End of 2019) | 08/01/2026 | 11/14/2019 | 66
 MM3 | Blood, Lust, and Intrigue | 08/01/2026 | 3/9/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
-77 | Ninja City | 08/07/2026 | 11/28/2021 | 49
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 08/22/2026 ~~4/25/2021~~ | 3/8/2020 | 72
@@ -69,6 +68,7 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
   | Evil Is Excusable 2021 Halloween Vol 1 | 10/30/2026 | 10/3/2021 | 45
 74 | The End of Your Earthly Time 2021 Halloween Vol 2 | 10/30/2026 | 10/10/2021 | 52
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2026 | 10/17/2021 | 49
+77 | Ninja City | 11/03/2026 | 11/28/2021 | 49
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,13 +76,13 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 3 (Tue)
-MM10s | 10 | 1 (Tue)
+_90s_ | 2 | 4 (Tue)
+MM10s | 10 | 2 (Tue)
 60s | 6 | 0 (Thu)
 MM00s | 9 | 0 (Thu)
 80s | 10 | 0 (Fri)
 Other | 6 | 0 (Fri)
-70s | 10 | 0 (Fri)
+70s | 10 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
