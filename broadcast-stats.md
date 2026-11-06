@@ -97,13 +97,18 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/05/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
+11/05/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+11/05/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
+11/05/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
+11/05/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
+11/05/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
+11/05/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
-11/03/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 11/03/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 11/03/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
 11/03/2026 | Can't Beat Dick Wei (Angel Enforcers) / Wanda Walden - I Must Be Dreamin' | 4/29/2021
 11/03/2026 | Mary Can You Hear Me / King Pari feat Velvet Negroni - Mary | 5/13/2021
-11/03/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 10/27/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘾𝙃𝙄𝘾𝙆𝙀𝙉
 10/27/2026 | Kill for Love trailer hates these cans / Le Matos - Rage of Honor | 3/30/2021
 10/27/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
@@ -157,11 +162,6 @@ Latest Date | Video / Audio | Debut++
 10/01/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 10/01/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 10/01/2026 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-09/29/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-09/29/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
-09/29/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
-09/29/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
-09/29/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
 09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
 09/19/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 09/19/2026 | Baki end whiteout / (same as video) | 4/13/2021
