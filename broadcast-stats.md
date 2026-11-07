@@ -17,9 +17,7 @@ Mixtape # | Mixtape Title | Last Seen | First Seen | Duration
 -- | -- | -- | -- | -- 
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 69 | SUMMERTIME | 07/25/2026 | 7/4/2021 | 65
-73 | The Whirlpool of Battle | 07/29/2026 | 9/21/2021 | 62
 MM1 | Get Rich Regardless of the Means (End of 2019) | 08/01/2026 | 11/14/2019 | 66
-MM3 | Blood, Lust, and Intrigue | 08/01/2026 | 3/9/2021 | 54
 MM2 | Why Are You Playing Heroes? | 08/04/2026 | 2/23/2021 | 64
 64 | Hold You Close and Feel Things | 08/08/2026 | 4/18/2021 | 58
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
@@ -69,6 +67,8 @@ MM9 | Hit Me Like You Mean It | 10/22/2026  | 7/8/2021 | 59
   | Devil Mountain 2021 Halloween Vol 3 | 10/30/2026 | 10/17/2021 | 49
 77 | Ninja City | 11/03/2026 | 11/28/2021 | 49
 71 | I Don't Belong Here | 11/05/2026 | 8/1/2021 | 54
+73 | The Whirlpool of Battle | 11/06/2026 | 9/21/2021 | 62
+MM3 | Blood, Lust, and Intrigue | 11/06/2026 | 3/9/2021 | 54
 
 
 "Decades" by Weeks Since Seen, descending
@@ -79,10 +79,10 @@ Decade | Available Tapes | Weeks since seen
 _90s_ | 2 | 4 (Tue)
 MM10s | 10 | 2 (Tue)
 60s | 6 | 1 (Thu)
-MM00s | 9 | 1 (Thu)
-80s | 10 | 0 (Fri)
-Other | 6 | 0 (Fri)
-70s | 10 | 0 (Thu)
+80s | 10 | 1 (Fri)
+Other | 6 | 1 (Fri)
+70s | 10 | 0 (Fri)
+MM00s | 9 | 0 (Fri)
 
 
 Mixtapes with Updates (by Last Changed) 
