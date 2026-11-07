@@ -97,13 +97,24 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/06/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
+11/06/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+11/06/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
+11/06/2026 | FMW Opener / FMW Closer | 12/6/2020
+11/06/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
+11/06/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
+11/06/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
+11/06/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
+11/06/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
+11/06/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
+11/06/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
+11/06/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
+11/06/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/05/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙎𝙇𝙊𝙒
-11/05/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 11/05/2026 | Motocross indoors FUN (Stabilizer) / Network Music Ensemble - Rollercoaster | 8/22/2021
 11/05/2026 | Angel Terminators / The First Family - Slow Motion | 2/11/2021
 11/05/2026 | GoRenger v Gold Moon GOOOOOOOOOAL / Casiopea - Looking Up | 5/20/2021
 11/05/2026 | FUNinja Explosions / Jun Miyake - 34 West 10th Street | 5/20/2021
-11/05/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/03/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙍𝙔
 11/03/2026 | shoulder-mounted rocket vs building vs cycles (Eat My Dust) / Ramsey Lewis - Something About You (FVCR IFD speed) | 12/21/2021
 11/03/2026 | Fox Force Four Fiesta Firearm Fun "boss in Sicily" [Angel's Mission](https://youtu.be/gRlM8ExBJjo?t=4079) / Original Audio, George Duke - Reach Out | 5/2/2021
@@ -172,17 +183,6 @@ Latest Date | Video / Audio | Debut++
 09/19/2026 | (blip)
 09/19/2026 | Ninja the Protector (gordon listens to cassette, then henshins), Schtuff | 4/20/2021
 09/19/2026 | (rollover)
-09/15/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
-09/15/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
-09/15/2026 | FMW Opener / FMW Closer | 12/6/2020
-09/15/2026 | Space Needle FUN / Jet Life - 1st Place (instrumental) | 4/20/2021
-09/15/2026 | Mike says that's good shit, but the guy who killed Paul is "Looking for war" / (same as video) | 11/11/2021
-09/15/2026 | Wheres Da Schtuff / Original Audio | 11/28/2021
-09/15/2026 | Gordon listens to something on his walkman -- it's Ninja the Protector credits! / DANDY COLOGNE, Original Audio | 11/21/2021
-09/15/2026 | Hop on Losercycle / LINDBERG - RUSH LIFE | 5/10/2020
-09/15/2026 | UDUNOME / Michiaki Watanabe - Jun no Uta (karaoke) | 8/13/2020
-09/15/2026 | Seattle Freemont Troll Bridge, Archie McPhee, FUN / Mac DeMarco - Young Coconut | 12/15/2020
-09/15/2026 | Ramesh and Ganesh Warn and Welcome You All / Pierre Porte - The Lazy Game | 1/26/2021
 08/25/2026 | ---
 08/25/2026 | Saturday Morning Simulator Countdown Clock | 09/30/2023
 08/22/2026 | Michael Sembello - Automatic Man | 09/15/2020 
