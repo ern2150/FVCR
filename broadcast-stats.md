@@ -97,13 +97,19 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/12/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
+11/12/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
+11/12/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
+11/12/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
+11/12/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
+11/12/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
+11/12/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/10/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙄𝙏𝙏𝙔
 11/10/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 11/10/2026 | Kaiju Konga feat Hanuman Evisceration / Meiko Nakahara - Fantasy | 4/8/2021
 11/10/2026 | KittyKats  / This Mortal Coil - Sixteen Days | 12/29/2022
 11/10/2026 | Mike Abbot Jacket sword v gun / The Soft Boys - I Wanna Destroy You | 8/2/2020
 11/10/2026 | Roberta Cop - I Love Maria / MSTRKRFT - WORK ON YOU | 3/11/2021
-11/10/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/06/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙍𝘼𝙈𝙀𝙎𝙃
 11/06/2026 | Ninja Condors fight scene that never ends / Vanilla - The People | 12/15/2020
 11/06/2026 | FMW Opener / FMW Closer | 12/6/2020
@@ -130,7 +136,6 @@ Latest Date | Video / Audio | Debut++
 10/27/2026 | Legend of the Fist of the North Star compilation / Tom Cat - Tough Boy | 3/16/2021
 10/27/2026 | IFD vs chickens / Xabungle end credits, original audio for shots and end music | 1/7/2021
 10/24/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙂𝙄𝙈𝙈𝙀
-10/24/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 10/24/2026 | Hell Virgin vs Fingernail Lady (Saga of the Phoenix) / George Benson - Give Me the Night | 9/2/2021
 10/24/2026 | Suits vs T-Shirts Shootout (Dreaming the Reality) / Charles Bradley (feat Menahan Street Band) - Where Do We Go from Here | 9/26/2021
 10/24/2026 | Motorbike v Car v Barrels (Danger Has Two Faces) / Dabeull - Special to Me | 8/8/2021
@@ -162,11 +167,6 @@ Latest Date | Video / Audio | Debut++
 10/13/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
 10/13/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
 10/13/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
-10/10/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
-10/10/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
-10/10/2026 | Lethal Panther Grocery Guns / Alvvays - Dreams Tonite | 1/26/2021
-10/10/2026 | That Girl Is Violating Parole Inside / Boys Town Gang - Signed Sealed Delivered | 4/6/2021
-10/10/2026 | Barrel and Snorkel Strats (Hard Justice) / Heatwave - Lay It on Me | 11/29/2020
 10/07/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
 10/07/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 10/07/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
