@@ -20,7 +20,6 @@ MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 08/25/2026 | 09/30/2023 | 117
 -- | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇 𝙑𝙃𝙎 𝘾𝙊𝙈𝙋𝙇𝘼𝙏𝙄𝙊𝙉 | 08/29/2026 | 8/10/2019 | 360
-MM5 | Danger Straight Ahead | 09/05/2026 | 4/4/2021 | 57
 MM8 | The Sword of Catastrophe | 09/05/2026 | 6/15/2021 | 58
 MM7 | I'd Like to See You Try and Hurt Me | 09/08/2026 | 6/6/2021 | 58
 68 | Endless Chain of Duels and Killings | 09/08/2026 | 6/27/2021 | 54
@@ -69,6 +68,7 @@ MM1 | Get Rich Regardless of the Means (End of 2019) | 11/12/2026 | 11/14/2019 |
 MM19 | Ghost Shadow Squad | 11/12/2026 | 02/06/2022 | 55
 27 | [Open the Strange Realm](https://github.com/ern2150/FVCR/wiki/Mixtape-27:-Open-the-Strange-Realm) | 11/14/2026 ~~4/25/2021~~ | 3/8/2020 | 72
 66 | Do You Really Have the Confidence? | 11/14/2026 | 5/23/2021 | 56
+MM5 | Danger Straight Ahead | 11/17/2026 | 4/4/2021 | 57
 
 
 "Decades" by Weeks Since Seen, descending
@@ -76,13 +76,13 @@ MM19 | Ghost Shadow Squad | 11/12/2026 | 02/06/2022 | 55
 [archive](broadcast-2025.md#decades-by-last-seen-descending)
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
-_90s_ | 2 | 5 (Tue)
+_90s_ | 2 | 6 (Tue)
 80s | 10 | 2 (Fri)
 70s | 10 | 1 (Fri)
-MM00s | 9 | 0 (Thu)
 MM10s | 10 | 0 (Thu)
 Other | 6 | 0 (Sat)
 60s | 6 | 0 (Sat)
+MM00s | 9 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
