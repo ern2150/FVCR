@@ -97,14 +97,19 @@ Intros
 [archive](broadcast-2025.md#intros)
 Latest Date | Video / Audio | Debut++
 -- | -- | --
+11/17/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
+11/17/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
+11/17/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
+11/17/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
+11/17/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
+11/17/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
+11/17/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/14/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙑𝙀𝙉𝙊𝙈
-11/14/2026 | THEN 2021 version / Doktor Plekter - Kavo | 11/4/2021
 11/14/2026 | Green tinted action movie (Dark Day Express aka Mission Hunter) / Delegation - Heartache No. 9 | 2/4/2021
 11/14/2026 | Thunder of Gigantic Serpent Opener / Azul y Negra - Isadora | 12/6/2020
 11/14/2026 | Anime Tokyo Explosion Plastic Little / Caribou - Odessa | 11/8/2020
 11/14/2026 | VENOM RANGERS / Com Truise - Memory | 5/6/2021
 11/14/2026 | Vaporwave Beach / Ahero - Slow Summer | 7/26/2020
-11/14/2026 | 𝙒𝘼𝙏𝘾𝙃 𝙏𝙑 𝘼𝙉𝘿 𝙎𝙏𝘼𝙔 𝙄𝙉𝘿𝙊𝙊𝙍𝙎
 11/12/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙆𝙊𝙈 𝙈𝙀𝙀
 11/12/2026 | Stream Trailer 2023 / The Go Team - Titanic Vandalism (thanks SuburbanSocrates) | 01/05/2023
 11/12/2026 | Royal Warriors strangers in the day / Network Music Ensemble - Holiday for Lovers | 4/22/2021
@@ -168,11 +173,6 @@ Latest Date | Video / Audio | Debut++
 10/17/2026 | Suits vs Sweaters in an indestructible compact car (Mafia Blues) / Nancy Wilson - I'm in Love | 11/14/2021
 10/17/2026 | TV Destruction - "Have you seen her?" skate bowl / Phil Perry - Dreaming's Out of Season | 11/14/2021
 10/17/2026 | Sitar Suit Seaside Scramble from [Hard Bastard](https://youtu.be/5ORsGbP4kzs?t=4601) / (the affair, then) [J Dilla - Coming Back](https://www.youtube.com/watch?v=NuNQrW7Msrk&list=PLJtR8g5T43rvjjvxux6FmctAc6AYLDD7W&index=12) | 7/20/2021
-10/13/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝙈𝘼𝙂𝙄𝘾
-10/13/2026 | (Vampire Raiders Ninja Queen) end scene / Yung Bae - Magic | 09/29/2022
-10/13/2026 | Rothrock v Kathy Foot-off (Righting Wrongs) / King Pari - Understanding | 5/15/2022
-10/13/2026 | Fashion Show Massacre at the Mini-Louvre (She Shoots Straight) / Black and White Co - Black and White | 5/27/2021
-10/13/2026 | Mugen Marvels (Future Cops) / Marvel vs Capcom 2 - River Stage | 4/1/20211
 09/19/2026 | 𝘾𝙊𝘿𝙀 𝙉𝘼𝙈𝙀:𝘽𝘼𝙆𝙄 
 09/19/2026 | Ninja Knight Thunder Fox Studded headband crossbow lady vs G etc / Bob James - Shamboozie | 11/2/2021
 09/19/2026 | Baki end whiteout / (same as video) | 4/13/2021
