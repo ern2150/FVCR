@@ -228,6 +228,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/17/2026 | VCR | Safety 4 Kids Entertainment Presents The ABCs of Safety Part I (2003?)
 11/05/2026 | VCR | Gospel of St Bernard: Macaroni Pizza
 11/05/2026 | VCR | Quigley's Village: Be Kind to One Another
 11/03/2026 | VCR | ("something sports related?") The FUN of Paintball
