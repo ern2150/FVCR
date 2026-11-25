@@ -16,7 +16,6 @@ Sorted by Last date (Most recent date), ascending
 Mixtape # | Mixtape Title | Last Seen | First Seen | Duration 
 -- | -- | -- | -- | -- 
 MM4 | I'm Glad to See You're Prepared to Die | 06/16/2026 | 4/4/2021 | 50
-69 | SUMMERTIME | 07/25/2026 | 7/4/2021 | 65
 19 | Easy Movie Intro Vortex | 08/15/2026 ~~8/20/2020~~ | 1/14/2020 | 85
 -- | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝘾𝙊𝙈𝙈𝙀𝙍𝘾𝙄𝘼𝙇 𝙑𝙃𝙎 𝘾𝙊𝙈𝙋𝙇𝘼𝙏𝙄𝙊𝙉 | 08/29/2026 | 8/10/2019 | 360
 MM7 | I'd Like to See You Try and Hurt Me | 09/08/2026 | 6/6/2021 | 58
@@ -69,6 +68,7 @@ MM19 | Ghost Shadow Squad | 11/12/2026 | 02/06/2022 | 55
 MM5 | Danger Straight Ahead | 11/17/2026 | 4/4/2021 | 57
 MM8 | The Sword of Catastrophe | 11/19/2026 | 6/15/2021 | 58
 SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄𝙈𝙐𝙇𝘼𝙏𝙊𝙍 1 + 2 | 11/21/2026 | 09/30/2023 | 117
+69 | SUMMERTIME | 11/24/2026 | 7/4/2021 | 65
 
 
 "Decades" by Weeks Since Seen, descending
@@ -77,12 +77,12 @@ SMS1_2 | 𝙎𝘼𝙏𝙐𝙍𝘿𝘼𝙔 𝙈𝙊𝙍𝙉𝙄𝙉𝙂 𝙎𝙄�
 Decade | Available Tapes | Weeks since seen
 -- | -- | --
 _90s_ | 2 | 6 (Tue)
-80s | 10 | 2 (Fri)
-70s | 10 | 1 (Fri)
+80s | 10 | 3 (Fri)
+70s | 10 | 2 (Fri)
 MM10s | 10 | 1 (Thu)
-Other | 6 | 0 (Sat)
-60s | 6 | 0 (Sat)
 MM00s | 9 | 0 (Thu)
+Other | 6 | 0 (Sat)
+60s | 6 | 0 (Tue)
 
 
 Mixtapes with Updates (by Last Changed) 
