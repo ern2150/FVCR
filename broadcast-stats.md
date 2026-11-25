@@ -228,6 +228,7 @@ Bonus Clips
 [archive](broadcast-2025.md#bonus-clips)
 Latest Date | Cam / Video / Audio | Stuff
 -- | -- | --
+11/24/2026 | VCR | The Cat's Meow: the video - a furball of frisky feline fun
 11/19/2026 | VCR | Safety 4 Kids Entertainment Presents The ABCs of Safety Part II
 11/17/2026 | VCR | Safety 4 Kids Entertainment Presents The ABCs of Safety Part I (2003?)
 11/05/2026 | VCR | Gospel of St Bernard: Macaroni Pizza
